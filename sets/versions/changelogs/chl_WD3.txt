@@ -1,4 +1,87 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Kanga
+rules_text: Offspring {2}. The token is named Roo. [i](You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i] [i](You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+When Kanga enters, return target nonland, non-Kangaroo permanent to its owner's hand. If you controlled it, draw a card. => Offspring {2}. The token is named Roo. [i](You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+When Kanga enters, return target nonland, non-Kangaroo permanent to its owner's hand. If you controlled it, draw a card.
+
+King Candy
+rules_text: Start your engines! [i](If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)[/i] [i](If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)[/i]
+At the beginning of combat on your turn, target creature you control gains haste until end of turn.
+Max speed — King Candy is a 5/5 Insect Avatar with flying and trample. => Start your engines! [i](If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)[/i]
+At the beginning of combat on your turn, target creature you control gains haste until end of turn.
+Max speed — King Candy is a 5/5 Insect Avatar with flying and trample.
+
+Treasure Planet
+rules_text: {T}: Add {C}.
+{T}, Sacrifice Treasure Planet: Add one mana of any color. => {T}: Add {C}.
+{T}, Sacrifice Treasure Planet: Add one mana of any color.
+Station
+[level 20+] {T}, Sacrifice Treasure Planet: Create one thousand Treasure tokens.
+special_text:  => {T}: Add {C}.
+{T}, Sacrifice Treasure Planet: Add one mana of any color.
+Station
+[level 20+] {T}, Sacrifice Treasure Planet: Create one thousand Treasure tokens.
+
+L42 — Underground Sea
+type: Land — Forest Island => Land — Island Swamp
+rules_text: [i]({T}: Add {G} or {U})[/i] => [i]({T}: Add {U} or {B})[/i]
+
+L46 — Scrubland
+rules_text: [i]({T}: Add {G} or {U})[/i] => [i]({T}: Add {W} or {B})[/i]
+
+L47 — Volcanic Island
+type: Land — Forest Island => Land — Island Mountain
+rules_text: [i]({T}: Add {G} or {U})[/i] => [i]({T}: Add {U} or {R})[/i]
+
+L33 — Blood Crypt
+type: Land — Island Swamp => Land — Swamp Mountain
+rules_text: [i]({T}: Add {U} or {B}.)[/i]
+As this land enters, you may pay 2 life. If you don't, it enters tapped. => [i]({T}: Add {B} or {R}.)[/i]
+As this land enters, you may pay 2 life. If you don't, it enters tapped.
+
+L35 — Temple Garden
+type: Land — Island Swamp => Land — Forest Plains
+rules_text: [i]({T}: Add {U} or {B}.)[/i]
+As this land enters, you may pay 2 life. If you don't, it enters tapped. => [i]({T}: Add {G} or {W}.)[/i]
+As this land enters, you may pay 2 life. If you don't, it enters tapped.
+
+L36 — Godless Shrine
+type: Land — Island Swamp => Land — Plains Swamp
+rules_text: [i]({T}: Add {U} or {B}.)[/i]
+As this land enters, you may pay 2 life. If you don't, it enters tapped. => [i]({T}: Add {W} or {B}.)[/i]
+As this land enters, you may pay 2 life. If you don't, it enters tapped.
+
+L37 — Steam Vents
+type: Land — Island Swamp => Land — Island Mountain
+rules_text: [i]({T}: Add {U} or {B}.)[/i]
+As this land enters, you may pay 2 life. If you don't, it enters tapped. => [i]({T}: Add {U} or {R}.)[/i]
+As this land enters, you may pay 2 life. If you don't, it enters tapped.
+
+L38 — Overgrown Tomb
+type: Land — Island Swamp => Land — Swamp Forest
+rules_text: [i]({T}: Add {U} or {B}.)[/i]
+As this land enters, you may pay 2 life. If you don't, it enters tapped. => [i]({T}: Add {B} or {G}.)[/i]
+As this land enters, you may pay 2 life. If you don't, it enters tapped.
+
+L39. — Breeding Pool
+type: Land — Island Swamp => Land — Forest Island
+rules_text: [i]({T}: Add {U} or {B}.)[/i]
+As this land enters, you may pay 2 life. If you don't, it enters tapped. => [i]({T}: Add {G} or {U}.)[/i]
+As this land enters, you may pay 2 life. If you don't, it enters tapped.
+
+
+type: Legendary Creature — Bird => 
+cost: {B} => 
+rules_text: Menace
+Whenever one or more creatures you control deal combat damage to a player, you may pay 2 life. If you do, create a tapped Treasure token. => 
+pt: 1/1 => 
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
