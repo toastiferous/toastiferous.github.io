@@ -7,32 +7,32 @@
         "position": "15"
     },
     {
-        "card_name": "Ariel, Curio Collector",
-        "number": 40,
-        "shape": "normal",
+        "card_name": "Alice in Wonderland",
+        "number": 49,
+        "shape": "adventure",
         "set": "WD3",
-        "position": "59"
+        "position": "338"
     },
     {
         "card_name": "All is Found",
-        "number": 83,
+        "number": 97,
         "shape": "normal",
         "set": "WD3",
-        "position": "211"
+        "position": "209"
     },
     {
         "card_name": "Aladdin, Street Rat",
-        "number": 123,
+        "number": 146,
         "shape": "adventure",
         "set": "WD3",
         "position": "36"
     },
     {
         "card_name": "Akela",
-        "number": 166,
+        "number": 194,
         "shape": "normal",
         "set": "WD3",
-        "position": "213"
+        "position": "211"
     },
     {
         "card_name": "Arthur, Once and Future King",
@@ -42,29 +42,29 @@
         "position": "13"
     },
     {
-        "card_name": "Belle",
-        "number": 41,
-        "shape": "normal",
+        "card_name": "Archimedes, Educated Owl",
+        "number": 50,
+        "shape": "adventure",
         "set": "WD3",
-        "position": "26"
+        "position": "339"
     },
     {
         "card_name": "All the Powers of Hell",
-        "number": 84,
+        "number": 98,
         "shape": "normal",
         "set": "WD3",
-        "position": "128"
+        "position": "127"
     },
     {
-        "card_name": "Arges, One-Eyed Lout",
-        "number": 124,
-        "shape": "normal",
+        "card_name": "Ares, God of War",
+        "number": 147,
+        "shape": "adventure",
         "set": "WD3",
-        "position": "237"
+        "position": "351"
     },
     {
         "card_name": "Antonio Madrigal",
-        "number": 167,
+        "number": 195,
         "shape": "normal",
         "set": "WD3",
         "position": "90"
@@ -77,32 +77,32 @@
         "position": "99"
     },
     {
-        "card_name": "Bruno Madrigal",
-        "number": 42,
-        "shape": "adventure",
+        "card_name": "Ariel, Curio Collector",
+        "number": 51,
+        "shape": "normal",
         "set": "WD3",
-        "position": "109"
+        "position": "59"
     },
     {
         "card_name": "Be Prepared",
-        "number": 85,
+        "number": 99,
         "shape": "normal",
         "set": "WD3",
         "position": "84"
     },
     {
-        "card_name": "Be A Man!",
-        "number": 125,
+        "card_name": "Arges, One-Eyed Lout",
+        "number": 148,
         "shape": "normal",
         "set": "WD3",
-        "position": "52"
+        "position": "235"
     },
     {
         "card_name": "Bagheera",
-        "number": 168,
+        "number": 196,
         "shape": "normal",
         "set": "WD3",
-        "position": "216"
+        "position": "214"
     },
     {
         "card_name": "Bernard the Rescuer",
@@ -112,64 +112,64 @@
         "position": "6"
     },
     {
-        "card_name": "Camillo Madrigal",
-        "number": 43,
+        "card_name": "Belle",
+        "number": 52,
         "shape": "normal",
         "set": "WD3",
-        "position": "120"
+        "position": "26"
     },
     {
         "card_name": "Brew the Sleeping Death",
-        "number": 86,
+        "number": 100,
         "shape": "normal",
         "set": "WD3",
-        "position": "256"
+        "position": "253"
     },
     {
-        "card_name": "Bibbidi Bobbidi Boo",
-        "number": 126,
+        "card_name": "Be A Man!",
+        "number": 149,
         "shape": "normal",
         "set": "WD3",
-        "position": "110"
+        "position": "52"
     },
     {
         "card_name": "Baloo",
-        "number": 169,
+        "number": 197,
         "shape": "normal",
         "set": "WD3",
-        "position": "139"
+        "position": "137"
     },
     {
         "card_name": "Bianca the Rescuer",
         "number": 5,
         "shape": "normal",
         "set": "WD3",
-        "position": "263"
+        "position": "260"
     },
     {
-        "card_name": "Captain Amelia",
-        "number": 44,
+        "card_name": "Bruno Madrigal",
+        "number": 53,
         "shape": "adventure",
         "set": "WD3",
-        "position": "240"
+        "position": "109"
     },
     {
         "card_name": "Captain Hook",
-        "number": 87,
+        "number": 101,
         "shape": "normal",
         "set": "WD3",
         "position": "1"
     },
     {
-        "card_name": "Bolt, the Superdog",
-        "number": 127,
+        "card_name": "Bibbidi Bobbidi Boo",
+        "number": 150,
         "shape": "normal",
         "set": "WD3",
-        "position": "194"
+        "position": "110"
     },
     {
         "card_name": "Bambi",
-        "number": 170,
+        "number": 198,
         "shape": "normal",
         "set": "WD3",
         "position": "91"
@@ -179,1351 +179,1524 @@
         "number": 6,
         "shape": "normal",
         "set": "WD3",
-        "position": "178"
+        "position": "176"
     },
     {
-        "card_name": "The Cheshire Cat",
-        "number": 45,
+        "card_name": "Camillo Madrigal",
+        "number": 54,
         "shape": "normal",
         "set": "WD3",
-        "position": "64"
+        "position": "119"
     },
     {
         "card_name": "Chernabog, God of Darkness",
-        "number": 88,
+        "number": 102,
         "shape": "adventure",
         "set": "WD3",
         "position": "44"
     },
     {
-        "card_name": "Burning Love",
-        "number": 128,
+        "card_name": "Bolt, the Superdog",
+        "number": 151,
         "shape": "normal",
         "set": "WD3",
-        "position": "147"
+        "position": "192"
     },
     {
-        "card_name": "The Circle of Life",
-        "number": 171,
+        "card_name": "Chief Tui",
+        "number": 199,
         "shape": "normal",
         "set": "WD3",
-        "position": "153"
+        "position": "344"
     },
     {
-        "card_name": "Clayton",
+        "card_name": "Botfight Arena",
         "number": 7,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "WD3",
-        "position": "100"
+        "position": "333"
     },
     {
-        "card_name": "Curiouser and Curiouser",
-        "number": 46,
-        "shape": "normal",
+        "card_name": "Captain Amelia",
+        "number": 55,
+        "shape": "adventure",
         "set": "WD3",
-        "position": "149"
+        "position": "238"
     },
     {
         "card_name": "Cruella De Vil",
-        "number": 89,
+        "number": 103,
         "shape": "normal",
         "set": "WD3",
         "position": "55"
     },
     {
+        "card_name": "Burning Love",
+        "number": 152,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "145"
+    },
+    {
+        "card_name": "The Circle of Life",
+        "number": 200,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "151"
+    },
+    {
+        "card_name": "Clayton",
+        "number": 8,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "100"
+    },
+    {
+        "card_name": "The Cheshire Cat",
+        "number": 56,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "64"
+    },
+    {
+        "card_name": "Dead of Centuries Past",
+        "number": 104,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "343"
+    },
+    {
         "card_name": "Cerberus, Hellish Hound",
-        "number": 129,
+        "number": 153,
         "shape": "normal",
         "set": "WD3",
         "position": "33"
     },
     {
         "card_name": "Colonel Hathi",
-        "number": 172,
+        "number": 201,
         "shape": "normal",
         "set": "WD3",
-        "position": "122"
+        "position": "121"
     },
     {
         "card_name": "Cobra Bubbles",
-        "number": 8,
+        "number": 9,
         "shape": "normal",
         "set": "WD3",
-        "position": "182"
+        "position": "180"
     },
     {
-        "card_name": "Dig A Little Deeper",
-        "number": 47,
+        "card_name": "Curiouser and Curiouser",
+        "number": 57,
         "shape": "normal",
         "set": "WD3",
-        "position": "127"
+        "position": "147"
+    },
+    {
+        "card_name": "Denahi, Avenging Brother",
+        "number": 105,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "345"
+    },
+    {
+        "card_name": "Cinderella",
+        "number": 154,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "139"
+    },
+    {
+        "card_name": "For the First Time in Forever",
+        "number": 202,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "188"
+    },
+    {
+        "card_name": "Consign to Misery",
+        "number": 10,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "242"
+    },
+    {
+        "card_name": "Davy Jones",
+        "number": 58,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "348"
     },
     {
         "card_name": "Diablo",
-        "number": 90,
+        "number": 106,
         "shape": "normal",
         "set": "WD3",
         "position": "40"
     },
     {
-        "card_name": "Cinderella",
-        "number": 130,
+        "card_name": "Colors of the Wind",
+        "number": 155,
         "shape": "normal",
         "set": "WD3",
-        "position": "141"
+        "position": "363"
     },
     {
-        "card_name": "For the First Time in Forever",
-        "number": 173,
+        "card_name": "Grand Pabbie",
+        "number": 203,
         "shape": "normal",
         "set": "WD3",
-        "position": "190"
+        "position": "117"
     },
     {
-        "card_name": "Consign to Misery",
-        "number": 9,
-        "shape": "normal",
+        "card_name": "Cri-Kee, Lucky Cricket",
+        "number": 11,
+        "shape": "adventure",
         "set": "WD3",
-        "position": "245"
+        "position": "323"
     },
     {
-        "card_name": "Do It Again!",
-        "number": 48,
+        "card_name": "Dig A Little Deeper",
+        "number": 59,
         "shape": "normal",
         "set": "WD3",
-        "position": "234"
+        "position": "126"
     },
     {
         "card_name": "Dr. Facilier",
-        "number": 91,
+        "number": 107,
         "shape": "normal",
         "set": "WD3",
         "position": "22"
     },
     {
-        "card_name": "Dragon's Ire",
-        "number": 131,
+        "card_name": "The Devil's Eye Diamond",
+        "number": 156,
         "shape": "normal",
         "set": "WD3",
-        "position": "167"
+        "position": "320"
     },
     {
-        "card_name": "Grand Pabbie",
-        "number": 174,
+        "card_name": "Heart of Te Fiti",
+        "number": 204,
         "shape": "normal",
         "set": "WD3",
-        "position": "118"
+        "position": "74"
+    },
+    {
+        "card_name": "Dreamless Sleep",
+        "number": 12,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "321"
+    },
+    {
+        "card_name": "Do It Again!",
+        "number": 60,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "232"
+    },
+    {
+        "card_name": "Eeyore",
+        "number": 108,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "226"
+    },
+    {
+        "card_name": "Dragon's Ire",
+        "number": 157,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "165"
+    },
+    {
+        "card_name": "Hi Ho!",
+        "number": 205,
+        "shape": "adventure",
+        "set": "WD3",
+        "position": "47"
     },
     {
         "card_name": "Fa Mulan",
-        "number": 10,
+        "number": 13,
         "shape": "adventure",
         "set": "WD3",
         "position": "9"
     },
     {
         "card_name": "Dolores Madrigal",
-        "number": 49,
+        "number": 61,
         "shape": "normal",
         "set": "WD3",
-        "position": "188"
+        "position": "186"
     },
     {
-        "card_name": "Eeyore",
-        "number": 92,
+        "card_name": "Endless Goons",
+        "number": 109,
         "shape": "normal",
         "set": "WD3",
-        "position": "228"
+        "position": "27"
     },
     {
         "card_name": "The Firebird",
-        "number": 132,
+        "number": 158,
         "shape": "normal",
         "set": "WD3",
-        "position": "199"
+        "position": "197"
     },
     {
-        "card_name": "Heart of Te Fiti",
-        "number": 175,
+        "card_name": "Honey, You Mean Hunkules!",
+        "number": 206,
         "shape": "normal",
         "set": "WD3",
-        "position": "74"
+        "position": "114"
     },
     {
         "card_name": "The Fairy Godmother",
-        "number": 11,
+        "number": 14,
         "shape": "normal",
         "set": "WD3",
         "position": "2"
     },
     {
         "card_name": "Elsa of Arendelle",
-        "number": 50,
+        "number": 62,
         "shape": "normal",
         "set": "WD3",
         "position": "51"
     },
     {
-        "card_name": "Endless Goons",
-        "number": 93,
+        "card_name": "The Evil Queen",
+        "number": 110,
         "shape": "normal",
         "set": "WD3",
-        "position": "27"
+        "position": "67"
     },
     {
         "card_name": "Flynn Rider, Dashing Scoundrel",
-        "number": 133,
+        "number": 159,
         "shape": "normal",
         "set": "WD3",
         "position": "45"
     },
     {
-        "card_name": "Hi Ho!",
-        "number": 176,
-        "shape": "adventure",
+        "card_name": "How Far I'll Go",
+        "number": 207,
+        "shape": "normal",
         "set": "WD3",
-        "position": "47"
+        "position": "107"
     },
     {
         "card_name": "Fix-It Felix, Jr.",
-        "number": 12,
+        "number": 15,
         "shape": "normal",
         "set": "WD3",
         "position": "10"
     },
     {
         "card_name": "Ever as Before",
-        "number": 51,
+        "number": 63,
         "shape": "normal",
         "set": "WD3",
-        "position": "186"
+        "position": "184"
     },
     {
-        "card_name": "The Evil Queen",
-        "number": 94,
+        "card_name": "Fall to Your Death",
+        "number": 111,
         "shape": "normal",
         "set": "WD3",
-        "position": "67"
+        "position": "322"
     },
     {
         "card_name": "Gaston",
-        "number": 134,
+        "number": 160,
         "shape": "normal",
         "set": "WD3",
-        "position": "119"
+        "position": "118"
     },
     {
-        "card_name": "Honey, You Mean Hunkules!",
-        "number": 177,
+        "card_name": "I Find 'Em, I Flatten 'Em",
+        "number": 208,
         "shape": "normal",
         "set": "WD3",
-        "position": "115"
+        "position": "206"
     },
     {
         "card_name": "Hans of the Southern Isles",
-        "number": 13,
+        "number": 16,
         "shape": "normal",
         "set": "WD3",
         "position": "18"
     },
     {
         "card_name": "Everybody Wants To Be A Cat",
-        "number": 52,
+        "number": 64,
         "shape": "normal",
         "set": "WD3",
-        "position": "152"
+        "position": "150"
     },
     {
         "card_name": "Fidget",
-        "number": 95,
+        "number": 112,
         "shape": "normal",
         "set": "WD3",
-        "position": "241"
+        "position": "239"
     },
     {
         "card_name": "Gazelle",
-        "number": 135,
+        "number": 161,
         "shape": "adventure",
         "set": "WD3",
-        "position": "162"
+        "position": "160"
     },
     {
-        "card_name": "How Far I'll Go",
-        "number": 178,
+        "card_name": "Jumba Jookiba",
+        "number": 209,
         "shape": "normal",
         "set": "WD3",
-        "position": "107"
+        "position": "223"
     },
     {
         "card_name": "Hercules",
-        "number": 14,
+        "number": 17,
         "shape": "normal",
         "set": "WD3",
         "position": "5"
     },
     {
         "card_name": "The Genie",
-        "number": 53,
+        "number": 65,
         "shape": "normal",
         "set": "WD3",
         "position": "39"
     },
     {
         "card_name": "Friends on the Other Side",
-        "number": 96,
+        "number": 113,
         "shape": "normal",
         "set": "WD3",
         "position": "78"
     },
     {
         "card_name": "Go-Go Tomago",
-        "number": 136,
+        "number": 162,
         "shape": "normal",
         "set": "WD3",
         "position": "87"
     },
     {
-        "card_name": "I Find 'Em, I Flatten 'Em",
-        "number": 179,
+        "card_name": "King Louie",
+        "number": 210,
         "shape": "normal",
         "set": "WD3",
-        "position": "208"
+        "position": "41"
     },
     {
         "card_name": "I See The Light",
-        "number": 15,
+        "number": 18,
         "shape": "normal",
         "set": "WD3",
-        "position": "140"
+        "position": "138"
     },
     {
         "card_name": "Gramma Tala",
-        "number": 54,
+        "number": 66,
         "shape": "normal",
         "set": "WD3",
         "position": "105"
     },
     {
         "card_name": "Hades, God of the Dead",
-        "number": 97,
+        "number": 114,
         "shape": "normal",
         "set": "WD3",
-        "position": "155"
+        "position": "153"
+    },
+    {
+        "card_name": "Grab your Sword!",
+        "number": 163,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "353"
+    },
+    {
+        "card_name": "Kristoff",
+        "number": 211,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "92"
+    },
+    {
+        "card_name": "Incited Avalanche",
+        "number": 19,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "327"
+    },
+    {
+        "card_name": "Hatch a Plan",
+        "number": 67,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "183"
+    },
+    {
+        "card_name": "Heffalumps and Woozles",
+        "number": 115,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "174"
     },
     {
         "card_name": "Hawaiian Roller Coaster Ride",
-        "number": 137,
+        "number": 164,
         "shape": "normal",
         "set": "WD3",
-        "position": "212"
+        "position": "210"
     },
     {
-        "card_name": "Jumba Jookiba",
-        "number": 180,
+        "card_name": "Kronk",
+        "number": 212,
         "shape": "normal",
         "set": "WD3",
-        "position": "225"
+        "position": "182"
     },
     {
         "card_name": "Julieta Madrigal",
-        "number": 16,
+        "number": 20,
         "shape": "normal",
         "set": "WD3",
         "position": "12"
     },
     {
-        "card_name": "Hatch a Plan",
-        "number": 55,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "185"
-    },
-    {
-        "card_name": "Heffalumps and Woozles",
-        "number": 98,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "176"
-    },
-    {
-        "card_name": "Hellfire",
-        "number": 138,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "111"
-    },
-    {
-        "card_name": "King Louie",
-        "number": 181,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "41"
-    },
-    {
-        "card_name": "Li Shang",
-        "number": 17,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "16"
-    },
-    {
         "card_name": "Hiro Hamada",
-        "number": 56,
+        "number": 68,
         "shape": "adventure",
         "set": "WD3",
         "position": "70"
     },
     {
         "card_name": "Heihei, Boat Snack",
-        "number": 99,
+        "number": 116,
         "shape": "normal",
         "set": "WD3",
         "position": "23"
     },
     {
+        "card_name": "Hellfire",
+        "number": 165,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "111"
+    },
+    {
+        "card_name": "Lash Out",
+        "number": 213,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "266"
+    },
+    {
+        "card_name": "Kida, Princess of Atlantis",
+        "number": 21,
+        "shape": "adventure",
+        "set": "WD3",
+        "position": "337"
+    },
+    {
+        "card_name": "Jasmine, Heir to Agrabah",
+        "number": 69,
+        "shape": "adventure",
+        "set": "WD3",
+        "position": "215"
+    },
+    {
+        "card_name": "The Horned King",
+        "number": 117,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "190"
+    },
+    {
         "card_name": "Iago",
-        "number": 139,
+        "number": 166,
         "shape": "normal",
         "set": "WD3",
         "position": "31"
     },
     {
-        "card_name": "Kristoff",
-        "number": 182,
+        "card_name": "Lilo",
+        "number": 214,
         "shape": "normal",
         "set": "WD3",
-        "position": "92"
+        "position": "136"
     },
     {
-        "card_name": "Locked Those Suckers in a Vault",
-        "number": 18,
+        "card_name": "Li Shang",
+        "number": 22,
         "shape": "normal",
         "set": "WD3",
-        "position": "88"
-    },
-    {
-        "card_name": "Jasmine, Heir to Agrabah",
-        "number": 57,
-        "shape": "adventure",
-        "set": "WD3",
-        "position": "217"
-    },
-    {
-        "card_name": "The Horned King",
-        "number": 100,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "192"
-    },
-    {
-        "card_name": "Into the Unknown",
-        "number": 140,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "150"
-    },
-    {
-        "card_name": "Kronk",
-        "number": 183,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "184"
-    },
-    {
-        "card_name": "Maximus, Horse-Cop",
-        "number": 19,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "11"
+        "position": "16"
     },
     {
         "card_name": "Jim Hawkins",
-        "number": 58,
+        "number": 70,
         "shape": "normal",
         "set": "WD3",
         "position": "35"
     },
     {
         "card_name": "Jasper",
-        "number": 101,
+        "number": 118,
         "shape": "normal",
         "set": "WD3",
-        "position": "230"
+        "position": "228"
     },
     {
-        "card_name": "Isabela Madrigal",
-        "number": 141,
-        "shape": "adventure",
-        "set": "WD3",
-        "position": "145"
-    },
-    {
-        "card_name": "Lash Out",
-        "number": 184,
+        "card_name": "Into the Unknown",
+        "number": 167,
         "shape": "normal",
         "set": "WD3",
-        "position": "269"
+        "position": "148"
     },
     {
-        "card_name": "Mrs. Potts",
-        "number": 20,
-        "shape": "adventure",
+        "card_name": "Little John",
+        "number": 215,
+        "shape": "normal",
         "set": "WD3",
-        "position": "160"
+        "position": "191"
+    },
+    {
+        "card_name": "Locked Those Suckers in a Vault",
+        "number": 23,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "88"
     },
     {
         "card_name": "Just Around the Riverbend",
-        "number": 59,
+        "number": 71,
         "shape": "normal",
         "set": "WD3",
-        "position": "247"
+        "position": "244"
     },
     {
         "card_name": "Judge Claude Frollo",
-        "number": 102,
+        "number": 119,
         "shape": "adventure",
         "set": "WD3",
-        "position": "168"
+        "position": "166"
     },
     {
-        "card_name": "I've Got a Dream",
-        "number": 142,
-        "shape": "normal",
+        "card_name": "Isabela Madrigal",
+        "number": 168,
+        "shape": "adventure",
         "set": "WD3",
-        "position": "218"
+        "position": "143"
     },
     {
-        "card_name": "Lilo",
-        "number": 185,
-        "shape": "normal",
+        "card_name": "Luisa Madrigal",
+        "number": 216,
+        "shape": "adventure",
         "set": "WD3",
-        "position": "138"
+        "position": "57"
     },
     {
-        "card_name": "Mufasa, the Lion King",
-        "number": 21,
+        "card_name": "Maximus, Horse-Cop",
+        "number": 24,
         "shape": "normal",
         "set": "WD3",
-        "position": "20"
+        "position": "11"
     },
     {
         "card_name": "Kanga",
-        "number": 60,
+        "number": 72,
         "shape": "normal",
         "set": "WD3",
         "position": "97"
     },
     {
         "card_name": "Liutenant Helga Sinclair",
-        "number": 103,
+        "number": 120,
         "shape": "normal",
         "set": "WD3",
-        "position": "210"
+        "position": "208"
     },
     {
-        "card_name": "Kakamora Raider",
-        "number": 143,
+        "card_name": "I've Got a Dream",
+        "number": 169,
         "shape": "normal",
         "set": "WD3",
-        "position": "30"
-    },
-    {
-        "card_name": "Little John",
-        "number": 186,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "193"
-    },
-    {
-        "card_name": "Nala",
-        "number": 22,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "142"
-    },
-    {
-        "card_name": "King Triton's Trident",
-        "number": 61,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "158"
-    },
-    {
-        "card_name": "Lyle Tiberius Rourke",
-        "number": 104,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "95"
-    },
-    {
-        "card_name": "Kill the Beast!",
-        "number": 144,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "175"
-    },
-    {
-        "card_name": "Luisa Madrigal",
-        "number": 187,
-        "shape": "adventure",
-        "set": "WD3",
-        "position": "57"
-    },
-    {
-        "card_name": "One Hundred and One Dalmatians",
-        "number": 23,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "259"
-    },
-    {
-        "card_name": "Knowledge and Wisdom",
-        "number": 62,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "243"
-    },
-    {
-        "card_name": "Maleficent, Mistress of All Evil",
-        "number": 105,
-        "shape": "adventure",
-        "set": "WD3",
-        "position": "43"
-    },
-    {
-        "card_name": "Last Cannon",
-        "number": 145,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "257"
+        "position": "216"
     },
     {
         "card_name": "Maui, Hero to All",
-        "number": 188,
+        "number": 217,
         "shape": "normal",
         "set": "WD3",
         "position": "75"
     },
     {
-        "card_name": "Orville, Plane and Pilot",
-        "number": 24,
+        "card_name": "Mirabel Madrigal",
+        "number": 25,
         "shape": "normal",
         "set": "WD3",
-        "position": "14"
+        "position": "341"
+    },
+    {
+        "card_name": "King Triton's Trident",
+        "number": 73,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "156"
+    },
+    {
+        "card_name": "Lyle Tiberius Rourke",
+        "number": 121,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "95"
+    },
+    {
+        "card_name": "Kakamora Raider",
+        "number": 170,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "30"
+    },
+    {
+        "card_name": "Moana of Motonui",
+        "number": 218,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "28"
+    },
+    {
+        "card_name": "Mrs. Potts",
+        "number": 26,
+        "shape": "adventure",
+        "set": "WD3",
+        "position": "158"
+    },
+    {
+        "card_name": "Knowledge and Wisdom",
+        "number": 74,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "241"
+    },
+    {
+        "card_name": "Maleficent, Mistress of All Evil",
+        "number": 122,
+        "shape": "adventure",
+        "set": "WD3",
+        "position": "43"
+    },
+    {
+        "card_name": "Kill the Beast!",
+        "number": 171,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "173"
+    },
+    {
+        "card_name": "Monterrey Jack",
+        "number": 219,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "181"
+    },
+    {
+        "card_name": "Mufasa, the Lion King",
+        "number": 27,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "20"
     },
     {
         "card_name": "Kuzco, Cursed Emperor",
-        "number": 63,
+        "number": 75,
         "shape": "normal",
         "set": "WD3",
         "position": "66"
     },
     {
         "card_name": "Maleficent's Staff",
-        "number": 106,
+        "number": 123,
         "shape": "normal",
         "set": "WD3",
-        "position": "157"
+        "position": "155"
+    },
+    {
+        "card_name": "Last Cannon",
+        "number": 172,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "254"
+    },
+    {
+        "card_name": "Mowgli, the Man-cub",
+        "number": 220,
+        "shape": "adventure",
+        "set": "WD3",
+        "position": "61"
+    },
+    {
+        "card_name": "Nala",
+        "number": 28,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "140"
+    },
+    {
+        "card_name": "Let it Go",
+        "number": 76,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "152"
+    },
+    {
+        "card_name": "Malicious, Mean and Scary",
+        "number": 124,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "354"
     },
     {
         "card_name": "Lefou, Eager Stooge",
-        "number": 146,
+        "number": 173,
         "shape": "normal",
         "set": "WD3",
         "position": "104"
     },
     {
-        "card_name": "Moana of Motonui",
-        "number": 189,
-        "shape": "normal",
+        "card_name": "The Muses",
+        "number": 221,
+        "shape": "adventure",
         "set": "WD3",
-        "position": "28"
+        "position": "262"
     },
     {
-        "card_name": "Out of Order",
-        "number": 25,
+        "card_name": "No Worries",
+        "number": 29,
         "shape": "normal",
         "set": "WD3",
-        "position": "253"
+        "position": "326"
     },
     {
-        "card_name": "Let it Go",
-        "number": 64,
+        "card_name": "Lost in the Woods",
+        "number": 77,
         "shape": "normal",
         "set": "WD3",
-        "position": "154"
+        "position": "132"
     },
     {
         "card_name": "Megara",
-        "number": 107,
+        "number": 125,
         "shape": "adventure",
         "set": "WD3",
         "position": "21"
     },
     {
         "card_name": "Lumiere",
-        "number": 147,
+        "number": 174,
         "shape": "adventure",
         "set": "WD3",
         "position": "71"
     },
     {
-        "card_name": "Monterrey Jack",
-        "number": 190,
+        "card_name": "Pacha",
+        "number": 222,
         "shape": "normal",
         "set": "WD3",
-        "position": "183"
+        "position": "125"
     },
     {
-        "card_name": "Pegasus, Heavenly Steed",
-        "number": 26,
+        "card_name": "One Hundred and One Dalmatians",
+        "number": 30,
         "shape": "normal",
         "set": "WD3",
-        "position": "320"
-    },
-    {
-        "card_name": "Lost in the Woods",
-        "number": 65,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "134"
-    },
-    {
-        "card_name": "The Most Diabolical Scheme",
-        "number": 108,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "174"
-    },
-    {
-        "card_name": "Madame Medusa",
-        "number": 148,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "207"
-    },
-    {
-        "card_name": "Mowgli, the Man-cub",
-        "number": 191,
-        "shape": "adventure",
-        "set": "WD3",
-        "position": "61"
-    },
-    {
-        "card_name": "Piglet",
-        "number": 27,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "56"
+        "position": "256"
     },
     {
         "card_name": "Map of Treasure Planet",
-        "number": 66,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "117"
-    },
-    {
-        "card_name": "Mother Knows Best",
-        "number": 109,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "148"
-    },
-    {
-        "card_name": "Mickey, Sorcerer's Apprentice",
-        "number": 149,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "146"
-    },
-    {
-        "card_name": "The Muses",
-        "number": 192,
-        "shape": "adventure",
-        "set": "WD3",
-        "position": "265"
-    },
-    {
-        "card_name": "Prince Eric",
-        "number": 28,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "8"
-    },
-    {
-        "card_name": "The March Hare",
-        "number": 67,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "191"
-    },
-    {
-        "card_name": "Off With Her Head!",
-        "number": 110,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "173"
-    },
-    {
-        "card_name": "Mr. Smee",
-        "number": 150,
-        "shape": "adventure",
-        "set": "WD3",
-        "position": "239"
-    },
-    {
-        "card_name": "Pacha",
-        "number": 193,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "126"
-    },
-    {
-        "card_name": "Prince Phillip",
-        "number": 29,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "19"
-    },
-    {
-        "card_name": "Merlin",
-        "number": 68,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "29"
-    },
-    {
-        "card_name": "Prince John",
-        "number": 111,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "124"
-    },
-    {
-        "card_name": "Mushu, Family Guardian",
-        "number": 152,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "261"
-    },
-    {
-        "card_name": "Pascal",
-        "number": 194,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "94"
-    },
-    {
-        "card_name": "Rapunzel",
-        "number": 30,
-        "shape": "adventure",
-        "set": "WD3",
-        "position": "98"
-    },
-    {
-        "card_name": "Milo Thatch",
-        "number": 69,
+        "number": 78,
         "shape": "normal",
         "set": "WD3",
         "position": "116"
     },
     {
+        "card_name": "The Most Diabolical Scheme",
+        "number": 126,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "172"
+    },
+    {
+        "card_name": "Madame Medusa",
+        "number": 175,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "205"
+    },
+    {
+        "card_name": "Pascal",
+        "number": 223,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "94"
+    },
+    {
+        "card_name": "Orville, Plane and Pilot",
+        "number": 31,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "14"
+    },
+    {
+        "card_name": "The March Hare",
+        "number": 79,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "189"
+    },
+    {
+        "card_name": "Mother Knows Best",
+        "number": 127,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "146"
+    },
+    {
+        "card_name": "Mickey, Sorcerer's Apprentice",
+        "number": 176,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "144"
+    },
+    {
+        "card_name": "Philoctetes",
+        "number": 224,
+        "shape": "adventure",
+        "set": "WD3",
+        "position": "17"
+    },
+    {
+        "card_name": "Out of Order",
+        "number": 32,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "250"
+    },
+    {
+        "card_name": "Merlin",
+        "number": 80,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "29"
+    },
+    {
+        "card_name": "Off With Her Head!",
+        "number": 128,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "171"
+    },
+    {
+        "card_name": "Mr. Smee",
+        "number": 177,
+        "shape": "adventure",
+        "set": "WD3",
+        "position": "237"
+    },
+    {
+        "card_name": "Pleakley",
+        "number": 225,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "246"
+    },
+    {
+        "card_name": "Pegasus, Heavenly Steed",
+        "number": 33,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "317"
+    },
+    {
+        "card_name": "Milo Thatch",
+        "number": 81,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "115"
+    },
+    {
+        "card_name": "Prince John",
+        "number": 129,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "123"
+    },
+    {
+        "card_name": "Mushu, Family Guardian",
+        "number": 178,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "258"
+    },
+    {
+        "card_name": "Pocahontas",
+        "number": 226,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "162"
+    },
+    {
+        "card_name": "Piglet",
+        "number": 34,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "56"
+    },
+    {
+        "card_name": "Monstro, Whale of a Whale",
+        "number": 82,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "128"
+    },
+    {
         "card_name": "Professor Ratigan",
-        "number": 112,
+        "number": 130,
         "shape": "normal",
         "set": "WD3",
         "position": "25"
     },
     {
         "card_name": "Pepa Madrigal",
-        "number": 153,
+        "number": 179,
         "shape": "normal",
         "set": "WD3",
         "position": "103"
     },
     {
-        "card_name": "Philoctetes",
-        "number": 195,
-        "shape": "adventure",
-        "set": "WD3",
-        "position": "17"
-    },
-    {
-        "card_name": "Sergeant Calhoun",
-        "number": 31,
+        "card_name": "Pumbaa",
+        "number": 227,
         "shape": "normal",
         "set": "WD3",
-        "position": "169"
+        "position": "207"
     },
     {
-        "card_name": "Monstro, Whale of a Whale",
-        "number": 70,
+        "card_name": "Prince Eric",
+        "number": 35,
         "shape": "normal",
         "set": "WD3",
-        "position": "129"
-    },
-    {
-        "card_name": "Scar, King Undisputed",
-        "number": 113,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "24"
-    },
-    {
-        "card_name": "Prince Naveen",
-        "number": 154,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "250"
-    },
-    {
-        "card_name": "Pleakley",
-        "number": 196,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "249"
-    },
-    {
-        "card_name": "The Sheriff of Nottingham",
-        "number": 32,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "143"
+        "position": "8"
     },
     {
         "card_name": "Olaf",
-        "number": 71,
+        "number": 83,
         "shape": "normal",
         "set": "WD3",
         "position": "77"
     },
     {
-        "card_name": "Scrooge McDuck",
-        "number": 114,
+        "card_name": "The Return of Jafar",
+        "number": 131,
         "shape": "normal",
         "set": "WD3",
-        "position": "0"
+        "position": "329"
     },
     {
-        "card_name": "Professor Robert Callaghan",
-        "number": 155,
+        "card_name": "Prince Naveen",
+        "number": 180,
         "shape": "normal",
         "set": "WD3",
-        "position": "200"
-    },
-    {
-        "card_name": "Pocahontas",
-        "number": 197,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "164"
-    },
-    {
-        "card_name": "Simba",
-        "number": 33,
-        "shape": "adventure",
-        "set": "WD3",
-        "position": "4"
-    },
-    {
-        "card_name": "Part of your World",
-        "number": 72,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "172"
-    },
-    {
-        "card_name": "Scroop the Unscrupulous",
-        "number": 115,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "201"
-    },
-    {
-        "card_name": "Raya",
-        "number": 156,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "262"
-    },
-    {
-        "card_name": "Pumbaa",
-        "number": 198,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "209"
-    },
-    {
-        "card_name": "Snow White",
-        "number": 34,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "3"
-    },
-    {
-        "card_name": "Sebastian",
-        "number": 73,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "202"
-    },
-    {
-        "card_name": "Shan Yu",
-        "number": 116,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "321"
-    },
-    {
-        "card_name": "Razoul",
-        "number": 157,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "238"
+        "position": "247"
     },
     {
         "card_name": "Rafiki",
-        "number": 199,
+        "number": 228,
         "shape": "normal",
         "set": "WD3",
         "position": "69"
     },
     {
-        "card_name": "Stampede",
+        "card_name": "Prince Phillip",
         "number": 36,
         "shape": "normal",
         "set": "WD3",
-        "position": "254"
+        "position": "19"
     },
     {
-        "card_name": "Some Things Never Change",
-        "number": 74,
+        "card_name": "Once Upon a Dream",
+        "number": 84,
         "shape": "normal",
         "set": "WD3",
-        "position": "151"
+        "position": "325"
     },
     {
-        "card_name": "Shenzi",
-        "number": 117,
+        "card_name": "Scar, King Undisputed",
+        "number": 132,
         "shape": "normal",
         "set": "WD3",
-        "position": "221"
+        "position": "24"
     },
     {
-        "card_name": "Shere Khan, Lord of the Jungle",
-        "number": 158,
+        "card_name": "Professor Robert Callaghan",
+        "number": 181,
         "shape": "normal",
         "set": "WD3",
-        "position": "46"
+        "position": "198"
     },
     {
-        "card_name": "Robin Hood's Bow",
-        "number": 200,
+        "card_name": "Rajah, Royal Companion",
+        "number": 229,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "349"
+    },
+    {
+        "card_name": "Rapunzel",
+        "number": 37,
+        "shape": "adventure",
+        "set": "WD3",
+        "position": "98"
+    },
+    {
+        "card_name": "Part of your World",
+        "number": 85,
         "shape": "normal",
         "set": "WD3",
         "position": "170"
     },
     {
-        "card_name": "Sword of Truth",
-        "number": 37,
+        "card_name": "Scrooge McDuck",
+        "number": 133,
         "shape": "normal",
         "set": "WD3",
-        "position": "156"
+        "position": "0"
     },
     {
-        "card_name": "A Sudden Chill",
-        "number": 75,
+        "card_name": "Raya",
+        "number": 182,
         "shape": "normal",
         "set": "WD3",
-        "position": "187"
+        "position": "259"
     },
     {
-        "card_name": "Snuff out the Light",
-        "number": 118,
+        "card_name": "Robin Hood's Bow",
+        "number": 230,
         "shape": "normal",
         "set": "WD3",
-        "position": "54"
+        "position": "168"
     },
     {
-        "card_name": "Te Ka, the Burning One",
-        "number": 159,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "37"
-    },
-    {
-        "card_name": "Stitch",
-        "number": 201,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "76"
-    },
-    {
-        "card_name": "Tangle",
+        "card_name": "Remember Who You Are",
         "number": 38,
         "shape": "normal",
         "set": "WD3",
-        "position": "161"
+        "position": "328"
     },
     {
-        "card_name": "Tamatoa",
-        "number": 76,
+        "card_name": "Sebastian",
+        "number": 86,
         "shape": "normal",
         "set": "WD3",
-        "position": "48"
+        "position": "200"
     },
     {
-        "card_name": "The Three Fates",
-        "number": 119,
+        "card_name": "Scroop the Unscrupulous",
+        "number": 134,
         "shape": "normal",
         "set": "WD3",
-        "position": "206"
+        "position": "199"
     },
     {
-        "card_name": "Tigger",
-        "number": 160,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "42"
-    },
-    {
-        "card_name": "Sven",
-        "number": 202,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "93"
-    },
-    {
-        "card_name": "Zeus, God of Lightning",
-        "number": 39,
-        "shape": "adventure",
-        "set": "WD3",
-        "position": "49"
-    },
-    {
-        "card_name": "Tinker Bell",
-        "number": 77,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "68"
-    },
-    {
-        "card_name": "Ursula, the Sea Witch",
-        "number": 120,
-        "shape": "adventure",
-        "set": "WD3",
-        "position": "38"
-    },
-    {
-        "card_name": "Twin Fire",
-        "number": 161,
+        "card_name": "Razoul",
+        "number": 183,
         "shape": "normal",
         "set": "WD3",
         "position": "236"
     },
     {
+        "card_name": "Stitch",
+        "number": 231,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "76"
+    },
+    {
+        "card_name": "Rescue Rangers Away!",
+        "number": 39,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "365"
+    },
+    {
+        "card_name": "Some Things Never Change",
+        "number": 87,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "149"
+    },
+    {
+        "card_name": "Shan Yu",
+        "number": 135,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "318"
+    },
+    {
+        "card_name": "Reckless Cannonade",
+        "number": 184,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "361"
+    },
+    {
+        "card_name": "Sven",
+        "number": 232,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "93"
+    },
+    {
+        "card_name": "Second Star to the Right",
+        "number": 40,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "332"
+    },
+    {
+        "card_name": "A Sudden Chill",
+        "number": 88,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "185"
+    },
+    {
+        "card_name": "Shenzi",
+        "number": 136,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "219"
+    },
+    {
+        "card_name": "Shere Khan, Lord of the Jungle",
+        "number": 185,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "46"
+    },
+    {
         "card_name": "Tarzan, Son of Man",
-        "number": 203,
+        "number": 233,
         "shape": "normal",
         "set": "WD3",
         "position": "101"
     },
     {
-        "card_name": "e"
+        "card_name": "Sergeant Calhoun",
+        "number": 41,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "167"
+    },
+    {
+        "card_name": "Tamatoa",
+        "number": 89,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "48"
+    },
+    {
+        "card_name": "Snuff out the Light",
+        "number": 137,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "54"
+    },
+    {
+        "card_name": "Show Yourself",
+        "number": 186,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "362"
+    },
+    {
+        "card_name": "Tiana",
+        "number": 234,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "142"
+    },
+    {
+        "card_name": "The Sheriff of Nottingham",
+        "number": 42,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "141"
+    },
+    {
+        "card_name": "Tinker Bell",
+        "number": 90,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "68"
+    },
+    {
+        "card_name": "Swooping Gwythaint",
+        "number": 138,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "350"
+    },
+    {
+        "card_name": "Te Ka, the Burning One",
+        "number": 187,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "37"
+    },
+    {
+        "card_name": "Tick-Tock",
+        "number": 235,
+        "shape": "adventure",
+        "set": "WD3",
+        "position": "257"
+    },
+    {
+        "card_name": "Simba",
+        "number": 43,
+        "shape": "adventure",
+        "set": "WD3",
+        "position": "4"
+    },
+    {
+        "card_name": "Trust in Me",
+        "number": 91,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "324"
+    },
+    {
+        "card_name": "The Three Fates",
+        "number": 139,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "204"
+    },
+    {
+        "card_name": "Tigger",
+        "number": 188,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "42"
+    },
+    {
+        "card_name": "Timon, Grub Rustler",
+        "number": 236,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "179"
+    },
+    {
+        "card_name": "Snow White",
+        "number": 44,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "3"
     },
     {
         "card_name": "Under the Sea",
-        "number": 78,
+        "number": 92,
         "shape": "normal",
         "set": "WD3",
         "position": "79"
     },
     {
-        "card_name": "Walk the Plank",
-        "number": 121,
+        "card_name": "Unexpected Jaguars",
+        "number": 140,
         "shape": "normal",
         "set": "WD3",
-        "position": "83"
+        "position": "331"
     },
     {
-        "card_name": "Wasabi",
-        "number": 162,
+        "card_name": "Twin Fire",
+        "number": 189,
         "shape": "normal",
         "set": "WD3",
-        "position": "89"
-    },
-    {
-        "card_name": "Tiana",
-        "number": 204,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "144"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Vanellope Von Schweetz",
-        "number": 79,
-        "shape": "adventure",
-        "set": "WD3",
-        "position": "96"
-    },
-    {
-        "card_name": "Yzma, Royal Alchemist",
-        "number": 122,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "53"
-    },
-    {
-        "card_name": "A Whole New World",
-        "number": 163,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "32"
-    },
-    {
-        "card_name": "Tick-Tock",
-        "number": 205,
-        "shape": "adventure",
-        "set": "WD3",
-        "position": "260"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "A Very Merry Unbirthday",
-        "number": 80,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "177"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Wreck",
-        "number": 164,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "235"
-    },
-    {
-        "card_name": "Timon, Grub Rustler",
-        "number": 206,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "181"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "We Know The Way",
-        "number": 81,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "108"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Wreck-it Wralph",
-        "number": 165,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "165"
+        "position": "234"
     },
     {
         "card_name": "When Will My Life Begin?",
-        "number": 207,
+        "number": 237,
         "shape": "normal",
         "set": "WD3",
         "position": "106"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Zazu",
-        "number": 82,
+        "card_name": "Stampede",
+        "number": 45,
         "shape": "normal",
         "set": "WD3",
-        "position": "60"
+        "position": "251"
     },
     {
-        "card_name": "e"
+        "card_name": "Vanellope Von Schweetz",
+        "number": 93,
+        "shape": "adventure",
+        "set": "WD3",
+        "position": "96"
     },
     {
-        "card_name": "e"
+        "card_name": "Unfortunate Situation",
+        "number": 141,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "342"
+    },
+    {
+        "card_name": "Wasabi",
+        "number": 190,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "89"
     },
     {
         "card_name": "Where You Are",
-        "number": 208,
+        "number": 238,
         "shape": "normal",
         "set": "WD3",
-        "position": "258"
+        "position": "255"
     },
     {
-        "card_name": "e"
+        "card_name": "Sword of Truth",
+        "number": 46,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "154"
     },
     {
-        "card_name": "e"
+        "card_name": "A Very Merry Unbirthday",
+        "number": 94,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "175"
     },
     {
-        "card_name": "e"
+        "card_name": "Ursula, the Sea Witch",
+        "number": 142,
+        "shape": "adventure",
+        "set": "WD3",
+        "position": "38"
     },
     {
-        "card_name": "e"
+        "card_name": "A Whole New World",
+        "number": 191,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "32"
     },
     {
         "card_name": "Winnie the Pooh",
-        "number": 209,
+        "number": 239,
         "shape": "normal",
         "set": "WD3",
         "position": "62"
     },
     {
-        "card_name": "e"
+        "card_name": "Tangle",
+        "number": 47,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "159"
     },
     {
-        "card_name": "e"
+        "card_name": "We Know The Way",
+        "number": 95,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "108"
     },
     {
-        "card_name": "e"
+        "card_name": "Walk the Plank",
+        "number": 143,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "83"
     },
     {
-        "card_name": "e"
+        "card_name": "Wreck",
+        "number": 192,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "233"
     },
     {
         "card_name": "You're Welcome!",
-        "number": 210,
+        "number": 240,
         "shape": "normal",
         "set": "WD3",
         "position": "102"
     },
     {
-        "card_name": "e"
+        "card_name": "Zeus, God of Lightning",
+        "number": 48,
+        "shape": "adventure",
+        "set": "WD3",
+        "position": "49"
     },
     {
-        "card_name": "e"
+        "card_name": "Zazu",
+        "number": 96,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "60"
     },
     {
-        "card_name": "e"
+        "card_name": "Xanatos's Gambit",
+        "number": 144,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "360"
     },
     {
-        "card_name": "e"
+        "card_name": "Wreck-it Wralph",
+        "number": 193,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "163"
     },
     {
         "card_name": "Zero to Hero",
-        "number": 211,
+        "number": 241,
         "shape": "normal",
         "set": "WD3",
-        "position": "266"
+        "position": "263"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Yzma, Royal Alchemist",
+        "number": 145,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "53"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1540,122 +1713,122 @@
     "a->gold",
     {
         "card_name": "Basil of Baker Street",
-        "number": 216,
+        "number": 247,
         "shape": "normal",
         "set": "WD3",
-        "position": "246"
+        "position": "243"
     },
     {
         "card_name": "John Silver",
-        "number": 230,
+        "number": 262,
         "shape": "normal",
         "set": "WD3",
         "position": "85"
     },
     {
         "card_name": "The Hydra",
-        "number": 228,
+        "number": 260,
         "shape": "normal",
         "set": "WD3",
-        "position": "137"
+        "position": "135"
     },
     {
         "card_name": "Frederick Flamarion Frederickson IV",
-        "number": 221,
+        "number": 253,
         "shape": "normal",
         "set": "WD3",
-        "position": "205"
+        "position": "203"
     },
     {
         "card_name": "The Bare Necessities",
-        "number": 215,
+        "number": 246,
         "shape": "normal",
         "set": "WD3",
         "position": "112"
     },
     {
         "card_name": "Baymax",
-        "number": 217,
+        "number": 248,
         "shape": "normal",
         "set": "WD3",
         "position": "63"
     },
     {
         "card_name": "Madam Mim",
-        "number": 235,
+        "number": 267,
         "shape": "normal",
         "set": "WD3",
-        "position": "136"
+        "position": "134"
     },
     {
         "card_name": "Jafar, Scheming Vizier",
-        "number": 229,
+        "number": 261,
         "shape": "normal",
         "set": "WD3",
         "position": "34"
     },
     {
         "card_name": "Robin Hood",
-        "number": 245,
+        "number": 277,
         "shape": "normal",
         "set": "WD3",
-        "position": "131"
+        "position": "130"
     },
     {
         "card_name": "The Beast",
-        "number": 218,
+        "number": 249,
         "shape": "normal",
         "set": "WD3",
-        "position": "121"
+        "position": "120"
     },
     {
         "card_name": "Scuttle",
-        "number": 246,
+        "number": 278,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "218"
+    },
+    {
+        "card_name": "Marshmallow",
+        "number": 269,
         "shape": "normal",
         "set": "WD3",
         "position": "220"
     },
     {
-        "card_name": "Marshmallow",
-        "number": 237,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "222"
-    },
-    {
         "card_name": "Pain and Panic",
-        "number": 242,
+        "number": 274,
         "shape": "normal",
         "set": "WD3",
-        "position": "232"
+        "position": "230"
     },
     {
         "card_name": "Titanic Calamity",
-        "number": 248,
+        "number": 280,
         "shape": "normal",
         "set": "WD3",
-        "position": "319"
+        "position": "316"
     },
     {
         "card_name": "Chip and Dale, Rescue Rangers",
-        "number": 219,
+        "number": 250,
         "shape": "normal",
         "set": "WD3",
-        "position": "179"
+        "position": "177"
     },
     {
         "card_name": "e"
     },
     {
         "card_name": "Mother Gothel",
-        "number": 239,
+        "number": 271,
         "shape": "normal",
         "set": "WD3",
-        "position": "248"
+        "position": "245"
     },
     {
         "card_name": "The Queen of Hearts",
-        "number": 244,
+        "number": 276,
         "shape": "normal",
         "set": "WD3",
         "position": "72"
@@ -1665,10 +1838,10 @@
     },
     {
         "card_name": "Go the Distance",
-        "number": 225,
+        "number": 257,
         "shape": "normal",
         "set": "WD3",
-        "position": "264"
+        "position": "261"
     },
     {
         "card_name": "er"
@@ -1687,105 +1860,136 @@
     },
     {
         "card_name": "Big Daddy Eli La Bouff",
-        "number": 212,
+        "number": 242,
         "shape": "normal",
         "set": "WD3",
-        "position": "229"
+        "position": "227"
     },
     {
         "card_name": "Let The Storm Rage On",
-        "number": 233,
+        "number": 265,
         "shape": "normal",
         "set": "WD3",
-        "position": "135"
+        "position": "133"
     },
     {
         "card_name": "Dinner Time",
-        "number": 220,
+        "number": 251,
         "shape": "normal",
         "set": "WD3",
-        "position": "252"
+        "position": "249"
     },
     {
-        "card_name": "Alan-a-Dale",
-        "number": 213,
+        "card_name": "Alameda Slim",
+        "number": 243,
         "shape": "normal",
         "set": "WD3",
-        "position": "219"
+        "position": "355"
     },
     {
-        "card_name": "Friend Like Me",
-        "number": 223,
+        "card_name": "Everything I've Learned and More",
+        "number": 252,
         "shape": "normal",
         "set": "WD3",
-        "position": "130"
+        "position": "330"
     },
     {
         "card_name": "Gantu, Federation Captain",
-        "number": 224,
+        "number": 256,
         "shape": "normal",
         "set": "WD3",
-        "position": "123"
+        "position": "122"
     },
     {
         "card_name": "The Mad Hatter",
-        "number": 234,
+        "number": 266,
         "shape": "normal",
         "set": "WD3",
-        "position": "180"
+        "position": "178"
     },
     {
         "card_name": "Mama Odie",
-        "number": 236,
+        "number": 268,
         "shape": "normal",
         "set": "WD3",
-        "position": "198"
+        "position": "196"
+    },
+    {
+        "card_name": "Alan-a-Dale",
+        "number": 244,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "217"
+    },
+    {
+        "card_name": "Friend Like Me",
+        "number": 255,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "129"
+    },
+    {
+        "card_name": "Lady Tremaine",
+        "number": 264,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "213"
+    },
+    {
+        "card_name": "Nessus, River Guardian",
+        "number": 273,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "224"
+    },
+    {
+        "card_name": "Namaari, Heir of Fang",
+        "number": 272,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "131"
     },
     {
         "card_name": "Anna of Arendelle",
-        "number": 214,
+        "number": 245,
         "shape": "normal",
         "set": "WD3",
         "position": "7"
     },
     {
         "card_name": "The Grand Councilwoman",
-        "number": 226,
+        "number": 258,
         "shape": "normal",
         "set": "WD3",
-        "position": "166"
+        "position": "164"
     },
     {
-        "card_name": "Lady Tremaine",
-        "number": 232,
+        "card_name": "Tweedledum",
+        "number": 281,
         "shape": "normal",
         "set": "WD3",
-        "position": "215"
+        "position": "340"
     },
     {
-        "card_name": "Nessus, River Guardian",
-        "number": 241,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "226"
+        "card_name": "e"
     },
     {
-        "card_name": "Namaari, Heir of Fang",
-        "number": 240,
+        "card_name": "Peter Pan, Lost Boy",
+        "number": 275,
         "shape": "normal",
         "set": "WD3",
-        "position": "132"
+        "position": "65"
     },
     {
         "card_name": "Friar Tuck",
-        "number": 222,
+        "number": 254,
         "shape": "normal",
         "set": "WD3",
-        "position": "268"
+        "position": "265"
     },
     {
         "card_name": "Honeylemon",
-        "number": 227,
+        "number": 259,
         "shape": "normal",
         "set": "WD3",
         "position": "86"
@@ -1797,25 +2001,21 @@
         "card_name": "e"
     },
     {
-        "card_name": "Peter Pan, Lost Boy",
-        "number": 243,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "65"
+        "card_name": "e"
     },
     {
         "card_name": "King Candy",
-        "number": 231,
+        "number": 263,
         "shape": "normal",
         "set": "WD3",
-        "position": "189"
+        "position": "187"
     },
     {
         "card_name": "Morph",
-        "number": 238,
+        "number": 270,
         "shape": "normal",
         "set": "WD3",
-        "position": "233"
+        "position": "231"
     },
     {
         "card_name": "er"
@@ -1834,7 +2034,7 @@
     },
     {
         "card_name": "The Three Good Faeries",
-        "number": 247,
+        "number": 279,
         "shape": "normal",
         "set": "WD3",
         "position": "50"
@@ -1866,121 +2066,164 @@
     "a->colorless",
     {
         "card_name": "B.E.N.",
-        "number": 249,
+        "number": 282,
         "shape": "normal",
         "set": "WD3",
-        "position": "223"
+        "position": "221"
+    },
+    {
+        "card_name": "Broadway",
+        "number": 283,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "346"
     },
     {
         "card_name": "Cogsworth",
-        "number": 250,
+        "number": 284,
         "shape": "normal",
         "set": "WD3",
         "position": "58"
     },
     {
         "card_name": "Dinglehopper",
-        "number": 251,
+        "number": 285,
         "shape": "normal",
         "set": "WD3",
         "position": "80"
     },
     {
-        "card_name": "Genie's Lamp",
-        "number": 252,
+        "card_name": "Five Dozen Eggs",
+        "number": 286,
         "shape": "normal",
         "set": "WD3",
-        "position": "251"
+        "position": "352"
+    },
+    {
+        "card_name": "The Flying Dutchman",
+        "number": 287,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "347"
+    },
+    {
+        "card_name": "Frying Pan",
+        "number": 288,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "359"
+    },
+    {
+        "card_name": "Genie's Lamp",
+        "number": 289,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "248"
     },
     {
         "card_name": "Gold Coin",
-        "number": 253,
+        "number": 290,
         "shape": "normal",
         "set": "WD3",
-        "position": "224"
+        "position": "222"
+    },
+    {
+        "card_name": "The Leviathan",
+        "number": 291,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "335"
     },
     {
         "card_name": "Madame de la Grande Bouche",
-        "number": 254,
+        "number": 292,
         "shape": "normal",
         "set": "WD3",
-        "position": "322"
+        "position": "319"
     },
     {
         "card_name": "The Magic Carpet",
-        "number": 255,
+        "number": 293,
         "shape": "normal",
         "set": "WD3",
-        "position": "203"
+        "position": "201"
     },
     {
         "card_name": "Magic Mirror",
-        "number": 256,
+        "number": 294,
         "shape": "normal",
         "set": "WD3",
         "position": "82"
     },
     {
         "card_name": "Medallion Weights",
-        "number": 257,
+        "number": 295,
         "shape": "normal",
         "set": "WD3",
-        "position": "171"
+        "position": "169"
     },
     {
         "card_name": "Miracle Candle",
-        "number": 258,
+        "number": 296,
         "shape": "normal",
         "set": "WD3",
         "position": "81"
     },
     {
         "card_name": "Pawpsicle",
-        "number": 259,
+        "number": 297,
         "shape": "normal",
         "set": "WD3",
         "position": "73"
     },
     {
         "card_name": "Pinocchio",
-        "number": 260,
+        "number": 298,
         "shape": "adventure",
         "set": "WD3",
-        "position": "163"
+        "position": "161"
     },
     {
         "card_name": "Plumette",
-        "number": 261,
+        "number": 299,
         "shape": "normal",
         "set": "WD3",
-        "position": "204"
+        "position": "202"
     },
     {
         "card_name": "RLS Legacy",
-        "number": 262,
+        "number": 300,
         "shape": "normal",
         "set": "WD3",
-        "position": "242"
+        "position": "240"
+    },
+    {
+        "card_name": "The Robot Queen",
+        "number": 301,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "334"
     },
     {
         "card_name": "Shield of Virtue",
-        "number": 263,
+        "number": 302,
         "shape": "normal",
         "set": "WD3",
-        "position": "159"
+        "position": "157"
+    },
+    {
+        "card_name": "Stone Guardian of Atlantis",
+        "number": 303,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "336"
     },
     {
         "card_name": "White Rabbit's Pocket Watch",
-        "number": 264,
+        "number": 304,
         "shape": "normal",
         "set": "WD3",
-        "position": "227"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
+        "position": "225"
     },
     {
         "card_name": "e"
@@ -2006,19 +2249,31 @@
     },
     {
         "card_name": "Sanfransokyo Institute of Technology",
-        "number": 316,
+        "number": 341,
         "shape": "normal",
         "set": "WD3",
-        "position": "214"
+        "position": "212"
     },
     {
-        "card_name": "e"
+        "card_name": "Garden of Lost Souls",
+        "number": 321,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "364"
     },
     {
-        "card_name": "e"
+        "card_name": "Sugar Rush Speedway",
+        "number": 348,
+        "shape": "adventure",
+        "set": "WD3",
+        "position": "356"
     },
     {
-        "card_name": "e"
+        "card_name": "Sherwood Forest",
+        "number": 345,
+        "shape": "adventure",
+        "set": "WD3",
+        "position": "357"
     },
     {
         "card_name": "er"
@@ -2036,146 +2291,191 @@
         "card_name": "er"
     },
     {
-        "card_name": "L21 \u2014 Meticulous Archive",
-        "number": 285,
+        "card_name": "Meticulous Archive",
+        "number": 332,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "267"
+    },
+    {
+        "card_name": "Skull Rock",
+        "number": 346,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "278"
+    },
+    {
+        "card_name": "Badlands",
+        "number": 307,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "279"
+    },
+    {
+        "card_name": "Commercial District",
+        "number": 311,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "269"
+    },
+    {
+        "card_name": "Lush Portico",
+        "number": 325,
         "shape": "normal",
         "set": "WD3",
         "position": "270"
     },
     {
-        "card_name": "L22 \u2014 Undercity Sewers",
-        "number": 286,
+        "card_name": "Tundra",
+        "number": 355,
         "shape": "normal",
         "set": "WD3",
-        "position": "276"
+        "position": "287"
     },
     {
-        "card_name": "L23 \u2014 Raucous Theater",
-        "number": 287,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "271"
-    },
-    {
-        "card_name": "L24 \u2014 Commercial District",
-        "number": 288,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "272"
-    },
-    {
-        "card_name": "L25 \u2014 Lush Portico",
-        "number": 289,
+        "card_name": "Undercity Sewers",
+        "number": 357,
         "shape": "normal",
         "set": "WD3",
         "position": "273"
     },
     {
-        "card_name": "L31 \u2014 Hallowed Fountain",
-        "number": 295,
+        "card_name": "Raucous Theater",
+        "number": 340,
         "shape": "normal",
         "set": "WD3",
-        "position": "296"
+        "position": "268"
     },
     {
-        "card_name": "L32 \u2014 Watery Grave",
-        "number": 296,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "281"
-    },
-    {
-        "card_name": "L43 \u2014 Badlands",
-        "number": 307,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "282"
-    },
-    {
-        "card_name": "L34 \u2014 Stomping Ground",
-        "number": 298,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "294"
-    },
-    {
-        "card_name": "L45 \u2014 Savannah",
-        "number": 309,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "284"
-    },
-    {
-        "card_name": "L41 \u2014 Tundra",
-        "number": 305,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "290"
-    },
-    {
-        "card_name": "L33 \u2014 Blood Crypt",
-        "number": 297,
+        "card_name": "La Casita Madrigal",
+        "number": 324,
         "shape": "normal",
         "set": "WD3",
         "position": "291"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "L44 \u2014 Taiga",
-        "number": 308,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "283"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "L35 \u2014 Temple Garden",
-        "number": 299,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "292"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "L36 \u2014 Godless Shrine",
-        "number": 300,
+        "card_name": "McDuck Manor",
+        "number": 328,
         "shape": "normal",
         "set": "WD3",
         "position": "293"
     },
     {
-        "card_name": "e"
+        "card_name": "Tundratown",
+        "number": 356,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "289"
     },
     {
-        "card_name": "e"
+        "card_name": "Underground Sea",
+        "number": 359,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "277"
     },
     {
-        "card_name": "e"
+        "card_name": "The Snuggly Duckling",
+        "number": 347,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "288"
     },
     {
-        "card_name": "e"
+        "card_name": "Taiga",
+        "number": 349,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "280"
     },
     {
-        "card_name": "L37 \u2014 Steam Vents",
-        "number": 301,
+        "card_name": "Savannah",
+        "number": 342,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "281"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "The Great Wall of China",
+        "number": 322,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "290"
+    },
+    {
+        "card_name": "Galactic Council Chamber",
+        "number": 320,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "292"
+    },
+    {
+        "card_name": "Bayou",
+        "number": 308,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "284"
+    },
+    {
+        "card_name": "Elegant Parlor",
+        "number": 316,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "274"
+    },
+    {
+        "card_name": "Hedge Maze",
+        "number": 323,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "276"
+    },
+    {
+        "card_name": "Shadowy Backstreet",
+        "number": 344,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "272"
+    },
+    {
+        "card_name": "Thundering Falls",
+        "number": 350,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "271"
+    },
+    {
+        "card_name": "Fang City",
+        "number": 319,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "294"
+    },
+    {
+        "card_name": "Mount Olympus",
+        "number": 333,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "113"
+    },
+    {
+        "card_name": "Mermaid Lagoon",
+        "number": 331,
         "shape": "normal",
         "set": "WD3",
         "position": "295"
@@ -2184,151 +2484,32 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "L38 \u2014 Overgrown Tomb",
-        "number": 302,
+        "card_name": "Volcanic Island",
+        "number": 360,
         "shape": "normal",
         "set": "WD3",
-        "position": "297"
+        "position": "283"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "L39. \u2014 Breeding Pool",
-        "number": 304,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "298"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "L26 \u2014 Shadowy Backstreet",
-        "number": 290,
+        "card_name": "Underground Mortuary",
+        "number": 358,
         "shape": "normal",
         "set": "WD3",
         "position": "275"
     },
     {
-        "card_name": "L27 \u2014 Thundering Falls",
-        "number": 291,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "274"
-    },
-    {
-        "card_name": "L28 \u2014 Underground Mortuary",
-        "number": 292,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "278"
-    },
-    {
-        "card_name": "L29 \u2014 Elegant Parlor",
-        "number": 293,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "277"
-    },
-    {
-        "card_name": "L29. \u2014 Hedge Maze",
-        "number": 294,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "279"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "L48 \u2014 Bayou",
-        "number": 312,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "287"
-    },
-    {
-        "card_name": "L39 \u2014 Sacred Foundry",
-        "number": 303,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "113"
-    },
-    {
-        "card_name": "L42 \u2014 Underground Sea",
-        "number": 306,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "280"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "L49 \u2014 Plateau",
-        "number": 313,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "288"
-    },
-    {
-        "card_name": "L46 \u2014 Scrubland",
-        "number": 310,
+        "card_name": "Plateau",
+        "number": 334,
         "shape": "normal",
         "set": "WD3",
         "position": "285"
     },
     {
-        "card_name": "e"
+        "card_name": "Scrubland",
+        "number": 343,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "282"
     },
     {
         "card_name": "e"
@@ -2340,136 +2521,116 @@
         "card_name": "e"
     },
     {
-        "card_name": "L47 \u2014 Volcanic Island",
-        "number": 311,
+        "card_name": "e"
+    },
+    {
+        "card_name": "Tropical Island",
+        "number": 354,
         "shape": "normal",
         "set": "WD3",
         "position": "286"
     },
     {
-        "card_name": "e"
+        "card_name": "er"
     },
     {
-        "card_name": "e"
+        "card_name": "er"
     },
     {
-        "card_name": "e"
+        "card_name": "er"
     },
     {
-        "card_name": "e"
+        "card_name": "er"
     },
     {
-        "card_name": "L49. \u2014 Tropical Island",
-        "number": 314,
+        "card_name": "er"
+    },
+    {
+        "card_name": "Ariel's Grotto",
+        "number": 305,
         "shape": "normal",
         "set": "WD3",
-        "position": "289"
+        "position": "307"
     },
     {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "L11 \u2014 Elsa's Retreat",
-        "number": 265,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "309"
-    },
-    {
-        "card_name": "L12 \u2014 Ariel's Grotto",
-        "number": 267,
+        "card_name": "Belle's House",
+        "number": 309,
         "shape": "normal",
         "set": "WD3",
         "position": "310"
     },
     {
-        "card_name": "L13 \u2014 Prince John's Fortress",
-        "number": 269,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "311"
-    },
-    {
-        "card_name": "L14 \u2014 Dwarfs' Mine",
-        "number": 271,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "312"
-    },
-    {
-        "card_name": "L15 \u2014 Belle's House",
-        "number": 273,
+        "card_name": "Cruella's Estate",
+        "number": 313,
         "shape": "normal",
         "set": "WD3",
         "position": "313"
     },
     {
-        "card_name": "L16 \u2014 Rapunzel's Tower",
-        "number": 275,
+        "card_name": "Dwarfs' Mine",
+        "number": 315,
         "shape": "normal",
         "set": "WD3",
-        "position": "314"
+        "position": "309"
     },
     {
-        "card_name": "L17 \u2014 Merlin's Cottage",
-        "number": 277,
+        "card_name": "Elsa's Retreat",
+        "number": 317,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "306"
+    },
+    {
+        "card_name": "Maui's Island",
+        "number": 327,
         "shape": "normal",
         "set": "WD3",
         "position": "315"
     },
     {
-        "card_name": "L18 \u2014 Cruella's Estate",
-        "number": 280,
+        "card_name": "Merlin's Cottage",
+        "number": 330,
         "shape": "normal",
         "set": "WD3",
-        "position": "316"
-    },
-    {
-        "card_name": "L19 \u2014 Tiana's Palace",
-        "number": 281,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "317"
-    },
-    {
-        "card_name": "L19. \u2014 Maui's Island",
-        "number": 283,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "318"
+        "position": "312"
     },
     {
         "card_name": "Pride Rock",
-        "number": 315,
+        "number": 335,
         "shape": "normal",
         "set": "WD3",
-        "position": "255"
+        "position": "252"
+    },
+    {
+        "card_name": "Prince John's Fortress",
+        "number": 337,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "308"
+    },
+    {
+        "card_name": "Rapunzel's Tower",
+        "number": 339,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "311"
+    },
+    {
+        "card_name": "Tiana's Palace",
+        "number": 352,
+        "shape": "normal",
+        "set": "WD3",
+        "position": "314"
     },
     {
         "card_name": "Treasure Planet",
-        "number": 317,
+        "number": 353,
         "shape": "leveler",
         "set": "WD3",
-        "position": "267"
+        "position": "264"
     },
     {
-        "card_name": "Ursula's Lair",
-        "number": 318,
-        "shape": "normal",
-        "set": "WD3",
-        "position": "114"
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -2491,39 +2652,58 @@
     },
     "a->token",
     {
-        "card_name": "Glass Slipper",
+        "card_name": "Food Token",
         "number": 4,
         "shape": "token",
         "set": "WD3",
-        "position": "197"
+        "position": "358"
     },
     {
-        "card_name": "Atlantis",
+        "card_name": "Glass Slipper",
         "number": 5,
         "shape": "token",
         "set": "WD3",
-        "position": "125"
+        "position": "195"
+    },
+    {
+        "card_name": "Atlantis",
+        "number": 6,
+        "shape": "token",
+        "set": "WD3",
+        "position": "124"
     },
     {
         "card_name": "Horace",
         "number": 1,
         "shape": "token",
         "set": "WD3",
-        "position": "231"
+        "position": "229"
     },
     {
         "card_name": "Plant",
         "number": 2,
         "shape": "token",
         "set": "WD3",
-        "position": "196"
+        "position": "194"
     },
     {
         "card_name": "Kuzco's Transformation",
         "number": 3,
         "shape": "token",
         "set": "WD3",
-        "position": "195"
+        "position": "193"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
