@@ -1,0 +1,4025 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Scrooge McDuck",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Legendary Creature — Bird",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/0.png"
+			}
+		},
+		{
+			"name": "Captain Hook",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Human Pirate",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/1.png"
+			}
+		},
+		{
+			"name": "The Fairy Godmother",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Faerie",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/2.png"
+			}
+		},
+		{
+			"name": "Snow White",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/3.png"
+			}
+		},
+		{
+			"name": "Simba",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Cat Noble",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/4.png"
+			}
+		},
+		{
+			"name": "Hercules",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Demigod",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/5.png"
+			}
+		},
+		{
+			"name": "Bernard the Rescuer",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Mouse",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/6.png"
+			}
+		},
+		{
+			"name": "Anna of Arendelle",
+			"rarity": "special",
+			"mana_cost": "{R}{W}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/7.png"
+			}
+		},
+		{
+			"name": "Prince Eric",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/8.png"
+			}
+		},
+		{
+			"name": "Fa Mulan",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/9.png"
+			}
+		},
+		{
+			"name": "Fix-It Felix, Jr.",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Avatar Artificer",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/10.png"
+			}
+		},
+		{
+			"name": "Maximus, Horse-Cop",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Horse Mount",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/11.png"
+			}
+		},
+		{
+			"name": "Julieta Madrigal",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Enchantment Creature — Human",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/12.png"
+			}
+		},
+		{
+			"name": "Arthur, Once and Future King",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human Child",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/13.png"
+			}
+		},
+		{
+			"name": "Orville, Plane and Pilot",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Bird Pilot",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/14.png"
+			}
+		},
+		{
+			"name": "Abuela Madrigal",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Enchantment Creature — Human",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/15.png"
+			}
+		},
+		{
+			"name": "Li Shang",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/16.png"
+			}
+		},
+		{
+			"name": "Philoctetes",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Satyr",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/17.png"
+			}
+		},
+		{
+			"name": "Hans of the Southern Isles",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/18.png"
+			}
+		},
+		{
+			"name": "Prince Phillip",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/19.png"
+			}
+		},
+		{
+			"name": "Mufasa, the Lion King",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Cat Noble",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/20.png"
+			}
+		},
+		{
+			"name": "Megara",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/21.png"
+			}
+		},
+		{
+			"name": "Dr. Facilier",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Human Warlock",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/22.png"
+			}
+		},
+		{
+			"name": "Heihei, Boat Snack",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Legendary Creature — Bird",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/23.png"
+			}
+		},
+		{
+			"name": "Scar, King Undisputed",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Cat Noble",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/24.png"
+			}
+		},
+		{
+			"name": "Professor Ratigan",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Rat Rogue",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/25.png"
+			}
+		},
+		{
+			"name": "Belle",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Human Peasant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/26.png"
+			}
+		},
+		{
+			"name": "Endless Goons",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/27.png"
+			}
+		},
+		{
+			"name": "Moana of Motonui",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Human Scout",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/28.png"
+			}
+		},
+		{
+			"name": "Merlin",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Wizard",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/29.png"
+			}
+		},
+		{
+			"name": "Kakamora Raider",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Creature — Plant Pirate",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/30.png"
+			}
+		},
+		{
+			"name": "Iago",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Bird Minion",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/31.png"
+			}
+		},
+		{
+			"name": "A Whole New World",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/32.png"
+			}
+		},
+		{
+			"name": "Cerberus, Hellish Hound",
+			"rarity": "special",
+			"mana_cost": "{R}{R}{R}",
+			"type": "Legendary Creature — Dog Dog Dog",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/33.png"
+			}
+		},
+		{
+			"name": "Jafar, Scheming Vizier",
+			"rarity": "special",
+			"mana_cost": "{B}{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/34.png"
+			}
+		},
+		{
+			"name": "Jim Hawkins",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Pilot",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/35.png"
+			}
+		},
+		{
+			"name": "Aladdin, Street Rat",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/36.png"
+			}
+		},
+		{
+			"name": "Te Ka, the Burning One",
+			"rarity": "special",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Legendary Creature — Elemental God",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/37.png"
+			}
+		},
+		{
+			"name": "Ursula, the Sea Witch",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Merfolk",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/38.png"
+			}
+		},
+		{
+			"name": "The Genie",
+			"rarity": "special",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Djinn",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/39.png"
+			}
+		},
+		{
+			"name": "Diablo",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Legendary Creature — Bird Minion",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/40.png"
+			}
+		},
+		{
+			"name": "King Louie",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Ape Noble",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/41.png"
+			}
+		},
+		{
+			"name": "Tigger",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Cat Toy",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/42.png"
+			}
+		},
+		{
+			"name": "Maleficent, Mistress of All Evil",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}{B}",
+			"type": "Legendary Creature — Faerie",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/43.png"
+			}
+		},
+		{
+			"name": "Chernabog, God of Darkness",
+			"rarity": "special",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Legendary Creature — God",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/44.png"
+			}
+		},
+		{
+			"name": "Flynn Rider, Dashing Scoundrel",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/45.png"
+			}
+		},
+		{
+			"name": "Shere Khan, Lord of the Jungle",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Creature — Cat",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/46.png"
+			}
+		},
+		{
+			"name": "Hi Ho!",
+			"rarity": "special",
+			"mana_cost": "{4}{G}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/47.png"
+			}
+		},
+		{
+			"name": "Tamatoa",
+			"rarity": "special",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Legendary Creature — Crab",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/48.png"
+			}
+		},
+		{
+			"name": "Zeus, God of Lightning",
+			"rarity": "special",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Legendary Creature — God",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/49.png"
+			}
+		},
+		{
+			"name": "The Three Good Faeries",
+			"rarity": "special",
+			"mana_cost": "{U}{R}{W}",
+			"type": "Legendary Creature — Faerie",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/50.png"
+			}
+		},
+		{
+			"name": "Elsa of Arendelle",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Elemental Noble",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/51.png"
+			}
+		},
+		{
+			"name": "Be A Man!",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/52.png"
+			}
+		},
+		{
+			"name": "Yzma, Royal Alchemist",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/53.png"
+			}
+		},
+		{
+			"name": "Snuff out the Light",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/54.png"
+			}
+		},
+		{
+			"name": "Cruella De Vil",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/55.png"
+			}
+		},
+		{
+			"name": "Piglet",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Boar Toy Knight",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/56.png"
+			}
+		},
+		{
+			"name": "Luisa Madrigal",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Enchantment Creature — Human",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/57.png"
+			}
+		},
+		{
+			"name": "Cogsworth",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact Creature — Advisor",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/58.png"
+			}
+		},
+		{
+			"name": "Ariel, Curio Collector",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Creature — Merfolk",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/59.png"
+			}
+		},
+		{
+			"name": "Zazu",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Bird Advisor",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/60.png"
+			}
+		},
+		{
+			"name": "Mowgli, the Man-cub",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Human Child",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/61.png"
+			}
+		},
+		{
+			"name": "Winnie the Pooh",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Bear Toy",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/62.png"
+			}
+		},
+		{
+			"name": "Baymax",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Legendary Artifact Creature — Doctor Mount",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/63.png"
+			}
+		},
+		{
+			"name": "The Cheshire Cat",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Creature — Cat Illusion",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/64.png"
+			}
+		},
+		{
+			"name": "Peter Pan, Lost Boy",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/65.png"
+			}
+		},
+		{
+			"name": "Kuzco, Cursed Emperor",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/66.png"
+			}
+		},
+		{
+			"name": "The Evil Queen",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}{B}",
+			"type": "Legendary Creature — Noble Warlock",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/67.png"
+			}
+		},
+		{
+			"name": "Tinker Bell",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Legendary Creature — Faerie",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/68.png"
+			}
+		},
+		{
+			"name": "Rafiki",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Monkey Druid",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/69.png"
+			}
+		},
+		{
+			"name": "Hiro Hamada",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/70.png"
+			}
+		},
+		{
+			"name": "Lumiere",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Legendary Artifact Creature — Advisor",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/71.png"
+			}
+		},
+		{
+			"name": "The Queen of Hearts",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Creature — Noble",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/72.png"
+			}
+		},
+		{
+			"name": "Pawpsicle",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Artifact — Food",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/73.png"
+			}
+		},
+		{
+			"name": "Heart of Te Fiti",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Artifact",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/74.png"
+			}
+		},
+		{
+			"name": "Maui, Hero to All",
+			"rarity": "special",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Legendary Creature — Demigod",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/75.png"
+			}
+		},
+		{
+			"name": "Stitch",
+			"rarity": "special",
+			"mana_cost": "{G}{G}",
+			"type": "Legendary Creature — Alien Gremlin Mutant",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/76.png"
+			}
+		},
+		{
+			"name": "Olaf",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Legendary Snow Creature — Elemental",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/77.png"
+			}
+		},
+		{
+			"name": "Friends on the Other Side",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/78.png"
+			}
+		},
+		{
+			"name": "Under the Sea",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/79.png"
+			}
+		},
+		{
+			"name": "Dinglehopper",
+			"rarity": "special",
+			"mana_cost": "{0}",
+			"type": "Artifact",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/80.png"
+			}
+		},
+		{
+			"name": "Miracle Candle",
+			"rarity": "special",
+			"mana_cost": "{5}",
+			"type": "Legendary Enchantment Artifact",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/81.png"
+			}
+		},
+		{
+			"name": "Magic Mirror",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/82.png"
+			}
+		},
+		{
+			"name": "Walk the Plank",
+			"rarity": "special",
+			"mana_cost": "{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/83.png"
+			}
+		},
+		{
+			"name": "Be Prepared",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Instant",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/84.png"
+			}
+		},
+		{
+			"name": "John Silver",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Alien Cyborg Pirate",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/85.png"
+			}
+		},
+		{
+			"name": "Honeylemon",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/86.png"
+			}
+		},
+		{
+			"name": "Go-Go Tomago",
+			"rarity": "special",
+			"mana_cost": "{R}{R}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/87.png"
+			}
+		},
+		{
+			"name": "Locked Those Suckers in a Vault",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/88.png"
+			}
+		},
+		{
+			"name": "Wasabi",
+			"rarity": "special",
+			"mana_cost": "{R}{R}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/89.png"
+			}
+		},
+		{
+			"name": "Antonio Madrigal",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Legendary Enchantment Creature — Human",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/90.png"
+			}
+		},
+		{
+			"name": "Bambi",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Elk",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/91.png"
+			}
+		},
+		{
+			"name": "Kristoff",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/92.png"
+			}
+		},
+		{
+			"name": "Sven",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Elk Mount",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/93.png"
+			}
+		},
+		{
+			"name": "Pascal",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Lizard",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/94.png"
+			}
+		},
+		{
+			"name": "Lyle Tiberius Rourke",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Human Mercenary",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/95.png"
+			}
+		},
+		{
+			"name": "Vanellope Von Schweetz",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Avatar Pilot",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/96.png"
+			}
+		},
+		{
+			"name": "Kanga",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Kangaroo",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/97.png"
+			}
+		},
+		{
+			"name": "Rapunzel",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/98.png"
+			}
+		},
+		{
+			"name": "Aurora, Sleeping Beauty",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/99.png"
+			}
+		},
+		{
+			"name": "Clayton",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Human Ranger",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/100.png"
+			}
+		},
+		{
+			"name": "Tarzan, Son of Man",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/101.png"
+			}
+		},
+		{
+			"name": "You're Welcome!",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/102.png"
+			}
+		},
+		{
+			"name": "Pepa Madrigal",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Enchantment Creature — Human",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/103.png"
+			}
+		},
+		{
+			"name": "Lefou, Eager Stooge",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Human Coward",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/104.png"
+			}
+		},
+		{
+			"name": "Gramma Tala",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Elder Human",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/105.png"
+			}
+		},
+		{
+			"name": "When Will My Life Begin?",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/106.png"
+			}
+		},
+		{
+			"name": "How Far I'll Go",
+			"rarity": "special",
+			"mana_cost": "{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/107.png"
+			}
+		},
+		{
+			"name": "We Know The Way",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/108.png"
+			}
+		},
+		{
+			"name": "Bruno Madrigal",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Enchantment Creature — Human",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/109.png"
+			}
+		},
+		{
+			"name": "Bibbidi Bobbidi Boo",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/110.png"
+			}
+		},
+		{
+			"name": "Hellfire",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/111.png"
+			}
+		},
+		{
+			"name": "The Bare Necessities",
+			"rarity": "special",
+			"mana_cost": "{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/112.png"
+			}
+		},
+		{
+			"name": "Mount Olympus",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Mountain Plains",
+			"collector_number": "333",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/113.png"
+			}
+		},
+		{
+			"name": "Honey, You Mean Hunkules!",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/114.png"
+			}
+		},
+		{
+			"name": "Milo Thatch",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Human Scout",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/115.png"
+			}
+		},
+		{
+			"name": "Map of Treasure Planet",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Legendary Artifact",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/116.png"
+			}
+		},
+		{
+			"name": "Grand Pabbie",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Troll Druid",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/117.png"
+			}
+		},
+		{
+			"name": "Gaston",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human Ranger",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/118.png"
+			}
+		},
+		{
+			"name": "Camillo Madrigal",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Enchantment Creature — Human",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/119.png"
+			}
+		},
+		{
+			"name": "The Beast",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Beast Noble",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/120.png"
+			}
+		},
+		{
+			"name": "Colonel Hathi",
+			"rarity": "special",
+			"mana_cost": "{5}{G}{G}{G}",
+			"type": "Legendary Creature — Elephant",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/121.png"
+			}
+		},
+		{
+			"name": "Gantu, Federation Captain",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Legendary Creature — Alien Soldier",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/122.png"
+			}
+		},
+		{
+			"name": "Prince John",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Cat Noble",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/123.png"
+			}
+		},
+		{
+			"name": "Atlantis",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Legendary Land",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/124.png"
+			}
+		},
+		{
+			"name": "Pacha",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Human Peasant",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/125.png"
+			}
+		},
+		{
+			"name": "Dig A Little Deeper",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/126.png"
+			}
+		},
+		{
+			"name": "All the Powers of Hell",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/127.png"
+			}
+		},
+		{
+			"name": "Monstro, Whale of a Whale",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Legendary Creature — Whale",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/128.png"
+			}
+		},
+		{
+			"name": "Friend Like Me",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/129.png"
+			}
+		},
+		{
+			"name": "Robin Hood",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Legendary Creature — Fox Archer",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/130.png"
+			}
+		},
+		{
+			"name": "Namaari, Heir of Fang",
+			"rarity": "special",
+			"mana_cost": "{B}{G}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/131.png"
+			}
+		},
+		{
+			"name": "Lost in the Woods",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/132.png"
+			}
+		},
+		{
+			"name": "Let The Storm Rage On",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Instant",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/133.png"
+			}
+		},
+		{
+			"name": "Madam Mim",
+			"rarity": "special",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Creature — Shapeshifter Wizard",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/134.png"
+			}
+		},
+		{
+			"name": "The Hydra",
+			"rarity": "special",
+			"mana_cost": "{B}{R}",
+			"type": "Legendary Creature — Hydra",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/135.png"
+			}
+		},
+		{
+			"name": "Lilo",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Human Child",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/136.png"
+			}
+		},
+		{
+			"name": "Baloo",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Bear",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/137.png"
+			}
+		},
+		{
+			"name": "I See The Light",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/138.png"
+			}
+		},
+		{
+			"name": "Cinderella",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Human Peasant",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/139.png"
+			}
+		},
+		{
+			"name": "Nala",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Cat Child",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/140.png"
+			}
+		},
+		{
+			"name": "The Sheriff of Nottingham",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Wolf Knight",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/141.png"
+			}
+		},
+		{
+			"name": "Tiana",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Creature — Human Citizen",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/142.png"
+			}
+		},
+		{
+			"name": "Isabela Madrigal",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Enchantment Creature — Human",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/143.png"
+			}
+		},
+		{
+			"name": "Mickey, Sorcerer's Apprentice",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Mouse Wizard",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/144.png"
+			}
+		},
+		{
+			"name": "Burning Love",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/145.png"
+			}
+		},
+		{
+			"name": "Mother Knows Best",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/146.png"
+			}
+		},
+		{
+			"name": "Curiouser and Curiouser",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/147.png"
+			}
+		},
+		{
+			"name": "Into the Unknown",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/148.png"
+			}
+		},
+		{
+			"name": "Some Things Never Change",
+			"rarity": "special",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/149.png"
+			}
+		},
+		{
+			"name": "Everybody Wants To Be A Cat",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/150.png"
+			}
+		},
+		{
+			"name": "The Circle of Life",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/151.png"
+			}
+		},
+		{
+			"name": "Let it Go",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/152.png"
+			}
+		},
+		{
+			"name": "Hades, God of the Dead",
+			"rarity": "special",
+			"mana_cost": "{4}{B}{B}{B}",
+			"type": "Legendary Creature — God",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/153.png"
+			}
+		},
+		{
+			"name": "Sword of Truth",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/154.png"
+			}
+		},
+		{
+			"name": "Maleficent's Staff",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/155.png"
+			}
+		},
+		{
+			"name": "King Triton's Trident",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/156.png"
+			}
+		},
+		{
+			"name": "Shield of Virtue",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/157.png"
+			}
+		},
+		{
+			"name": "Mrs. Potts",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Artifact Creature — Advisor",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/158.png"
+			}
+		},
+		{
+			"name": "Tangle",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/159.png"
+			}
+		},
+		{
+			"name": "Gazelle",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Antelope Bard",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/160.png"
+			}
+		},
+		{
+			"name": "Pinocchio",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Legendary Artifact Creature — Toy",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/161.png"
+			}
+		},
+		{
+			"name": "Pocahontas",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/162.png"
+			}
+		},
+		{
+			"name": "Wreck-it Wralph",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Avatar Warrior",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/163.png"
+			}
+		},
+		{
+			"name": "The Grand Councilwoman",
+			"rarity": "special",
+			"mana_cost": "{6}{G}{U}",
+			"type": "Legendary Creature — Alien Advisor",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/164.png"
+			}
+		},
+		{
+			"name": "Dragon's Ire",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/165.png"
+			}
+		},
+		{
+			"name": "Judge Claude Frollo",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/166.png"
+			}
+		},
+		{
+			"name": "Sergeant Calhoun",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Avatar Soldier",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/167.png"
+			}
+		},
+		{
+			"name": "Robin Hood's Bow",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/168.png"
+			}
+		},
+		{
+			"name": "Medallion Weights",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/169.png"
+			}
+		},
+		{
+			"name": "Part of your World",
+			"rarity": "special",
+			"mana_cost": "{X}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/170.png"
+			}
+		},
+		{
+			"name": "Off With Her Head!",
+			"rarity": "special",
+			"mana_cost": "{B}{B}",
+			"type": "Instant",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/171.png"
+			}
+		},
+		{
+			"name": "The Most Diabolical Scheme",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/172.png"
+			}
+		},
+		{
+			"name": "Kill the Beast!",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/173.png"
+			}
+		},
+		{
+			"name": "Heffalumps and Woozles",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/174.png"
+			}
+		},
+		{
+			"name": "A Very Merry Unbirthday",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/175.png"
+			}
+		},
+		{
+			"name": "A Blast From Your Past",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/176.png"
+			}
+		},
+		{
+			"name": "Chip and Dale, Rescue Rangers",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Squirrel Detective",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/177.png"
+			}
+		},
+		{
+			"name": "The Mad Hatter",
+			"rarity": "special",
+			"mana_cost": "{U}{R}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/178.png"
+			}
+		},
+		{
+			"name": "Timon, Grub Rustler",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Mongoose",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/179.png"
+			}
+		},
+		{
+			"name": "Cobra Bubbles",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/180.png"
+			}
+		},
+		{
+			"name": "Monterrey Jack",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Mouse Ranger",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/181.png"
+			}
+		},
+		{
+			"name": "Kronk",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Creature — Human Gymbro Minion",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/182.png"
+			}
+		},
+		{
+			"name": "Hatch a Plan",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/183.png"
+			}
+		},
+		{
+			"name": "Ever as Before",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/184.png"
+			}
+		},
+		{
+			"name": "A Sudden Chill",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/185.png"
+			}
+		},
+		{
+			"name": "Dolores Madrigal",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Enchantment Creature — Human",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/186.png"
+			}
+		},
+		{
+			"name": "King Candy",
+			"rarity": "special",
+			"mana_cost": "{R}{W}",
+			"type": "Legendary Creature — Avatar Pilot Noble",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/187.png"
+			}
+		},
+		{
+			"name": "For the First Time in Forever",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/188.png"
+			}
+		},
+		{
+			"name": "The March Hare",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Rabbit",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/189.png"
+			}
+		},
+		{
+			"name": "The Horned King",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Skeleton Warlock",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/190.png"
+			}
+		},
+		{
+			"name": "Little John",
+			"rarity": "special",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Legendary Creature — Bear Rogue",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/191.png"
+			}
+		},
+		{
+			"name": "Bolt, the Superdog",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Dog",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/192.png"
+			}
+		},
+		{
+			"name": "Kuzco's Transformation",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Enchantment — Aura",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/193.png"
+			}
+		},
+		{
+			"name": "Plant",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Plant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/194.png"
+			}
+		},
+		{
+			"name": "Glass Slipper",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Equipment",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/195.png"
+			}
+		},
+		{
+			"name": "Mama Odie",
+			"rarity": "special",
+			"mana_cost": "{B}{G}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/196.png"
+			}
+		},
+		{
+			"name": "The Firebird",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Phoenix",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/197.png"
+			}
+		},
+		{
+			"name": "Professor Robert Callaghan",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/198.png"
+			}
+		},
+		{
+			"name": "Scroop the Unscrupulous",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Insect Alien Pirate",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/199.png"
+			}
+		},
+		{
+			"name": "Sebastian",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Crab Advisor",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/200.png"
+			}
+		},
+		{
+			"name": "The Magic Carpet",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/201.png"
+			}
+		},
+		{
+			"name": "Plumette",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Legendary Artifact Creature — Woman",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/202.png"
+			}
+		},
+		{
+			"name": "Frederick Flamarion Frederickson IV",
+			"rarity": "special",
+			"mana_cost": "{R}{G}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/203.png"
+			}
+		},
+		{
+			"name": "The Three Fates",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — God",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/204.png"
+			}
+		},
+		{
+			"name": "Madame Medusa",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/205.png"
+			}
+		},
+		{
+			"name": "I Find 'Em, I Flatten 'Em",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/206.png"
+			}
+		},
+		{
+			"name": "Pumbaa",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Boar",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/207.png"
+			}
+		},
+		{
+			"name": "Liutenant Helga Sinclair",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Human Mercenary",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/208.png"
+			}
+		},
+		{
+			"name": "All is Found",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/209.png"
+			}
+		},
+		{
+			"name": "Hawaiian Roller Coaster Ride",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/210.png"
+			}
+		},
+		{
+			"name": "Akela",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Wolf",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/211.png"
+			}
+		},
+		{
+			"name": "Sanfransokyo Institute of Technology",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "341",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/212.png"
+			}
+		},
+		{
+			"name": "Lady Tremaine",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/213.png"
+			}
+		},
+		{
+			"name": "Bagheera",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Cat",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/214.png"
+			}
+		},
+		{
+			"name": "Jasmine, Heir to Agrabah",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/215.png"
+			}
+		},
+		{
+			"name": "I've Got a Dream",
+			"rarity": "special",
+			"mana_cost": "{X}{R}",
+			"type": "Instant",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/216.png"
+			}
+		},
+		{
+			"name": "Alan-a-Dale",
+			"rarity": "special",
+			"mana_cost": "{R}{W}",
+			"type": "Legendary Creature — Bird Bard",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/217.png"
+			}
+		},
+		{
+			"name": "Scuttle",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Bird",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/218.png"
+			}
+		},
+		{
+			"name": "Shenzi",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Hyena",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/219.png"
+			}
+		},
+		{
+			"name": "Marshmallow",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Legendary Creature — Elemental",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/220.png"
+			}
+		},
+		{
+			"name": "B.E.N.",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact Creature — Construct",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/221.png"
+			}
+		},
+		{
+			"name": "Gold Coin",
+			"rarity": "special",
+			"mana_cost": "{0}",
+			"type": "Artifact — Gold",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/222.png"
+			}
+		},
+		{
+			"name": "Jumba Jookiba",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Alien Artificer",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/223.png"
+			}
+		},
+		{
+			"name": "Nessus, River Guardian",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Centaur",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/224.png"
+			}
+		},
+		{
+			"name": "White Rabbit's Pocket Watch",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/225.png"
+			}
+		},
+		{
+			"name": "Eeyore",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Donkey Toy",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/226.png"
+			}
+		},
+		{
+			"name": "Big Daddy Eli La Bouff",
+			"rarity": "special",
+			"mana_cost": "{W}{B}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/227.png"
+			}
+		},
+		{
+			"name": "Jasper",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Human Minion",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/228.png"
+			}
+		},
+		{
+			"name": "Horace",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Legendary Creature — Human Minion",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/229.png"
+			}
+		},
+		{
+			"name": "Pain and Panic",
+			"rarity": "special",
+			"mana_cost": "{B}{R}",
+			"type": "Legendary Creature — Imp Imp",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/230.png"
+			}
+		},
+		{
+			"name": "Morph",
+			"rarity": "special",
+			"mana_cost": "{G}{U}",
+			"type": "Legendary Creature — Alien Shapeshifter",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/231.png"
+			}
+		},
+		{
+			"name": "Do It Again!",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/232.png"
+			}
+		},
+		{
+			"name": "Wreck",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/233.png"
+			}
+		},
+		{
+			"name": "Twin Fire",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/234.png"
+			}
+		},
+		{
+			"name": "Arges, One-Eyed Lout",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Cyclops",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/235.png"
+			}
+		},
+		{
+			"name": "Razoul",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/236.png"
+			}
+		},
+		{
+			"name": "Mr. Smee",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Pirate",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/237.png"
+			}
+		},
+		{
+			"name": "Captain Amelia",
+			"rarity": "special",
+			"mana_cost": "{4}{U}",
+			"type": "Legendary Creature — Alien Soldier",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/238.png"
+			}
+		},
+		{
+			"name": "Fidget",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Bat Minion",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/239.png"
+			}
+		},
+		{
+			"name": "RLS Legacy",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/240.png"
+			}
+		},
+		{
+			"name": "Knowledge and Wisdom",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/241.png"
+			}
+		},
+		{
+			"name": "Consign to Misery",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/242.png"
+			}
+		},
+		{
+			"name": "Basil of Baker Street",
+			"rarity": "special",
+			"mana_cost": "{W}{U}",
+			"type": "Legendary Creature — Mouse Detective",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/243.png"
+			}
+		},
+		{
+			"name": "Just Around the Riverbend",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/244.png"
+			}
+		},
+		{
+			"name": "Mother Gothel",
+			"rarity": "special",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Creature — Human Warlock",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/245.png"
+			}
+		},
+		{
+			"name": "Pleakley",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Alien Advisor",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/246.png"
+			}
+		},
+		{
+			"name": "Prince Naveen",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/247.png"
+			}
+		},
+		{
+			"name": "Genie's Lamp",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/248.png"
+			}
+		},
+		{
+			"name": "Dinner Time",
+			"rarity": "special",
+			"mana_cost": "{B}{G}",
+			"type": "Instant",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/249.png"
+			}
+		},
+		{
+			"name": "Out of Order",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/250.png"
+			}
+		},
+		{
+			"name": "Stampede",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/251.png"
+			}
+		},
+		{
+			"name": "Pride Rock",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "335",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/252.png"
+			}
+		},
+		{
+			"name": "Brew the Sleeping Death",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/253.png"
+			}
+		},
+		{
+			"name": "Last Cannon",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/254.png"
+			}
+		},
+		{
+			"name": "Where You Are",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/255.png"
+			}
+		},
+		{
+			"name": "One Hundred and One Dalmatians",
+			"rarity": "special",
+			"mana_cost": "{X}{W}{W}",
+			"type": "Legendary Enchantment",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/256.png"
+			}
+		},
+		{
+			"name": "Tick-Tock",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Crocodile",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/257.png"
+			}
+		},
+		{
+			"name": "Mushu, Family Guardian",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Dragon Spirit",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/258.png"
+			}
+		},
+		{
+			"name": "Raya",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/259.png"
+			}
+		},
+		{
+			"name": "Bianca the Rescuer",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Mouse",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/260.png"
+			}
+		},
+		{
+			"name": "Go the Distance",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/261.png"
+			}
+		},
+		{
+			"name": "The Muses",
+			"rarity": "special",
+			"mana_cost": "{4}{G}",
+			"type": "Legendary Creature — God",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/262.png"
+			}
+		},
+		{
+			"name": "Zero to Hero",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/263.png"
+			}
+		},
+		{
+			"name": "Treasure Planet",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Artifact Land — Treasure Planet",
+			"collector_number": "353",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/264.png"
+			}
+		},
+		{
+			"name": "Friar Tuck",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Badger Cleric",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/265.png"
+			}
+		},
+		{
+			"name": "Lash Out",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/266.png"
+			}
+		},
+		{
+			"name": "Meticulous Archive",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "332",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/267.png"
+			}
+		},
+		{
+			"name": "Raucous Theater",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "340",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/268.png"
+			}
+		},
+		{
+			"name": "Commercial District",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "311",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/269.png"
+			}
+		},
+		{
+			"name": "Lush Portico",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Forest Plains",
+			"collector_number": "325",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/270.png"
+			}
+		},
+		{
+			"name": "Thundering Falls",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "350",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/271.png"
+			}
+		},
+		{
+			"name": "Shadowy Backstreet",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "344",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/272.png"
+			}
+		},
+		{
+			"name": "Undercity Sewers",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "357",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/273.png"
+			}
+		},
+		{
+			"name": "Elegant Parlor",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains",
+			"collector_number": "316",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/274.png"
+			}
+		},
+		{
+			"name": "Underground Mortuary",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "358",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/275.png"
+			}
+		},
+		{
+			"name": "Hedge Maze",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — ForestIsland",
+			"collector_number": "323",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/276.png"
+			}
+		},
+		{
+			"name": "Underground Sea",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "359",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/277.png"
+			}
+		},
+		{
+			"name": "Skull Rock",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Island Swamp",
+			"collector_number": "346",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/278.png"
+			}
+		},
+		{
+			"name": "Badlands",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "307",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/279.png"
+			}
+		},
+		{
+			"name": "Taiga",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "349",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/280.png"
+			}
+		},
+		{
+			"name": "Savannah",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Forest Plains",
+			"collector_number": "342",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/281.png"
+			}
+		},
+		{
+			"name": "Scrubland",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "343",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/282.png"
+			}
+		},
+		{
+			"name": "Volcanic Island",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "360",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/283.png"
+			}
+		},
+		{
+			"name": "Bayou",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "308",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/284.png"
+			}
+		},
+		{
+			"name": "Plateau",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains",
+			"collector_number": "334",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/285.png"
+			}
+		},
+		{
+			"name": "Tropical Island",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "354",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/286.png"
+			}
+		},
+		{
+			"name": "Tundra",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "355",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/287.png"
+			}
+		},
+		{
+			"name": "The Snuggly Duckling",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Swamp Mountain",
+			"collector_number": "347",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/288.png"
+			}
+		},
+		{
+			"name": "Tundratown",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Plains Island",
+			"collector_number": "356",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/289.png"
+			}
+		},
+		{
+			"name": "The Great Wall of China",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Plains Swamp",
+			"collector_number": "322",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/290.png"
+			}
+		},
+		{
+			"name": "La Casita Madrigal",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Forest Mountain",
+			"collector_number": "324",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/291.png"
+			}
+		},
+		{
+			"name": "Galactic Council Chamber",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Island Mountain",
+			"collector_number": "320",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/292.png"
+			}
+		},
+		{
+			"name": "McDuck Manor",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Forest Plains",
+			"collector_number": "328",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/293.png"
+			}
+		},
+		{
+			"name": "Fang City",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Swamp Forest",
+			"collector_number": "319",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/294.png"
+			}
+		},
+		{
+			"name": "Mermaid Lagoon",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Forest Island",
+			"collector_number": "331",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/295.png"
+			}
+		},
+		{
+			"name": "Cruella's Estate",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "312",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/296.png"
+			}
+		},
+		{
+			"name": "Elsa's Retreat",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "318",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/297.png"
+			}
+		},
+		{
+			"name": "Ariel's Grotto",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "306",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/298.png"
+			}
+		},
+		{
+			"name": "Belle's House",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/299.png"
+			}
+		},
+		{
+			"name": "Merlin's Cottage",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "329",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/300.png"
+			}
+		},
+		{
+			"name": "Prince John's Fortress",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "336",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/301.png"
+			}
+		},
+		{
+			"name": "Rapunzel's Tower",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "338",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/302.png"
+			}
+		},
+		{
+			"name": "Maui's Island",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "326",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/303.png"
+			}
+		},
+		{
+			"name": "Dwarfs' Mine",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "314",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/304.png"
+			}
+		},
+		{
+			"name": "Tiana's Palace",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "351",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/305.png"
+			}
+		},
+		{
+			"name": "Elsa's Retreat",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "317",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/306.png"
+			}
+		},
+		{
+			"name": "Ariel's Grotto",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "305",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/307.png"
+			}
+		},
+		{
+			"name": "Prince John's Fortress",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "337",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/308.png"
+			}
+		},
+		{
+			"name": "Dwarfs' Mine",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "315",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/309.png"
+			}
+		},
+		{
+			"name": "Belle's House",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "309",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/310.png"
+			}
+		},
+		{
+			"name": "Rapunzel's Tower",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "339",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/311.png"
+			}
+		},
+		{
+			"name": "Merlin's Cottage",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "330",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/312.png"
+			}
+		},
+		{
+			"name": "Cruella's Estate",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "313",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/313.png"
+			}
+		},
+		{
+			"name": "Tiana's Palace",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "352",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/314.png"
+			}
+		},
+		{
+			"name": "Maui's Island",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "327",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/315.png"
+			}
+		},
+		{
+			"name": "Titanic Calamity",
+			"rarity": "special",
+			"mana_cost": "{X}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/316.png"
+			}
+		},
+		{
+			"name": "Pegasus, Heavenly Steed",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Pegasus",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/317.png"
+			}
+		},
+		{
+			"name": "Shan Yu",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/318.png"
+			}
+		},
+		{
+			"name": "Madame de la Grande Bouche",
+			"rarity": "special",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact Creature — Bard",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/319.png"
+			}
+		},
+		{
+			"name": "The Devil's Eye Diamond",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Artifact",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/320.png"
+			}
+		},
+		{
+			"name": "Dreamless Sleep",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/321.png"
+			}
+		},
+		{
+			"name": "Fall to Your Death",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/322.png"
+			}
+		},
+		{
+			"name": "Cri-Kee, Lucky Cricket",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Insect",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/323.png"
+			}
+		},
+		{
+			"name": "Trust in Me",
+			"rarity": "special",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/324.png"
+			}
+		},
+		{
+			"name": "Once Upon a Dream",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/325.png"
+			}
+		},
+		{
+			"name": "No Worries",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/326.png"
+			}
+		},
+		{
+			"name": "Incited Avalanche",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/327.png"
+			}
+		},
+		{
+			"name": "Remember Who You Are",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/328.png"
+			}
+		},
+		{
+			"name": "The Return of Jafar",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Enchantment",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/329.png"
+			}
+		},
+		{
+			"name": "Everything I've Learned and More",
+			"rarity": "special",
+			"mana_cost": "{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/330.png"
+			}
+		},
+		{
+			"name": "Unexpected Jaguars",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/331.png"
+			}
+		},
+		{
+			"name": "Second Star to the Right",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/332.png"
+			}
+		},
+		{
+			"name": "Botfight Arena",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/333.png"
+			}
+		},
+		{
+			"name": "The Robot Queen",
+			"rarity": "special",
+			"mana_cost": "{7}",
+			"type": "Legendary Artifact Creature — Construct",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/334.png"
+			}
+		},
+		{
+			"name": "The Leviathan",
+			"rarity": "special",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact Creature — Leviathan",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/335.png"
+			}
+		},
+		{
+			"name": "Stone Guardian of Atlantis",
+			"rarity": "special",
+			"mana_cost": "{8}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/336.png"
+			}
+		},
+		{
+			"name": "Kida, Princess of Atlantis",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/337.png"
+			}
+		},
+		{
+			"name": "Alice in Wonderland",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Legendary Creature — Human Child",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/338.png"
+			}
+		},
+		{
+			"name": "Archimedes, Educated Owl",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Legendary Creature — Bird",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/339.png"
+			}
+		},
+		{
+			"name": "Tweedledum",
+			"rarity": "special",
+			"mana_cost": "{W}{B}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/340.png"
+			}
+		},
+		{
+			"name": "Mirabel Madrigal",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/341.png"
+			}
+		},
+		{
+			"name": "Unfortunate Situation",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/342.png"
+			}
+		},
+		{
+			"name": "Dead of Centuries Past",
+			"rarity": "special",
+			"mana_cost": "{X}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/343.png"
+			}
+		},
+		{
+			"name": "Chief Tui",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}{G}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/344.png"
+			}
+		},
+		{
+			"name": "Denahi, Avenging Brother",
+			"rarity": "special",
+			"mana_cost": "{B}{B}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/345.png"
+			}
+		},
+		{
+			"name": "Broadway",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Legendary Kindred Artifact — Gargoyle",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/346.png"
+			}
+		},
+		{
+			"name": "The Flying Dutchman",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/347.png"
+			}
+		},
+		{
+			"name": "Davy Jones",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Legendary Creature — Horror Pirate",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/348.png"
+			}
+		},
+		{
+			"name": "Rajah, Royal Companion",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Cat Advisor",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/349.png"
+			}
+		},
+		{
+			"name": "Swooping Gwythaint",
+			"rarity": "special",
+			"mana_cost": "{6}{B}",
+			"type": "Creature — Dragon",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/350.png"
+			}
+		},
+		{
+			"name": "Ares, God of War",
+			"rarity": "special",
+			"mana_cost": "{R}{R}",
+			"type": "Legendary Creature — God",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/351.png"
+			}
+		},
+		{
+			"name": "Five Dozen Eggs",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/352.png"
+			}
+		},
+		{
+			"name": "Grab your Sword!",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/353.png"
+			}
+		},
+		{
+			"name": "Malicious, Mean and Scary",
+			"rarity": "special",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/354.png"
+			}
+		},
+		{
+			"name": "Alameda Slim",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/355.png"
+			}
+		},
+		{
+			"name": "Sugar Rush Speedway",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "348",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/356.png"
+			}
+		},
+		{
+			"name": "Sherwood Forest",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Forest",
+			"collector_number": "345",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/357.png"
+			}
+		},
+		{
+			"name": "Food Token",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Artifact — Food",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/358.png"
+			}
+		},
+		{
+			"name": "Frying Pan",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/359.png"
+			}
+		},
+		{
+			"name": "Xanatos's Gambit",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/360.png"
+			}
+		},
+		{
+			"name": "Reckless Cannonade",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/361.png"
+			}
+		},
+		{
+			"name": "Show Yourself",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/362.png"
+			}
+		},
+		{
+			"name": "Colors of the Wind",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/363.png"
+			}
+		},
+		{
+			"name": "Garden of Lost Souls",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "321",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/364.png"
+			}
+		},
+		{
+			"name": "Rescue Rangers Away!",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WD3-files/img/365.png"
+			}
+		}
+	]
+
+[cube(15)]
+	1 Scrooge McDuck
+	1 Captain Hook
+	1 The Fairy Godmother
+	1 Snow White
+	1 Simba
+	1 Hercules
+	1 Bernard the Rescuer
+	1 Anna of Arendelle
+	1 Prince Eric
+	1 Fa Mulan
+	1 Fix-It Felix, Jr.
+	1 Maximus, Horse-Cop
+	1 Julieta Madrigal
+	1 Arthur, Once and Future King
+	1 Orville, Plane and Pilot
+	1 Abuela Madrigal
+	1 Li Shang
+	1 Philoctetes
+	1 Hans of the Southern Isles
+	1 Prince Phillip
+	1 Mufasa, the Lion King
+	1 Megara
+	1 Dr. Facilier
+	1 Heihei, Boat Snack
+	1 Scar, King Undisputed
+	1 Professor Ratigan
+	1 Belle
+	1 Endless Goons
+	1 Moana of Motonui
+	1 Merlin
+	1 Kakamora Raider
+	1 Iago
+	1 A Whole New World
+	1 Cerberus, Hellish Hound
+	1 Jafar, Scheming Vizier
+	1 Jim Hawkins
+	1 Aladdin, Street Rat
+	1 Te Ka, the Burning One
+	1 Ursula, the Sea Witch
+	1 The Genie
+	1 Diablo
+	1 King Louie
+	1 Tigger
+	1 Maleficent, Mistress of All Evil
+	1 Chernabog, God of Darkness
+	1 Flynn Rider, Dashing Scoundrel
+	1 Shere Khan, Lord of the Jungle
+	1 Hi Ho!
+	1 Tamatoa
+	1 Zeus, God of Lightning
+	1 The Three Good Faeries
+	1 Elsa of Arendelle
+	1 Be A Man!
+	1 Yzma, Royal Alchemist
+	1 Snuff out the Light
+	1 Cruella De Vil
+	1 Piglet
+	1 Luisa Madrigal
+	1 Cogsworth
+	1 Ariel, Curio Collector
+	1 Zazu
+	1 Mowgli, the Man-cub
+	1 Winnie the Pooh
+	1 Baymax
+	1 The Cheshire Cat
+	1 Peter Pan, Lost Boy
+	1 Kuzco, Cursed Emperor
+	1 The Evil Queen
+	1 Tinker Bell
+	1 Rafiki
+	1 Hiro Hamada
+	1 Lumiere
+	1 The Queen of Hearts
+	1 Pawpsicle
+	1 Heart of Te Fiti
+	1 Maui, Hero to All
+	1 Stitch
+	1 Olaf
+	1 Friends on the Other Side
+	1 Under the Sea
+	1 Dinglehopper
+	1 Miracle Candle
+	1 Magic Mirror
+	1 Walk the Plank
+	1 Be Prepared
+	1 John Silver
+	1 Honeylemon
+	1 Go-Go Tomago
+	1 Locked Those Suckers in a Vault
+	1 Wasabi
+	1 Antonio Madrigal
+	1 Bambi
+	1 Kristoff
+	1 Sven
+	1 Pascal
+	1 Lyle Tiberius Rourke
+	1 Vanellope Von Schweetz
+	1 Kanga
+	1 Rapunzel
+	1 Aurora, Sleeping Beauty
+	1 Clayton
+	1 Tarzan, Son of Man
+	1 You're Welcome!
+	1 Pepa Madrigal
+	1 Lefou, Eager Stooge
+	1 Gramma Tala
+	1 When Will My Life Begin?
+	1 How Far I'll Go
+	1 We Know The Way
+	1 Bruno Madrigal
+	1 Bibbidi Bobbidi Boo
+	1 Hellfire
+	1 The Bare Necessities
+	1 Mount Olympus
+	1 Honey, You Mean Hunkules!
+	1 Milo Thatch
+	1 Map of Treasure Planet
+	1 Grand Pabbie
+	1 Gaston
+	1 Camillo Madrigal
+	1 The Beast
+	1 Colonel Hathi
+	1 Gantu, Federation Captain
+	1 Prince John
+	1 Pacha
+	1 Dig A Little Deeper
+	1 All the Powers of Hell
+	1 Monstro, Whale of a Whale
+	1 Friend Like Me
+	1 Robin Hood
+	1 Namaari, Heir of Fang
+	1 Lost in the Woods
+	1 Let The Storm Rage On
+	1 Madam Mim
+	1 The Hydra
+	1 Lilo
+	1 Baloo
+	1 I See The Light
+	1 Cinderella
+	1 Nala
+	1 The Sheriff of Nottingham
+	1 Tiana
+	1 Isabela Madrigal
+	1 Mickey, Sorcerer's Apprentice
+	1 Burning Love
+	1 Mother Knows Best
+	1 Curiouser and Curiouser
+	1 Into the Unknown
+	1 Some Things Never Change
+	1 Everybody Wants To Be A Cat
+	1 The Circle of Life
+	1 Let it Go
+	1 Hades, God of the Dead
+	1 Sword of Truth
+	1 Maleficent's Staff
+	1 King Triton's Trident
+	1 Shield of Virtue
+	1 Mrs. Potts
+	1 Tangle
+	1 Gazelle
+	1 Pinocchio
+	1 Pocahontas
+	1 Wreck-it Wralph
+	1 The Grand Councilwoman
+	1 Dragon's Ire
+	1 Judge Claude Frollo
+	1 Sergeant Calhoun
+	1 Robin Hood's Bow
+	1 Medallion Weights
+	1 Part of your World
+	1 Off With Her Head!
+	1 The Most Diabolical Scheme
+	1 Kill the Beast!
+	1 Heffalumps and Woozles
+	1 A Very Merry Unbirthday
+	1 A Blast From Your Past
+	1 Chip and Dale, Rescue Rangers
+	1 The Mad Hatter
+	1 Timon, Grub Rustler
+	1 Cobra Bubbles
+	1 Monterrey Jack
+	1 Kronk
+	1 Hatch a Plan
+	1 Ever as Before
+	1 A Sudden Chill
+	1 Dolores Madrigal
+	1 King Candy
+	1 For the First Time in Forever
+	1 The March Hare
+	1 The Horned King
+	1 Little John
+	1 Bolt, the Superdog
+	1 Mama Odie
+	1 The Firebird
+	1 Professor Robert Callaghan
+	1 Scroop the Unscrupulous
+	1 Sebastian
+	1 The Magic Carpet
+	1 Plumette
+	1 Frederick Flamarion Frederickson IV
+	1 The Three Fates
+	1 Madame Medusa
+	1 I Find 'Em, I Flatten 'Em
+	1 Pumbaa
+	1 Liutenant Helga Sinclair
+	1 All is Found
+	1 Hawaiian Roller Coaster Ride
+	1 Akela
+	1 Sanfransokyo Institute of Technology
+	1 Lady Tremaine
+	1 Bagheera
+	1 Jasmine, Heir to Agrabah
+	1 I've Got a Dream
+	1 Alan-a-Dale
+	1 Scuttle
+	1 Shenzi
+	1 Marshmallow
+	1 B.E.N.
+	1 Gold Coin
+	1 Jumba Jookiba
+	1 Nessus, River Guardian
+	1 White Rabbit's Pocket Watch
+	1 Eeyore
+	1 Big Daddy Eli La Bouff
+	1 Jasper
+	1 Pain and Panic
+	1 Morph
+	1 Do It Again!
+	1 Wreck
+	1 Twin Fire
+	1 Arges, One-Eyed Lout
+	1 Razoul
+	1 Mr. Smee
+	1 Captain Amelia
+	1 Fidget
+	1 RLS Legacy
+	1 Knowledge and Wisdom
+	1 Consign to Misery
+	1 Basil of Baker Street
+	1 Just Around the Riverbend
+	1 Mother Gothel
+	1 Pleakley
+	1 Prince Naveen
+	1 Genie's Lamp
+	1 Dinner Time
+	1 Out of Order
+	1 Stampede
+	1 Pride Rock
+	1 Brew the Sleeping Death
+	1 Last Cannon
+	1 Where You Are
+	1 One Hundred and One Dalmatians
+	1 Tick-Tock
+	1 Mushu, Family Guardian
+	1 Raya
+	1 Bianca the Rescuer
+	1 Go the Distance
+	1 The Muses
+	1 Zero to Hero
+	1 Treasure Planet
+	1 Friar Tuck
+	1 Lash Out
+	1 Meticulous Archive
+	1 Raucous Theater
+	1 Commercial District
+	1 Lush Portico
+	1 Thundering Falls
+	1 Shadowy Backstreet
+	1 Undercity Sewers
+	1 Elegant Parlor
+	1 Underground Mortuary
+	1 Hedge Maze
+	1 Underground Sea
+	1 Skull Rock
+	1 Badlands
+	1 Taiga
+	1 Savannah
+	1 Scrubland
+	1 Volcanic Island
+	1 Bayou
+	1 Plateau
+	1 Tropical Island
+	1 Tundra
+	1 The Snuggly Duckling
+	1 Tundratown
+	1 The Great Wall of China
+	1 La Casita Madrigal
+	1 Galactic Council Chamber
+	1 McDuck Manor
+	1 Fang City
+	1 Mermaid Lagoon
+	1 Cruella's Estate
+	1 Elsa's Retreat
+	1 Ariel's Grotto
+	1 Belle's House
+	1 Merlin's Cottage
+	1 Prince John's Fortress
+	1 Rapunzel's Tower
+	1 Maui's Island
+	1 Dwarfs' Mine
+	1 Tiana's Palace
+	1 Elsa's Retreat
+	1 Ariel's Grotto
+	1 Prince John's Fortress
+	1 Dwarfs' Mine
+	1 Belle's House
+	1 Rapunzel's Tower
+	1 Merlin's Cottage
+	1 Cruella's Estate
+	1 Tiana's Palace
+	1 Maui's Island
+	1 Titanic Calamity
+	1 Pegasus, Heavenly Steed
+	1 Shan Yu
+	1 Madame de la Grande Bouche
+	1 The Devil's Eye Diamond
+	1 Dreamless Sleep
+	1 Fall to Your Death
+	1 Cri-Kee, Lucky Cricket
+	1 Trust in Me
+	1 Once Upon a Dream
+	1 No Worries
+	1 Incited Avalanche
+	1 Remember Who You Are
+	1 The Return of Jafar
+	1 Everything I've Learned and More
+	1 Unexpected Jaguars
+	1 Second Star to the Right
+	1 Botfight Arena
+	1 The Robot Queen
+	1 The Leviathan
+	1 Stone Guardian of Atlantis
+	1 Kida, Princess of Atlantis
+	1 Alice in Wonderland
+	1 Archimedes, Educated Owl
+	1 Tweedledum
+	1 Mirabel Madrigal
+	1 Unfortunate Situation
+	1 Dead of Centuries Past
+	1 Chief Tui
+	1 Denahi, Avenging Brother
+	1 Broadway
+	1 The Flying Dutchman
+	1 Davy Jones
+	1 Rajah, Royal Companion
+	1 Swooping Gwythaint
+	1 Ares, God of War
+	1 Five Dozen Eggs
+	1 Grab your Sword!
+	1 Malicious, Mean and Scary
+	1 Alameda Slim
+	1 Sugar Rush Speedway
+	1 Sherwood Forest
+	1 Frying Pan
+	1 Xanatos's Gambit
+	1 Reckless Cannonade
+	1 Show Yourself
+	1 Colors of the Wind
+	1 Garden of Lost Souls
+	1 Rescue Rangers Away!
