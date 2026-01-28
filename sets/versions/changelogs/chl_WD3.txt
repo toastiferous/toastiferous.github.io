@@ -1,4 +1,15 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+
+Monterrey Jack
+rules_text: Backup 1 [i](When this creature enters, put a +1/+1 counter on target creature. If that's another creature, it gains the following ability until end of turn.)[/i] [i](When this creature enters, put a +1/+1 counter on target creature. If that's another creature, it gains the following abilities until end of turn.)[/i]
+{T}: Add an amount of {G} equal to this creature's power. => Backup 1 [i](When this creature enters, put a +1/+1 counter on target creature. If that's another creature, it gains the following abilities until end of turn.)[/i]
+{T}: Add an amount of {G} equal to this creature's power.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Mount Olympus added.

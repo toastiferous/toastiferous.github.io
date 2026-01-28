@@ -3889,7 +3889,7 @@
             "number": 219,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Backup 1 [i](When this creature enters, put a +1/+1 counter on target creature. If that's another creature, it gains the following ability until end of turn.)[/i] [i](When this creature enters, put a +1/+1 counter on target creature. If that's another creature, it gains the following abilities until end of turn.)[/i]\n{T}: Add an amount of {G} equal to this creature's power.",
+            "rules_text": "Backup 1 [i](When this creature enters, put a +1/+1 counter on target creature. If that's another creature, it gains the following abilities until end of turn.)[/i]\n{T}: Add an amount of {G} equal to this creature's power.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -7725,5 +7725,5 @@
             "notes": ""
         }
     ],
-    "version": 3
+    "version": 4
 }
