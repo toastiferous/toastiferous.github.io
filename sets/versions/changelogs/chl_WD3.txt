@@ -1,4 +1,624 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Mount Olympus added.
+Meticulous Archive added.
+Raucous Theater added.
+Commercial District added.
+Lush Portico added.
+Thundering Falls added.
+Shadowy Backstreet added.
+Undercity Sewers added.
+Elegant Parlor added.
+Underground Mortuary added.
+Hedge Maze added.
+Underground Sea added.
+Skull Rock added.
+Badlands added.
+Taiga added.
+Savannah added.
+Scrubland added.
+Volcanic Island added.
+Bayou added.
+Plateau added.
+Tropical Island added.
+Tundra added.
+The Snuggly Duckling added.
+Tundratown added.
+The Great Wall of China added.
+La Casita Madrigal added.
+Galactic Council Chamber added.
+McDuck Manor added.
+Fang City added.
+Mermaid Lagoon added.
+Cruella's Estate added.
+Elsa's Retreat added.
+Ariel's Grotto added.
+Belle's House added.
+Merlin's Cottage added.
+Prince John's Fortress added.
+Rapunzel's Tower added.
+Maui's Island added.
+Dwarfs' Mine added.
+Tiana's Palace added.
+Elsa's Retreat added.
+Ariel's Grotto added.
+Prince John's Fortress added.
+Dwarfs' Mine added.
+Belle's House added.
+Rapunzel's Tower added.
+Merlin's Cottage added.
+Cruella's Estate added.
+Tiana's Palace added.
+Maui's Island added.
+The Devil's Eye Diamond added.
+Dreamless Sleep added.
+Fall to Your Death added.
+Cri-Kee, Lucky Cricket added.
+Trust in Me added.
+Once Upon a Dream added.
+No Worries added.
+Incited Avalanche added.
+Remember Who You Are added.
+The Return of Jafar added.
+Everything I've Learned and More added.
+Unexpected Jaguars added.
+Second Star to the Right added.
+Botfight Arena added.
+The Robot Queen added.
+The Leviathan added.
+Stone Guardian of Atlantis added.
+Kida, Princess of Atlantis added.
+Alice in Wonderland added.
+Archimedes, Educated Owl added.
+Tweedledum added.
+Mirabel Madrigal added.
+Unfortunate Situation added.
+Dead of Centuries Past added.
+Chief Tui added.
+Denahi, Avenging Brother added.
+Broadway added.
+The Flying Dutchman added.
+Davy Jones added.
+Rajah, Royal Companion added.
+Swooping Gwythaint added.
+Ares, God of War added.
+Five Dozen Eggs added.
+Grab your Sword! added.
+Malicious, Mean and Scary added.
+Alameda Slim added.
+Sugar Rush Speedway added.
+Sherwood Forest added.
+Food Token added.
+Frying Pan added.
+Xanatos's Gambit added.
+Reckless Cannonade added.
+Show Yourself added.
+Colors of the Wind added.
+Garden of Lost Souls added.
+Rescue Rangers Away! added.
+
+L39 — Sacred Foundry removed.
+Ursula's Lair removed.
+Stampede removed.
+Mushu, Family Guardian removed.
+L21 — Meticulous Archive removed.
+L23 — Raucous Theater removed.
+L24 — Commercial District removed.
+L25 — Lush Portico removed.
+L27 — Thundering Falls removed.
+L26 — Shadowy Backstreet removed.
+L22 — Undercity Sewers removed.
+L29 — Elegant Parlor removed.
+L28 — Underground Mortuary removed.
+L29. — Hedge Maze removed.
+L42 — Underground Sea removed.
+L32 — Watery Grave removed.
+L43 — Badlands removed.
+L44 — Taiga removed.
+L45 — Savannah removed.
+L46 — Scrubland removed.
+L47 — Volcanic Island removed.
+L48 — Bayou removed.
+L49 — Plateau removed.
+L49. — Tropical Island removed.
+L41 — Tundra removed.
+L33 — Blood Crypt removed.
+L35 — Temple Garden removed.
+L36 — Godless Shrine removed.
+L34 — Stomping Ground removed.
+L37 — Steam Vents removed.
+L31 — Hallowed Fountain removed.
+L38 — Overgrown Tomb removed.
+L39. — Breeding Pool removed.
+L18 — Cruella's Estate removed.
+L11 — Elsa's Retreat removed.
+L12 — Ariel's Grotto removed.
+L15 — Belle's House removed.
+L17 — Merlin's Cottage removed.
+L13 — Prince John's Fortress removed.
+L16 — Rapunzel's Tower removed.
+L19. — Maui's Island removed.
+L14 — Dwarfs' Mine removed.
+L19 — Tiana's Palace removed.
+L11 — Elsa's Retreat removed.
+L12 — Ariel's Grotto removed.
+L13 — Prince John's Fortress removed.
+L14 — Dwarfs' Mine removed.
+L15 — Belle's House removed.
+L16 — Rapunzel's Tower removed.
+L17 — Merlin's Cottage removed.
+L18 — Cruella's Estate removed.
+L19 — Tiana's Palace removed.
+L19. — Maui's Island removed.
+
+Maximus, Horse-Cop
+rules_text: Whenever Maximus, Horse-Cop attacks, if he's saddled, tap target creature you don't control.
+Saddle 1 [i](Tap any number of other creatures you control with total power 1 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)[/i] [i](Tap any number of other creatures you control with total power 1 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)[/i] => Whenever Maximus, Horse-Cop attacks, if he's saddled, tap target creature you don't control.
+Saddle 1 [i](Tap any number of other creatures you control with total power 1 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)[/i]
+
+Te Ka, the Burning One
+rules_text: When Te Ka, the Burning One enters, it deals X damage to each other creature and each opponent, where X is the number of Mountains you control.
+Whenever a Mountain enters under your control, Te Ka deals 1 damage to each other creature and each opponent. => When Te Ka, the Burning One enters, it deals X damage to each other creature and each opponent, where X is the number of lands you control.
+Whenever a land enters under your control, Te Ka deals 1 damage to each other creature and each opponent.
+
+Flynn Rider, Dashing Scoundrel
+
+Go-Go Tomago
+rules_text: Haste
+Whenever Go-Go Tomago or another creature you control that entered this turn attacks, creatures you control get +1/+0 until end of turn. => Haste
+Whenever Go-Go Tomago or a creature you control that entered this turn attacks, creatures you control get +1/+0 until end of turn.
+
+Locked Those Suckers in a Vault
+
+Sven
+rules_text: Whenever Sven attacks while saddled, return target land card from your graveyard to the battlefield.
+Saddle 1 [i](Tap any number of other creatures you control with total power 1 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)[/i] [i](Tap any number of other creatures you control with total power 1 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)[/i] => Whenever Sven attacks while saddled, return target land card from your graveyard to the battlefield.
+Saddle 1 [i](Tap any number of other creatures you control with total power 1 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)[/i]
+
+We Know The Way
+
+Honey, You Mean Hunkules!
+
+Milo Thatch
+
+Map of Treasure Planet
+
+Grand Pabbie
+
+Gaston
+
+Camillo Madrigal
+
+The Beast
+
+Colonel Hathi
+
+Gantu, Federation Captain
+
+Prince John
+
+Atlantis
+
+Pacha
+
+Dig A Little Deeper
+
+All the Powers of Hell
+
+Monstro, Whale of a Whale
+
+Friend Like Me
+
+Robin Hood
+
+Namaari, Heir of Fang
+
+Lost in the Woods
+
+Let The Storm Rage On
+
+Madam Mim
+
+The Hydra
+
+Lilo
+
+Baloo
+
+I See The Light
+
+Cinderella
+
+Nala
+
+The Sheriff of Nottingham
+cost: {W}{W} => {1}{W}
+
+Tiana
+
+Isabela Madrigal
+
+Mickey, Sorcerer's Apprentice
+
+Burning Love
+
+Mother Knows Best
+
+Curiouser and Curiouser
+
+Into the Unknown
+
+Some Things Never Change
+
+Everybody Wants To Be A Cat
+
+The Circle of Life
+
+Let it Go
+
+Hades, God of the Dead
+
+Sword of Truth
+
+Maleficent's Staff
+
+King Triton's Trident
+
+Shield of Virtue
+
+Mrs. Potts
+
+Tangle
+
+Gazelle
+
+Pinocchio
+
+Pocahontas
+
+Wreck-it Wralph
+
+The Grand Councilwoman
+
+Dragon's Ire
+
+Judge Claude Frollo
+
+Sergeant Calhoun
+
+Robin Hood's Bow
+
+Medallion Weights
+
+Part of your World
+
+Off With Her Head!
+type: Sorcery => Instant
+cost: {1}{B} => {B}{B}
+
+The Most Diabolical Scheme
+
+Kill the Beast!
+
+Heffalumps and Woozles
+rules_text: hand attack => Choose a nonland card type. Target player reveals their hand. You choose a card of the chosen type from it. That player discards that card.
+
+A Very Merry Unbirthday
+
+A Blast From Your Past
+
+Chip and Dale, Rescue Rangers
+
+The Mad Hatter
+
+Timon, Grub Rustler
+
+Cobra Bubbles
+
+Monterrey Jack
+
+Kronk
+
+Hatch a Plan
+
+Ever as Before
+
+A Sudden Chill
+
+Dolores Madrigal
+
+King Candy
+
+For the First Time in Forever
+
+The March Hare
+
+The Horned King
+
+Little John
+
+Bolt, the Superdog
+
+Kuzco's Transformation
+
+Plant
+
+Glass Slipper
+
+Mama Odie
+
+The Firebird
+
+Professor Robert Callaghan
+
+Scroop the Unscrupulous
+
+Sebastian
+
+The Magic Carpet
+
+Plumette
+
+Frederick Flamarion Frederickson IV
+
+The Three Fates
+
+Madame Medusa
+
+I Find 'Em, I Flatten 'Em
+
+Pumbaa
+
+Liutenant Helga Sinclair
+
+All is Found
+
+Hawaiian Roller Coaster Ride
+
+Akela
+
+Sanfransokyo Institute of Technology
+
+Lady Tremaine
+
+Bagheera
+
+Jasmine, Heir to Agrabah
+
+I've Got a Dream
+
+Alan-a-Dale
+
+Scuttle
+
+Shenzi
+
+Marshmallow
+
+B.E.N.
+type: Legendary Artifact Creature — Robot => Legendary Artifact Creature — Construct
+
+Gold Coin
+
+Jumba Jookiba
+
+Nessus, River Guardian
+
+White Rabbit's Pocket Watch
+rules_text: Equipped creature gets +1/+0 and has haste.
+Whenever equipped creature deals 5 or more combat damage to a player, you may exile White Rabbit's Pocket Watch. If you do, untap that creature. After this phase there is an additional combat phase.
+Equip {1} => Equipped creature gets +1/+0 and has haste.
+Whenever equipped creature deals combat damage to a player, you may pay {5} and exile White Rabbit's Pocket Watch. If you do, untap that creature. After this phase there is an additional combat phase.
+Equip {1}
+
+Eeyore
+rules_text: Whenever another creature dies, target opponent loses 1 life and you gain 1 life.
+At the beginning of your end step, each player mills a card. => Whenever another creature dies, target opponent loses 1 life and you gain 1 life.
+At the beginning of your end step, each player mills two cards.
+
+Big Daddy Eli La Bouff
+
+Jasper
+rules_text: Jasper can't block.
+When Jasper enters and at the beginning of your end step, create Horace if you don't control him. [i](Horace is a legendary 1/1 black Minion creature token with “This creature can't block.”[/i]
+At the beginning of your upkeep, if you control a creature named Horace, return Jasper from your graveyard to the battlefield. => Jasper can't block.
+When Jasper enters and at the beginning of your end step, create Horace if you don't control him. [i](Horace is a legendary 1/1 black Minion creature token with “This creature can't block.”)[/i]
+At the beginning of your upkeep, if you control a creature named Horace, return Jasper from your graveyard to the battlefield.
+
+Horace
+pt:  => 1/1
+
+Pain and Panic
+
+Morph
+rules_text: You may have Morph enter as a copy of any artifact or creature on the battefield with mana value 3 or less, except it has “{2}{G}{U}: This creature becomes a copy of target artifact or creature with mana value 3 or less, except it has this ability.” => You may have Morph enter as a copy of any artifact or creature on the battlefield with mana value 3 or less, except it has “{2}{G}{U}: This creature becomes a copy of target artifact or creature with mana value 3 or less, except it has this ability.”
+
+Do It Again!
+
+Wreck
+
+Twin Fire
+
+Arges, One-Eyed Lout
+
+Razoul
+
+Mr. Smee
+
+Captain Amelia
+cost: {3}{U}{U} => {4}{U}
+
+Fidget
+
+RLS Legacy
+
+Knowledge and Wisdom
+
+Consign to Misery
+
+Basil of Baker Street
+
+Just Around the Riverbend
+cost: {U} => {1}{U}
+rules_text: Whenever you make first contact, draw a card, then discard a card. => At the beginning of your upkeep, scry 1, then reveal the top card of your library. You may note one of its card types that hasn't been noted for this enchantment. If you do, put that card into your hand.
+
+Mother Gothel
+
+Pleakley
+
+Prince Naveen
+
+Genie's Lamp
+rules_text: Genie's Lamp enters with three wish counters on it.
+{2}, {T}, Remove a wish counter from Genie's Lamp: Choose one—
+• Add three mana of any color.
+• Draw a card.
+• ??? => Genie's Lamp enters with three wish counters on it.
+{2}, {T}, Remove a wish counter from Genie's Lamp: Choose one—
+• Add three mana of any color.
+• Draw a card.
+
+Dinner Time
+
+Out of Order
+
+Stampede
+rules_text: Each player chooses a creature they control with power 2 or less. Then destroy the rest. => Choose one—
+• Destroy all creatures with power 3 or greater.
+• Creatures you control get +2/+2 until end of turn.
+
+Pride Rock
+
+Brew the Sleeping Death
+
+Last Cannon
+
+Where You Are
+
+One Hundred and One Dalmatians
+
+Tick-Tock
+rules_text: Trample
+Whenever Tick-Tock attacks, you may exile a creature card from a graveyard. If you do, draw a card. => Trample
+Whenever Tick-Tock attacks, you may exile a creature card from a graveyard. If you do, draw a card.
+
+
+Mushu, Family Guardian
+rules_text: Whenever Mushu attacks or you cast a spell from anywhere other than your hand, Mushu deals 1 damage to target opponent.
+{R}: Mushu gets +1/+0 until end of turn. => Whenever you cast a spell from anywhere other than your hand, Mushu gets +1/+0 until end of turn and deals 1 damage to target opponent.
+Discard a card: Exile the top card of your library. You may play it this turn. Activate only once each turn.
+
+Raya
+
+Bianca the Rescuer
+
+Go the Distance
+
+The Muses
+cost: {3}{G}{G} => {4}{G}
+
+Zero to Hero
+
+Treasure Planet
+
+Friar Tuck
+
+Lash Out
+
+Titanic Calamity
+
+Pegasus, Heavenly Steed
+
+Shan Yu
+
+Madame de la Grande Bouche
+
+
+VERSION 2 CHANGELOG
+====================
+
+
+
+Kanga
+rules_text: Offspring {2}. The token is named Roo. [i](You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i] [i](You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+When Kanga enters, return target nonland, non-Kangaroo permanent to its owner's hand. If you controlled it, draw a card. => Offspring {2}. The token is named Roo. [i](You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+When Kanga enters, return target nonland, non-Kangaroo permanent to its owner's hand. If you controlled it, draw a card.
+
+King Candy
+rules_text: Start your engines! [i](If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)[/i] [i](If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)[/i]
+At the beginning of combat on your turn, target creature you control gains haste until end of turn.
+Max speed — King Candy is a 5/5 Insect Avatar with flying and trample. => Start your engines! [i](If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)[/i]
+At the beginning of combat on your turn, target creature you control gains haste until end of turn.
+Max speed — King Candy is a 5/5 Insect Avatar with flying and trample.
+
+Treasure Planet
+rules_text: {T}: Add {C}.
+{T}, Sacrifice Treasure Planet: Add one mana of any color. => {T}: Add {C}.
+{T}, Sacrifice Treasure Planet: Add one mana of any color.
+Station
+[level 20+] {T}, Sacrifice Treasure Planet: Create one thousand Treasure tokens.
+special_text:  => {T}: Add {C}.
+{T}, Sacrifice Treasure Planet: Add one mana of any color.
+Station
+[level 20+] {T}, Sacrifice Treasure Planet: Create one thousand Treasure tokens.
+
+L42 — Underground Sea
+type: Land — Forest Island => Land — Island Swamp
+rules_text: [i]({T}: Add {G} or {U})[/i] => [i]({T}: Add {U} or {B})[/i]
+
+L46 — Scrubland
+rules_text: [i]({T}: Add {G} or {U})[/i] => [i]({T}: Add {W} or {B})[/i]
+
+L47 — Volcanic Island
+type: Land — Forest Island => Land — Island Mountain
+rules_text: [i]({T}: Add {G} or {U})[/i] => [i]({T}: Add {U} or {R})[/i]
+
+L33 — Blood Crypt
+type: Land — Island Swamp => Land — Swamp Mountain
+rules_text: [i]({T}: Add {U} or {B}.)[/i]
+As this land enters, you may pay 2 life. If you don't, it enters tapped. => [i]({T}: Add {B} or {R}.)[/i]
+As this land enters, you may pay 2 life. If you don't, it enters tapped.
+
+L35 — Temple Garden
+type: Land — Island Swamp => Land — Forest Plains
+rules_text: [i]({T}: Add {U} or {B}.)[/i]
+As this land enters, you may pay 2 life. If you don't, it enters tapped. => [i]({T}: Add {G} or {W}.)[/i]
+As this land enters, you may pay 2 life. If you don't, it enters tapped.
+
+L36 — Godless Shrine
+type: Land — Island Swamp => Land — Plains Swamp
+rules_text: [i]({T}: Add {U} or {B}.)[/i]
+As this land enters, you may pay 2 life. If you don't, it enters tapped. => [i]({T}: Add {W} or {B}.)[/i]
+As this land enters, you may pay 2 life. If you don't, it enters tapped.
+
+L37 — Steam Vents
+type: Land — Island Swamp => Land — Island Mountain
+rules_text: [i]({T}: Add {U} or {B}.)[/i]
+As this land enters, you may pay 2 life. If you don't, it enters tapped. => [i]({T}: Add {U} or {R}.)[/i]
+As this land enters, you may pay 2 life. If you don't, it enters tapped.
+
+L38 — Overgrown Tomb
+type: Land — Island Swamp => Land — Swamp Forest
+rules_text: [i]({T}: Add {U} or {B}.)[/i]
+As this land enters, you may pay 2 life. If you don't, it enters tapped. => [i]({T}: Add {B} or {G}.)[/i]
+As this land enters, you may pay 2 life. If you don't, it enters tapped.
+
+L39. — Breeding Pool
+type: Land — Island Swamp => Land — Forest Island
+rules_text: [i]({T}: Add {U} or {B}.)[/i]
+As this land enters, you may pay 2 life. If you don't, it enters tapped. => [i]({T}: Add {G} or {U}.)[/i]
+As this land enters, you may pay 2 life. If you don't, it enters tapped.
+
+
+type: Legendary Creature — Bird => 
+cost: {B} => 
+rules_text: Menace
+Whenever one or more creatures you control deal combat damage to a player, you may pay 2 life. If you do, create a tapped Treasure token. => 
+pt: 1/1 => 
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
