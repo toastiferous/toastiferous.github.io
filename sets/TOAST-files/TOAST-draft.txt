@@ -1,0 +1,3028 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Bartimaeus of Uruk",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Djinn Spirit",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/0.png"
+			}
+		},
+		{
+			"name": "Dances Up Earthquakes",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/1.png"
+			}
+		},
+		{
+			"name": "Vengeance as a Burning Plague",
+			"rarity": "special",
+			"mana_cost": "{R}{R}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/2.png"
+			}
+		},
+		{
+			"name": "Alanis",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Planeswalker — Alanis",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/3.png"
+			}
+		},
+		{
+			"name": "Ambrose Montgomery",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}{B}",
+			"type": "Legendary Creature — Vampire",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/4.png"
+			}
+		},
+		{
+			"name": "Bastion",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Gnoll",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/5.png"
+			}
+		},
+		{
+			"name": "Beverly Toegold V",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Halfling Knight",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/6.png"
+			}
+		},
+		{
+			"name": "Moonshine Cybin, Queen of Elves",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Creature — Elf Druid",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/7.png"
+			}
+		},
+		{
+			"name": "The Bear Prince",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Faerie Bear Noble",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/8.png"
+			}
+		},
+		{
+			"name": "Wuxi Finger Hold",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/9.png"
+			}
+		},
+		{
+			"name": "Megamind",
+			"rarity": "special",
+			"mana_cost": "{U}{U}",
+			"type": "Legendary Creature — Alien Villain",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/10.png"
+			}
+		},
+		{
+			"name": "Hiccup Horrendous Haddock III",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/11.png"
+			}
+		},
+		{
+			"name": "Pangur Ban",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Cat",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/12.png"
+			}
+		},
+		{
+			"name": "The Sepia Knight",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Zombie Knight",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/13.png"
+			}
+		},
+		{
+			"name": "Caterbird",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/14.png"
+			}
+		},
+		{
+			"name": "Girsh Shug'ruith the Burrower",
+			"rarity": "special",
+			"mana_cost": "{6}{B}{B}",
+			"type": "Legendary Creature — Worm Horror",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/15.png"
+			}
+		},
+		{
+			"name": "Zagreus",
+			"rarity": "special",
+			"mana_cost": "{B}{R}",
+			"type": "Legendary Creature — Demigod",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/16.png"
+			}
+		},
+		{
+			"name": "Jenny Cavanaugh",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/17.png"
+			}
+		},
+		{
+			"name": "Harrowhark Nonagesimus",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/18.png"
+			}
+		},
+		{
+			"name": "Moment of Twilight",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/19.png"
+			}
+		},
+		{
+			"name": "Arborinus Twig Verginix",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Human Scout",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/20.png"
+			}
+		},
+		{
+			"name": "Stormphrax Shard",
+			"rarity": "special",
+			"mana_cost": "{0}",
+			"type": "Artifact — Powerstone",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/21.png"
+			}
+		},
+		{
+			"name": "The First Age of Flight",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/22.png"
+			}
+		},
+		{
+			"name": "The Gloamglozer",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Creature — Demon Shapeshifter",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/23.png"
+			}
+		},
+		{
+			"name": "Tears That Fill The River",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/24.png"
+			}
+		},
+		{
+			"name": "Scourge of BloodClan",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Warrior Cat",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/25.png"
+			}
+		},
+		{
+			"name": "Scoped Masterwork Carbine",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/26.png"
+			}
+		},
+		{
+			"name": "Lyra Silvertongue",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/27.png"
+			}
+		},
+		{
+			"name": "The Elf, Steward of Seasons",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Elder Elf",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/28.png"
+			}
+		},
+		{
+			"name": "The Deepwoods",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Forest",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/29.png"
+			}
+		},
+		{
+			"name": "Myra Goldskimmer",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Goblin Monger",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/30.png"
+			}
+		},
+		{
+			"name": "Midnight over Sanctaphrax",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/31.png"
+			}
+		},
+		{
+			"name": "Quintinius Cloud Wolf Verginix",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Creature — Human Pirate",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/32.png"
+			}
+		},
+		{
+			"name": "Princess Leia",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Noble Rebel",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/33.png"
+			}
+		},
+		{
+			"name": "Iorek Byrnison",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — Bear Noble",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/34.png"
+			}
+		},
+		{
+			"name": "Spiral, Mistress of the Wildways",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Creature — Human Performer",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/35.png"
+			}
+		},
+		{
+			"name": "Luke Skywalker",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Human Rebel Knight",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/36.png"
+			}
+		},
+		{
+			"name": "Han Solo",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human Pilot",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/37.png"
+			}
+		},
+		{
+			"name": "Darth Vader",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}{B}",
+			"type": "Legendary Creature — Human Warlock",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/38.png"
+			}
+		},
+		{
+			"name": "Vin, Mistborn",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/39.png"
+			}
+		},
+		{
+			"name": "Harrietta Gris, Chief Anatomist",
+			"rarity": "special",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Creature — Human Scientist",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/40.png"
+			}
+		},
+		{
+			"name": "Netin Foundry",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/41.png"
+			}
+		},
+		{
+			"name": "Vaneira, the Flower Queen",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Planeswalker — Vaneira",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/42.png"
+			}
+		},
+		{
+			"name": "Walter White",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Scientist",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/43.png"
+			}
+		},
+		{
+			"name": "Chaos Emerald",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/44.png"
+			}
+		},
+		{
+			"name": "The Infinity Gauntlet",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/45.png"
+			}
+		},
+		{
+			"name": "The Mother Storm",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/46.png"
+			}
+		},
+		{
+			"name": "Ramuthra",
+			"rarity": "special",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Legendary Creature — Elder Spirit",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/47.png"
+			}
+		},
+		{
+			"name": "Heddleham Hall",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/48.png"
+			}
+		},
+		{
+			"name": "The Isle of Berk",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Island",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/49.png"
+			}
+		},
+		{
+			"name": "Breath of Darkness Down Your Spine",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/50.png"
+			}
+		},
+		{
+			"name": "Captain Kate Pryde",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Creature — Mutant Pirate",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/51.png"
+			}
+		},
+		{
+			"name": "From Hell's Heart",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/52.png"
+			}
+		},
+		{
+			"name": "Absolute Radiance",
+			"rarity": "special",
+			"mana_cost": "{6}{W}{B}",
+			"type": "Legendary Creature — Avatar",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/53.png"
+			}
+		},
+		{
+			"name": "The Number Devil",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Devil Advisor",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/54.png"
+			}
+		},
+		{
+			"name": "Brokkenbroll, the Unbrellisimo",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Human Avatar",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/55.png"
+			}
+		},
+		{
+			"name": "Zane, Master of Ice",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Artifact Creature — Robot Ninja",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/56.png"
+			}
+		},
+		{
+			"name": "Jay, Master of Lightning",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Creature — Human Ninja",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/57.png"
+			}
+		},
+		{
+			"name": "Cole, Master of Earth",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Human Ninja",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/58.png"
+			}
+		},
+		{
+			"name": "Kai, Master of Fire",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Human Ninja",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/59.png"
+			}
+		},
+		{
+			"name": "Lloyd, Master of Green",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Human Ninja",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/60.png"
+			}
+		},
+		{
+			"name": "Adora, Princess of Power",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/61.png"
+			}
+		},
+		{
+			"name": "Dr. Radley Madish",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Plant Scientist",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/62.png"
+			}
+		},
+		{
+			"name": "William Parry",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/63.png"
+			}
+		},
+		{
+			"name": "Æsahættr, the Subtle Knife",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/64.png"
+			}
+		},
+		{
+			"name": "Relentless Gaze of the Sun",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/65.png"
+			}
+		},
+		{
+			"name": "Travel on the River's Back",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/66.png"
+			}
+		},
+		{
+			"name": "Beast of Wrathful Stone",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Elemental Beast",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/67.png"
+			}
+		},
+		{
+			"name": "Emerge from the Dread Night Wind",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/68.png"
+			}
+		},
+		{
+			"name": "Scott Summers, Cyclops",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Mutant Hero",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/69.png"
+			}
+		},
+		{
+			"name": "Exaltation of Echoed Steps",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/70.png"
+			}
+		},
+		{
+			"name": "Wandering Voice Keens Delirium",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/71.png"
+			}
+		},
+		{
+			"name": "Reaper",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Knight",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/72.png"
+			}
+		},
+		{
+			"name": "Frightful Keening",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/73.png"
+			}
+		},
+		{
+			"name": "Sarah, Terrible Eye",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Human Mercenary",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/74.png"
+			}
+		},
+		{
+			"name": "GlaDOS",
+			"rarity": "special",
+			"mana_cost": "{6}{B}{B}",
+			"type": "Legendary Artifact Creature — Scientist",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/75.png"
+			}
+		},
+		{
+			"name": "Simon Lovelace",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/76.png"
+			}
+		},
+		{
+			"name": "A Spread of Rampant Green",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/77.png"
+			}
+		},
+		{
+			"name": "The Twisted Bud",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Artifact",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/78.png"
+			}
+		},
+		{
+			"name": "Master Yoda",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Alien Wizard",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/79.png"
+			}
+		},
+		{
+			"name": "Fort Onion",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/80.png"
+			}
+		},
+		{
+			"name": "Gonzo the Great",
+			"rarity": "special",
+			"mana_cost": "{R}{R}",
+			"type": "Legendary Creature — Alien Performer",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/81.png"
+			}
+		},
+		{
+			"name": "Bart Simpson",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Human Simpson",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/82.png"
+			}
+		},
+		{
+			"name": "The Hell Cycle",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/83.png"
+			}
+		},
+		{
+			"name": "Nathaniel, John Mandrake",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Warlock",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/84.png"
+			}
+		},
+		{
+			"name": "Rachel Summers",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Mutant Hero",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/85.png"
+			}
+		},
+		{
+			"name": "The Ironclad",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Warrior",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/86.png"
+			}
+		},
+		{
+			"name": "The Defect",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Artifact Creature — Robot",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/87.png"
+			}
+		},
+		{
+			"name": "The Silent",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Rogue",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/88.png"
+			}
+		},
+		{
+			"name": "The Necrobinder",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Skeleton Warlock",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/89.png"
+			}
+		},
+		{
+			"name": "Neow, Ancient of Resurrection",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Planeswalker — Neow",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/90.png"
+			}
+		},
+		{
+			"name": "The Regent",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Noble",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/91.png"
+			}
+		},
+		{
+			"name": "Minion",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Minion",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/92.png"
+			}
+		},
+		{
+			"name": "Streex, Street Shark",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Creature — Mutant Shark",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/93.png"
+			}
+		},
+		{
+			"name": "Warp Coin",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/94.png"
+			}
+		},
+		{
+			"name": "The Ender Dragon",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}{B}",
+			"type": "Legendary Creature — Dragon",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/95.png"
+			}
+		},
+		{
+			"name": "Zeppelin of Mighty Gargantuaness",
+			"rarity": "special",
+			"mana_cost": "{9}",
+			"type": "Legendary Artifact Creature — Balloon",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/96.png"
+			}
+		},
+		{
+			"name": "Boomer",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Human Performer",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/97.png"
+			}
+		},
+		{
+			"name": "Jean Grey",
+			"rarity": "special",
+			"mana_cost": "{U}{R}",
+			"type": "Legendary Creature — Mutant Hero",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/98.png"
+			}
+		},
+		{
+			"name": "Diana Cavendish",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/99.png"
+			}
+		},
+		{
+			"name": "Darth Maul",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Alien Warlock",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/100.png"
+			}
+		},
+		{
+			"name": "Betsy Braddock, Captain Britain",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Mutant Knight",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/101.png"
+			}
+		},
+		{
+			"name": "Vigor of the Breaking Dawn",
+			"rarity": "special",
+			"mana_cost": "{R}{W}",
+			"type": "Instant",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/102.png"
+			}
+		},
+		{
+			"name": "Keeper of the Forbidden Wilds",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{G}{G}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/103.png"
+			}
+		},
+		{
+			"name": "Ocean's Hungry Grasp",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/104.png"
+			}
+		},
+		{
+			"name": "River Surges in Sunlight",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/105.png"
+			}
+		},
+		{
+			"name": "Shroud of Silent Mist",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/106.png"
+			}
+		},
+		{
+			"name": "Dissolving Mists",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/107.png"
+			}
+		},
+		{
+			"name": "Binja",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Ninja",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/108.png"
+			}
+		},
+		{
+			"name": "Jacksmith",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Creature — Noggle Artificer",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/109.png"
+			}
+		},
+		{
+			"name": "Finder of Paths Unseen",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/110.png"
+			}
+		},
+		{
+			"name": "Ember-Eyed Behemoth",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/111.png"
+			}
+		},
+		{
+			"name": "Shifting Memory of Ages",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/112.png"
+			}
+		},
+		{
+			"name": "Exaltation of the Incandescent Sky",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Instant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/113.png"
+			}
+		},
+		{
+			"name": "Fireboy",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Creature — Elemental",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/114.png"
+			}
+		},
+		{
+			"name": "Cactus McCoy",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Plant Scout",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/115.png"
+			}
+		},
+		{
+			"name": "Seadragonus Giganticus Maximus",
+			"rarity": "special",
+			"mana_cost": "{6}{G}{U}",
+			"type": "Creature — Dragon",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/116.png"
+			}
+		},
+		{
+			"name": "Excellinor the Witch",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Human Warlock",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/117.png"
+			}
+		},
+		{
+			"name": "Wreck of the Titanic",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Artifact",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/118.png"
+			}
+		},
+		{
+			"name": "Pearl",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Legendary Artifact Creature — Rebel",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/119.png"
+			}
+		},
+		{
+			"name": "The Blade of Evil's Bane",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/120.png"
+			}
+		},
+		{
+			"name": "Link, Hero of Hyrule",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Elf Knight",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/121.png"
+			}
+		},
+		{
+			"name": "Wounded Waters Bleeding",
+			"rarity": "special",
+			"mana_cost": "{U}{R}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/122.png"
+			}
+		},
+		{
+			"name": "Sharp Fangs Behind the Leaves",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/123.png"
+			}
+		},
+		{
+			"name": "Fractured Days Split The Sky",
+			"rarity": "special",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/124.png"
+			}
+		},
+		{
+			"name": "Sun-Bright Whirlwind",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/125.png"
+			}
+		},
+		{
+			"name": "Eyes Watch From the Trees",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/126.png"
+			}
+		},
+		{
+			"name": "Serpent Slumbering Beneath the Island",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/127.png"
+			}
+		},
+		{
+			"name": "Watergirl",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Creature — Elemental",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/128.png"
+			}
+		},
+		{
+			"name": "sick idea",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/129.png"
+			}
+		},
+		{
+			"name": "Many Minds Move as One",
+			"rarity": "special",
+			"mana_cost": "{W}{U}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/130.png"
+			}
+		},
+		{
+			"name": "Winds of Rust and Atrophy",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/131.png"
+			}
+		},
+		{
+			"name": "Powerstorm",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/132.png"
+			}
+		},
+		{
+			"name": "Shadows Flicker Like Flame",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/133.png"
+			}
+		},
+		{
+			"name": "Blazing Renewal",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/134.png"
+			}
+		},
+		{
+			"name": "Exaltation of the Incandescent Sky",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Instant",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/135.png"
+			}
+		},
+		{
+			"name": "Hearth-Vigil",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/136.png"
+			}
+		},
+		{
+			"name": "Alvin the Treacherous",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/137.png"
+			}
+		},
+		{
+			"name": "Exterminator Dragon",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/138.png"
+			}
+		},
+		{
+			"name": "Fathomless Mud of the Swamp",
+			"rarity": "special",
+			"mana_cost": "{B}{G}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/139.png"
+			}
+		},
+		{
+			"name": "Cain Marko, Juggernaut",
+			"rarity": "special",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Legendary Creature — Human Villain",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/140.png"
+			}
+		},
+		{
+			"name": "Devouring Teeth Lurk Underfoot",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/141.png"
+			}
+		},
+		{
+			"name": "Towering Roots of the Jungle",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/142.png"
+			}
+		},
+		{
+			"name": "Downpour Drenches the World",
+			"rarity": "special",
+			"mana_cost": "{U}{U}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/143.png"
+			}
+		},
+		{
+			"name": "Prophecied Panic",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/144.png"
+			}
+		},
+		{
+			"name": "Approaching Army",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/145.png"
+			}
+		},
+		{
+			"name": "Paw Paw, Brilliant Legal Mind",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Possum Advisor",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/146.png"
+			}
+		},
+		{
+			"name": "Rosaline",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/147.png"
+			}
+		},
+		{
+			"name": "Morin Vineral",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Dwarf Artificer",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/148.png"
+			}
+		},
+		{
+			"name": "Solum Bufo",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Frog Monk",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/149.png"
+			}
+		},
+		{
+			"name": "Uku",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Giant Monk",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/150.png"
+			}
+		},
+		{
+			"name": "Counterspell",
+			"rarity": "special",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/151.png"
+			}
+		},
+		{
+			"name": "Telaine, the Glittering Lady",
+			"rarity": "special",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Legendary Creature — Dragon God",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/152.png"
+			}
+		},
+		{
+			"name": "Thunderspeaker",
+			"rarity": "special",
+			"mana_cost": "{4}{R}{W}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/153.png"
+			}
+		},
+		{
+			"name": "Silk Merchant",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/154.png"
+			}
+		},
+		{
+			"name": "Diggy",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Minion",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/155.png"
+			}
+		},
+		{
+			"name": "Steal the Moon",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Plan",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/156.png"
+			}
+		},
+		{
+			"name": "Batman, Caped Crusader",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Creature — Human Hero",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/157.png"
+			}
+		},
+		{
+			"name": "Harleen Quinzel",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Human Doctor",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/158.png"
+			}
+		},
+		{
+			"name": "Marceline, the Vampire Queen",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Vampire Performer",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/159.png"
+			}
+		},
+		{
+			"name": "Pamela Isley",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Human Scientist",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/160.png"
+			}
+		},
+		{
+			"name": "Rot",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/161.png"
+			}
+		},
+		{
+			"name": "Deadeye Cybin",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Skeleton Archer",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/162.png"
+			}
+		},
+		{
+			"name": "Hawkeye",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Human Archer",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/163.png"
+			}
+		},
+		{
+			"name": "Mount Monterey",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/164.png"
+			}
+		},
+		{
+			"name": "The Saucelands",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/165.png"
+			}
+		},
+		{
+			"name": "Wintergreen Way",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/166.png"
+			}
+		},
+		{
+			"name": "Neapolitown",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/167.png"
+			}
+		},
+		{
+			"name": "Gummy Grotto",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/168.png"
+			}
+		},
+		{
+			"name": "Blue Moon Bay",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/169.png"
+			}
+		},
+		{
+			"name": "Lake Chocodunk",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/170.png"
+			}
+		},
+		{
+			"name": "Leaf Landing",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/171.png"
+			}
+		},
+		{
+			"name": "Cookie Caverns",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/172.png"
+			}
+		},
+		{
+			"name": "The X Zone",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/173.png"
+			}
+		},
+		{
+			"name": "Robin, Boy Wonder",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Human Hero",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/174.png"
+			}
+		},
+		{
+			"name": "Skyship Stormchaser",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/175.png"
+			}
+		},
+		{
+			"name": "Slay the Spire",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/176.png"
+			}
+		},
+		{
+			"name": "Sherlock Holmes",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Human Detective",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/177.png"
+			}
+		},
+		{
+			"name": "Chewbacca",
+			"rarity": "special",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Legendary Creature — Alien Rebel",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/178.png"
+			}
+		},
+		{
+			"name": "Renfield the Madman",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Creature — Human Minion",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/179.png"
+			}
+		},
+		{
+			"name": "Arrogance, Innocence, and Patience",
+			"rarity": "special",
+			"mana_cost": "{4}{G}{U}{R}",
+			"type": "Legendary Creature — Dragon",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/180.png"
+			}
+		},
+		{
+			"name": "Blood Draws Predators",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/181.png"
+			}
+		},
+		{
+			"name": "Sap the Strength of Multitudes",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/182.png"
+			}
+		},
+		{
+			"name": "Draw Towards a Consuming Void",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/183.png"
+			}
+		},
+		{
+			"name": "Thor, God of Thunder",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/184.png"
+			}
+		},
+		{
+			"name": "Dr. John Watson",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Creature — Human Doctor",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/185.png"
+			}
+		},
+		{
+			"name": "Willow Rosenberg",
+			"rarity": "special",
+			"mana_cost": "{B}{B}",
+			"type": "Legendary Creature — Human Warlock",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/186.png"
+			}
+		},
+		{
+			"name": "The Dragon Jewel",
+			"rarity": "special",
+			"mana_cost": "{6}",
+			"type": "Legendary Artifact",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/187.png"
+			}
+		},
+		{
+			"name": "Csilla, the Saddle Knight",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/188.png"
+			}
+		},
+		{
+			"name": "Vampire Spydragon",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Vampire Spy Dragon",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/189.png"
+			}
+		},
+		{
+			"name": "Luau LePunch",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Artifact Creature — Food Performer",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/190.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/191.png"
+			}
+		},
+		{
+			"name": "Wildheart Guff",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Enchantment",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/192.png"
+			}
+		},
+		{
+			"name": "HORUS Gorgon",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/193.png"
+			}
+		},
+		{
+			"name": "Elderstahl, Twilight of the Gods",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/194.png"
+			}
+		},
+		{
+			"name": "Beta Ray Bill",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Alien Hero",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/195.png"
+			}
+		},
+		{
+			"name": "Dragonfang",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/196.png"
+			}
+		},
+		{
+			"name": "Opal Luna Saturnyne",
+			"rarity": "special",
+			"mana_cost": "{4}{W}{B}",
+			"type": "Legendary Planeswalker — Saturnyne",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/197.png"
+			}
+		},
+		{
+			"name": "Roma, Omniversal Guardian",
+			"rarity": "special",
+			"mana_cost": "{4}{W}",
+			"type": "Legendary Creature — Faerie Wizard",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/198.png"
+			}
+		},
+		{
+			"name": "Artakha, the Great Designer",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Planeswalker — Artakha",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/199.png"
+			}
+		},
+		{
+			"name": "The Siege Perilous",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Artifact",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/200.png"
+			}
+		},
+		{
+			"name": "Rahne Sinclair, Wolfsbane",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Mutant Wolf Hero",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/201.png"
+			}
+		},
+		{
+			"name": "Sam Guthrie, Cannonball",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Mutant Hero",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/202.png"
+			}
+		},
+		{
+			"name": "The Death Note",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Artifact",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/203.png"
+			}
+		},
+		{
+			"name": "Kobold Librarian",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Creature — Kobold",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/204.png"
+			}
+		},
+		{
+			"name": "Dani Moonstar, Mirage",
+			"rarity": "special",
+			"mana_cost": "{B}{B}",
+			"type": "Legendary Creature — Mutant Hero",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/205.png"
+			}
+		},
+		{
+			"name": "Amara Juliana Olivians Aquilla",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Elemental Mutant",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/206.png"
+			}
+		},
+		{
+			"name": "Selene Gallio",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}{B}",
+			"type": "Legendary Creature — Vampire Mutant",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/207.png"
+			}
+		},
+		{
+			"name": "Days of Future Past",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/208.png"
+			}
+		},
+		{
+			"name": "Hulkbuster Armor Model 52",
+			"rarity": "special",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact Creature — Equipment",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/209.png"
+			}
+		},
+		{
+			"name": "Connie's Crystal Sword",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/210.png"
+			}
+		},
+		{
+			"name": "Heart of the Wildfire",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/211.png"
+			}
+		},
+		{
+			"name": "Darth Sidious",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}{B}",
+			"type": "Legendary Creature — Human Warlock",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/212.png"
+			}
+		},
+		{
+			"name": "Force Lightning",
+			"rarity": "special",
+			"mana_cost": "{B}{B}",
+			"type": "Instant",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/213.png"
+			}
+		},
+		{
+			"name": "Shadow the Hedgehog",
+			"rarity": "special",
+			"mana_cost": "{B}{R}",
+			"type": "Legendary Creature — Hedgehog",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/214.png"
+			}
+		},
+		{
+			"name": "Chaos Control",
+			"rarity": "special",
+			"mana_cost": "{B}{R}",
+			"type": "Enchantment",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/215.png"
+			}
+		},
+		{
+			"name": "Doctor Ivo Robotnik",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Legendary Creature — Human Scientist",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/216.png"
+			}
+		},
+		{
+			"name": "Metal City Mayhem",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Artifact — Manuscript",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/217.png"
+			}
+		},
+		{
+			"name": "Jack Frost",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Elemental Avatar",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/218.png"
+			}
+		},
+		{
+			"name": "General Kai, the Collector",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Legendary Creature — Ox Warrior",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/219.png"
+			}
+		},
+		{
+			"name": "Parry",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/220.png"
+			}
+		},
+		{
+			"name": "Roberto Da Costa, Sunspot",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Mutant Hero",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/221.png"
+			}
+		},
+		{
+			"name": "Puss in Boots",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Cat Rogue",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/222.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/223.png"
+			}
+		},
+		{
+			"name": "Pillar of Living Flame",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/224.png"
+			}
+		},
+		{
+			"name": "Sunflower",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Creature — Plant",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/225.png"
+			}
+		},
+		{
+			"name": "Hardwon Surefoot",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/226.png"
+			}
+		},
+		{
+			"name": "Spirit Guardians",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/227.png"
+			}
+		},
+		{
+			"name": "Proconsul H. L. Ravilla",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/228.png"
+			}
+		},
+		{
+			"name": "Tartarus",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/229.png"
+			}
+		},
+		{
+			"name": "There Is No Escape",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/230.png"
+			}
+		},
+		{
+			"name": "The Knight",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/231.png"
+			}
+		},
+		{
+			"name": "It's Alive!",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/232.png"
+			}
+		},
+		{
+			"name": "Frankenstein's Monster",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Horror",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/233.png"
+			}
+		},
+		{
+			"name": "The Wild Robot",
+			"rarity": "special",
+			"mana_cost": "{G}{W}",
+			"type": "Legendary Artifact Creature — Robot",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/234.png"
+			}
+		},
+		{
+			"name": "Scar, King Undisputed",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Cat Noble",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/235.png"
+			}
+		},
+		{
+			"name": "Isca the Unbeaten",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Creature — Mutant Warrior",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/236.png"
+			}
+		},
+		{
+			"name": "Branch Mine",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/237.png"
+			}
+		},
+		{
+			"name": "Yogg-Saron, Hope's End",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Yogg-Saron",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/238.png"
+			}
+		},
+		{
+			"name": "Virginia Pepper Potts",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Legendary Artifact Creature — Human Hero",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/239.png"
+			}
+		},
+		{
+			"name": "Galad Rosell, White Rose of Galaderon",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Elf Knight",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/240.png"
+			}
+		},
+		{
+			"name": "Backbiter",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/241.png"
+			}
+		},
+		{
+			"name": "Atomic Breath",
+			"rarity": "special",
+			"mana_cost": "{X}{R}",
+			"type": "Sorcery",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/242.png"
+			}
+		},
+		{
+			"name": "Cast Down Into The Briny Deep",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/243.png"
+			}
+		},
+		{
+			"name": "Count Dracula",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Vampire Noble",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/244.png"
+			}
+		},
+		{
+			"name": "Vengeful Spirit",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/245.png"
+			}
+		},
+		{
+			"name": "The Bloody Crow of Cainhurst",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/246.png"
+			}
+		},
+		{
+			"name": "Naruto Uzumaki",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Ninja",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/247.png"
+			}
+		},
+		{
+			"name": "Substitution Jutsu",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/248.png"
+			}
+		},
+		{
+			"name": "The Prophecy of the Wilderwest",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Artifact",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/249.png"
+			}
+		},
+		{
+			"name": "Endeavour, the Dragonsword",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/250.png"
+			}
+		},
+		{
+			"name": "Map Token",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/251.png"
+			}
+		},
+		{
+			"name": "Super Mario",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Legendary Creature — Human Hero",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/252.png"
+			}
+		},
+		{
+			"name": "The Hairy Scary Librarian",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/253.png"
+			}
+		},
+		{
+			"name": "Geronimo Stilton",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Legendary Creature — Mouse Citizen",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/254.png"
+			}
+		},
+		{
+			"name": "Katoptris",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary — Equipment",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/255.png"
+			}
+		},
+		{
+			"name": "Avohkii, the Mask of Light",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/256.png"
+			}
+		},
+		{
+			"name": "Karzanhi, the Tormentor",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Planeswalker — Karzanhi",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/257.png"
+			}
+		},
+		{
+			"name": "Ulfgar Trueaxe",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Planeswalker — Ulfgar",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/258.png"
+			}
+		},
+		{
+			"name": "Jolene the Green",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Planeswalker — Jolene",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/259.png"
+			}
+		},
+		{
+			"name": "Thiala, Hero of Bahumia",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Planeswalker — Thiala",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/260.png"
+			}
+		},
+		{
+			"name": "Chronoskimming",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/261.png"
+			}
+		},
+		{
+			"name": "General Jack Ripper",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/262.png"
+			}
+		},
+		{
+			"name": "Escape From Tarkov",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/263.png"
+			}
+		},
+		{
+			"name": "The Stone Gardens",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Artifact Land — Powerstone",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/264.png"
+			}
+		},
+		{
+			"name": "some sort of smite",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/265.png"
+			}
+		},
+		{
+			"name": "Trap in Crystal???",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/266.png"
+			}
+		},
+		{
+			"name": "Bequeath???",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/267.png"
+			}
+		},
+		{
+			"name": "Groundhog Day",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/268.png"
+			}
+		},
+		{
+			"name": "banderbear",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/269.png"
+			}
+		},
+		{
+			"name": "Godzilla",
+			"rarity": "special",
+			"mana_cost": "{4}{G}{G}{G}",
+			"type": "Legendary Creature — Mutant Dinosaur",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/270.png"
+			}
+		},
+		{
+			"name": "??",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/271.png"
+			}
+		},
+		{
+			"name": "Marquise Recruiter",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Creature — Cat Soldier",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/272.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/273.png"
+			}
+		},
+		{
+			"name": "Godzilla vs. Kong",
+			"rarity": "special",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/274.png"
+			}
+		}
+	]
+
+[cube(15)]
+	1 Bartimaeus of Uruk
+	1 Dances Up Earthquakes
+	1 Vengeance as a Burning Plague
+	1 Alanis
+	1 Ambrose Montgomery
+	1 Bastion
+	1 Beverly Toegold V
+	1 Moonshine Cybin, Queen of Elves
+	1 The Bear Prince
+	1 Wuxi Finger Hold
+	1 Megamind
+	1 Hiccup Horrendous Haddock III
+	1 Pangur Ban
+	1 The Sepia Knight
+	1 Caterbird
+	1 Girsh Shug'ruith the Burrower
+	1 Zagreus
+	1 Jenny Cavanaugh
+	1 Harrowhark Nonagesimus
+	1 Moment of Twilight
+	1 Arborinus Twig Verginix
+	1 Stormphrax Shard
+	1 The First Age of Flight
+	1 The Gloamglozer
+	1 Tears That Fill The River
+	1 Scourge of BloodClan
+	1 Scoped Masterwork Carbine
+	1 Lyra Silvertongue
+	1 The Elf, Steward of Seasons
+	1 The Deepwoods
+	1 Myra Goldskimmer
+	1 Midnight over Sanctaphrax
+	1 Quintinius Cloud Wolf Verginix
+	1 Princess Leia
+	1 Iorek Byrnison
+	1 Spiral, Mistress of the Wildways
+	1 Luke Skywalker
+	1 Han Solo
+	1 Darth Vader
+	1 Vin, Mistborn
+	1 Harrietta Gris, Chief Anatomist
+	1 Netin Foundry
+	1 Vaneira, the Flower Queen
+	1 Walter White
+	1 Chaos Emerald
+	1 The Infinity Gauntlet
+	1 The Mother Storm
+	1 Ramuthra
+	1 Heddleham Hall
+	1 The Isle of Berk
+	1 Breath of Darkness Down Your Spine
+	1 Captain Kate Pryde
+	1 From Hell's Heart
+	1 Absolute Radiance
+	1 The Number Devil
+	1 Brokkenbroll, the Unbrellisimo
+	1 Zane, Master of Ice
+	1 Jay, Master of Lightning
+	1 Cole, Master of Earth
+	1 Kai, Master of Fire
+	1 Lloyd, Master of Green
+	1 Adora, Princess of Power
+	1 Dr. Radley Madish
+	1 William Parry
+	1 Æsahættr, the Subtle Knife
+	1 Relentless Gaze of the Sun
+	1 Travel on the River's Back
+	1 Beast of Wrathful Stone
+	1 Emerge from the Dread Night Wind
+	1 Scott Summers, Cyclops
+	1 Exaltation of Echoed Steps
+	1 Wandering Voice Keens Delirium
+	1 Reaper
+	1 Frightful Keening
+	1 Sarah, Terrible Eye
+	1 GlaDOS
+	1 Simon Lovelace
+	1 A Spread of Rampant Green
+	1 The Twisted Bud
+	1 Master Yoda
+	1 Fort Onion
+	1 Gonzo the Great
+	1 Bart Simpson
+	1 The Hell Cycle
+	1 Nathaniel, John Mandrake
+	1 Rachel Summers
+	1 The Ironclad
+	1 The Defect
+	1 The Silent
+	1 The Necrobinder
+	1 Neow, Ancient of Resurrection
+	1 The Regent
+	1 Streex, Street Shark
+	1 Warp Coin
+	1 The Ender Dragon
+	1 Zeppelin of Mighty Gargantuaness
+	1 Boomer
+	1 Jean Grey
+	1 Diana Cavendish
+	1 Darth Maul
+	1 Betsy Braddock, Captain Britain
+	1 Vigor of the Breaking Dawn
+	1 Keeper of the Forbidden Wilds
+	1 Ocean's Hungry Grasp
+	1 River Surges in Sunlight
+	1 Shroud of Silent Mist
+	1 Dissolving Mists
+	1 Binja
+	1 Jacksmith
+	1 Finder of Paths Unseen
+	1 Ember-Eyed Behemoth
+	1 Shifting Memory of Ages
+	1 Exaltation of the Incandescent Sky
+	1 Fireboy
+	1 Cactus McCoy
+	1 Seadragonus Giganticus Maximus
+	1 Excellinor the Witch
+	1 Wreck of the Titanic
+	1 Pearl
+	1 The Blade of Evil's Bane
+	1 Link, Hero of Hyrule
+	1 Wounded Waters Bleeding
+	1 Sharp Fangs Behind the Leaves
+	1 Fractured Days Split The Sky
+	1 Sun-Bright Whirlwind
+	1 Eyes Watch From the Trees
+	1 Serpent Slumbering Beneath the Island
+	1 Watergirl
+	1 sick idea
+	1 Many Minds Move as One
+	1 Winds of Rust and Atrophy
+	1 Powerstorm
+	1 Shadows Flicker Like Flame
+	1 Blazing Renewal
+	1 Exaltation of the Incandescent Sky
+	1 Hearth-Vigil
+	1 Alvin the Treacherous
+	1 Exterminator Dragon
+	1 Fathomless Mud of the Swamp
+	1 Cain Marko, Juggernaut
+	1 Devouring Teeth Lurk Underfoot
+	1 Towering Roots of the Jungle
+	1 Downpour Drenches the World
+	1 Prophecied Panic
+	1 Approaching Army
+	1 Paw Paw, Brilliant Legal Mind
+	1 Rosaline
+	1 Morin Vineral
+	1 Solum Bufo
+	1 Uku
+	1 Counterspell
+	1 Telaine, the Glittering Lady
+	1 Thunderspeaker
+	1 Silk Merchant
+	1 Diggy
+	1 Steal the Moon
+	1 Batman, Caped Crusader
+	1 Harleen Quinzel
+	1 Marceline, the Vampire Queen
+	1 Pamela Isley
+	1 Rot
+	1 Deadeye Cybin
+	1 Hawkeye
+	1 Mount Monterey
+	1 The Saucelands
+	1 Wintergreen Way
+	1 Neapolitown
+	1 Gummy Grotto
+	1 Blue Moon Bay
+	1 Lake Chocodunk
+	1 Leaf Landing
+	1 Cookie Caverns
+	1 The X Zone
+	1 Robin, Boy Wonder
+	1 Skyship Stormchaser
+	1 Slay the Spire
+	1 Sherlock Holmes
+	1 Chewbacca
+	1 Renfield the Madman
+	1 Arrogance, Innocence, and Patience
+	1 Blood Draws Predators
+	1 Sap the Strength of Multitudes
+	1 Draw Towards a Consuming Void
+	1 Thor, God of Thunder
+	1 Dr. John Watson
+	1 Willow Rosenberg
+	1 The Dragon Jewel
+	1 Csilla, the Saddle Knight
+	1 Vampire Spydragon
+	1 Luau LePunch
+	1 
+	1 Wildheart Guff
+	1 HORUS Gorgon
+	1 Elderstahl, Twilight of the Gods
+	1 Beta Ray Bill
+	1 Dragonfang
+	1 Opal Luna Saturnyne
+	1 Roma, Omniversal Guardian
+	1 Artakha, the Great Designer
+	1 The Siege Perilous
+	1 Rahne Sinclair, Wolfsbane
+	1 Sam Guthrie, Cannonball
+	1 The Death Note
+	1 Kobold Librarian
+	1 Dani Moonstar, Mirage
+	1 Amara Juliana Olivians Aquilla
+	1 Selene Gallio
+	1 Days of Future Past
+	1 Hulkbuster Armor Model 52
+	1 Connie's Crystal Sword
+	1 Heart of the Wildfire
+	1 Darth Sidious
+	1 Force Lightning
+	1 Shadow the Hedgehog
+	1 Chaos Control
+	1 Doctor Ivo Robotnik
+	1 Metal City Mayhem
+	1 Jack Frost
+	1 General Kai, the Collector
+	1 Parry
+	1 Roberto Da Costa, Sunspot
+	1 Puss in Boots
+	1 
+	1 Pillar of Living Flame
+	1 Sunflower
+	1 Hardwon Surefoot
+	1 Spirit Guardians
+	1 Proconsul H. L. Ravilla
+	1 Tartarus
+	1 There Is No Escape
+	1 The Knight
+	1 It's Alive!
+	1 Frankenstein's Monster
+	1 The Wild Robot
+	1 Scar, King Undisputed
+	1 Isca the Unbeaten
+	1 Branch Mine
+	1 Yogg-Saron, Hope's End
+	1 Virginia Pepper Potts
+	1 Galad Rosell, White Rose of Galaderon
+	1 Backbiter
+	1 Atomic Breath
+	1 Cast Down Into The Briny Deep
+	1 Count Dracula
+	1 Vengeful Spirit
+	1 The Bloody Crow of Cainhurst
+	1 Naruto Uzumaki
+	1 Substitution Jutsu
+	1 The Prophecy of the Wilderwest
+	1 Endeavour, the Dragonsword
+	1 Super Mario
+	1 The Hairy Scary Librarian
+	1 Geronimo Stilton
+	1 Katoptris
+	1 Avohkii, the Mask of Light
+	1 Karzanhi, the Tormentor
+	1 Ulfgar Trueaxe
+	1 Jolene the Green
+	1 Thiala, Hero of Bahumia
+	1 Chronoskimming
+	1 General Jack Ripper
+	1 Escape From Tarkov
+	1 The Stone Gardens
+	1 some sort of smite
+	1 Trap in Crystal???
+	1 Bequeath???
+	1 Groundhog Day
+	1 banderbear
+	1 Godzilla
+	1 ??
+	1 Marquise Recruiter
+	1 
+	1 Godzilla vs. Kong

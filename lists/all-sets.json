@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "TOAST",
+            "set_name": "Toast Crossover Cube",
+            "formats": ""
+        },
+        {
             "set_code": "WD3",
             "set_name": "Disney Cube",
             "formats": ""
