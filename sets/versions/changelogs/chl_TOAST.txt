@@ -1,4 +1,824 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+The Pain Box added.
+Akira Slide added.
+Uku of the Unseen Eye added.
+Vance Deadeye Cybin added.
+A Fistful of Dirt added.
+Driller Dragon added.
+Great Chariot Cannon added.
+Bequeath added.
+Banderbear added.
+Shape the Self Anew added.
+What We're Gonna Do Today added.
+Blood-Sated Sword Soul added.
+The Xenomorph Queen added.
+Shai-Hulud added.
+Thirty-Cubit Spear added.
+Martin and Chris Kratt added.
+The Dark Prophecy added.
+Ironmonger added.
+Shield Bash added.
+Pinpoint added.
+Crash Landing added.
+Hang added.
+All For One added.
+Stampede added.
+Bluestar's Prophecy added.
+Shoot First added.
+Banish added.
+Creeper added.
+The Crick added.
+Grimhawk added.
+Frostwind added.
+Galaderon, City in the Clouds added.
+Asphodel added.
+Elysium added.
+Undertown added.
+The Mire added.
+Pendeghast the Betrayer added.
+The Autumn Court added.
+Throne, the Red City added.
+Dream No More added.
+Bench added.
+Grim Reflection added.
+Greenpath added.
+No Cost Too Great added.
+Horde Captain Surge Boombucket added.
+Hound Suit added.
+Litany Against Fear added.
+Paul Muad'Dib Atreides added.
+Path of Pain added.
+Somewhere Over The Rainbow added.
+The White Palace added.
+City of Tears added.
+Crystal Peak added.
+Agent P added.
+Deepnest added.
+Kingdom's Edge added.
+Ideate added.
+Cornifer the Mapmaker added.
+Gideon Nav added.
+Laura Kinney, Wolverine added.
+Alison Blaire, Dazzler added.
+Undyne, Spear of Justice added.
+Second Wave added.
+Lorna Dane, Polaris added.
+Silk Spear added.
+Zaladane, Empress of the Savage Land added.
+Lex Luthor added.
+Bukvar added.
+The Soul Master added.
+King Thorin Oakenshield added.
+Decapitate added.
+Grand Mother Silk added.
+Emma Frost, White Queen added.
+Great Slash added.
+Fraiden French, Margrave added.
+Enweb added.
+Nailmaster Oro added.
+Hornet, Daughter of Hallownest added.
+Optic Blast added.
+Strike the Match added.
+The Stagways added.
+Egwene, The Lady Snake added.
+Obi-Wan Kenobi added.
+The Blood-Red Glister added.
+Pikachu added.
+Po, the Dragon Warrior added.
+The Return of Turbot Smeal? added.
+Cerebro added.
+Professor X added.
+The Big Friendly Giant added.
+Prowlgrin added.
+Shakra added.
+Marabelle the Terrible added.
+Titano the Super-Ape added.
+Ash Ketchum, Creature Collector added.
+Vaneira the Flower Queen added.
+Oath of the Green Knight added.
+To Me, My X-Men! added.
+Kingshammer added.
+Maugin, the Stone Pilot added.
+The Predator added.
+Alien vs. Predator added.
+The Woodsman's Lantern added.
+The Sands of Karak added.
+Bilewater added.
+Greymoor added.
+The Deep Docks added.
+Shellwood added.
+Moss Grotto added.
+Mount Fay added.
+Bellhart added.
+Far Fields added.
+Three Sword Style added.
+
+Dances Up Earthquakes removed.
+Vengeance as a Burning Plague removed.
+Ambrose Montgomery removed.
+Bastion removed.
+Vaneira, the Flower Queen removed.
+William Parry removed.
+Beast of Wrathful Stone removed.
+The Twisted Bud removed.
+Shroud of Silent Mist removed.
+Fireboy removed.
+Excellinor the Witch removed.
+Fractured Days Split The Sky removed.
+Watergirl removed.
+sick idea removed.
+Exaltation of the Incandescent Sky removed.
+Downpour Drenches the World removed.
+Uku removed.
+Deadeye Cybin removed.
+Thor, God of Thunder removed.
+Dragonfang removed.
+Dani Moonstar, Mirage removed.
+Heart of the Wildfire removed.
+Jack Frost removed.
+Spirit Guardians removed.
+The Knight removed.
+Scar, King Undisputed removed.
+Naruto Uzumaki removed.
+Katoptris removed.
+some sort of smite removed.
+Bequeath??? removed.
+banderbear removed.
+?? removed.
+
+Bartimaeus of Uruk
+
+Alanis
+rules_text: [+1]: Put a stun counter on up to two target nonland permanents.
+[-3]: Exile a card from your hand. If you do, you may cast a card you own from outside the game that shares a color with that card without paying its mana cost.
+[-7]: Return all other permanents to their owner's hand. => [+1]: Put a stun counter on each of up to two target nonland permanents.
+[-3]: Exile a card from your hand. If you do, you may cast a card you own from outside the game that shares a color with that card without paying its mana cost.
+[-7]: Return all other permanents to their owner's hand.
+special_text: [+1]: Put a stun counter on up to two target nonland permanents.
+[-3]: Exile a card from your hand. If you do, you may cast a card you own from outside the game that shares a color with that card without paying its mana cost.
+[-7]: Return all other permanents to their owner's hand. => [+1]: Put a stun counter on each of up to two target nonland permanents.
+[-3]: Exile a card from your hand. If you do, you may cast a card you own from outside the game that shares a color with that card without paying its mana cost.
+[-7]: Return all other permanents to their owner's hand.
+
+Beverly Toegold V
+
+Moonshine Cybin, Queen of Elves
+
+The Bear Prince
+rules_text: Kicker {U}
+Ward {1}
+When The Bear Prince enters, if he was kicked, target creature becomes a 1/1 red Goblin with no abilities for as long as you control The Bear Prince. => Kicker {U}
+Ward {2}
+When The Bear Prince enters, if he was kicked, target creature becomes a 1/1 red Goblin with no abilities for as long as you control The Bear Prince.
+
+Wuxi Finger Hold
+
+Megamind
+cost: {U}{U} => {1}{U}
+
+Hiccup Horrendous Haddock III
+
+Pangur Ban
+
+The Sepia Knight
+rules_text: The Sepia Knight can't block. 
+When The Sepia Knight dies, create a tapped Powerstone token. 
+{3}{B}: Return The Sepia Knight from your graveyard to the battlefield. => The Sepia Knight enters tapped.
+When The Sepia Knight dies, create a tapped Powerstone token. 
+{3}{B}: Return The Sepia Knight from your graveyard to the battlefield.
+
+Caterbird
+
+Girsh Shug'ruith the Burrower
+rules_text: Whenever Girsh Shug'ruith the Burrower enters or attacks, create three 1/1 black Horror creature tokens with deathtouch.
+[i]Irisdual Beam [/i]— {3}{B}{B}, Discard Girsh Shug'ruith: Each player sacrifices three creatures. => Whenever Girsh Shug'ruith the Burrower enters or attacks, create three 1/1 black Horror creature tokens with deathtouch.
+
+Zagreus
+
+Jenny Cavanaugh
+
+Harrowhark Nonagesimus
+
+Moment of Twilight
+
+Arborinus Twig Verginix
+
+Stormphrax Shard
+
+The First Age of Flight
+
+The Gloamglozer
+rules_text: You may have the Gloamglozer enter the battlefield as a copy of any creature on the battlefield.
+Escape {3}{U}{U}, Exile five other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]
+When you cast The Gloamglozer for its escape cost, copy it. => Flying
+You may have the Gloamglozer enter the battlefield as a copy of any creature on the battlefield, except it has flying.
+Escape {3}{U}{U}, Exile three other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]
+When you cast The Gloamglozer for its escape cost, copy it.
+
+Tears That Fill The River
+
+Scourge of BloodClan
+rules_text: Deathtouch
+When Scourge of BloodClan enters, choose a card name. Until end of turn, Scourge gains “Creatures with the chosen name get -9/-9.” => Deathtouch
+As Scourge of BloodClan enters, choose a card name. Until end of turn, Scourge gains “Creatures with the chosen name get -9/-9.”
+
+Scoped Masterwork Carbine
+
+Lyra Silvertongue
+
+The Elf, Steward of Seasons
+rules_text: Whenever The Elf enters or attacks, you may sacrifice a land. If you do, search your library for a land card, put it onto the battlefield tapped, then shuffle.
+[i]Landfall[/i] — Whenever a land enters under your control, create a 1/1 green Faerie creature token. => Whenever The Elf enters or attacks, you may sacrifice a land. If you do, search your library for a land card, put it onto the battlefield tapped, then shuffle.
+[i]Landfall[/i] — Whenever a land you control enters, create a 1/1 green Faerie creature token.
+
+The Deepwoods
+rules_text: {T}: Add {G}. 
+{G}, {T}: Add an amount of {G} equal to the greatest power among creatures you control. => The Deepwoods enters tapped unless you control a basic land.
+{T}: Add {G}. 
+{G}, {T}: Add an amount of {G} equal to the greatest power among creatures you control.
+
+Myra Goldskimmer
+
+Midnight over Sanctaphrax
+type:  => Instant
+cost:  => {1}{U}
+rules_text:  => Escalate {U} [i](Pay this cost for each mode chosen beyond the first.)[/i]
+Choose one or more —
+• Return target spell to its owner's hand.
+• Return target nonland permanent to its owner's hand.
+• Draw a card.
+
+Quintinius Cloud Wolf Verginix
+
+Princess Leia
+
+Iorek Byrnison
+
+Spiral, Mistress of the Wildways
+rules_text: Trample, haste
+As Spiral enters, create six weapon tokens attached to her. [i](They're colorless Equipment artifact tokens with “Equipped creature gets +1/+1” and equip {2}.)[/i] => Trample, haste
+As Spiral enters, create six Weapon tokens attached to her. [i](They're colorless Equipment artifact tokens with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+
+Luke Skywalker
+rules_text: When Luke Skywalker enters, create a weapon token. [i](It's a colorless Equipment artifact token with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+Whenever Luke Skywalker attacks, add an amount of {G} equal to his power. Until end of turn, you don't lose this mana as steps and phases end. => When Luke Skywalker enters, create a Weapon token. [i](It's a colorless Equipment artifact token with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+Whenever Luke Skywalker attacks, add an amount of {G} equal to his power. Until end of turn, you don't lose this mana as steps and phases end.
+
+Han Solo
+
+Darth Vader
+type: Legendary Creature — Human Warlock => Legendary Artifact Creature — Human Warlock
+
+Vin, Mistborn
+
+Harrietta Gris, Chief Anatomist
+
+Netin Foundry
+rules_text: Indestructible
+{T}: Add {C}
+{2}, {T}: Create a tapped Powerstone token. [i](It's an artifact with “{T}: Add {C}. This mana can't be spent to cast a nonartifact spell.”)[/i]
+{4}, {T}, Sacrifice this land: Put an indestructible counter on target artifact. => {T}: Add {C}
+{2}, {T}: Create a tapped Powerstone token. [i](It's an artifact with “{T}: Add {C}. This mana can't be spent to cast a nonartifact spell.”)[/i]
+{2}, {T}: Add {C} for each artifact you control.
+
+Walter White
+
+Chaos Emerald
+
+The Infinity Gauntlet
+
+The Mother Storm
+
+Ramuthra
+
+Heddleham Hall
+rules_text: {T}: Add {B}.
+{1}{B}{B}{B}, {T}, Sacrifice Heddleham Hall: Return target creature card from your graveyard to the battlefield. You lose life equal to its power. Activate only as a sorcery. => {T}: Add {C}.
+{T}, Pay 1 life: Add {R} or {G}.
+{2}{R}{G}, Discard Heddleham Hall: Add six mana in any combination of colors. Spend this mana only to cast creature spells.
+
+The Isle of Berk
+type: Legendary Land — Island => Legendary Land
+rules_text: {T}: Add {U}
+{T}: Add {U}{U}. Spend this mana only to cast creature spells with power 4 or greater. => The Isle of Berk enters tapped unless you control a basic land.
+{T}: Add {U}
+{T}: Add {U}{U}. Spend this mana only to cast creature spells with power 4 or greater.
+
+Breath of Darkness Down Your Spine
+
+Captain Kate Pryde
+
+From Hell's Heart
+
+Absolute Radiance
+
+The Number Devil
+
+Brokkenbroll, the Unbrellisimo
+type: Legendary Creature — Human Avatar => Legendary Artifact Creature — Human Avatar
+pt: 3/4 => 4/4
+
+Zane, Master of Ice
+
+Jay, Master of Lightning
+rules_text: Ninjutsu {1}{U} [i]({1}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)[/i]
+When Jay, Master of Lightning enters, return another target creature to its owner's hand. If you controlled it, draw a card. => Ninjutsu {1}{U} [i]({1}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)[/i]
+When Jay, Master of Lightning enters, return another target nonland permanent to its owner's hand. If you controlled it, draw a card.
+
+Cole, Master of Earth
+
+Kai, Master of Fire
+
+Lloyd, Master of Green
+
+Adora, Princess of Power
+
+Dr. Radley Madish
+rules_text: When Dr. Radley Madish enters, create a 2/2 colorless Food Minion artifact creature token with “{2}, {T}, Sacrifice this artifact: You gain 3 life.” Then exile up to one other target creature until you control no Foods. => When Dr. Radley Madish enters, create a 2/2 colorless Food Minion artifact creature token with “{2}, {T}, Sacrifice this artifact: You gain 3 life.” When you do, exile up to one other target creature until you control no Foods.
+
+Æsahættr, the Subtle Knife
+
+Relentless Gaze of the Sun
+
+Travel on the River's Back
+
+Emerge from the Dread Night Wind
+rules_text: Choose one—
+• Creatures get -2/-2 until end of turn.
+• Target creature gets -5/-5 until end of turn.
+• Return target creature card with mana value 3 or less from your graveyard to the battlefield. => Choose one —
+• Creatures get -2/-2 until end of turn.
+• Target creature gets -5/-5 until end of turn.
+• Return target creature card with mana value 3 or less from your graveyard to the battlefield.
+
+Scott Summers, Cyclops
+
+Exaltation of Echoed Steps
+
+Wandering Voice Keens Delirium
+
+Reaper
+pt: 2/2 => 2/3
+
+Frightful Keening
+
+Sarah, Terrible Eye
+
+GlaDOS
+
+Simon Lovelace
+
+A Spread of Rampant Green
+
+Master Yoda
+
+Fort Onion
+type: Legendary Land => Legendary Land — Swamp Forest
+
+Gonzo the Great
+
+Bart Simpson
+pt: 3/2 => 3/3
+
+The Hell Cycle
+
+Nathaniel, John Mandrake
+
+Rachel Summers
+rules_text: When Rachel Summers enters, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.
+Whenever one or more cards leave your graveyard, put a +1/+1 counter on Rachel Summers. She gains flying until end of turn. => When Rachel Summers enters, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.
+Whenever one or more cards leave your graveyard, put a +1/+1 counter on Rachel Summers. She gains flying and haste until end of turn.
+
+The Ironclad
+
+The Defect
+
+The Silent
+
+The Necrobinder
+
+Neow, Ancient of Resurrection
+
+The Regent
+
+Minion
+
+Streex, Street Shark
+
+Warp Coin
+
+The Ender Dragon
+
+Zeppelin of Mighty Gargantuaness
+
+Boomer
+
+Jean Grey
+
+Diana Cavendish
+
+Darth Maul
+type: Legendary Creature — Alien Warlock => Legendary Artifact Creature — Alien Warlock
+
+Betsy Braddock, Captain Britain
+
+Vigor of the Breaking Dawn
+rules_text: Kicker {4}
+When you cast this spell, copy it twice if it was kicked. You may choose new modes and targets for the copies.
+Choose one—
+• Create two 1/1 white Soldier creature tokens.
+• Vigor of the Breaking Dawn deals damage equal to the number of creatures you control to target creature. => Kicker {4}
+When you cast this spell, copy it twice if it was kicked. You may choose new modes and targets for the copies.
+Choose one —
+• Create two 1/1 white Soldier creature tokens.
+• Vigor of the Breaking Dawn deals damage equal to the number of creatures you control to target creature.
+
+Keeper of the Forbidden Wilds
+
+Ocean's Hungry Grasp
+
+River Surges in Sunlight
+
+Dissolving Mists
+
+Binja
+
+Jacksmith
+rules_text: At the beginning of combat on your turn, create a weapon token attached to target creature you control. [i](It's a colorless Equipment artifact token with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+Whenever a modified creature you control deals combat damage to a player, you draw a card and lose 1 life. => At the beginning of combat on your turn, create a Weapon token attached to target creature you control. [i](It's a colorless Equipment artifact token with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+Whenever a modified creature you control deals combat damage to a player, you draw a card and lose 1 life.
+
+Finder of Paths Unseen
+
+Ember-Eyed Behemoth
+rules_text: Trample
+Whenever Ember-Eyed Behemoth enters or attacks, choose one. 
+• Target creature can't block this turn.
+• Target creature blocks this turn if able. => Trample
+Whenever Ember-Eyed Behemoth enters or attacks, choose one —
+• Target creature can't block this turn.
+• Target creature blocks this turn if able.
+
+Shifting Memory of Ages
+
+Cactus McCoy
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, create a weapon token attached to target creature you control. [i](It's a colorless Equipment artifact token with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+Whenever a creature you control deals five or more damage, create The Thorned Emerald, a legendary green artifact token with “{T}: Add {G}{G}{G}.” This ability triggers only once. => [i]Landfall[/i] — Whenever a land you control enters, create a Weapon token attached to target creature you control. [i](It's a colorless Equipment artifact token with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+Whenever a creature you control deals five or more damage, create The Thorned Emerald, a legendary green artifact token with “{T}: Add {G}{G}{G}.” This ability triggers only once.
+
+Seadragonus Giganticus Maximus
+
+Wreck of the Titanic
+
+Pearl
+
+The Blade of Evil's Bane
+
+Link, Hero of Hyrule
+
+Wounded Waters Bleeding
+
+Sharp Fangs Behind the Leaves
+
+Sun-Bright Whirlwind
+
+Eyes Watch From the Trees
+
+Serpent Slumbering Beneath the Island
+
+Many Minds Move as One
+
+Winds of Rust and Atrophy
+rules_text: Choose one—
+• Destroy target artifact.
+• Destroy target enchantment.
+• Prevent all combat damage that would be dealt this turn. => Choose one —
+• Destroy target artifact.
+• Destroy target enchantment.
+• Prevent all combat damage that would be dealt this turn.
+
+Powerstorm
+
+Shadows Flicker Like Flame
+pt: 4/3 => 3/3
+
+Blazing Renewal
+
+Exaltation of the Incandescent Sky
+cost:  => {1}{U}{R}
+rules_text: Exaltation of the Incandescent Sky deals 3 damage to any target. Until end of turn, cards in your hand have Cycling {1}. [i]({1}, Discard this card: Draw a card.)[/i] => Kicker {W}{B}{G} [i](You may pay an additional {W}{B}{G} as you cast this spell.)[/i]
+Exaltation of the Incandescent Sky deals 3 damage to target creature. Target player surveils 2, then draws a card. If it was kicked, target player creates a 4/4 red Elemental creature token, then gains 5 life.
+
+Hearth-Vigil
+
+Alvin the Treacherous
+rules_text: Menace
+Whenever Alvin the Treacherous enters or deals combat damage to a player, he connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)[/i]
+Escape—{1}{B}, Exile five other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i] => Menace
+Whenever Alvin the Treacherous enters or deals combat damage to a player, he connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)[/i]
+Escape—{1}{B}, Exile four other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]
+
+Exterminator Dragon
+
+Fathomless Mud of the Swamp
+
+Cain Marko, Juggernaut
+
+Devouring Teeth Lurk Underfoot
+
+Towering Roots of the Jungle
+
+Prophecied Panic
+
+Approaching Army
+
+Paw Paw, Brilliant Legal Mind
+
+Rosaline
+
+Morin Vineral
+
+Solum Bufo
+type: Legendary Creature — Frog Monk => Legendary Creature — Frog Mutant Monk
+
+Counterspell
+
+Telaine, the Glittering Lady
+
+Thunderspeaker
+
+Silk Merchant
+
+Diggy
+
+Steal the Moon
+
+Batman, Caped Crusader
+
+Harleen Quinzel
+
+Marceline, the Vampire Queen
+
+Pamela Isley
+
+Rot
+
+Hawkeye
+
+Mount Monterey
+type: Legendary Land => Legendary Land — Forest Plains
+
+The Saucelands
+type: Legendary Land => Legendary Land — Swamp Mountain
+
+Wintergreen Way
+type: Legendary Land => Legendary Land — Mountain Forest
+
+Neapolitown
+type: Legendary Land => Legendary Land — Mountain Plains
+
+Gummy Grotto
+type: Legendary Land => Legendary Land — Island Mountain
+
+Blue Moon Bay
+type: Legendary Land => Legendary Land — Plains Island
+
+Lake Chocodunk
+type: Legendary Land => Legendary Land — Island Swamp
+
+Leaf Landing
+type: Legendary Land => Legendary Land — Forest Island
+
+Cookie Caverns
+type: Legendary Land => Legendary Land — Plains Swamp
+
+The X Zone
+
+Robin, Boy Wonder
+
+Skyship Stormchaser
+
+Slay the Spire
+
+Sherlock Holmes
+
+Chewbacca
+rules_text: Companion — Your starting deck has ten or more nonbasic land cards. [i](If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)[/i]
+Trample
+Whenever Chewbacca enters or becomes a target of a spell you don't control, he fights up to one target creature. => Companion — Your starting deck has ten or more nonbasic land cards. [i](If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)[/i]
+Trample
+Whenever Chewbacca becomes the target of a spell or ability you don't control, he fights up to one target creature.
+
+Renfield the Madman
+
+Arrogance, Innocence, and Patience
+
+Blood Draws Predators
+
+Sap the Strength of Multitudes
+
+Draw Towards a Consuming Void
+
+Dr. John Watson
+
+Willow Rosenberg
+rules_text: Companion — Each nonland card in your starting deck is black. [i](If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)[/i]
+If you would lose life during your turn, instead you lose that much life plus 1 and draw a card. => Companion — Each nonland card in your starting deck is black. [i](If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)[/i]
+At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.
+
+The Dragon Jewel
+rules_text: When The Dragon Jewel enters, if you cast it, choose one—
+• Destroy all creatures with power 4 or greater.
+• Destroy all creatures with power 3 or less.
+{T}: Add three mana of any one color. => When The Dragon Jewel enters, if you cast it, choose one —
+• Destroy all creatures with power 4 or greater.
+• Destroy all creatures with power 3 or less.
+{T}: Add three mana of any one color.
+
+Csilla, the Saddle Knight
+
+Vampire Spydragon
+
+Luau LePunch
+
+Wildheart Guff
+rules_text: When Wildheart Guff enters, you gain 5 life, draw a card, and create a tapped colorless land token named Everywhere that is every basic land type.
+{2}: Choose one. Activate only once each turn—
+• Draw a card.
+• Create a tapped colorless land token named Everywhere that is every basic land type. => When Wildheart Guff enters, you gain 5 life, draw a card, and create a tapped colorless land token named Everywhere that is every basic land type.
+{2}: Choose one. Activate only once each turn —
+• Draw a card.
+• Create a tapped colorless land token named Everywhere that is every basic land type.
+
+HORUS Gorgon
+
+Elderstahl, Twilight of the Gods
+
+Beta Ray Bill
+
+Opal Luna Saturnyne
+
+Roma, Omniversal Guardian
+
+Artakha, the Great Designer
+
+The Siege Perilous
+
+Rahne Sinclair, Wolfsbane
+
+Sam Guthrie, Cannonball
+
+The Death Note
+
+Kobold Librarian
+
+Amara Juliana Olivians Aquilla
+
+Selene Gallio
+
+Days of Future Past
+
+Hulkbuster Armor Model 52
+
+Connie's Crystal Sword
+
+Darth Sidious
+rules_text: Whenever Darth Sidious enters or you cast a noncreature spell, choose one that hasn't been chosen this turn—
+• You draw a card and lose 3 life.
+• Darth Sidious deals 3 damage to any target.
+• Add {B}{B}{B}.
+Persist [i](When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)[/i] => Whenever Darth Sidious enters or you cast a noncreature spell, choose one that hasn't been chosen this turn —
+• You draw a card and lose 3 life.
+• Darth Sidious deals 3 damage to any target.
+• Add {B}{B}{B}.
+Persist [i](When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)[/i]
+
+Force Lightning
+
+Shadow the Hedgehog
+rules_text: Menace, haste
+Whenever Shadow the Hedgehog deals combat damage to a player, you may cast a spell with mana value less than or equal to his power from your graveyard by paying life equal to its mana value rather than paying its mana cost. => Menace, haste
+Whenever Shadow the Hedgehog deals combat damage to a player, you may cast a spell with mana value less than his power from your graveyard by paying life equal to its mana value rather than paying its mana cost.
+
+Chaos Control
+
+Doctor Ivo Robotnik
+
+Metal City Mayhem
+
+General Kai, the Collector
+
+Parry
+
+Roberto Da Costa, Sunspot
+
+Puss in Boots
+
+Pillar of Living Flame
+
+Sunflower
+
+Hardwon Surefoot
+type:  => Legendary Creature — Human Elf Warrior
+cost:  => {2}{R}{R}
+rules_text:  => Double strike, trample, haste
+Ward—Pay 4 life [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 4 life.)[/i]
+pt:  => 2/4
+
+Proconsul H. L. Ravilla
+
+Tartarus
+rules_text: {T}: Add {C}
+{T}, Pay 1 life: Add {B}.
+Whenever Tartarus becomes tapped, mill a card. => Tartarus enters tapped unless you control a basic land.
+{T}: Add {B}.
+Whenever you tap Tartarus for mana, mill a card.
+
+There Is No Escape
+
+It's Alive!
+
+Frankenstein's Monster
+
+The Wild Robot
+
+Isca the Unbeaten
+
+Branch Mine
+
+Yogg-Saron, Hope's End
+type: Legendary Creature — Yogg-Saron => Legendary Planeswalker — Yogg-Saron
+
+Virginia Pepper Potts
+
+Galad Rosell, White Rose of Galaderon
+
+Backbiter
+
+Atomic Breath
+
+Cast Down Into The Briny Deep
+
+Count Dracula
+
+Vengeful Spirit
+
+The Bloody Crow of Cainhurst
+
+Substitution Jutsu
+
+The Prophecy of the Wilderwest
+
+Endeavour, the Dragonsword
+
+Map Token
+
+Super Mario
+
+Geronimo Stilton
+
+Avohkii, the Mask of Light
+
+Karzanhi, the Tormentor
+
+Ulfgar Trueaxe
+
+Jolene the Green
+
+Thiala, Hero of Bahumia
+
+Chronoskimming
+type:  => Instant
+cost:  => {U}
+rules_text:  => Return target instant or sorcery card with mana value 3 or less from your graveyard to your hand.
+
+General Jack Ripper
+pt: 1/1 => 2/1
+
+Escape From Tarkov
+
+The Stone Gardens
+
+Trap in Crystal???
+
+Groundhog Day
+
+Godzilla
+
+Marquise Recruiter
+cost: {W} => {3}{W}
+rules_text: tutor toughness 2 or less? should this be an artifact engine somehow? make 1/1s and draw? like a staff of the storyteller? => When this creature enters, you may search your library for a creature card with mana value 2 or less, reveal it, put it into your hand, then shuffle.
+At the beginning of your end step, create a 1/1 white Soldier creature token.
+pt:  => 1/1
+
+Godzilla vs. Kong
+
+The Hairy Scary Librarian
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
