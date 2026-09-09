@@ -1,4 +1,1034 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+
+
+The Crown, Armored and Protecting
+
+
+VERSION 4 CHANGELOG
+====================
+
+
+
+
+type: Legendary Creature — Djinn Spirit => 
+cost: {1}{U} => 
+rules_text: Flying
+{U}: Scry 1. Activate only once each turn.
+{1}{U}: Bartimaeus gains hexproof until end of turn.
+{2}{U}: Bartimaeus becomes a copy of target creature until end of turn. => 
+pt: 2/1 => 
+
+
+VERSION 3 CHANGELOG
+====================
+
+The Return of Turbot Smeal added.
+LEGO Batman added.
+Mine added.
+One For All added.
+Phantom Zone Projector added.
+The Ticking-Thing added.
+Vengeance as a Burning Plague added.
+Forgotten Crossroads added.
+Board the Princess Andromeda added.
+Percy Jackson added.
+Anakin Skywalker added.
+Sorrow and Remembrance added.
+UnLondon City Bus added.
+The Yellow Submarine added.
+Jacky Magus added.
+Galaderon Drill-Car added.
+Starlight Bolt added.
+Guardian of Laputa added.
+Spirited Away added.
+Gift of the Phoenix added.
+The Sorceress Yubaba added.
+Air Destroyer Goliath added.
+The Amulet of Samarkand added.
+Tanuki added.
+Luigi Mario added.
+Lightning's Boon added.
+Bayou added.
+Scrubland added.
+Tundra added.
+Tropical Island added.
+Savannah added.
+Plateau added.
+Volcanic Island added.
+Underground Sea added.
+Badlands added.
+Taiga added.
+Warlock added.
+The Wormways added.
+Mothwing Cloak added.
+Manifest Incarnation added.
+The Crown, Armored and Protecting added.
+
+Alanis removed.
+Girsh Shug'ruith the Burrower removed.
+Stormphrax Shard removed.
+Scoped Masterwork Carbine removed.
+Myra Goldskimmer removed.
+Darth Vader removed.
+The Mother Storm removed.
+Absolute Radiance removed.
+Neow, Ancient of Resurrection removed.
+Paw Paw, Brilliant Legal Mind removed.
+Morin Vineral removed.
+Selene Gallio removed.
+The Prophecy of the Wilderwest removed.
+Ulfgar Trueaxe removed.
+Trap in Crystal??? removed.
+Alison Blaire, Dazzler removed.
+The Return of Turbot Smeal? removed.
+Maugin, the Stone Pilot removed.
+
+Bartimaeus of Uruk
+
+Moonshine Cybin, Queen of Elves
+
+The Bear Prince
+
+Wuxi Finger Hold
+
+Megamind
+
+Hiccup Horrendous Haddock III
+
+Pangur Ban
+
+The Sepia Knight
+
+Caterbird
+
+Zagreus
+
+Jenny Cavanaugh
+type: Legendary Creature — Spirit => Legendary Creature — Spirit Citizen
+rules_text: Flying
+When Jenny Cavanaugh enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i] => Flying
+When Jenny Cavanaugh enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+
+Harrowhark Nonagesimus
+
+Moment of Twilight
+
+Arborinus Twig Verginix
+
+The First Age of Flight
+
+The Gloamglozer
+rules_text: Flying
+You may have the Gloamglozer enter the battlefield as a copy of any creature on the battlefield, except it has flying.
+Escape {3}{U}{U}, Exile three other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]
+When you cast The Gloamglozer for its escape cost, copy it. => Flying
+You may have the Gloamglozer enter the battlefield as a copy of any creature on the battlefield, except it has flying.
+Escape—{3}{U}{U}, Exile three other cards from your graveyard.
+When you cast The Gloamglozer for its escape cost, copy it.
+
+Tears That Fill The River
+
+Scourge of BloodClan
+
+Lyra Silvertongue
+
+The Elf, Steward of Seasons
+
+The Deepwoods
+
+Midnight over Sanctaphrax
+
+Quintinius Cloud Wolf Verginix
+
+Princess Leia
+
+Spiral, Mistress of the Wildways
+
+Luke Skywalker
+
+Han Solo
+rules_text: Haste
+Whenever Han Solo becomes tapped, discard a card at random. If you do, draw two cards. => Haste
+Whenever Han Solo becomes tapped, discard a card at random, then draw two cards.
+
+Vin, Mistborn
+rules_text: Whenever you cast an artifact spell, put a +1/+1 counter on Vin. She gains flying until end of turn.
+Whenever Vin deals combat damage to a player, you may sacrifice an artifact. If you do, draw a card. => Flash
+Whenever you cast an artifact spell, put a +1/+1 counter on Vin. She gains flying until end of turn.
+Whenever Vin deals combat damage to a player, draw a card. Then discard a card unless you sacrifice an artifact.
+
+Harrietta Gris, Chief Anatomist
+
+Netin Foundry
+
+Walter White
+
+Chaos Emerald
+
+The Infinity Gauntlet
+
+Ramuthra
+cost: {5}{R}{R} => {6}{R}
+
+Heddleham Hall
+
+The Isle of Berk
+
+Breath of Darkness Down Your Spine
+
+Captain Kate Pryde
+rules_text: First strike, haste
+When Captain Kate Pryde enters, target creature can't block this turn.
+Discard a card: Exile Captain Kate Pryde. Return her to the battlefield at the beginning of your next upkeep. => Haste
+Captain Kate Pryde has first strike as long as she's attacking.
+When Captain Kate Pryde enters, target creature can't block this turn.
+Discard a card: Exile Captain Kate Pryde. Return her to the battlefield at the beginning of your next upkeep.
+
+From Hell's Heart
+
+The Number Devil
+
+Brokkenbroll, the Unbrellisimo
+
+Zane, Master of Ice
+
+Jay, Master of Lightning
+
+Cole, Master of Earth
+
+Kai, Master of Fire
+
+Lloyd, Master of Green
+
+Dr. Radley Madish
+
+Æsahættr, the Subtle Knife
+
+Relentless Gaze of the Sun
+
+Travel on the River's Back
+
+Emerge from the Dread Night Wind
+
+Scott Summers, Cyclops
+
+Exaltation of Echoed Steps
+
+Wandering Voice Keens Delirium
+
+Reaper
+
+Frightful Keening
+
+Sarah, Terrible Eye
+
+GlaDOS
+
+Simon Lovelace
+
+A Spread of Rampant Green
+
+The Pain Box
+rules_text: When The Pain Box enters, target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
+At the beginning of your upkeep, you lose 1 life unless a player has 1 or fewer cards in hand. => When The Pain Box enters, target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
+At the beginning of your upkeep, you lose 1 life unless a player has no cards in hand.
+
+Master Yoda
+
+Fort Onion
+
+Gonzo the Great
+
+Bart Simpson
+
+The Hell Cycle
+
+Nathaniel, John Mandrake
+
+Rachel Summers
+
+The Ironclad
+
+The Defect
+
+The Silent
+
+The Necrobinder
+
+The Regent
+
+Streex, Street Shark
+
+Warp Coin
+rules_text: {T}: Add one mana of any color.
+Warp {0} [i](You may cast this card from your hand for its warp cost. Exile this artifact at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i] => {T}: Add one mana of any color.
+Warp {0} [i](You may cast this card from your hand for its warp cost. Exile this artifact at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i] [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]
+
+The Ender Dragon
+
+Zeppelin of Mighty Gargantuaness
+
+Boomer
+rules_text: Haste
+When Boomer enters, she deals 1 damage to any target. If a creature is dealt damage this way, it can't block this turn. If she was cast for her blitz cost, she deals X damage instead.
+Blitz {X}{R}{R} [i](If you cast this spell for its blitz cost, it gains haste and “When this creature dies, draw a card”. Sacrifice it at the beginning of the next end step.)[/i] => Haste
+When Boomer enters, she deals 1 damage to any target. If a creature is dealt damage this way, it can't block this turn. If she was cast for her blitz cost, she deals X damage instead.
+Blitz {X}{R}{R} [i](If you cast this spell for its blitz cost, it gains haste and “When this creature dies, draw a card.” Sacrifice it at the beginning of the next end step.)[/i]
+
+Jean Grey
+
+Diana Cavendish
+pt: 1/1 => 2/1
+
+Darth Maul
+rules_text: Menace, deathtouch
+Darth Maul enters with two +1/+1 counters on him.
+If damage would be dealt to Darth Maul, prevent that damage. Remove a +1/+1 counter from Darth Maul or sacrifice an equipment attached to him. => Menace, deathtouch
+Darth Maul enters with two +1/+1 counters on him.
+If damage would be dealt to Darth Maul, prevent that damage. Remove a +1/+1 counter from Darth Maul.
+
+Vigor of the Breaking Dawn
+
+Keeper of the Forbidden Wilds
+
+Ocean's Hungry Grasp
+rules_text: When Ocean's Hungry Grasp enters, return each other creature with power less than or equal to your devotion to blue to its owner's hand. [i](Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)[/i]
+Waterbend {3}: Draw a card. => When Ocean's Hungry Grasp enters, return each other creature with power less than or equal to your devotion to blue to its owner's hand. [i](Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)[/i]
+Waterbend {3}: Draw a card. [i](While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)[/i]
+
+River Surges in Sunlight
+
+Dissolving Mists
+
+Binja
+rules_text: Ninjutsu {2} [i]({2}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)[/i]
+Whenever Binja deals combat damage to a player, create a Junk token. [i](It's an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i] => Ninjutsu {2} [i]({2}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)[/i]
+Whenever Binja deals combat damage to a player, create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+
+Jacksmith
+
+Finder of Paths Unseen
+
+Ember-Eyed Behemoth
+
+Shifting Memory of Ages
+
+Akira Slide
+
+Cactus McCoy
+
+Seadragonus Giganticus Maximus
+
+Wreck of the Titanic
+
+Pearl
+
+The Blade of Evil's Bane
+
+Link, Hero of Hyrule
+
+Wounded Waters Bleeding
+
+Sharp Fangs Behind the Leaves
+rules_text: At the beginning of combat on your turn, create a 1/1 red Beast creature token with haste. It attacks this turn if able.
+[i]Pack Tactics [/i]— Whenever Sharp Fangs Behind the Leaves attacks, if you attacked with creatures with total power 6 or greater this combat, Sharp Fangs Behind the Leaves deals damage equal to the number of attacking creatures to target creature an opponent controls. => At the beginning of combat on your turn, create a 1/1 red Beast creature token. It gains haste until end of turn and attacks this turn if able.
+[i]Pack Tactics [/i]— Whenever Sharp Fangs Behind the Leaves attacks, if you attacked with creatures with total power 6 or greater this combat, Sharp Fangs Behind the Leaves deals damage equal to the number of attacking creatures to target creature an opponent controls.
+
+Sun-Bright Whirlwind
+
+Eyes Watch From the Trees
+
+Serpent Slumbering Beneath the Island
+
+Many Minds Move as One
+
+Winds of Rust and Atrophy
+
+Powerstorm
+
+Shadows Flicker Like Flame
+
+Blazing Renewal
+
+Exaltation of the Incandescent Sky
+
+Hearth-Vigil
+
+Alvin the Treacherous
+
+Exterminator Dragon
+cost: {3}{R}{R}{R} => {5}{R}
+
+Fathomless Mud of the Swamp
+
+Cain Marko, Juggernaut
+
+Devouring Teeth Lurk Underfoot
+
+Towering Roots of the Jungle
+
+Prophecied Panic
+
+Approaching Army
+
+Rosaline
+
+Solum Bufo
+
+Uku of the Unseen Eye
+
+Counterspell
+
+Telaine, the Glittering Lady
+
+Thunderspeaker
+
+Silk Merchant
+
+Diggy
+
+Steal the Moon
+
+Batman, Caped Crusader
+
+Marceline, the Vampire Queen
+
+Pamela Isley
+
+Rot
+
+Vance Deadeye Cybin
+
+Hawkeye
+
+Mount Monterey
+
+The Saucelands
+
+Wintergreen Way
+
+Neapolitown
+
+Gummy Grotto
+
+Blue Moon Bay
+
+Lake Chocodunk
+
+Leaf Landing
+
+Cookie Caverns
+
+The X Zone
+
+Robin, Boy Wonder
+
+Skyship Stormchaser
+
+Slay the Spire
+
+Sherlock Holmes
+rules_text: Whenever Sherlock Holmes enters or you cast a noncreature spell, create a Clue token if you control no Clues. => Flash
+Whenever Sherlock Holmes enters or you cast a noncreature spell, create a Clue token if you control no Clues.
+pt: 1/1 => 1/2
+
+Chewbacca
+rules_text: Companion — Your starting deck has ten or more nonbasic land cards. [i](If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)[/i]
+Trample
+Whenever Chewbacca becomes the target of a spell or ability you don't control, he fights up to one target creature. => Companion — Your starting deck has ten or more nonbasic land cards. [i](If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)[/i]
+Trample
+Whenever a creature you control becomes the target of a spell you don't control, you may have Chewbacca fight target creature. [i](Each deals damage equal to its power to the other.)[/i]
+
+Renfield the Madman
+cost: {1}{R}{R} => {1}{R}
+rules_text: Noncreature spells you cast cost {R} less to cast.
+Whenever you discard a card, exile that card from your graveyard. You may play it until end of turn. => The first noncreature spell you cast each turn costs {R} less to cast.
+Whenever you discard a card, you may exile that card from your graveyard. If you do, you may play it until end of turn.
+pt: 2/4 => 2/2
+
+Blood Draws Predators
+
+Sap the Strength of Multitudes
+
+Draw Towards a Consuming Void
+
+Dr. John Watson
+
+Willow Rosenberg
+
+The Dragon Jewel
+
+Csilla, the Saddle Knight
+
+Vampire Spydragon
+
+Luau LePunch
+
+Wildheart Guff
+
+HORUS Gorgon
+
+Elderstahl, Twilight of the Gods
+
+Beta Ray Bill
+rules_text: Flying, vigilance
+Whenever an Equipment you control enters, draw a card.
+Whenever Beta Ray Bill attacks, you may attach an Equipment you control to him. => Flying, vigilance
+Whenever an Equipment you control enters, draw a card.
+Whenever Beta Ray Bill enters or attacks, you may attach an Equipment you control to him.
+
+Roma, Omniversal Guardian
+
+The Siege Perilous
+
+Rahne Sinclair, Wolfsbane
+
+Sam Guthrie, Cannonball
+
+The Death Note
+
+Kobold Librarian
+
+Amara Juliana Olivians Aquilla
+
+Days of Future Past
+cost: {2}{U}{R} => {1}{U}{R}
+
+Hulkbuster Armor Model 52
+
+Connie's Crystal Sword
+
+Darth Sidious
+
+Force Lightning
+
+Shadow the Hedgehog
+rules_text: Menace, haste
+Whenever Shadow the Hedgehog deals combat damage to a player, you may cast a spell with mana value less than his power from your graveyard by paying life equal to its mana value rather than paying its mana cost. => Menace, haste
+Whenever Shadow the Hedgehog deals combat damage to a player, you may cast a spell with mana value less than or equal to his power from your graveyard by paying life equal to its mana value rather than paying its mana cost.
+
+Chaos Control
+
+Doctor Ivo Robotnik
+
+General Kai, the Collector
+
+Parry
+
+Roberto Da Costa, Sunspot
+
+Puss in Boots
+
+A Fistful of Dirt
+rules_text: When A Fistful of Dirt enters and whenever you play a card from anywhere other than your hand, create a Junk token. [i](It's an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i] => When A Fistful of Dirt enters and whenever you play a card from anywhere other than your hand, create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+
+Pillar of Living Flame
+
+Sunflower
+
+Hardwon Surefoot
+
+Proconsul H. L. Ravilla
+
+Tartarus
+
+There Is No Escape
+
+It's Alive!
+
+Frankenstein's Monster
+
+The Wild Robot
+
+Isca the Unbeaten
+
+Branch Mine
+type: Land => Land — Mine
+
+Galad Rosell, White Rose of Galaderon
+
+Backbiter
+
+Atomic Breath
+
+Cast Down Into The Briny Deep
+
+Count Dracula
+rules_text: Flying, deathtouch, lifelink
+Whenever you gain life, put a +1/+1 counter on Count Dracula and create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i] => Flying, deathtouch, lifelink
+Whenever you gain life, put a +1/+1 counter on Count Dracula and create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+
+Vengeful Spirit
+
+The Bloody Crow of Cainhurst
+rules_text: When The Bloody Crow of Cainhurst enters, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i]
+Whenever you discard a card, add {R}. Until end of turn, you don't lose this mana as steps and phases end. => When The Bloody Crow of Cainhurst enters, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+Whenever you discard a card, add {R}. Until end of turn, you don't lose this mana as steps and phases end.
+
+Substitution Jutsu
+rules_text: Return target creature to its owner's hand. If you controlled it, you may put a nonland permanent with equal or lesser mana value from your hand onto the battlefield. => Return target creature to its owner's hand. If you controlled it, you may put a nonland permanent card with equal or lesser mana value from your hand onto the battlefield.
+
+Endeavour, the Dragonsword
+rules_text: Equipped creature gets +1/+1.
+As long as equipped creature is tapped, it has first strike.
+Whenever equipped creature deals combat damage, create a Map token.
+Equip {1} => Equipped creature gets +1/+1.
+As long as equipped creature is attacking, it has first strike.
+Whenever equipped creature deals combat damage, create a Map token.
+Equip {1}
+
+Driller Dragon
+
+Geronimo Stilton
+rules_text: When Geronimo Stilton enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+Activated abilities of artifacts you control cost {1} less to activate. This effect can't reduce the mana in that cost to less than one mana. => When Geronimo Stilton enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+Activated abilities of artifacts you control cost {1} less to activate. This effect can't reduce the mana in that cost to less than one mana.
+
+Avohkii, the Mask of Light
+
+Chronoskimming
+
+Escape From Tarkov
+rules_text: Draw two cards, then discard two cards.
+Escape—{3}{R}, Exile two other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i] => Draw two cards, then discard two cards.
+Escape—{2}{R}, Exile two other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]
+
+The Stone Gardens
+
+Great Chariot Cannon
+
+Bequeath
+
+Groundhog Day
+
+Banderbear
+cost: {1}{G} => {1}{G}{G}
+rules_text: Trample
+Whenever Banderbear deals combat damage to a player, return a permanent you control to its owner's hand. => Trample
+When Banderbear enters, create a Food token.
+At the beginning of your upkeep, return a permanent you control to its owner's hand.
+pt: 4/3 => 4/4
+
+Godzilla
+rules_text: Whenever Godzilla enters or attacks, choose one—
+• Godzilla fights target creature.
+• Exile target noncreature permanent.
+Sacrifice a land: Return Godzilla from your graveyard to your hand. => Trample
+Whenever Godzilla enters or attacks, choose one—
+• Godzilla fights target creature.
+• Exile target noncreature permanent.
+Sacrifice a land: Return Godzilla from your graveyard to your hand.
+
+Shape the Self Anew
+
+Marquise Recruiter
+
+Godzilla vs. Kong
+
+What We're Gonna Do Today
+
+Blood-Sated Sword Soul
+
+The Xenomorph Queen
+
+Shai-Hulud
+
+Thirty-Cubit Spear
+
+Martin and Chris Kratt
+
+The Dark Prophecy
+
+Ironmonger
+type:  => Creature — Human Citizen
+cost:  => {2}{G}
+rules_text: Draw a card. Create a Treasure token. 
+Reveal the top card of your library. If it's a land card, draw a card. Otherwise, create a Treasure token. => Ward {1} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+[i]Landfall[/i] — Whenever a land you control enters, reveal the top card of your library. You may put it into your graveyard. If it's a land card, draw a card. Otherwise, create a Treasure token.
+pt:  => 3/2
+
+Shield Bash
+
+Pinpoint
+
+Crash Landing
+
+Hang
+
+All For One
+
+Stampede
+
+Bluestar's Prophecy
+
+Shoot First
+rules_text: Split second [i](As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)[/i]
+Target creature you control gets +1/+1 until end of turn. It deals damage equal to its power to up to one other target creature. => Split second [i](As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)[/i]
+Target creature you control gets +1/+0 until end of turn. It deals damage equal to its power to up to one other target creature.
+
+Banish
+
+Creeper
+
+The Crick
+
+Grimhawk
+rules_text: Grimhawk enters tapped unless you control a basic land.
+{T}: Add {R}.
+{1}{R}, {T}: Create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i] => Grimhawk enters tapped unless you control a basic land.
+{T}: Add {R}.
+{1}{R}, {T}: Create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+
+Frostwind
+
+Galaderon, City in the Clouds
+
+Asphodel
+
+Elysium
+
+Undertown
+
+The Mire
+
+The Autumn Court
+
+Throne, the Red City
+
+Dream No More
+
+Bench
+
+Grim Reflection
+
+Greenpath
+
+No Cost Too Great
+
+Hound Suit
+
+The Hairy Scary Librarian
+
+Litany Against Fear
+
+Paul Muad'Dib Atreides
+
+Path of Pain
+
+Somewhere Over The Rainbow
+
+The White Palace
+
+City of Tears
+
+Crystal Peak
+
+Agent P
+cost: {2}{W} => {1}{W}
+rules_text: When Agent P enters, you may destroy target artifact or enchantment.
+As long as Agent P is modified, noncreature, non-Equipment spells cost {1} more to cast. [i](Equipment, Auras you control, and counters are modifications.)[/i] => Disguise {W} [i](You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)[/i]
+When Agent P is turned face up, you may destroy target artifact or enchantment.
+pt: 2/1 => 3/2
+
+Deepnest
+
+Kingdom's Edge
+
+Ideate
+rules_text: Create a Junk token. [i](It's an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+Flashback {U} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+Flashback {U} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Cornifer the Mapmaker
+type: Legendary Creature — Insect => Legendary Creature — Insect Scout
+rules_text: When Cornifer the Mapmaker enters, create a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i]
+At the beginning of your end step, create a Map token if you descended this turn. [i](You descended if a permanent card was put into your graveyard from anywhere this turn.)[/i] => When Cornifer the Mapmaker enters, create a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.”)[/i]
+At the beginning of your end step, create a Map token if you descended this turn. [i](You descended if a permanent card was put into your graveyard from anywhere this turn.)[/i]
+
+Gideon Nav
+
+Laura Kinney, Wolverine
+
+Undyne, Spear of Justice
+
+Second Wave
+
+Lorna Dane, Polaris
+
+Silk Spear
+
+Zaladane, Empress of the Savage Land
+
+Lex Luthor
+
+Bukvar
+rules_text: Flying
+Whenever Bukvar enters or deals combat damage to a player, put a page counter on him. 
+{2}, {T}, Remove a page counter from Bukvar: Draw a card => Flying
+Whenever Bukvar enters or deals combat damage to a player, put a page counter on him. 
+{2}, {T}, Remove a page counter from Bukvar: Draw a card.
+
+King Thorin Oakenshield
+
+Decapitate
+
+Grand Mother Silk
+
+Emma Frost, White Queen
+cost:  => {W}{B}
+rules_text:  => Emma Frost enters with a shield counter on her. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+When Emma Frost enters, look at target opponent's hand. You may exile a nonland card from it until Emma Frost leaves the battlefield.
+pt:  => 2/1
+
+Great Slash
+
+Fraiden French, Margrave
+
+Enweb
+
+Nailmaster Oro
+
+Hornet, Daughter of Hallownest
+
+Optic Blast
+
+Strike the Match
+
+The Stagways
+
+Egwene, The Lady Snake
+
+Obi-Wan Kenobi
+cost:  => {1}{G}
+rules_text:  => [i]Landfall[/i] — Whenever a land you control enters, put a +1/+1 counter on target creature you control.
+{1}, Sacrifice Obi-Wan Kenobi: Modified creatures you control gain hexproof and indestructible until end of turn. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+The Blood-Red Glister
+rules_text: Whenever The Blood-Red Glister enters or deals combat damage to a player, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i]
+Whenever a player sacrifices a permanent, put a +1/+1 counter on The Blood-Red Glister. => Whenever The Blood-Red Glister enters or deals combat damage to a player, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+Whenever a player sacrifices a permanent, put a +1/+1 counter on The Blood-Red Glister.
+
+Pikachu
+rules_text: Companion — Your deck contains five or more instant or sorcery cards with mana value 1. [i](If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)[/i]
+Whenever a player casts their second each turn, Pikachu deals 2 damage to each opponent. => Companion — Each nonland card in your starting deck has “damage” in its printed rules text. [i](If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)[/i]
+Prowess
+When Pikachu enters, exile the top card of your library. You may play that card until the end of your next turn.
+pt: 2/1 => 2/2
+
+Po, the Dragon Warrior
+
+Cerebro
+
+The Big Friendly Giant
+
+Prowlgrin
+
+Shakra
+rules_text: When Shakra enters, create a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i]
+Whenever a creature you control becomes the target of a spell or ability, draw a card. This ability triggers only once each turn. => When Shakra enters, create a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.”)[/i]
+Whenever a creature you control becomes the target of a spell or ability, draw a card. This ability triggers only once each turn.
+
+Marabelle the Terrible
+
+Titano the Super-Ape
+
+To Me, My X-Men!
+
+Kingshammer
+
+The Predator
+
+Alien vs. Predator
+
+The Woodsman's Lantern
+rules_text: {T}: Exile target card from a graveyard. If it's a creature card, put an edelwood counter on it.
+{2}, {T}, Remove an edelwood counter from a card exiled with The Woodsman's Lantern: Create a tapped Forest token. => {T}: Exile target card from a graveyard. If it's a creature card, put a charge counter on The Woodsman's Lantern.
+{2}, {T}, Remove a charge counter from The Woodsman's Lantern: Create a tapped Forest token.
+
+The Sands of Karak
+
+Bilewater
+
+Greymoor
+
+The Deep Docks
+
+Shellwood
+
+Moss Grotto
+
+Mount Fay
+
+Bellhart
+
+Far Fields
+
+Three Sword Style
+
+Beverly Toegold V
+
+Iorek Byrnison
+
+Adora, Princess of Power
+
+Minion
+
+Betsy Braddock, Captain Britain
+pt: 3/2 => 3/1
+
+Harleen Quinzel
+rules_text: Harleen Quinzel enters prepared. [i](While she's prepared, you may cast a copy of her spell. Doing so unprepares her.)[/i]
+Whenever you discard a card, put a +1/+1 counter on Harleen Quinzel. => Harleen Quinzel enters prepared. [i](While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)[/i]
+Whenever you discard a card, put a +1/+1 counter on Harleen Quinzel.
+
+Arrogance, Innocence, and Patience
+
+Opal Luna Saturnyne
+
+Artakha, the Great Designer
+
+Metal City Mayhem
+rules_text: [i](Choose only one page as a sorcery to add its effects.)[/i]
+When this Manuscript enters, return target artifact or creature to its owner's hand.
+{4}{U}{U} Page 45
+At the beginning of your upkeep, create a token that's a copy of target creature you control, except it's an artifact in addition to its other types.
+{2}{U} Page 212
+Whenever you draw a card, put a +1/+1 counter on target creature you control. => [i](Choose only one page as a sorcery to add its effects.)[/i]
+When this Manuscript enters, return target artifact or creature to its owner's hand.
+{4}{U}{U} Page 45
+At the beginning of your upkeep, create a token that's a copy of target creature you control, except it's an artifact in addition to its other types.
+{2}{U} Page 212
+Whenever you draw a card, put a +1/+1 counter on target creature you control.
+
+special_text: [i](Choose only one page as a sorcery to add its effects.)[/i]
+When this Manuscript enters, return target artifact or creature to its owner's hand.
+{4}{U}{U} Page 45
+At the beginning of your upkeep, create a token that's a copy of target creature you control, except it's an artifact in addition to its other types.
+{2}{U} Page 212
+Whenever you draw a card, put a +1/+1 counter on target creature you control. => [i](Choose only one page as a sorcery to add its effects.)[/i]
+When this Manuscript enters, return target artifact or creature to its owner's hand.
+{4}{U}{U} Page 45
+At the beginning of your upkeep, create a token that's a copy of target creature you control, except it's an artifact in addition to its other types.
+{2}{U} Page 212
+Whenever you draw a card, put a +1/+1 counter on target creature you control.
+
+
+Yogg-Saron, Hope's End
+
+Virginia Pepper Potts
+rules_text: Flash
+Flying
+Virginia “Pepper” Potts enters prepared. [i](While she's prepared, you may cast a copy of her spell. Doing so unprepares her.)[/i] => Flash
+Flying
+Virginia “Pepper” Potts can block only creatures with flying.
+Pepper enters prepared. [i](While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)[/i]
+
+Map Token
+
+Super Mario
+rules_text: Flying
+Whenever Super Mario deals combat damage to a player, he becomes prepared. [i](While he's prepared, you may cast a copy of his spell. Doing so unprepares him.)[/i] => Flying
+Whenever Super Mario deals combat damage to a player, he becomes prepared. [i](While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)[/i]
+
+Karzanhi, the Tormentor
+rules_text: [+1]: Target player loses 3 life unless they discard a card or sacrifice a nonland permanent.
+[-1]: Return target creature card with mana value 3 or less from your graveyard to the battlefield.
+[-5]: Search your library for any number of cards, put those cards into your graveyard, then shuffle. => [+1]: Target player loses 3 life unless they discard a card or sacrifice a nonland permanent.
+[-2]: Return target creature card with mana value 3 or less from your graveyard to the battlefield.
+[-5]: Search your library for any number of cards, put those cards into your graveyard, then shuffle.
+special_text: [+1]: Target player loses 3 life unless they discard a card or sacrifice a nonland permanent.
+[-1]: Return target creature card with mana value 3 or less from your graveyard to the battlefield.
+[-5]: Search your library for any number of cards, put those cards into your graveyard, then shuffle. => [+1]: Target player loses 3 life unless they discard a card or sacrifice a nonland permanent.
+[-2]: Return target creature card with mana value 3 or less from your graveyard to the battlefield.
+[-5]: Search your library for any number of cards, put those cards into your graveyard, then shuffle.
+
+Jolene the Green
+
+Thiala, Hero of Bahumia
+loyalty: 3 => 4
+
+General Jack Ripper
+rules_text: When General Jack Ripper enters, choose one—
+• You draw a card and you lose 1 life.
+• General Jack Ripper becomes prepared. => When General Jack Ripper enters, choose one —
+• You draw a card and you lose 1 life.
+• General Jack Ripper becomes prepared.
+
+Pendeghast the Betrayer
+rules_text: When Pendeghast the Betrayer dies, create a token that's a copy of him, except it's a red artifact. [i](It's not a planeswalker and enters with no loyalty counters.)[/i]
+[+1]: Exile the top card of your library. You may play it until the end of your next turn.
+[-3]: Pendeghast the Betrayer deals 5 damage to any target.
+[-7]: Create three tokens that are copies of target creature. They gain haste. Exile them at the beginning of the next end step. => When Pendeghast the Betrayer dies, if he's not an artifact, create a token that's a copy of him, except it's an artifact. [i](It's not a planeswalker and enters with no loyalty counters.)[/i]
+[+1]: Exile the top card of your library. You may play it until the end of your next turn.
+[-3]: Pendeghast the Betrayer deals 5 damage to any target.
+[-7]: Create three tokens that are copies of target creature. They gain haste. Exile them at the beginning of the next end step.
+special_text: When Pendeghast the Betrayer dies, create a token that's a copy of him, except it's a red artifact. [i](It's not a planeswalker and enters with no loyalty counters.)[/i]
+[+1]: Exile the top card of your library. You may play it until the end of your next turn.
+[-3]: Pendeghast the Betrayer deals 5 damage to any target.
+[-7]: Create three tokens that are copies of target creature. They gain haste. Exile them at the beginning of the next end step. => When Pendeghast the Betrayer dies, if he's not an artifact, create a token that's a copy of him, except it's an artifact. [i](It's not a planeswalker and enters with no loyalty counters.)[/i]
+[+1]: Exile the top card of your library. You may play it until the end of your next turn.
+[-3]: Pendeghast the Betrayer deals 5 damage to any target.
+[-7]: Create three tokens that are copies of target creature. They gain haste. Exile them at the beginning of the next end step.
+
+Horde Captain Surge Boombucket
+
+The Soul Master
+
+Professor X
+rules_text: [+1]: Put a +1/+1 counter on up to one target creature you control. It gains vigilance until end of turn.
+[0]: Scry 2. If a creature you control dealt combat damage to a player this turn, draw a card.
+[-4]: Gain control of target creature. => [+1]: Put a +1/+1 counter on up to one target creature you control. It gains vigilance until end of turn.
+[0]: Scry 2. If a creature you control dealt combat damage to a player this turn, draw a card.
+[-4]: Gain control of target creature with power 3 or less.
+special_text: [+1]: Put a +1/+1 counter on up to one target creature you control. It gains vigilance until end of turn.
+[0]: Scry 2. If a creature you control dealt combat damage to a player this turn, draw a card.
+[-4]: Gain control of target creature. => [+1]: Put a +1/+1 counter on up to one target creature you control. It gains vigilance until end of turn.
+[0]: Scry 2. If a creature you control dealt combat damage to a player this turn, draw a card.
+[-4]: Gain control of target creature with power 3 or less.
+
+Ash Ketchum, Creature Collector
+
+Vaneira the Flower Queen
+
+Oath of the Green Knight
+rules_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this Class enters, create a 2/2 green Knight creature token with trample.
+{G}{W} Level 2
+Whenever one or more creatures you control with power 2 or less enter, draw a card. This ability triggers only once each turn.
+{2}{G}{W} Level 3
+Sacrifice this Class and a creature: Creatures you control gain indestructible until end of turn. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this Class enters, create a 2/2 green Knight creature token with trample.
+{G}{W} Level 2
+Whenever one or more creatures you control with power 2 or less enter, draw a card. This ability triggers only once each turn.
+{2}{G}{W} Level 3
+Sacrifice this Class and a creature: Creatures you control gain indestructible until end of turn.
+
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this Class enters, create a 2/2 green Knight creature token with trample.
+{G}{W} Level 2
+Whenever one or more creatures you control with power 2 or less enter, draw a card. This ability triggers only once each turn.
+{2}{G}{W} Level 3
+Sacrifice this Class and a creature: Creatures you control gain indestructible until end of turn. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this Class enters, create a 2/2 green Knight creature token with trample.
+{G}{W} Level 2
+Whenever one or more creatures you control with power 2 or less enter, draw a card. This ability triggers only once each turn.
+{2}{G}{W} Level 3
+Sacrifice this Class and a creature: Creatures you control gain indestructible until end of turn.
+
+
+
+type: Legendary Creature — Djinn Spirit => 
+cost: {1}{U} => 
+rules_text: Flying
+{U}: Scry 1. Activate only once each turn.
+{1}{U}: Bartimaeus gains hexproof until end of turn.
+{2}{U}: Bartimaeus becomes a copy of target creature until end of turn. => 
+pt: 2/1 => 
+
+
+VERSION 2 CHANGELOG
 ====================
 
 The Pain Box added.
