@@ -1,4 +1,800 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+
+
+Scrooge McDuck
+
+Captain Hook
+
+The Fairy Godmother
+
+Snow White
+
+Hercules
+
+Bernard the Rescuer
+rules_text: When Bernard the Rescuer enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i] => When Bernard the Rescuer enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+
+Anna of Arendelle
+
+Prince Eric
+
+Fix-It Felix, Jr.
+
+Maximus, Horse-Cop
+
+Julieta Madrigal
+
+Orville, Plane and Pilot
+
+Abuela Madrigal
+
+Li Shang
+
+Hans of the Southern Isles
+
+Prince Phillip
+
+Mufasa, the Lion King
+
+Dr. Facilier
+
+Heihei, Boat Snack
+
+Scar, King Undisputed
+pt: 4/3 => 5/3
+
+Professor Ratigan
+
+Belle
+
+Endless Goons
+
+Moana of Motonui
+
+Merlin
+
+Kakamora Raider
+
+Iago
+
+A Whole New World
+
+Cerberus, Hellish Hound
+
+Jafar, Scheming Vizier
+
+Jim Hawkins
+
+Te Ka, the Burning One
+
+The Genie
+
+Diablo
+
+King Louie
+
+Tigger
+
+Flynn Rider, Dashing Scoundrel
+
+Shere Khan, Lord of the Jungle
+
+Tamatoa
+
+The Three Good Faeries
+
+Elsa of Arendelle
+
+Be A Man!
+
+Yzma, Royal Alchemist
+
+Snuff out the Light
+
+Cruella De Vil
+
+Piglet
+
+Cogsworth
+
+Ariel, Curio Collector
+
+Zazu
+
+Winnie the Pooh
+
+Baymax
+
+The Cheshire Cat
+
+Peter Pan, Lost Boy
+
+Kuzco, Cursed Emperor
+
+The Evil Queen
+
+Tinker Bell
+
+Rafiki
+
+The Queen of Hearts
+
+Pawpsicle
+
+Heart of Te Fiti
+
+Maui, Hero to All
+rules_text: Haste
+Whenever Maui, Hero to All attacks, search your library for a creature card, reveal it, put it into your hand, then shuffle. Maui becomes a copy of that card until end of turn, except he's 7/7. => Haste
+Whenever Maui, Hero to All attacks, search your library for a creature card, reveal it, put it into your hand, then shuffle. Maui becomes a copy of that card until end of turn, except he's 7/7 and his name is Maui, Hero to All.
+
+Stitch
+
+Olaf
+
+Friends on the Other Side
+
+Under the Sea
+
+Dinglehopper
+
+Miracle Candle
+
+Magic Mirror
+
+Walk the Plank
+
+Be Prepared
+
+John Silver
+
+Honeylemon
+
+Go-Go Tomago
+
+Locked Those Suckers in a Vault
+
+Wasabi
+
+Antonio Madrigal
+
+Bambi
+
+Kristoff
+
+Sven
+
+Pascal
+
+Lyle Tiberius Rourke
+
+Kanga
+
+Aurora, Sleeping Beauty
+
+Clayton
+
+Tarzan, Son of Man
+
+You're Welcome!
+
+Pepa Madrigal
+
+Lefou, Eager Stooge
+
+Gramma Tala
+
+When Will My Life Begin?
+
+How Far I'll Go
+
+We Know The Way
+
+Bibbidi Bobbidi Boo
+
+Hellfire
+
+The Bare Necessities
+
+Mount Olympus
+
+Honey, You Mean Hunkules!
+
+Milo Thatch
+
+Map of Treasure Planet
+
+Grand Pabbie
+
+Gaston
+
+Camillo Madrigal
+
+The Beast
+
+Colonel Hathi
+
+Gantu, Federation Captain
+rules_text: Lifelink, ward {2}
+Prevent all damage untapped creatures would deal to Gantu, Federation Captain.
+{1}{W}: Target creature gains vigilance until end of turn. => Lifelink, ward {3}
+Prevent all damage untapped creatures would deal to Gantu, Federation Captain.
+{1}{W}: Target creature gains vigilance until end of turn.
+
+Prince John
+
+Pacha
+
+Dig A Little Deeper
+
+All the Powers of Hell
+
+Monstro, Whale of a Whale
+
+Friend Like Me
+
+Robin Hood
+
+Namaari, Heir of Fang
+
+Lost in the Woods
+
+Let The Storm Rage On
+
+Madam Mim
+
+The Hydra
+
+Lilo
+
+Baloo
+
+I See The Light
+
+Cinderella
+
+Nala
+
+The Sheriff of Nottingham
+
+Tiana
+
+Mickey, Sorcerer's Apprentice
+
+Burning Love
+
+Mother Knows Best
+
+Curiouser and Curiouser
+
+Into the Unknown
+
+Some Things Never Change
+
+Everybody Wants To Be A Cat
+
+The Circle of Life
+
+Let it Go
+
+Hades, God of the Dead
+
+Sword of Truth
+
+Maleficent's Staff
+
+King Triton's Trident
+
+Shield of Virtue
+
+Tangle
+
+Pocahontas
+
+Wreck-it Wralph
+rules_text: Trample
+When Wreck-it Wralph enters, each player sacrifices a land, then creates a Junk token. [i](It's an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i] => Trample
+When Wreck-it Wralph enters, each player sacrifices a land, then creates a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+
+The Grand Councilwoman
+
+Dragon's Ire
+
+Sergeant Calhoun
+
+Robin Hood's Bow
+
+Medallion Weights
+
+Part of your World
+
+Off With Her Head!
+
+The Most Diabolical Scheme
+
+Kill the Beast!
+
+Heffalumps and Woozles
+
+A Very Merry Unbirthday
+
+A Blast From Your Past
+
+Chip and Dale, Rescue Rangers
+
+The Mad Hatter
+
+Timon, Grub Rustler
+
+Cobra Bubbles
+
+Monterrey Jack
+
+Kronk
+
+Hatch a Plan
+
+Ever as Before
+
+A Sudden Chill
+
+Dolores Madrigal
+
+King Candy
+
+For the First Time in Forever
+
+The March Hare
+
+The Horned King
+
+Little John
+
+Bolt, the Superdog
+
+Mama Odie
+
+The Firebird
+
+Professor Robert Callaghan
+
+Scroop the Unscrupulous
+
+Sebastian
+
+The Magic Carpet
+
+Plumette
+type: Legendary Artifact Creature — Woman => Legendary Artifact Creature
+
+Frederick Flamarion Frederickson IV
+
+The Three Fates
+
+Madame Medusa
+
+I Find 'Em, I Flatten 'Em
+
+Pumbaa
+
+Liutenant Helga Sinclair
+
+All is Found
+
+Hawaiian Roller Coaster Ride
+
+Akela
+
+Sanfransokyo Institute of Technology
+
+Lady Tremaine
+
+Bagheera
+
+I've Got a Dream
+
+Alan-a-Dale
+
+Scuttle
+
+Shenzi
+
+Marshmallow
+
+B.E.N.
+
+Gold Coin
+
+Jumba Jookiba
+
+Nessus, River Guardian
+
+White Rabbit's Pocket Watch
+
+Eeyore
+
+Big Daddy Eli La Bouff
+
+Jasper
+
+Pain and Panic
+
+Morph
+
+Do It Again!
+
+Wreck
+
+Twin Fire
+
+Arges, One-Eyed Lout
+
+Razoul
+
+Fidget
+
+RLS Legacy
+
+Knowledge and Wisdom
+
+Consign to Misery
+
+Basil of Baker Street
+rules_text: Vigilance
+When Basil of Baker Street enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+Basil gets +1/+1 for each artifact you control. => Vigilance
+When Basil of Baker Street enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+Basil gets +1/+1 for each artifact you control.
+
+Just Around the Riverbend
+
+Mother Gothel
+
+Pleakley
+
+Prince Naveen
+
+Genie's Lamp
+
+Dinner Time
+
+Out of Order
+rules_text: When this enchantment enters, exile all creatures. For as those cards remain exiled, their owners may cast them.
+Players can't cast spells from outside their hands. => When this enchantment enters, exile all creatures. For as long as those cards remain exiled, their owners may cast them.
+Players can't cast spells from outside their hands.
+
+Stampede
+
+Pride Rock
+
+Brew the Sleeping Death
+
+Last Cannon
+
+Where You Are
+
+One Hundred and One Dalmatians
+
+Mushu, Family Guardian
+
+Raya
+
+Bianca the Rescuer
+rules_text: When Bianca the Rescuer enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i] => When Bianca the Rescuer enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+
+Go the Distance
+
+Zero to Hero
+
+Treasure Planet
+rules_text: {T}: Add {C}.
+{T}, Sacrifice Treasure Planet: Add one mana of any color.
+Station
+[level 20+] {T}, Sacrifice Treasure Planet: Create one thousand Treasure tokens. => {T}: Add {C}.
+{T}, Sacrifice Treasure Planet: Add one mana of any color.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 20+] {T}, Sacrifice Treasure Planet: Create one thousand Treasure tokens.
+special_text: {T}: Add {C}.
+{T}, Sacrifice Treasure Planet: Add one mana of any color.
+Station
+[level 20+] {T}, Sacrifice Treasure Planet: Create one thousand Treasure tokens. => {T}: Add {C}.
+{T}, Sacrifice Treasure Planet: Add one mana of any color.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 20+] {T}, Sacrifice Treasure Planet: Create one thousand Treasure tokens.
+
+Friar Tuck
+
+Lash Out
+
+Meticulous Archive
+
+Raucous Theater
+
+Commercial District
+
+Lush Portico
+
+Thundering Falls
+
+Shadowy Backstreet
+
+Undercity Sewers
+
+Elegant Parlor
+
+Underground Mortuary
+
+Hedge Maze
+
+Underground Sea
+
+Skull Rock
+
+Badlands
+
+Taiga
+
+Savannah
+
+Scrubland
+
+Volcanic Island
+
+Bayou
+
+Plateau
+
+Tropical Island
+
+Tundra
+
+The Snuggly Duckling
+
+Tundratown
+
+The Great Wall of China
+
+La Casita Madrigal
+
+Galactic Council Chamber
+
+McDuck Manor
+
+Fang City
+
+Mermaid Lagoon
+
+Cruella's Estate
+
+Elsa's Retreat
+
+Ariel's Grotto
+
+Belle's House
+
+Merlin's Cottage
+
+Prince John's Fortress
+
+Rapunzel's Tower
+
+Maui's Island
+
+Dwarfs' Mine
+
+Tiana's Palace
+
+Elsa's Retreat
+
+Ariel's Grotto
+
+Prince John's Fortress
+
+Dwarfs' Mine
+
+Belle's House
+
+Rapunzel's Tower
+
+Merlin's Cottage
+
+Cruella's Estate
+
+Tiana's Palace
+
+Maui's Island
+
+Titanic Calamity
+
+Pegasus, Heavenly Steed
+
+Shan Yu
+
+Madame de la Grande Bouche
+
+The Devil's Eye Diamond
+
+Dreamless Sleep
+
+Fall to Your Death
+
+Trust in Me
+rules_text: Trust in Me costs {1} less to cast for each noncreature, nonland card in your graveyard.
+Gain control of target creature. => This spell costs {1} less to cast for each card you own in exile and in your graveyard that's an instant card, a sorcery card, or a card that has an Adventure.
+Gain control of target creature.
+
+Once Upon a Dream
+
+No Worries
+
+Incited Avalanche
+
+Remember Who You Are
+
+The Return of Jafar
+
+Everything I've Learned and More
+
+Unexpected Jaguars
+
+Second Star to the Right
+
+The Robot Queen
+cost: {7} => {6}
+rules_text: When The Robot Queen enters, destroy up to one target creature.
+At the beginning of your end step, draw a card. => When The Robot Queen enters, destroy up to one target creature, then you become the monarch. [i](The monarch draws a card at the beginning of their end step. Whenever the monarch is dealt combat damage by a creature, its controller becomes the monarch.)[/i]
+
+The Leviathan
+rules_text: Trample, haste
+Basic Landcycling {1} [i]({1}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i] => Trample, haste
+Basic landcycling {1} [i]({1}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Stone Guardian of Atlantis
+
+Tweedledum
+
+Mirabel Madrigal
+
+Unfortunate Situation
+
+Dead of Centuries Past
+
+Chief Tui
+
+Denahi, Avenging Brother
+
+Broadway
+
+The Flying Dutchman
+
+Davy Jones
+rules_text: When Davy Jones enters, create a 2/2 blue Fish Pirate creature token for each card type among cards in your graveyard.
+Escape {4}{U}{U}, Exile five other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i] => When Davy Jones enters, create a 2/2 blue Fish Pirate creature token for each card type among cards in your graveyard.
+Escape—{4}{U}{U}, Exile five other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]
+
+Rajah, Royal Companion
+rules_text: Flash
+Rajah can't be blocked by creatures with power 2 or less.
+Whenever Rajah enters or you cast a spell during an opponent's turn, put a +1/+1 counter on target creature you control and untap it. => Flash
+Rajah can't be blocked by creatures with power 2 or less.
+Whenever Rajah enters or you cast a spell during an opponent's turn, put two +1/+1 counters on target creature you control and untap it.
+
+Swooping Gwythaint
+
+Five Dozen Eggs
+
+Grab your Sword!
+
+Malicious, Mean and Scary
+
+Alameda Slim
+
+Frying Pan
+
+Xanatos's Gambit
+
+Reckless Cannonade
+
+Show Yourself
+
+Colors of the Wind
+
+Garden of Lost Souls
+
+Rescue Rangers Away!
+
+Simba
+
+Fa Mulan
+
+Arthur, Once and Future King
+
+Philoctetes
+
+Megara
+
+Aladdin, Street Rat
+
+Ursula, the Sea Witch
+
+Maleficent, Mistress of All Evil
+
+Chernabog, God of Darkness
+
+Hi Ho!
+
+Zeus, God of Lightning
+
+Luisa Madrigal
+
+Mowgli, the Man-cub
+
+Hiro Hamada
+
+Lumiere
+
+Vanellope Von Schweetz
+
+Rapunzel
+
+Bruno Madrigal
+
+Atlantis
+
+Isabela Madrigal
+
+Mrs. Potts
+
+Gazelle
+
+Pinocchio
+
+Judge Claude Frollo
+
+Kuzco's Transformation
+
+Plant
+
+Glass Slipper
+
+Jasmine, Heir to Agrabah
+
+Horace
+
+Mr. Smee
+
+Captain Amelia
+
+Tick-Tock
+rules_text: Trample
+Whenever Tick-Tock attacks, you may exile a creature card from a graveyard. If you do, draw a card.
+ => Trample
+Whenever Tick-Tock attacks, you may exile a creature card from a graveyard. If you do, draw a card.
+
+The Muses
+
+Cri-Kee, Lucky Cricket
+
+Botfight Arena
+
+Kida, Princess of Atlantis
+
+Alice in Wonderland
+
+Archimedes, Educated Owl
+
+Ares, God of War
+
+Sugar Rush Speedway
+
+Sherwood Forest
+
+Food Token
+
+
+VERSION 6 CHANGELOG
 ====================
 
 No changes.
