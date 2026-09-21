@@ -1,4 +1,881 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+Madelyne Pryor, Goblin Queen added.
+A Vacation to Munchmore added.
+Firestar of Thunderclan added.
+Gathering at Fourtrees added.
+Cast to the Winds added.
+Spice Melange added.
+Viv Vision added.
+The Millenium Puzzle added.
+V1, Death Machine added.
+The Bat Signal added.
+Feyd-Rautha Harkonnen added.
+
+Harrowhark Nonagesimus removed.
+Shadows Flicker Like Flame removed.
+Frankenstein's Monster removed.
+Gideon Nav removed.
+Arrogance, Innocence, and Patience removed.
+
+The Sepia Knight
+rules_text: The Sepia Knight enters tapped.
+When The Sepia Knight dies, create a tapped Powerstone token. 
+{3}{B}: Return The Sepia Knight from your graveyard to the battlefield. => The Sepia Knight enters tapped.
+When The Sepia Knight dies, create a tapped Powerstone token. 
+{4}: Return The Sepia Knight from your graveyard to the battlefield.
+
+Moment of Twilight
+
+Arborinus Twig Verginix
+
+The First Age of Flight
+
+The Gloamglozer
+
+Tears That Fill The River
+pt: 2/2 => 2/3
+
+Scourge of BloodClan
+
+Lyra Silvertongue
+
+The Elf, Steward of Seasons
+
+The Deepwoods
+
+Midnight over Sanctaphrax
+
+Quintinius Cloud Wolf Verginix
+
+Princess Leia
+
+Spiral, Mistress of the Wildways
+
+Luke Skywalker
+
+Han Solo
+
+Vin, Mistborn
+
+Harrietta Gris, Chief Anatomist
+
+Netin Foundry
+
+Walter White
+
+Chaos Emerald
+rules_text: When this artifact enters, if you control 6 or fewer permanents named Chaos Emerald, conjure a card named Chaos Emerald into your hand.
+{T}: Add one mana of any color. => When this artifact enters, if you control 6 or fewer permanents named Chaos Emerald, conjure a card named Chaos Emerald into your hand.
+{T}: Add one mana of any color.
+{W}{U}{B}{R}{G}, Exile this card from your hand: Take an extra turn after this one. Activate only as a sorcery.
+
+The Infinity Gauntlet
+
+Ramuthra
+
+Heddleham Hall
+
+The Isle of Berk
+
+Breath of Darkness Down Your Spine
+
+Captain Kate Pryde
+
+From Hell's Heart
+
+The Number Devil
+
+Brokkenbroll, the Unbrellisimo
+
+Zane, Master of Ice
+rules_text: Ninjutsu {W} [i]({W}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)[/i]
+When Zane, Master of Ice enters, tap up to one target creature and put a stun counter on it. You may remove that creature from combat. => Ninjutsu {W} [i]({W}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)[/i]
+Lifelink
+When Zane, Master of Ice enters, tap up to one target creature and put a stun counter on it. You may remove that creature from combat.
+
+Jay, Master of Lightning
+
+Cole, Master of Earth
+rules_text: Ninjutsu {1}{B} [i]({1}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)[/i]
+Whenever Cole deals combat damage to a player, return target creature card with mana value 3 or less from your graveyard to the battlefield. => Ninjutsu {1}{B} [i]({1}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)[/i]
+Menace
+Whenever Cole deals combat damage to a player, return target creature card with mana value 3 or less from your graveyard to the battlefield.
+
+Kai, Master of Fire
+
+Lloyd, Master of Green
+
+Dr. Radley Madish
+
+Æsahættr, the Subtle Knife
+
+Relentless Gaze of the Sun
+
+Travel on the River's Back
+
+Emerge from the Dread Night Wind
+rules_text: Choose one —
+• Creatures get -2/-2 until end of turn.
+• Target creature gets -5/-5 until end of turn.
+• Return target creature card with mana value 3 or less from your graveyard to the battlefield. => Choose one —
+• Creatures get -2/-2 until end of turn.
+• Target creature gets -5/-5 until end of turn.
+• Return target creature card with mana value 4 or less from your graveyard to the battlefield.
+
+Scott Summers, Cyclops
+
+Exaltation of Echoed Steps
+
+Wandering Voice Keens Delirium
+
+Reaper
+
+Frightful Keening
+
+Sarah, Terrible Eye
+
+GlaDOS
+
+Simon Lovelace
+
+A Spread of Rampant Green
+
+The Pain Box
+
+Master Yoda
+
+Fort Onion
+
+Gonzo the Great
+
+Bart Simpson
+
+The Hell Cycle
+
+Nathaniel, John Mandrake
+
+Rachel Summers
+
+The Ironclad
+
+The Defect
+
+The Silent
+
+The Necrobinder
+
+The Regent
+
+Streex, Street Shark
+
+Warp Coin
+rules_text: {T}: Add one mana of any color.
+Warp {0} [i](You may cast this card from your hand for its warp cost. Exile this artifact at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i] [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i] => {T}: Add one mana of any color.
+Warp {0} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]
+
+The Ender Dragon
+
+Zeppelin of Mighty Gargantuaness
+
+Boomer
+
+Jean Grey
+
+Diana Cavendish
+
+Darth Maul
+
+Vigor of the Breaking Dawn
+
+Keeper of the Forbidden Wilds
+
+Ocean's Hungry Grasp
+
+River Surges in Sunlight
+
+Dissolving Mists
+cost: {1}{B} => {B}{B}
+rules_text: Choose one—
+• Target creature gets -3/-3 until end of turn.
+• All creatures get -1/-1 until end of turn. => Choose one—
+• Target creature gets -4/-4 until end of turn.
+• All creatures get -1/-1 until end of turn.
+
+Binja
+
+Jacksmith
+
+Finder of Paths Unseen
+
+Ember-Eyed Behemoth
+
+Shifting Memory of Ages
+
+Akira Slide
+
+Cactus McCoy
+
+Seadragonus Giganticus Maximus
+
+Wreck of the Titanic
+
+Pearl
+
+The Blade of Evil's Bane
+
+Link, Hero of Hyrule
+
+Wounded Waters Bleeding
+
+Sharp Fangs Behind the Leaves
+
+Sun-Bright Whirlwind
+
+Eyes Watch From the Trees
+
+Serpent Slumbering Beneath the Island
+rules_text: Serpent Slumbering Beneath the Island enters tapped with eight stun counters on it.
+At the beginning of combat on your turn, add one mana of any color. Until end of turn, you don't lose this mana as steps and phases end.
+Whenever you cast a spell with mana value 4 or greater, untap Serpent Slumbering Beneath the Island. => Serpent Slumbering Beneath the Island enters tapped with eight stun counters on it.
+At the beginning of your precombat main phase, add one mana of any color. Until end of turn, you don't lose this mana as steps and phases end.
+Whenever you cast a spell with mana value 4 or greater, untap Serpent Slumbering Beneath the Island.
+
+Many Minds Move as One
+
+Winds of Rust and Atrophy
+
+Powerstorm
+rules_text: Add three mana of any one color. When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy. => Add three mana of any one color. Spend this mana only to cast instant or sorcery spells. When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.
+
+Blazing Renewal
+
+Exaltation of the Incandescent Sky
+
+Hearth-Vigil
+
+Alvin the Treacherous
+
+Exterminator Dragon
+
+Fathomless Mud of the Swamp
+
+Cain Marko, Juggernaut
+
+Devouring Teeth Lurk Underfoot
+
+Towering Roots of the Jungle
+
+Prophecied Panic
+
+Approaching Army
+
+Rosaline
+
+Solum Bufo
+
+Uku of the Unseen Eye
+rules_text: When Uku enters, create a Berry token. [i](It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)[/i]
+Whenever an equipped creature you control attacks, tap up to one target creature an opponent controls. => Lifelink
+When Uku enters, create a Berry token. [i](It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)[/i]
+Whenever an equipped creature you control attacks, tap up to one target creature an opponent controls.
+
+Counterspell
+
+Telaine, the Glittering Lady
+
+Thunderspeaker
+
+Silk Merchant
+
+Diggy
+
+Steal the Moon
+
+Batman, Caped Crusader
+
+Marceline, the Vampire Queen
+
+Pamela Isley
+
+Rot
+
+Vance Deadeye Cybin
+
+Hawkeye
+rules_text: Reach, haste
+When Hawkeye enters, you may discard your hand. If you do, draw two cards.
+{1}{R}, Exile an instant or sorcery card from your graveyard: Hawkeye deals 3 damage to any target. => Reach, haste
+When Hawkeye enters, you may discard your hand. If you do, draw two cards.
+{1}{R}, Exile an instant or sorcery card from your graveyard: Hawkeye deals 3 damage to any target. Activate only as a sorcery.
+
+Mount Monterey
+
+The Saucelands
+
+Wintergreen Way
+
+Neapolitown
+
+Gummy Grotto
+
+Blue Moon Bay
+
+Lake Chocodunk
+
+Leaf Landing
+
+Cookie Caverns
+
+The X Zone
+
+Robin, Boy Wonder
+
+Skyship Stormchaser
+
+Slay the Spire
+
+Sherlock Holmes
+
+Chewbacca
+
+Renfield the Madman
+
+Blood Draws Predators
+
+Sap the Strength of Multitudes
+
+Draw Towards a Consuming Void
+
+Dr. John Watson
+
+Willow Rosenberg
+rules_text: Companion — Each nonland card in your starting deck is black. [i](If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)[/i]
+At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value. => Companion — Each card in your starting deck is black or colorless. [i](If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)[/i]
+At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.
+
+The Dragon Jewel
+
+Csilla, the Saddle Knight
+
+Vampire Spydragon
+
+Luau LePunch
+
+Wildheart Guff
+
+HORUS Gorgon
+
+Elderstahl, Twilight of the Gods
+
+Beta Ray Bill
+
+Roma, Omniversal Guardian
+
+The Siege Perilous
+
+Rahne Sinclair, Wolfsbane
+
+Sam Guthrie, Cannonball
+
+The Death Note
+
+Kobold Librarian
+
+Amara Juliana Olivians Aquilla
+rules_text: Haste
+Whenever you cast a noncreature spell, put a +1/+1 counter on Amara Juliana Olivians Aquilla.
+At the beginning of your end step, if you cast no noncreature spells this turn, remove all counters from Amara Juliana Olivians Aquilla. => Haste
+Whenever Amara Juliana Olivians Aquilla attacks, if you cast a noncreature spell this turn, put a +1/+1 counter on her.
+At the beginning of your end step, if you cast no noncreature spells this turn, remove all counters from Amara Juliana Olivians Aquilla.
+
+Days of Future Past
+
+Hulkbuster Armor Model 52
+
+Connie's Crystal Sword
+
+Darth Sidious
+
+Force Lightning
+
+Shadow the Hedgehog
+
+Chaos Control
+
+Doctor Ivo Robotnik
+
+General Kai, the Collector
+
+Parry
+
+Roberto Da Costa, Sunspot
+
+Puss in Boots
+
+A Fistful of Dirt
+
+Pillar of Living Flame
+
+Sunflower
+
+Hardwon Surefoot
+
+Proconsul H. L. Ravilla
+
+Tartarus
+
+There Is No Escape
+rules_text: Destroy target creature with mana value 3 or less.
+{2}{B}{B}, Exile There Is No Escape and two other cards from your graveyard: Return target creature card with mana value 3 or less from your graveyard to the battlefield. Activate only as a sorcery. => Destroy target creature with mana value 3 or less.
+{2}{B}{B}, Exile There Is No Escape and two other cards from your graveyard: Return target creature card with mana value 3 or less from a graveyard to the battlefield. Activate only as a sorcery.
+
+The Wild Robot
+
+Isca the Unbeaten
+
+Branch Mine
+
+Galad Rosell, White Rose of Galaderon
+
+Backbiter
+
+Atomic Breath
+
+Cast Down Into The Briny Deep
+
+Count Dracula
+
+Vengeful Spirit
+rules_text: This spell costs {1} less for each player who lost life this turn.
+Destroy target creature. => This spell costs {2} less to cast if a player lost life this turn.
+Destroy target creature.
+
+The Bloody Crow of Cainhurst
+
+Substitution Jutsu
+
+Endeavour, the Dragonsword
+
+Driller Dragon
+
+Geronimo Stilton
+
+Avohkii, the Mask of Light
+
+Chronoskimming
+
+Escape From Tarkov
+
+The Stone Gardens
+
+Great Chariot Cannon
+
+Bequeath
+
+Groundhog Day
+
+Banderbear
+
+Godzilla
+rules_text: Trample
+Whenever Godzilla enters or attacks, choose one—
+• Godzilla fights target creature.
+• Exile target noncreature permanent.
+Sacrifice a land: Return Godzilla from your graveyard to your hand. => Trample
+Whenever Godzilla enters or attacks, choose one or both —
+• Godzilla fights target creature.
+• Exile target noncreature permanent.
+Sacrifice a land: Return Godzilla from your graveyard to your hand.
+
+Shape the Self Anew
+
+Marquise Recruiter
+
+Godzilla vs. Kong
+
+What We're Gonna Do Today
+
+Blood-Sated Sword Soul
+
+The Xenomorph Queen
+
+Shai-Hulud
+rules_text: Emerge {4}{G}{G} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Trample
+At the beginning of your end step, you gain X life and draw X cards, where X is the number of creatures that died this turn. => Emerge {4}{G}{G} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Trample
+At the beginning of each end step, you gain X life and draw X cards, where X is the number of creatures that died this turn.
+
+Thirty-Cubit Spear
+
+Martin and Chris Kratt
+
+The Dark Prophecy
+
+Ironmonger
+
+Shield Bash
+
+Pinpoint
+
+Crash Landing
+
+Hang
+
+All For One
+
+Stampede
+
+Bluestar's Prophecy
+
+Shoot First
+
+Banish
+
+Creeper
+
+The Crick
+
+Grimhawk
+
+Frostwind
+
+Galaderon, City in the Clouds
+
+Asphodel
+
+Elysium
+
+Undertown
+
+The Mire
+
+The Autumn Court
+
+Throne, the Red City
+
+Dream No More
+
+Bench
+
+Grim Reflection
+
+Greenpath
+rules_text: {T}, Pay 1 life: Add {G}.
+{T}, Pay 1 life, Sacrifice Greenpath: Search your library for a Forest card, put it onto the battlefield, then shuffle. => {T}, Pay 1 life, Sacrifice Greenpath: Search your library for a Forest card, put it onto the battlefield, then shuffle.
+
+No Cost Too Great
+
+Hound Suit
+
+The Hairy Scary Librarian
+
+Litany Against Fear
+
+Paul Muad'Dib Atreides
+
+Path of Pain
+
+Somewhere Over The Rainbow
+
+The White Palace
+
+City of Tears
+rules_text: {T}, Pay 1 life: Add {U}.
+{T}, Pay 1 life, Sacrifice City of Tears: Search your library for an Island card, put it onto the battlefield, then shuffle. => {T}, Pay 1 life, Sacrifice City of Tears: Search your library for an Island card, put it onto the battlefield, then shuffle.
+
+Crystal Peak
+rules_text: {T}, Pay 1 life: Add {R}.
+{T}, Pay 1 life, Sacrifice Crystal Peak: Search your library for a Mountain card, put it onto the battlefield, then shuffle. => {T}, Pay 1 life, Sacrifice Crystal Peak: Search your library for a Mountain card, put it onto the battlefield, then shuffle.
+
+Agent P
+
+Deepnest
+rules_text: {T}, Pay 1 life: Add {B}.
+{T}, Pay 1 life, Sacrifice Deepnest: Search your library for a Swamp card, put it onto the battlefield, then shuffle => {T}, Pay 1 life, Sacrifice Deepnest: Search your library for a Swamp card, put it onto the battlefield, then shuffle
+
+Kingdom's Edge
+rules_text: {T}, Pay 1 life: Add {W}.
+{T}, Pay 1 life, Sacrifice Kingdom's Edge: Search your library for a Plains card, put it onto the battlefield, then shuffle. => {T}, Pay 1 life, Sacrifice Kingdom's Edge: Search your library for a Plains card, put it onto the battlefield, then shuffle.
+
+Ideate
+
+Cornifer the Mapmaker
+
+Laura Kinney, Wolverine
+
+Undyne, Spear of Justice
+
+Second Wave
+rules_text: Return any number of target creature cards with different mana values X or less from your graveyard to the battlefield. Put a decayed counter on each of those creatures. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => Return any number of target creature cards with different mana values X or less from your graveyard to the battlefield.
+
+Lorna Dane, Polaris
+
+Silk Spear
+
+Zaladane, Empress of the Savage Land
+
+Lex Luthor
+
+Bukvar
+
+King Thorin Oakenshield
+
+Decapitate
+
+Grand Mother Silk
+rules_text: Vigilance
+Whenever Grand Mother Silk enters or attacks, create a Silkwrap token. [i](It's a {1}{W} enchantment with “When this token enters, exile target creature with mana value 3 or less an opponent controls until this enchantment leaves the battlefield.”)[/i] => Vigilance, lifelink
+Whenever Grand Mother Silk enters or attacks, create a Silkwrap token. [i](It's a {1}{W} enchantment with “When this token enters, exile target creature with mana value 3 or less an opponent controls until this enchantment leaves the battlefield.”)[/i]
+
+Emma Frost, White Queen
+
+Great Slash
+
+Fraiden French, Margrave
+
+Enweb
+
+Nailmaster Oro
+
+Hornet, Daughter of Hallownest
+
+Optic Blast
+
+Strike the Match
+
+The Stagways
+
+Egwene, The Lady Snake
+
+Obi-Wan Kenobi
+
+The Blood-Red Glister
+
+Pikachu
+
+Po, the Dragon Warrior
+
+The Return of Turbot Smeal
+
+Cerebro
+
+The Big Friendly Giant
+
+Prowlgrin
+
+Shakra
+
+Marabelle the Terrible
+
+Titano the Super-Ape
+
+To Me, My X-Men!
+
+Kingshammer
+rules_text: Equipped creature gets +3/+0 and has trample and lifelink.
+When equipped creature attacks, create three 1/1 white Dwarf Spirit creature tokens that are tapped and attacking. Exile those tokens at the beginning of the next end step.
+Equip {3} => Equipped creature gets +3/+0 and has trample and lifelink.
+When equipped creature attacks, create three 1/1 white Dwarf Spirit creature tokens that are tapped and attacking. Exile those tokens at the beginning of the next end step.
+Equip {2}
+
+The Predator
+
+Alien vs. Predator
+
+The Woodsman's Lantern
+
+The Sands of Karak
+
+Bilewater
+
+Greymoor
+
+The Deep Docks
+
+Shellwood
+
+Moss Grotto
+
+Mount Fay
+
+Bellhart
+
+Far Fields
+
+Three Sword Style
+
+LEGO Batman
+
+Mine
+
+One For All
+
+Phantom Zone Projector
+
+The Ticking-Thing
+rules_text: {T}: Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{1}, {T}: Add one mana of any color. => {T}: Mill a card.
+{1}, {T}: Add one mana of any color.
+{3}, {T}, Sacrifice The Ticking-Thing: Return target card from your graveyard to your hand.
+
+Vengeance as a Burning Plague
+rules_text: Menace
+Creatures you control have “Ward—Pay 2 life.”
+Whenever an opponent loses life for the second time each turn, put a +1/+1 counter on Vengeance as a Burning Plague. => Menace
+Whenever an opponent casts a spell that targets, Vengeance as a Burning Plague deals 2 damage to that player.
+Whenever an opponent loses life for the second time each turn, put a +1/+1 counter on Vengeance as a Burning Plague.
+
+Forgotten Crossroads
+
+Board the Princess Andromeda
+
+Percy Jackson
+
+Anakin Skywalker
+
+Beverly Toegold V
+
+Iorek Byrnison
+
+Adora, Princess of Power
+
+Minion
+
+Betsy Braddock, Captain Britain
+
+Harleen Quinzel
+
+Opal Luna Saturnyne
+rules_text: As long as Saturnyne entered this turn, you may activate her loyalty abilities an additional time.
+[+2]: Target creature phases out until your next turn.
+[-2]: Search your library for a card, put it into your hand, then shuffle.
+[-4]: Destroy all creatures. => As long as Saturnyne entered this turn, you may activate her loyalty abilities an additional time.
+[+2]: Up to one target creature phases out until your next turn.
+[-2]: Search your library for a card, put it into your hand, then shuffle.
+[-4]: Destroy all creatures.
+special_text: As long as Saturnyne entered this turn, you may activate her loyalty abilities an additional time.
+[+2]: Target creature phases out until your next turn.
+[-2]: Search your library for a card, put it into your hand, then shuffle.
+[-4]: Destroy all creatures. => As long as Saturnyne entered this turn, you may activate her loyalty abilities an additional time.
+[+2]: Up to one target creature phases out until your next turn.
+[-2]: Search your library for a card, put it into your hand, then shuffle.
+[-4]: Destroy all creatures.
+
+Artakha, the Great Designer
+
+Metal City Mayhem
+
+Yogg-Saron, Hope's End
+
+Virginia Pepper Potts
+
+Map Token
+
+Super Mario
+
+Karzanhi, the Tormentor
+
+Jolene the Green
+
+Thiala, Hero of Bahumia
+
+General Jack Ripper
+rules_text: When General Jack Ripper enters, choose one —
+• You draw a card and you lose 1 life.
+• General Jack Ripper becomes prepared. => Ward—Discard a card
+When General Jack Ripper enters, choose one —
+• You draw a card and you lose 1 life.
+• General Jack Ripper becomes prepared.
+
+Pendeghast the Betrayer
+
+Horde Captain Surge Boombucket
+
+The Soul Master
+
+Professor X
+
+Ash Ketchum, Creature Collector
+
+Vaneira the Flower Queen
+loyalty: 3 => 4
+
+Oath of the Green Knight
+
+Sorrow and Remembrance
+
+UnLondon City Bus
+
+The Yellow Submarine
+
+Jacky Magus
+
+Galaderon Drill-Car
+
+Starlight Bolt
+
+Guardian of Laputa
+
+Spirited Away
+
+Gift of the Phoenix
+
+The Sorceress Yubaba
+
+Air Destroyer Goliath
+
+The Amulet of Samarkand
+
+Tanuki
+rules_text: While you're searching your library, you may cast this card from your library.
+When Tanuki enters, you may sacrifice another creature. If you so, search your library for a creature card with mana value equal to 1 plus the sacrificed creature's mana value, put that card onto the battlefield, then shuffle. => While you're searching your library, you may cast this card from your library.
+When Tanuki enters, you may sacrifice another creature. If you so, search your library for a creature card with mana value less than or equal to 1 plus the sacrificed creature's mana value, put that card onto the battlefield, then shuffle.
+
+Luigi Mario
+
+Lightning's Boon
+
+Bayou
+
+Scrubland
+
+Tundra
+
+Tropical Island
+
+Savannah
+
+Plateau
+
+Volcanic Island
+
+Underground Sea
+
+Badlands
+
+Taiga
+
+Warlock
+rules_text: Affinity for artifacts. [i](This spell costs {1} less to cast for each artifact you control.)[/i]
+You may have this creature enter as a copy of any artifact or creature on the battlefield, except it's an artifact in addition to its other types. => Affinity for artifacts. [i](This spell costs {1} less to cast for each artifact you control.)[/i]
+You may have this creature enter as a copy of any permanent on the battlefield, except it's an artifact in addition to its other types and its name is Warlock.
+
+The Wormways
+
+Mothwing Cloak
+
+Manifest Incarnation
+
+The Crown, Armored and Protecting
+type: Legendary Artifact — Equipment => Legendary Artifact
+
+It's Alive!
+
+
+VERSION 7 CHANGELOG
 ====================
 
 No changes.

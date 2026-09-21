@@ -15,7 +15,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Legendary Creature — Elf Druid",
-			"collector_number": "272",
+			"collector_number": "274",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/1.png"
 			}
@@ -55,7 +55,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Legendary Creature — Human Noble",
-			"collector_number": "213",
+			"collector_number": "214",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/5.png"
 			}
@@ -65,7 +65,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Cat",
-			"collector_number": "29",
+			"collector_number": "28",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/6.png"
 			}
@@ -75,7 +75,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Creature — Zombie Knight",
-			"collector_number": "141",
+			"collector_number": "140",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/7.png"
 			}
@@ -95,7 +95,7 @@
 			"rarity": "special",
 			"mana_cost": "{B}{R}",
 			"type": "Legendary Creature — Demigod",
-			"collector_number": "292",
+			"collector_number": "293",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/9.png"
 			}
@@ -105,19 +105,9 @@
 			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Legendary Creature — Spirit Citizen",
-			"collector_number": "22",
+			"collector_number": "21",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/10.png"
-			}
-		},
-		{
-			"name": "Harrowhark Nonagesimus",
-			"rarity": "special",
-			"mana_cost": "{2}{B}",
-			"type": "Legendary Creature — Human Cleric",
-			"collector_number": "124",
-			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/11.png"
 			}
 		},
 		{
@@ -127,7 +117,7 @@
 			"type": "Instant",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/12.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/11.png"
 			}
 		},
 		{
@@ -137,7 +127,7 @@
 			"type": "Legendary Creature — Human Scout",
 			"collector_number": "197",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/13.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/12.png"
 			}
 		},
 		{
@@ -147,7 +137,7 @@
 			"type": "Enchantment",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/14.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/13.png"
 			}
 		},
 		{
@@ -157,7 +147,7 @@
 			"type": "Legendary Creature — Demon Shapeshifter",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/15.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/14.png"
 			}
 		},
 		{
@@ -165,9 +155,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Legendary Creature — Human Soldier",
-			"collector_number": "285",
+			"collector_number": "286",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/16.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/15.png"
 			}
 		},
 		{
@@ -175,9 +165,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Legendary Creature — Warrior Cat",
-			"collector_number": "139",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/17.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/16.png"
 			}
 		},
 		{
@@ -187,7 +177,7 @@
 			"type": "Legendary Creature — Human",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/18.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/17.png"
 			}
 		},
 		{
@@ -197,7 +187,7 @@
 			"type": "Legendary Creature — Elder Elf",
 			"collector_number": "207",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/19.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/18.png"
 			}
 		},
 		{
@@ -205,9 +195,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land — Forest",
-			"collector_number": "333",
+			"collector_number": "339",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/20.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/19.png"
 			}
 		},
 		{
@@ -217,7 +207,7 @@
 			"type": "Instant",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/21.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/20.png"
 			}
 		},
 		{
@@ -227,7 +217,7 @@
 			"type": "Legendary Creature — Human Pirate",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/22.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/21.png"
 			}
 		},
 		{
@@ -235,9 +225,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Legendary Creature — Human Noble Rebel",
-			"collector_number": "33",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/23.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/22.png"
 			}
 		},
 		{
@@ -247,7 +237,7 @@
 			"type": "Legendary Creature — Human Performer",
 			"collector_number": "192",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/24.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/23.png"
 			}
 		},
 		{
@@ -255,9 +245,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Legendary Creature — Human Rebel Knight",
-			"collector_number": "219",
+			"collector_number": "220",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/25.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/24.png"
 			}
 		},
 		{
@@ -267,7 +257,7 @@
 			"type": "Legendary Creature — Human Pilot",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/26.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/25.png"
 			}
 		},
 		{
@@ -277,7 +267,7 @@
 			"type": "Legendary Creature — Human Rogue",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/27.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/26.png"
 			}
 		},
 		{
@@ -285,9 +275,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}{B}",
 			"type": "Legendary Creature — Human Scientist",
-			"collector_number": "262",
+			"collector_number": "263",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/28.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/27.png"
 			}
 		},
 		{
@@ -295,9 +285,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Artifact Land",
-			"collector_number": "354",
+			"collector_number": "360",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/29.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/28.png"
 			}
 		},
 		{
@@ -307,7 +297,7 @@
 			"type": "Legendary Creature — Human Scientist",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/30.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/29.png"
 			}
 		},
 		{
@@ -315,9 +305,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "300",
+			"collector_number": "302",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/31.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/30.png"
 			}
 		},
 		{
@@ -325,9 +315,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact",
-			"collector_number": "307",
+			"collector_number": "309",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/32.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/31.png"
 			}
 		},
 		{
@@ -337,7 +327,7 @@
 			"type": "Legendary Creature — Elder Spirit",
 			"collector_number": "183",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/33.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/32.png"
 			}
 		},
 		{
@@ -345,9 +335,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "344",
+			"collector_number": "350",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/34.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/33.png"
 			}
 		},
 		{
@@ -355,9 +345,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "345",
+			"collector_number": "351",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/35.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/34.png"
 			}
 		},
 		{
@@ -367,7 +357,7 @@
 			"type": "Legendary Creature — Spirit",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/36.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/35.png"
 			}
 		},
 		{
@@ -377,7 +367,7 @@
 			"type": "Legendary Creature — Mutant Pirate",
 			"collector_number": "250",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/37.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/36.png"
 			}
 		},
 		{
@@ -387,7 +377,7 @@
 			"type": "Instant",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/38.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/37.png"
 			}
 		},
 		{
@@ -397,7 +387,7 @@
 			"type": "Legendary Creature — Devil Advisor",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/39.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/38.png"
 			}
 		},
 		{
@@ -407,7 +397,7 @@
 			"type": "Legendary Artifact Creature — Human Avatar",
 			"collector_number": "249",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/40.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/39.png"
 			}
 		},
 		{
@@ -417,7 +407,7 @@
 			"type": "Legendary Artifact Creature — Robot Ninja",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/41.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/40.png"
 			}
 		},
 		{
@@ -427,7 +417,7 @@
 			"type": "Legendary Creature — Human Ninja",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/42.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/41.png"
 			}
 		},
 		{
@@ -437,7 +427,7 @@
 			"type": "Legendary Creature — Human Ninja",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/43.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/42.png"
 			}
 		},
 		{
@@ -447,7 +437,7 @@
 			"type": "Legendary Creature — Human Ninja",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/44.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/43.png"
 			}
 		},
 		{
@@ -455,9 +445,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Legendary Creature — Human Ninja",
-			"collector_number": "217",
+			"collector_number": "218",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/45.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/44.png"
 			}
 		},
 		{
@@ -467,7 +457,7 @@
 			"type": "Legendary Creature — Plant Scientist",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/46.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/45.png"
 			}
 		},
 		{
@@ -475,9 +465,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "294",
+			"collector_number": "295",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/47.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/46.png"
 			}
 		},
 		{
@@ -487,7 +477,7 @@
 			"type": "Legendary Creature — Spirit",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/48.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/47.png"
 			}
 		},
 		{
@@ -497,7 +487,7 @@
 			"type": "Sorcery",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/49.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/48.png"
 			}
 		},
 		{
@@ -507,7 +497,7 @@
 			"type": "Sorcery",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/50.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/49.png"
 			}
 		},
 		{
@@ -515,9 +505,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Legendary Creature — Mutant Hero",
-			"collector_number": "277",
+			"collector_number": "279",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/51.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/50.png"
 			}
 		},
 		{
@@ -527,7 +517,7 @@
 			"type": "Sorcery",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/52.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/51.png"
 			}
 		},
 		{
@@ -537,7 +527,7 @@
 			"type": "Legendary Creature — Spirit",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/53.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/52.png"
 			}
 		},
 		{
@@ -545,9 +535,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Creature — Human Knight",
-			"collector_number": "137",
+			"collector_number": "136",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/54.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/53.png"
 			}
 		},
 		{
@@ -557,7 +547,7 @@
 			"type": "Sorcery",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/55.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/54.png"
 			}
 		},
 		{
@@ -567,7 +557,7 @@
 			"type": "Legendary Creature — Human Mercenary",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/56.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/55.png"
 			}
 		},
 		{
@@ -577,7 +567,7 @@
 			"type": "Legendary Artifact Creature — Scientist",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/57.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/56.png"
 			}
 		},
 		{
@@ -587,7 +577,7 @@
 			"type": "Legendary Creature — Human Wizard",
 			"collector_number": "190",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/58.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/57.png"
 			}
 		},
 		{
@@ -595,9 +585,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Legendary Creature — Spirit",
-			"collector_number": "283",
+			"collector_number": "284",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/59.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/58.png"
 			}
 		},
 		{
@@ -605,9 +595,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Artifact",
-			"collector_number": "135",
+			"collector_number": "134",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/60.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/59.png"
 			}
 		},
 		{
@@ -615,9 +605,9 @@
 			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Legendary Creature — Alien Wizard",
-			"collector_number": "221",
+			"collector_number": "222",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/61.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/60.png"
 			}
 		},
 		{
@@ -625,9 +615,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land — Swamp Forest",
-			"collector_number": "337",
+			"collector_number": "343",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/62.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/61.png"
 			}
 		},
 		{
@@ -637,7 +627,7 @@
 			"type": "Legendary Creature — Alien Performer",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/63.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/62.png"
 			}
 		},
 		{
@@ -647,7 +637,7 @@
 			"type": "Legendary Creature — Human Simpson",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/64.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/63.png"
 			}
 		},
 		{
@@ -655,9 +645,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "125",
+			"collector_number": "124",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/65.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/64.png"
 			}
 		},
 		{
@@ -667,7 +657,7 @@
 			"type": "Legendary Creature — Human Warlock",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/66.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/65.png"
 			}
 		},
 		{
@@ -677,7 +667,7 @@
 			"type": "Legendary Creature — Mutant Hero",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/67.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/66.png"
 			}
 		},
 		{
@@ -687,7 +677,7 @@
 			"type": "Legendary Creature — Warrior",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/68.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/67.png"
 			}
 		},
 		{
@@ -697,7 +687,7 @@
 			"type": "Legendary Artifact Creature — Robot",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/69.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/68.png"
 			}
 		},
 		{
@@ -705,9 +695,9 @@
 			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Legendary Creature — Rogue",
-			"collector_number": "234",
+			"collector_number": "235",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/70.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/69.png"
 			}
 		},
 		{
@@ -715,9 +705,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Creature — Skeleton Warlock",
-			"collector_number": "134",
+			"collector_number": "133",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/71.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/70.png"
 			}
 		},
 		{
@@ -725,9 +715,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{W}",
 			"type": "Legendary Creature — Noble",
-			"collector_number": "35",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/72.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/71.png"
 			}
 		},
 		{
@@ -735,9 +725,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Legendary Creature — Mutant Shark",
-			"collector_number": "284",
+			"collector_number": "285",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/73.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/72.png"
 			}
 		},
 		{
@@ -745,9 +735,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "315",
+			"collector_number": "321",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/74.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/73.png"
 			}
 		},
 		{
@@ -757,7 +747,7 @@
 			"type": "Legendary Creature — Dragon",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/75.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/74.png"
 			}
 		},
 		{
@@ -765,9 +755,9 @@
 			"rarity": "special",
 			"mana_cost": "{9}",
 			"type": "Legendary Artifact Creature — Balloon",
-			"collector_number": "318",
+			"collector_number": "324",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/76.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/75.png"
 			}
 		},
 		{
@@ -775,9 +765,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Legendary Creature — Human Performer",
-			"collector_number": "154",
+			"collector_number": "153",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/77.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/76.png"
 			}
 		},
 		{
@@ -785,9 +775,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}{R}",
 			"type": "Legendary Creature — Mutant Hero",
-			"collector_number": "266",
+			"collector_number": "267",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/78.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/77.png"
 			}
 		},
 		{
@@ -797,7 +787,7 @@
 			"type": "Legendary Creature — Human Wizard",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/79.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/78.png"
 			}
 		},
 		{
@@ -807,7 +797,7 @@
 			"type": "Legendary Artifact Creature — Alien Warlock",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/80.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/79.png"
 			}
 		},
 		{
@@ -815,9 +805,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}{W}",
 			"type": "Instant",
-			"collector_number": "288",
+			"collector_number": "289",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/81.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/80.png"
 			}
 		},
 		{
@@ -825,9 +815,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}{G}{G}",
 			"type": "Legendary Creature — Spirit",
-			"collector_number": "267",
+			"collector_number": "268",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/82.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/81.png"
 			}
 		},
 		{
@@ -837,7 +827,7 @@
 			"type": "Legendary Creature — Spirit",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/83.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/82.png"
 			}
 		},
 		{
@@ -845,19 +835,19 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Legendary Creature — Spirit",
-			"collector_number": "275",
+			"collector_number": "277",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/84.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/83.png"
 			}
 		},
 		{
 			"name": "Dissolving Mists",
 			"rarity": "special",
-			"mana_cost": "{1}{B}",
+			"mana_cost": "{B}{B}",
 			"type": "Instant",
 			"collector_number": "111",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/85.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/84.png"
 			}
 		},
 		{
@@ -865,9 +855,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Ninja",
-			"collector_number": "298",
+			"collector_number": "300",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/86.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/85.png"
 			}
 		},
 		{
@@ -875,9 +865,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Legendary Creature — Noggle Artificer",
-			"collector_number": "265",
+			"collector_number": "266",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/87.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/86.png"
 			}
 		},
 		{
@@ -887,7 +877,7 @@
 			"type": "Legendary Creature — Spirit",
 			"collector_number": "209",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/88.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/87.png"
 			}
 		},
 		{
@@ -895,9 +885,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Legendary Creature — Spirit",
-			"collector_number": "255",
+			"collector_number": "256",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/89.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/88.png"
 			}
 		},
 		{
@@ -907,7 +897,7 @@
 			"type": "Legendary Creature — Spirit",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/90.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/89.png"
 			}
 		},
 		{
@@ -915,9 +905,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}{R}",
 			"type": "Instant",
-			"collector_number": "243",
+			"collector_number": "244",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/91.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/90.png"
 			}
 		},
 		{
@@ -927,7 +917,7 @@
 			"type": "Legendary Creature — Plant Scout",
 			"collector_number": "202",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/92.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/91.png"
 			}
 		},
 		{
@@ -935,9 +925,9 @@
 			"rarity": "special",
 			"mana_cost": "{6}{G}{U}",
 			"type": "Creature — Dragon",
-			"collector_number": "278",
+			"collector_number": "280",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/93.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/92.png"
 			}
 		},
 		{
@@ -947,7 +937,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/94.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/93.png"
 			}
 		},
 		{
@@ -955,9 +945,9 @@
 			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Legendary Artifact Creature — Rebel",
-			"collector_number": "30",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/95.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/94.png"
 			}
 		},
 		{
@@ -967,7 +957,7 @@
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "247",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/96.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/95.png"
 			}
 		},
 		{
@@ -975,9 +965,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Legendary Creature — Elf Knight",
-			"collector_number": "268",
+			"collector_number": "269",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/97.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/96.png"
 			}
 		},
 		{
@@ -985,9 +975,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}{R}",
 			"type": "Legendary Creature — Spirit",
-			"collector_number": "291",
+			"collector_number": "292",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/98.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/97.png"
 			}
 		},
 		{
@@ -997,7 +987,7 @@
 			"type": "Legendary Creature — Spirit",
 			"collector_number": "187",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/99.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/98.png"
 			}
 		},
 		{
@@ -1005,9 +995,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Spirit",
-			"collector_number": "43",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/100.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/99.png"
 			}
 		},
 		{
@@ -1017,7 +1007,7 @@
 			"type": "Legendary Creature — Spirit",
 			"collector_number": "208",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/101.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/100.png"
 			}
 		},
 		{
@@ -1025,9 +1015,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Legendary Creature — Spirit",
-			"collector_number": "229",
+			"collector_number": "230",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/102.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/101.png"
 			}
 		},
 		{
@@ -1035,9 +1025,9 @@
 			"rarity": "special",
 			"mana_cost": "{W}{U}",
 			"type": "Legendary Creature — Spirit",
-			"collector_number": "270",
+			"collector_number": "272",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/103.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/102.png"
 			}
 		},
 		{
@@ -1045,9 +1035,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "241",
+			"collector_number": "242",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/104.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/103.png"
 			}
 		},
 		{
@@ -1057,17 +1047,17 @@
 			"type": "Sorcery",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/105.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/104.png"
 			}
 		},
 		{
-			"name": "Shadows Flicker Like Flame",
+			"name": "Madelyne Pryor, Goblin Queen",
 			"rarity": "special",
 			"mana_cost": "{2}{B}{R}",
-			"type": "Legendary Creature — Spirit",
-			"collector_number": "280",
+			"type": "Legendary Creature — Mutant Villain",
+			"collector_number": "271",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/106.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/105.png"
 			}
 		},
 		{
@@ -1077,7 +1067,7 @@
 			"type": "Sorcery",
 			"collector_number": "248",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/107.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/106.png"
 			}
 		},
 		{
@@ -1085,9 +1075,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Instant",
-			"collector_number": "257",
+			"collector_number": "258",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/108.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/107.png"
 			}
 		},
 		{
@@ -1095,9 +1085,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Legendary Creature — Spirit",
-			"collector_number": "19",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/109.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/108.png"
 			}
 		},
 		{
@@ -1107,7 +1097,7 @@
 			"type": "Legendary Creature — Human Rogue",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/110.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/109.png"
 			}
 		},
 		{
@@ -1115,9 +1105,9 @@
 			"rarity": "special",
 			"mana_cost": "{5}{R}",
 			"type": "Creature — Dragon",
-			"collector_number": "159",
+			"collector_number": "158",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/111.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/110.png"
 			}
 		},
 		{
@@ -1125,9 +1115,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}{G}",
 			"type": "Legendary Creature — Spirit",
-			"collector_number": "258",
+			"collector_number": "259",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/112.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/111.png"
 			}
 		},
 		{
@@ -1135,9 +1125,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Legendary Creature — Human Villain",
-			"collector_number": "155",
+			"collector_number": "154",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/113.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/112.png"
 			}
 		},
 		{
@@ -1145,9 +1135,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Legendary Creature — Spirit",
-			"collector_number": "156",
+			"collector_number": "155",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/114.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/113.png"
 			}
 		},
 		{
@@ -1155,9 +1145,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Legendary Creature — Spirit",
-			"collector_number": "240",
+			"collector_number": "241",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/115.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/114.png"
 			}
 		},
 		{
@@ -1167,7 +1157,7 @@
 			"type": "Enchantment",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/116.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/115.png"
 			}
 		},
 		{
@@ -1177,7 +1167,7 @@
 			"type": "Enchantment",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/117.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/116.png"
 			}
 		},
 		{
@@ -1185,9 +1175,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "310",
+			"collector_number": "313",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/118.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/117.png"
 			}
 		},
 		{
@@ -1195,9 +1185,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Legendary Creature — Frog Mutant Monk",
-			"collector_number": "40",
+			"collector_number": "39",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/119.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/118.png"
 			}
 		},
 		{
@@ -1205,9 +1195,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Giant Monk",
-			"collector_number": "46",
+			"collector_number": "45",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/120.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/119.png"
 			}
 		},
 		{
@@ -1217,7 +1207,7 @@
 			"type": "Instant",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/121.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/120.png"
 			}
 		},
 		{
@@ -1227,7 +1217,7 @@
 			"type": "Legendary Creature — Dragon God",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/122.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/121.png"
 			}
 		},
 		{
@@ -1235,9 +1225,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{R}{W}",
 			"type": "Legendary Creature — Spirit",
-			"collector_number": "286",
+			"collector_number": "287",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/123.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/122.png"
 			}
 		},
 		{
@@ -1247,7 +1237,7 @@
 			"type": "Creature — Human Citizen",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/124.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/123.png"
 			}
 		},
 		{
@@ -1255,9 +1245,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Minion",
-			"collector_number": "157",
+			"collector_number": "156",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/125.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/124.png"
 			}
 		},
 		{
@@ -1267,7 +1257,7 @@
 			"type": "Enchantment — Plan",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/126.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/125.png"
 			}
 		},
 		{
@@ -1277,7 +1267,7 @@
 			"type": "Legendary Creature — Human Hero",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/127.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/126.png"
 			}
 		},
 		{
@@ -1285,9 +1275,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Creature — Vampire Performer",
-			"collector_number": "133",
+			"collector_number": "132",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/128.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/127.png"
 			}
 		},
 		{
@@ -1295,9 +1285,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Creature — Human Scientist",
-			"collector_number": "224",
+			"collector_number": "225",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/129.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/128.png"
 			}
 		},
 		{
@@ -1305,9 +1295,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Sorcery",
-			"collector_number": "276",
+			"collector_number": "278",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/130.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/129.png"
 			}
 		},
 		{
@@ -1315,9 +1305,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Creature — Skeleton Archer",
-			"collector_number": "145",
+			"collector_number": "144",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/131.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/130.png"
 			}
 		},
 		{
@@ -1327,7 +1317,7 @@
 			"type": "Legendary Creature — Human Archer",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/132.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/131.png"
 			}
 		},
 		{
@@ -1335,9 +1325,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land — Forest Plains",
-			"collector_number": "352",
+			"collector_number": "358",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/133.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/132.png"
 			}
 		},
 		{
@@ -1345,9 +1335,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land — Swamp Mountain",
-			"collector_number": "357",
+			"collector_number": "363",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/134.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/133.png"
 			}
 		},
 		{
@@ -1355,9 +1345,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land — Mountain Forest",
-			"collector_number": "372",
+			"collector_number": "378",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/135.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/134.png"
 			}
 		},
 		{
@@ -1365,9 +1355,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land — Mountain Plains",
-			"collector_number": "353",
+			"collector_number": "359",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/136.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/135.png"
 			}
 		},
 		{
@@ -1375,9 +1365,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land — Island Mountain",
-			"collector_number": "343",
+			"collector_number": "349",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/137.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/136.png"
 			}
 		},
 		{
@@ -1385,9 +1375,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land — Plains Island",
-			"collector_number": "325",
+			"collector_number": "331",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/138.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/137.png"
 			}
 		},
 		{
@@ -1395,9 +1385,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land — Island Swamp",
-			"collector_number": "347",
+			"collector_number": "353",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/139.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/138.png"
 			}
 		},
 		{
@@ -1405,9 +1395,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land — Forest Island",
-			"collector_number": "348",
+			"collector_number": "354",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/140.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/139.png"
 			}
 		},
 		{
@@ -1415,9 +1405,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land — Plains Swamp",
-			"collector_number": "328",
+			"collector_number": "334",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/141.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/140.png"
 			}
 		},
 		{
@@ -1425,9 +1415,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "374",
+			"collector_number": "380",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/142.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/141.png"
 			}
 		},
 		{
@@ -1435,9 +1425,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Legendary Creature — Human Hero",
-			"collector_number": "36",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/143.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/142.png"
 			}
 		},
 		{
@@ -1445,9 +1435,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "311",
+			"collector_number": "314",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/144.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/143.png"
 			}
 		},
 		{
@@ -1457,7 +1447,7 @@
 			"type": "Enchantment",
 			"collector_number": "191",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/145.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/144.png"
 			}
 		},
 		{
@@ -1467,7 +1457,7 @@
 			"type": "Legendary Creature — Human Detective",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/146.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/145.png"
 			}
 		},
 		{
@@ -1477,7 +1467,7 @@
 			"type": "Legendary Creature — Alien Rebel",
 			"collector_number": "203",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/147.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/146.png"
 			}
 		},
 		{
@@ -1487,7 +1477,7 @@
 			"type": "Legendary Creature — Human Minion",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/148.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/147.png"
 			}
 		},
 		{
@@ -1495,9 +1485,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "151",
+			"collector_number": "150",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/149.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/148.png"
 			}
 		},
 		{
@@ -1507,7 +1497,7 @@
 			"type": "Instant",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/150.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/149.png"
 			}
 		},
 		{
@@ -1517,7 +1507,7 @@
 			"type": "Sorcery",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/151.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/150.png"
 			}
 		},
 		{
@@ -1527,7 +1517,7 @@
 			"type": "Legendary Creature — Human Doctor",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/152.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/151.png"
 			}
 		},
 		{
@@ -1535,9 +1525,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}{B}",
 			"type": "Legendary Creature — Human Warlock",
-			"collector_number": "147",
+			"collector_number": "146",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/153.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/152.png"
 			}
 		},
 		{
@@ -1545,9 +1535,9 @@
 			"rarity": "special",
 			"mana_cost": "{6}",
 			"type": "Legendary Artifact",
-			"collector_number": "303",
+			"collector_number": "305",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/154.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/153.png"
 			}
 		},
 		{
@@ -1557,7 +1547,7 @@
 			"type": "Legendary Creature — Human Knight",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/155.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/154.png"
 			}
 		},
 		{
@@ -1565,9 +1555,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Vampire Spy Dragon",
-			"collector_number": "144",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/156.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/155.png"
 			}
 		},
 		{
@@ -1575,9 +1565,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Legendary Artifact Creature — Food Performer",
-			"collector_number": "269",
+			"collector_number": "270",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/157.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/156.png"
 			}
 		},
 		{
@@ -1585,9 +1575,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Legendary Enchantment",
-			"collector_number": "290",
+			"collector_number": "291",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/158.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/157.png"
 			}
 		},
 		{
@@ -1595,9 +1585,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{W}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "21",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/159.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/158.png"
 			}
 		},
 		{
@@ -1605,9 +1595,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "254",
+			"collector_number": "255",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/160.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/159.png"
 			}
 		},
 		{
@@ -1617,7 +1607,7 @@
 			"type": "Legendary Creature — Alien Hero",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/161.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/160.png"
 			}
 		},
 		{
@@ -1625,9 +1615,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{W}",
 			"type": "Legendary Creature — Faerie Wizard",
-			"collector_number": "37",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/162.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/161.png"
 			}
 		},
 		{
@@ -1635,9 +1625,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Legendary Artifact",
-			"collector_number": "233",
+			"collector_number": "234",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/163.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/162.png"
 			}
 		},
 		{
@@ -1645,9 +1635,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Legendary Creature — Mutant Wolf Hero",
-			"collector_number": "228",
+			"collector_number": "229",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/164.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/163.png"
 			}
 		},
 		{
@@ -1655,9 +1645,9 @@
 			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Legendary Creature — Mutant Hero",
-			"collector_number": "38",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/165.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/164.png"
 			}
 		},
 		{
@@ -1667,7 +1657,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/166.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/165.png"
 			}
 		},
 		{
@@ -1675,9 +1665,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Creature — Kobold",
-			"collector_number": "129",
+			"collector_number": "128",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/167.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/166.png"
 			}
 		},
 		{
@@ -1685,9 +1675,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Legendary Creature — Elemental Mutant",
-			"collector_number": "149",
+			"collector_number": "148",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/168.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/167.png"
 			}
 		},
 		{
@@ -1695,9 +1685,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Enchantment",
-			"collector_number": "253",
+			"collector_number": "254",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/169.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/168.png"
 			}
 		},
 		{
@@ -1705,9 +1695,9 @@
 			"rarity": "special",
 			"mana_cost": "{5}",
 			"type": "Legendary Artifact Creature — Equipment",
-			"collector_number": "306",
+			"collector_number": "308",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/170.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/169.png"
 			}
 		},
 		{
@@ -1715,9 +1705,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "301",
+			"collector_number": "303",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/171.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/170.png"
 			}
 		},
 		{
@@ -1727,7 +1717,7 @@
 			"type": "Legendary Creature — Human Warlock",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/172.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/171.png"
 			}
 		},
 		{
@@ -1735,9 +1725,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}{B}",
 			"type": "Instant",
-			"collector_number": "118",
+			"collector_number": "119",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/173.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/172.png"
 			}
 		},
 		{
@@ -1745,9 +1735,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}{R}",
 			"type": "Legendary Creature — Hedgehog",
-			"collector_number": "279",
+			"collector_number": "281",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/174.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/173.png"
 			}
 		},
 		{
@@ -1755,9 +1745,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}{R}",
 			"type": "Enchantment",
-			"collector_number": "252",
+			"collector_number": "253",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/175.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/174.png"
 			}
 		},
 		{
@@ -1767,7 +1757,7 @@
 			"type": "Legendary Creature — Human Scientist",
 			"collector_number": "112",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/176.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/175.png"
 			}
 		},
 		{
@@ -1775,9 +1765,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}{G}",
 			"type": "Legendary Creature — Ox Warrior",
-			"collector_number": "260",
+			"collector_number": "261",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/177.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/176.png"
 			}
 		},
 		{
@@ -1787,7 +1777,7 @@
 			"type": "Instant",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/178.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/177.png"
 			}
 		},
 		{
@@ -1797,7 +1787,7 @@
 			"type": "Legendary Creature — Mutant Hero",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/179.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/178.png"
 			}
 		},
 		{
@@ -1807,7 +1797,7 @@
 			"type": "Legendary Creature — Cat Rogue",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/180.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/179.png"
 			}
 		},
 		{
@@ -1817,7 +1807,7 @@
 			"type": "Enchantment",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/181.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/180.png"
 			}
 		},
 		{
@@ -1827,7 +1817,7 @@
 			"type": "Instant",
 			"collector_number": "178",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/182.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/181.png"
 			}
 		},
 		{
@@ -1835,9 +1825,9 @@
 			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Creature — Plant",
-			"collector_number": "237",
+			"collector_number": "238",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/183.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/182.png"
 			}
 		},
 		{
@@ -1847,7 +1837,7 @@
 			"type": "Legendary Creature — Human Elf Warrior",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/184.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/183.png"
 			}
 		},
 		{
@@ -1855,9 +1845,9 @@
 			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Legendary Creature — Human Soldier",
-			"collector_number": "34",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/185.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/184.png"
 			}
 		},
 		{
@@ -1865,9 +1855,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "364",
+			"collector_number": "370",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/186.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/185.png"
 			}
 		},
 		{
@@ -1875,29 +1865,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "143",
+			"collector_number": "142",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/187.png"
-			}
-		},
-		{
-			"name": "It's Alive!",
-			"rarity": "special",
-			"mana_cost": "{1}{B}",
-			"type": "Sorcery",
-			"collector_number": "127",
-			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/188.png"
-			}
-		},
-		{
-			"name": "Frankenstein's Monster",
-			"rarity": "special",
-			"mana_cost": "{2}{B}",
-			"type": "Legendary Creature — Horror",
-			"collector_number": "119",
-			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/189.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/186.png"
 			}
 		},
 		{
@@ -1905,9 +1875,9 @@
 			"rarity": "special",
 			"mana_cost": "{G}{W}",
 			"type": "Legendary Artifact Creature — Robot",
-			"collector_number": "289",
+			"collector_number": "290",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/190.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/187.png"
 			}
 		},
 		{
@@ -1915,9 +1885,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Legendary Creature — Mutant Warrior",
-			"collector_number": "264",
+			"collector_number": "265",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/191.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/188.png"
 			}
 		},
 		{
@@ -1925,9 +1895,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Mine",
-			"collector_number": "326",
+			"collector_number": "332",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/192.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/189.png"
 			}
 		},
 		{
@@ -1937,7 +1907,7 @@
 			"type": "Legendary Creature — Elf Knight",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/193.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/190.png"
 			}
 		},
 		{
@@ -1947,7 +1917,7 @@
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/194.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/191.png"
 			}
 		},
 		{
@@ -1955,9 +1925,9 @@
 			"rarity": "special",
 			"mana_cost": "{X}{R}",
 			"type": "Sorcery",
-			"collector_number": "150",
+			"collector_number": "149",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/195.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/192.png"
 			}
 		},
 		{
@@ -1967,7 +1937,7 @@
 			"type": "Sorcery",
 			"collector_number": "251",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/196.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/193.png"
 			}
 		},
 		{
@@ -1977,7 +1947,7 @@
 			"type": "Legendary Creature — Vampire Noble",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/197.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/194.png"
 			}
 		},
 		{
@@ -1985,9 +1955,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Instant",
-			"collector_number": "146",
+			"collector_number": "145",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/198.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/195.png"
 			}
 		},
 		{
@@ -1995,9 +1965,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Legendary Creature — Human Warrior",
-			"collector_number": "153",
+			"collector_number": "152",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/199.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/196.png"
 			}
 		},
 		{
@@ -2007,7 +1977,7 @@
 			"type": "Instant",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/200.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/197.png"
 			}
 		},
 		{
@@ -2015,9 +1985,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "304",
+			"collector_number": "306",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/201.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/198.png"
 			}
 		},
 		{
@@ -2027,7 +1997,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "205",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/202.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/199.png"
 			}
 		},
 		{
@@ -2037,7 +2007,7 @@
 			"type": "Legendary Creature — Mouse Citizen",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/203.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/200.png"
 			}
 		},
 		{
@@ -2047,7 +2017,7 @@
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/204.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/201.png"
 			}
 		},
 		{
@@ -2057,7 +2027,7 @@
 			"type": "Instant",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/205.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/202.png"
 			}
 		},
 		{
@@ -2065,9 +2035,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
-			"collector_number": "158",
+			"collector_number": "157",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/206.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/203.png"
 			}
 		},
 		{
@@ -2075,9 +2045,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Artifact Land — Powerstone",
-			"collector_number": "362",
+			"collector_number": "368",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/207.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/204.png"
 			}
 		},
 		{
@@ -2085,9 +2055,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "18",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/208.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/205.png"
 			}
 		},
 		{
@@ -2097,7 +2067,7 @@
 			"type": "Instant",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/209.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/206.png"
 			}
 		},
 		{
@@ -2107,7 +2077,7 @@
 			"type": "Sorcery",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/210.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/207.png"
 			}
 		},
 		{
@@ -2117,7 +2087,7 @@
 			"type": "Creature — Bear Beast",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/211.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/208.png"
 			}
 		},
 		{
@@ -2125,9 +2095,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{G}{G}{G}",
 			"type": "Legendary Creature — Mutant Dinosaur",
-			"collector_number": "210",
+			"collector_number": "211",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/212.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/209.png"
 			}
 		},
 		{
@@ -2137,7 +2107,7 @@
 			"type": "Sorcery",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/213.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/210.png"
 			}
 		},
 		{
@@ -2145,9 +2115,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Cat Soldier",
-			"collector_number": "25",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/214.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/211.png"
 			}
 		},
 		{
@@ -2155,9 +2125,9 @@
 			"rarity": "special",
 			"mana_cost": "{X}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "211",
+			"collector_number": "212",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/215.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/212.png"
 			}
 		},
 		{
@@ -2167,7 +2137,7 @@
 			"type": "Sorcery",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/216.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/213.png"
 			}
 		},
 		{
@@ -2177,7 +2147,7 @@
 			"type": "Sorcery",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/217.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/214.png"
 			}
 		},
 		{
@@ -2185,9 +2155,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Legendary Creature — Alien",
-			"collector_number": "242",
+			"collector_number": "243",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/218.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/215.png"
 			}
 		},
 		{
@@ -2195,9 +2165,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Wurm",
-			"collector_number": "230",
+			"collector_number": "231",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/219.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/216.png"
 			}
 		},
 		{
@@ -2207,7 +2177,7 @@
 			"type": "Instant",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/220.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/217.png"
 			}
 		},
 		{
@@ -2215,9 +2185,9 @@
 			"rarity": "special",
 			"mana_cost": "{G}{U}",
 			"type": "Legendary Creature — Human Scientist",
-			"collector_number": "271",
+			"collector_number": "273",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/221.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/218.png"
 			}
 		},
 		{
@@ -2227,7 +2197,7 @@
 			"type": "Instant",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/222.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/219.png"
 			}
 		},
 		{
@@ -2235,9 +2205,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "214",
+			"collector_number": "215",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/223.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/220.png"
 			}
 		},
 		{
@@ -2245,9 +2215,9 @@
 			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "39",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/224.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/221.png"
 			}
 		},
 		{
@@ -2257,7 +2227,7 @@
 			"type": "Instant",
 			"collector_number": "179",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/225.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/222.png"
 			}
 		},
 		{
@@ -2267,7 +2237,7 @@
 			"type": "Sorcery",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/226.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/223.png"
 			}
 		},
 		{
@@ -2277,7 +2247,7 @@
 			"type": "Instant",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/227.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/224.png"
 			}
 		},
 		{
@@ -2287,7 +2257,7 @@
 			"type": "Sorcery",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/228.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/225.png"
 			}
 		},
 		{
@@ -2295,9 +2265,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
-			"collector_number": "236",
+			"collector_number": "237",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/229.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/226.png"
 			}
 		},
 		{
@@ -2307,7 +2277,7 @@
 			"type": "Instant",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/230.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/227.png"
 			}
 		},
 		{
@@ -2315,9 +2285,9 @@
 			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
-			"collector_number": "232",
+			"collector_number": "233",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/231.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/228.png"
 			}
 		},
 		{
@@ -2327,7 +2297,7 @@
 			"type": "Sorcery",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/232.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/229.png"
 			}
 		},
 		{
@@ -2337,7 +2307,7 @@
 			"type": "Creature — Boar Mutant",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/233.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/230.png"
 			}
 		},
 		{
@@ -2345,9 +2315,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "329",
+			"collector_number": "335",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/234.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/231.png"
 			}
 		},
 		{
@@ -2355,9 +2325,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "342",
+			"collector_number": "348",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/235.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/232.png"
 			}
 		},
 		{
@@ -2365,9 +2335,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "338",
+			"collector_number": "344",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/236.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/233.png"
 			}
 		},
 		{
@@ -2375,9 +2345,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "339",
+			"collector_number": "345",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/237.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/234.png"
 			}
 		},
 		{
@@ -2385,9 +2355,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "319",
+			"collector_number": "325",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/238.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/235.png"
 			}
 		},
 		{
@@ -2395,9 +2365,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "334",
+			"collector_number": "340",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/239.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/236.png"
 			}
 		},
 		{
@@ -2405,9 +2375,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "369",
+			"collector_number": "375",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/240.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/237.png"
 			}
 		},
 		{
@@ -2415,9 +2385,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "349",
+			"collector_number": "355",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/241.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/238.png"
 			}
 		},
 		{
@@ -2425,9 +2395,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "320",
+			"collector_number": "326",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/242.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/239.png"
 			}
 		},
 		{
@@ -2435,9 +2405,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "365",
+			"collector_number": "371",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/243.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/240.png"
 			}
 		},
 		{
@@ -2447,7 +2417,7 @@
 			"type": "Enchantment",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/244.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/241.png"
 			}
 		},
 		{
@@ -2455,9 +2425,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "297",
+			"collector_number": "299",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/245.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/242.png"
 			}
 		},
 		{
@@ -2465,9 +2435,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}{B}",
 			"type": "Sorcery",
-			"collector_number": "261",
+			"collector_number": "262",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/246.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/243.png"
 			}
 		},
 		{
@@ -2475,9 +2445,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "340",
+			"collector_number": "346",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/247.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/244.png"
 			}
 		},
 		{
@@ -2485,9 +2455,9 @@
 			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "27",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/248.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/245.png"
 			}
 		},
 		{
@@ -2495,9 +2465,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Artifact — Equipment",
-			"collector_number": "126",
+			"collector_number": "125",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/249.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/246.png"
 			}
 		},
 		{
@@ -2507,7 +2477,7 @@
 			"type": "Legendary Creature — Human Warrior",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/250.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/247.png"
 			}
 		},
 		{
@@ -2517,7 +2487,7 @@
 			"type": "Instant",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/251.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/248.png"
 			}
 		},
 		{
@@ -2525,9 +2495,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Legendary Creature — Human Nomad Noble",
-			"collector_number": "225",
+			"collector_number": "226",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/252.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/249.png"
 			}
 		},
 		{
@@ -2535,9 +2505,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment",
-			"collector_number": "136",
+			"collector_number": "135",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/253.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/250.png"
 			}
 		},
 		{
@@ -2545,9 +2515,9 @@
 			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
-			"collector_number": "235",
+			"collector_number": "236",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/254.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/251.png"
 			}
 		},
 		{
@@ -2555,9 +2525,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "371",
+			"collector_number": "377",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/255.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/252.png"
 			}
 		},
 		{
@@ -2565,9 +2535,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "327",
+			"collector_number": "333",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/256.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/253.png"
 			}
 		},
 		{
@@ -2575,9 +2545,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "330",
+			"collector_number": "336",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/257.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/254.png"
 			}
 		},
 		{
@@ -2587,7 +2557,7 @@
 			"type": "Legendary Creature — Platypus Spy",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/258.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/255.png"
 			}
 		},
 		{
@@ -2595,9 +2565,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "332",
+			"collector_number": "338",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/259.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/256.png"
 			}
 		},
 		{
@@ -2605,9 +2575,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "346",
+			"collector_number": "352",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/260.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/257.png"
 			}
 		},
 		{
@@ -2617,7 +2587,7 @@
 			"type": "Sorcery",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/261.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/258.png"
 			}
 		},
 		{
@@ -2627,17 +2597,7 @@
 			"type": "Legendary Creature — Insect Scout",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/262.png"
-			}
-		},
-		{
-			"name": "Gideon Nav",
-			"rarity": "special",
-			"mana_cost": "{W}",
-			"type": "Legendary Creature — Human Knight",
-			"collector_number": "16",
-			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/263.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/259.png"
 			}
 		},
 		{
@@ -2645,9 +2605,9 @@
 			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Legendary Creature — Mutant Hero",
-			"collector_number": "216",
+			"collector_number": "217",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/264.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/260.png"
 			}
 		},
 		{
@@ -2655,9 +2615,9 @@
 			"rarity": "special",
 			"mana_cost": "{W}{W}",
 			"type": "Legendary Creature — Fish Knight",
-			"collector_number": "47",
+			"collector_number": "46",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/265.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/261.png"
 			}
 		},
 		{
@@ -2665,9 +2625,9 @@
 			"rarity": "special",
 			"mana_cost": "{X}{B}",
 			"type": "Sorcery",
-			"collector_number": "140",
+			"collector_number": "139",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/266.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/262.png"
 			}
 		},
 		{
@@ -2675,9 +2635,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Creature — Mutant",
-			"collector_number": "218",
+			"collector_number": "219",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/267.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/263.png"
 			}
 		},
 		{
@@ -2687,7 +2647,7 @@
 			"type": "Instant",
 			"collector_number": "189",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/268.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/264.png"
 			}
 		},
 		{
@@ -2695,9 +2655,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Legendary Creature — Human Sorcerer",
-			"collector_number": "293",
+			"collector_number": "294",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/269.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/265.png"
 			}
 		},
 		{
@@ -2705,9 +2665,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Legendary Artifact Creature — Human Villain",
-			"collector_number": "131",
+			"collector_number": "130",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/270.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/266.png"
 			}
 		},
 		{
@@ -2715,9 +2675,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Legendary Artifact Creature — Book",
-			"collector_number": "299",
+			"collector_number": "301",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/271.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/267.png"
 			}
 		},
 		{
@@ -2725,9 +2685,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Legendary Creature — Dwarf Noble",
-			"collector_number": "23",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/272.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/268.png"
 			}
 		},
 		{
@@ -2737,7 +2697,7 @@
 			"type": "Instant",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/273.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/269.png"
 			}
 		},
 		{
@@ -2745,9 +2705,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Legendary Creature — Elder Spider",
-			"collector_number": "17",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/274.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/270.png"
 			}
 		},
 		{
@@ -2755,9 +2715,9 @@
 			"rarity": "special",
 			"mana_cost": "{W}{B}",
 			"type": "Legendary Creature — Mutant",
-			"collector_number": "256",
+			"collector_number": "257",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/275.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/271.png"
 			}
 		},
 		{
@@ -2767,7 +2727,7 @@
 			"type": "Instant",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/276.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/272.png"
 			}
 		},
 		{
@@ -2775,9 +2735,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Legendary Creature — Mutant Knight",
-			"collector_number": "259",
+			"collector_number": "260",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/277.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/273.png"
 			}
 		},
 		{
@@ -2787,7 +2747,7 @@
 			"type": "Enchantment",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/278.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/274.png"
 			}
 		},
 		{
@@ -2795,9 +2755,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Insect Warrior",
-			"collector_number": "26",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/279.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/275.png"
 			}
 		},
 		{
@@ -2805,9 +2765,9 @@
 			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Legendary Creature — Spider Warrior",
-			"collector_number": "20",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/280.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/276.png"
 			}
 		},
 		{
@@ -2817,7 +2777,7 @@
 			"type": "Sorcery",
 			"collector_number": "175",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/281.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/277.png"
 			}
 		},
 		{
@@ -2827,7 +2787,7 @@
 			"type": "Enchantment",
 			"collector_number": "193",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/282.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/278.png"
 			}
 		},
 		{
@@ -2835,9 +2795,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Artifact Land — Vehicle",
-			"collector_number": "361",
+			"collector_number": "367",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/283.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/279.png"
 			}
 		},
 		{
@@ -2847,7 +2807,7 @@
 			"type": "Legendary Creature — Halfling Knight Archer",
 			"collector_number": "206",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/284.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/280.png"
 			}
 		},
 		{
@@ -2855,9 +2815,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Legendary Creature — Human Wizard Knight",
-			"collector_number": "223",
+			"collector_number": "224",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/285.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/281.png"
 			}
 		},
 		{
@@ -2865,9 +2825,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Germ",
-			"collector_number": "152",
+			"collector_number": "151",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/286.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/282.png"
 			}
 		},
 		{
@@ -2877,7 +2837,7 @@
 			"type": "Legendary Creature — Elemental Mouse",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/287.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/283.png"
 			}
 		},
 		{
@@ -2885,9 +2845,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Bear Warrior",
-			"collector_number": "32",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/288.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/284.png"
 			}
 		},
 		{
@@ -2895,9 +2855,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "138",
+			"collector_number": "137",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/289.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/285.png"
 			}
 		},
 		{
@@ -2907,7 +2867,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/290.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/286.png"
 			}
 		},
 		{
@@ -2917,7 +2877,7 @@
 			"type": "Legendary Creature — Giant",
 			"collector_number": "201",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/291.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/287.png"
 			}
 		},
 		{
@@ -2925,9 +2885,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Beast Mount",
-			"collector_number": "227",
+			"collector_number": "228",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/292.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/288.png"
 			}
 		},
 		{
@@ -2935,9 +2895,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Creature — Insect Warrior",
-			"collector_number": "231",
+			"collector_number": "232",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/293.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/289.png"
 			}
 		},
 		{
@@ -2945,9 +2905,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Legendary Creature — Elf Demon Druid",
-			"collector_number": "220",
+			"collector_number": "221",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/294.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/290.png"
 			}
 		},
 		{
@@ -2955,9 +2915,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Legendary Creature — Mutant Ape",
-			"collector_number": "239",
+			"collector_number": "240",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/295.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/291.png"
 			}
 		},
 		{
@@ -2965,9 +2925,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment",
-			"collector_number": "45",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/296.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/292.png"
 			}
 		},
 		{
@@ -2975,9 +2935,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "308",
+			"collector_number": "310",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/297.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/293.png"
 			}
 		},
 		{
@@ -2985,9 +2945,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Legendary Creature — Yautja Warrior",
-			"collector_number": "226",
+			"collector_number": "227",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/298.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/294.png"
 			}
 		},
 		{
@@ -2997,7 +2957,7 @@
 			"type": "Sorcery",
 			"collector_number": "196",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/299.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/295.png"
 			}
 		},
 		{
@@ -3005,9 +2965,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Legendary Artifact",
-			"collector_number": "316",
+			"collector_number": "322",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/300.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/296.png"
 			}
 		},
 		{
@@ -3015,9 +2975,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "356",
+			"collector_number": "362",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/301.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/297.png"
 			}
 		},
 		{
@@ -3025,9 +2985,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "324",
+			"collector_number": "330",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/302.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/298.png"
 			}
 		},
 		{
@@ -3035,9 +2995,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "341",
+			"collector_number": "347",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/303.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/299.png"
 			}
 		},
 		{
@@ -3045,9 +3005,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "331",
+			"collector_number": "337",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/304.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/300.png"
 			}
 		},
 		{
@@ -3055,9 +3015,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "360",
+			"collector_number": "366",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/305.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/301.png"
 			}
 		},
 		{
@@ -3065,9 +3025,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "350",
+			"collector_number": "356",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/306.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/302.png"
 			}
 		},
 		{
@@ -3075,9 +3035,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "351",
+			"collector_number": "357",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/307.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/303.png"
 			}
 		},
 		{
@@ -3085,9 +3045,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "323",
+			"collector_number": "329",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/308.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/304.png"
 			}
 		},
 		{
@@ -3095,9 +3055,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "335",
+			"collector_number": "341",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/309.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/305.png"
 			}
 		},
 		{
@@ -3107,7 +3067,7 @@
 			"type": "Instant",
 			"collector_number": "194",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/310.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/306.png"
 			}
 		},
 		{
@@ -3115,9 +3075,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Artifact Creature — Hero",
-			"collector_number": "130",
+			"collector_number": "129",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/311.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/307.png"
 			}
 		},
 		{
@@ -3125,9 +3085,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "222",
+			"collector_number": "223",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/312.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/308.png"
 			}
 		},
 		{
@@ -3135,9 +3095,9 @@
 			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Sorcery",
-			"collector_number": "28",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/313.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/309.png"
 			}
 		},
 		{
@@ -3145,9 +3105,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact",
-			"collector_number": "31",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/314.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/310.png"
 			}
 		},
 		{
@@ -3155,9 +3115,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Legendary Artifact",
-			"collector_number": "312",
+			"collector_number": "316",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/315.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/311.png"
 			}
 		},
 		{
@@ -3167,7 +3127,7 @@
 			"type": "Legendary Creature — Spirit",
 			"collector_number": "195",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/316.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/312.png"
 			}
 		},
 		{
@@ -3175,9 +3135,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "336",
+			"collector_number": "342",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/317.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/313.png"
 			}
 		},
 		{
@@ -3187,7 +3147,7 @@
 			"type": "Sorcery",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/318.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/314.png"
 			}
 		},
 		{
@@ -3197,7 +3157,7 @@
 			"type": "Legendary Creature — Demigod",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/319.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/315.png"
 			}
 		},
 		{
@@ -3207,7 +3167,7 @@
 			"type": "Legendary Creature — Human Wizard Knight",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/320.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/316.png"
 			}
 		},
 		{
@@ -3217,7 +3177,7 @@
 			"type": "Legendary Creature — Halfling Knight",
 			"collector_number": "246",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/321.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/317.png"
 			}
 		},
 		{
@@ -3225,9 +3185,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Legendary Creature — Bear Noble",
-			"collector_number": "263",
+			"collector_number": "264",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/322.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/318.png"
 			}
 		},
 		{
@@ -3237,7 +3197,7 @@
 			"type": "Legendary Creature — Human Soldier",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/323.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/319.png"
 			}
 		},
 		{
@@ -3247,7 +3207,7 @@
 			"type": "Token Artifact Creature — Minion",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/324.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/320.png"
 			}
 		},
 		{
@@ -3257,7 +3217,7 @@
 			"type": "Legendary Creature — Mutant Knight",
 			"collector_number": "245",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/325.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/321.png"
 			}
 		},
 		{
@@ -3267,17 +3227,7 @@
 			"type": "Legendary Creature — Human Doctor",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/326.png"
-			}
-		},
-		{
-			"name": "Arrogance, Innocence, and Patience",
-			"rarity": "special",
-			"mana_cost": "{4}{G}{U}{R}",
-			"type": "Legendary Creature — Dragon",
-			"collector_number": "244",
-			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/327.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/322.png"
 			}
 		},
 		{
@@ -3285,9 +3235,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{W}{B}",
 			"type": "Legendary Planeswalker — Saturnyne",
-			"collector_number": "274",
+			"collector_number": "276",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/328.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/323.png"
 			}
 		},
 		{
@@ -3297,7 +3247,7 @@
 			"type": "Legendary Planeswalker — Artakha",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/329.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/324.png"
 			}
 		},
 		{
@@ -3307,7 +3257,7 @@
 			"type": "Artifact — Manuscript",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/330.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/325.png"
 			}
 		},
 		{
@@ -3315,9 +3265,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Legendary Planeswalker — Yogg-Saron",
-			"collector_number": "148",
+			"collector_number": "147",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/331.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/326.png"
 			}
 		},
 		{
@@ -3327,7 +3277,7 @@
 			"type": "Legendary Artifact Creature — Human Hero",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/332.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/327.png"
 			}
 		},
 		{
@@ -3337,7 +3287,7 @@
 			"type": "",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/333.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/328.png"
 			}
 		},
 		{
@@ -3347,7 +3297,7 @@
 			"type": "Legendary Creature — Human Hero",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/334.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/329.png"
 			}
 		},
 		{
@@ -3355,9 +3305,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Legendary Planeswalker — Karzanhi",
-			"collector_number": "128",
+			"collector_number": "127",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/335.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/330.png"
 			}
 		},
 		{
@@ -3365,9 +3315,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Legendary Planeswalker — Jolene",
-			"collector_number": "215",
+			"collector_number": "216",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/336.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/331.png"
 			}
 		},
 		{
@@ -3375,9 +3325,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Legendary Planeswalker — Thiala",
-			"collector_number": "44",
+			"collector_number": "43",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/337.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/332.png"
 			}
 		},
 		{
@@ -3387,7 +3337,7 @@
 			"type": "Legendary Creature — Human Soldier",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/338.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/333.png"
 			}
 		},
 		{
@@ -3397,7 +3347,7 @@
 			"type": "Legendary Planeswalker — Pendeghast",
 			"collector_number": "176",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/339.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/334.png"
 			}
 		},
 		{
@@ -3407,7 +3357,7 @@
 			"type": "Legendary Planeswalker — Surge",
 			"collector_number": "170",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/340.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/335.png"
 			}
 		},
 		{
@@ -3415,9 +3365,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Planeswalker — Soul Master",
-			"collector_number": "282",
+			"collector_number": "283",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/341.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/336.png"
 			}
 		},
 		{
@@ -3427,7 +3377,7 @@
 			"type": "Legendary Planeswalker — Xavier",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/342.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/337.png"
 			}
 		},
 		{
@@ -3437,7 +3387,7 @@
 			"type": "Legendary Planeswalker — Ash",
 			"collector_number": "198",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/343.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/338.png"
 			}
 		},
 		{
@@ -3445,9 +3395,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Legendary Planeswalker — Vaneira",
-			"collector_number": "287",
+			"collector_number": "288",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/344.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/339.png"
 			}
 		},
 		{
@@ -3455,9 +3405,9 @@
 			"rarity": "special",
 			"mana_cost": "{G}{W}",
 			"type": "Enchantment — Class",
-			"collector_number": "273",
+			"collector_number": "275",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/345.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/340.png"
 			}
 		},
 		{
@@ -3465,9 +3415,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment — Saga",
-			"collector_number": "142",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/346.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/341.png"
 			}
 		},
 		{
@@ -3475,9 +3425,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "313",
+			"collector_number": "317",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/347.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/342.png"
 			}
 		},
 		{
@@ -3485,9 +3435,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}",
 			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "317",
+			"collector_number": "323",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/348.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/343.png"
 			}
 		},
 		{
@@ -3497,7 +3447,7 @@
 			"type": "Legendary Creature — Human Warlock",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/349.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/344.png"
 			}
 		},
 		{
@@ -3505,9 +3455,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "305",
+			"collector_number": "307",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/350.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/345.png"
 			}
 		},
 		{
@@ -3515,9 +3465,9 @@
 			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "42",
+			"collector_number": "41",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/351.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/346.png"
 			}
 		},
 		{
@@ -3525,9 +3475,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{G}",
 			"type": "Artifact Creature — Robot",
-			"collector_number": "212",
+			"collector_number": "213",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/352.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/347.png"
 			}
 		},
 		{
@@ -3535,9 +3485,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment",
-			"collector_number": "41",
+			"collector_number": "40",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/353.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/348.png"
 			}
 		},
 		{
@@ -3547,7 +3497,7 @@
 			"type": "Sorcery",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/354.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/349.png"
 			}
 		},
 		{
@@ -3555,9 +3505,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{W}{U}",
 			"type": "Legendary Creature — Spirit Sorcerer",
-			"collector_number": "281",
+			"collector_number": "282",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/355.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/350.png"
 			}
 		},
 		{
@@ -3565,9 +3515,9 @@
 			"rarity": "special",
 			"mana_cost": "{5}",
 			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "295",
+			"collector_number": "296",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/356.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/351.png"
 			}
 		},
 		{
@@ -3575,9 +3525,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "296",
+			"collector_number": "297",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/357.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/352.png"
 			}
 		},
 		{
@@ -3585,9 +3535,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Enchantment Creature — Dog",
-			"collector_number": "238",
+			"collector_number": "239",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/358.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/353.png"
 			}
 		},
 		{
@@ -3595,9 +3545,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Human Hero",
-			"collector_number": "24",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/359.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/354.png"
 			}
 		},
 		{
@@ -3607,7 +3557,7 @@
 			"type": "Sorcery",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/360.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/355.png"
 			}
 		},
 		{
@@ -3615,9 +3565,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Swamp Forest",
-			"collector_number": "322",
+			"collector_number": "328",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/361.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/356.png"
 			}
 		},
 		{
@@ -3625,9 +3575,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Plains Swamp",
-			"collector_number": "359",
+			"collector_number": "365",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/362.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/357.png"
 			}
 		},
 		{
@@ -3635,9 +3585,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Plains Island",
-			"collector_number": "367",
+			"collector_number": "373",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/363.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/358.png"
 			}
 		},
 		{
@@ -3645,9 +3595,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Forest Island",
-			"collector_number": "366",
+			"collector_number": "372",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/364.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/359.png"
 			}
 		},
 		{
@@ -3655,9 +3605,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Forest Plains",
-			"collector_number": "358",
+			"collector_number": "364",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/365.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/360.png"
 			}
 		},
 		{
@@ -3665,9 +3615,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Mountain Plains",
-			"collector_number": "355",
+			"collector_number": "361",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/366.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/361.png"
 			}
 		},
 		{
@@ -3675,9 +3625,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Island Mountain",
-			"collector_number": "370",
+			"collector_number": "376",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/367.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/362.png"
 			}
 		},
 		{
@@ -3685,9 +3635,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Island Swamp",
-			"collector_number": "368",
+			"collector_number": "374",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/368.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/363.png"
 			}
 		},
 		{
@@ -3695,9 +3645,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Swamp Mountain",
-			"collector_number": "321",
+			"collector_number": "327",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/369.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/364.png"
 			}
 		},
 		{
@@ -3705,9 +3655,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Mountain Forest",
-			"collector_number": "363",
+			"collector_number": "369",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/370.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/365.png"
 			}
 		},
 		{
@@ -3715,9 +3665,9 @@
 			"rarity": "special",
 			"mana_cost": "{5}",
 			"type": "Legendary Artifact Creature — Alien",
-			"collector_number": "314",
+			"collector_number": "320",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/371.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/366.png"
 			}
 		},
 		{
@@ -3725,9 +3675,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "373",
+			"collector_number": "379",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/372.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/367.png"
 			}
 		},
 		{
@@ -3735,9 +3685,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment",
-			"collector_number": "309",
+			"collector_number": "312",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/373.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/368.png"
 			}
 		},
 		{
@@ -3745,19 +3695,129 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "132",
+			"collector_number": "131",
 			"image_uris": {
-				"en": "https://toastiferous.github.io/sets/TOAST-files/img/374.png"
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/369.png"
 			}
 		},
 		{
 			"name": "The Crown, Armored and Protecting",
 			"rarity": "special",
 			"mana_cost": "{4}",
-			"type": "Legendary Artifact — Equipment",
-			"collector_number": "302",
+			"type": "Legendary Artifact",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/370.png"
+			}
+		},
+		{
+			"name": "A Vacation to Munchmore",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/371.png"
+			}
+		},
+		{
+			"name": "Firestar of Thunderclan",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Warrior Cat",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/372.png"
+			}
+		},
+		{
+			"name": "Gathering at Fourtrees",
+			"rarity": "special",
+			"mana_cost": "{X}{G}",
+			"type": "Sorcery",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/373.png"
+			}
+		},
+		{
+			"name": "Cast to the Winds",
+			"rarity": "special",
+			"mana_cost": "{W}{U}",
+			"type": "Instant",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/374.png"
+			}
+		},
+		{
+			"name": "Spice Melange",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "315",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/375.png"
+			}
+		},
+		{
+			"name": "Viv Vision",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact Creature — Robot",
+			"collector_number": "319",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/376.png"
+			}
+		},
+		{
+			"name": "The Millenium Puzzle",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Legendary Artifact",
+			"collector_number": "311",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/377.png"
+			}
+		},
+		{
+			"name": "V1, Death Machine",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact Creature — Robot",
+			"collector_number": "318",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/378.png"
+			}
+		},
+		{
+			"name": "The Bat Signal",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/379.png"
+			}
+		},
+		{
+			"name": "Feyd-Rautha Harkonnen",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/380.png"
+			}
+		},
+		{
+			"name": "It's Alive!",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/381.png"
 			}
 		}
 	]
@@ -3774,7 +3834,6 @@
 	1 Caterbird
 	1 Zagreus
 	1 Jenny Cavanaugh
-	1 Harrowhark Nonagesimus
 	1 Moment of Twilight
 	1 Arborinus Twig Verginix
 	1 The First Age of Flight
@@ -3869,7 +3928,7 @@
 	1 Many Minds Move as One
 	1 Winds of Rust and Atrophy
 	1 Powerstorm
-	1 Shadows Flicker Like Flame
+	1 Madelyne Pryor, Goblin Queen
 	1 Blazing Renewal
 	1 Exaltation of the Incandescent Sky
 	1 Hearth-Vigil
@@ -3951,8 +4010,6 @@
 	1 Proconsul H. L. Ravilla
 	1 Tartarus
 	1 There Is No Escape
-	1 It's Alive!
-	1 Frankenstein's Monster
 	1 The Wild Robot
 	1 Isca the Unbeaten
 	1 Branch Mine
@@ -4026,7 +4083,6 @@
 	1 Kingdom's Edge
 	1 Ideate
 	1 Cornifer the Mapmaker
-	1 Gideon Nav
 	1 Laura Kinney, Wolverine
 	1 Undyne, Spear of Justice
 	1 Second Wave
@@ -4089,7 +4145,6 @@
 	1 Adora, Princess of Power
 	1 Betsy Braddock, Captain Britain
 	1 Harleen Quinzel
-	1 Arrogance, Innocence, and Patience
 	1 Opal Luna Saturnyne
 	1 Artakha, the Great Designer
 	1 Metal City Mayhem
@@ -4137,3 +4192,14 @@
 	1 Mothwing Cloak
 	1 Manifest Incarnation
 	1 The Crown, Armored and Protecting
+	1 A Vacation to Munchmore
+	1 Firestar of Thunderclan
+	1 Gathering at Fourtrees
+	1 Cast to the Winds
+	1 Spice Melange
+	1 Viv Vision
+	1 The Millenium Puzzle
+	1 V1, Death Machine
+	1 The Bat Signal
+	1 Feyd-Rautha Harkonnen
+	1 It's Alive!
