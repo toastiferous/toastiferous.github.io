@@ -15,7 +15,7 @@
             "number": 52,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Flying\n{U}: Scry 1. Activate only once each turn.\n{1}{U}: Bartimaeus gains hexproof until end of turn.\n{2}{U}: Bartimaeus becomes a copy of target creature until end of turn.",
+            "rules_text": "Flying\n{U}: Scry 1. Activate only once each turn.\n{1}{U}: Bartimaeus gains hexproof until end of turn.\n{2}{U}: Bartimaeus becomes a copy of target creature until end of turn, except his name is Bartimaeus of Uruk.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -57,7 +57,7 @@
             "number": 200,
             "color_identity": "UG",
             "cost": "{1}{G}",
-            "rules_text": "Kicker {U}\nWard {2}\nWhen The Bear Prince enters, if he was kicked, target creature becomes a 1/1 red Goblin with no abilities for as long as you control The Bear Prince.",
+            "rules_text": "Kicker {U}\nWard {2}\nWhen The Bear Prince enters, if he was kicked, up to one target creature becomes a 1/1 red Goblin with no abilities for as long as you control The Bear Prince.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -173,7 +173,7 @@
             "alias": "",
             "position": "7",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Powerstone<1>"
         },
         {
             "card_name": "Caterbird",
@@ -229,14 +229,14 @@
             "flavor_text": "[i]\u201cYou didn't make me, I made myself, and I will continue to make myself forever after.\u201d[/i]",
             "pt": "1/1",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "TOAST",
             "loyalty": "",
             "artist": "Abughy",
             "alias": "",
             "position": "10",
             "rotated": false,
-            "notes": ""
+            "notes": "!token Clue<1>"
         },
         {
             "card_name": "Moment of Twilight",
@@ -257,7 +257,7 @@
             "alias": "",
             "position": "11",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Powerstone<X>"
         },
         {
             "card_name": "Arborinus Twig Verginix",
@@ -299,7 +299,7 @@
             "alias": "",
             "position": "13",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Vehicle<1>"
         },
         {
             "card_name": "The Gloamglozer",
@@ -341,7 +341,7 @@
             "alias": "",
             "position": "15",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Dinosaur<1>"
         },
         {
             "card_name": "Scourge of BloodClan",
@@ -383,7 +383,7 @@
             "alias": "",
             "position": "17",
             "rotated": false,
-            "notes": "makes alethiometer token? bear?\n59e19092335873c95905d8eaab01d70b.jpg \u2014 Rory Phillips\n\ncolor:blue -color:black -color:red -color:white -color:green"
+            "notes": "59e19092335873c95905d8eaab01d70b.jpg \u2014 Rory Phillips\n!tokens Alethiometer<1>"
         },
         {
             "card_name": "The Elf, Steward of Seasons",
@@ -404,14 +404,14 @@
             "alias": "",
             "position": "18",
             "rotated": false,
-            "notes": "color:green -color:red -color:black -color:white -color:blue"
+            "notes": "!tokens Faerie<1>"
         },
         {
             "card_name": "The Deepwoods",
             "color": "",
             "rarity": "cube",
             "type": "Legendary Land",
-            "number": 340,
+            "number": 339,
             "color_identity": "G",
             "cost": "",
             "rules_text": "The Deepwoods enters tapped unless you control a basic land.\n{T}: Add {G}. \n{G}, {T}: Add an amount of {G} equal to the greatest power among creatures you control.",
@@ -467,7 +467,7 @@
             "alias": "",
             "position": "21",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Powerstone<2>"
         },
         {
             "card_name": "Princess Leia",
@@ -488,7 +488,7 @@
             "alias": "",
             "position": "22",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Rebel<1>"
         },
         {
             "card_name": "Luke Skywalker",
@@ -509,7 +509,7 @@
             "alias": "",
             "position": "23",
             "rotated": false,
-            "notes": "tony-foti-star-wars-tcg-endor-luke-by-anthonyfoti-d7v5ojb"
+            "notes": "tony-foti-star-wars-tcg-endor-luke-by-anthonyfoti-d7v5ojb\n!tokens Weapon<1>"
         },
         {
             "card_name": "Han Solo",
@@ -579,7 +579,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Artifact Land",
-            "number": 361,
+            "number": 360,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}: Add {C}\n{2}, {T}: Create a tapped Powerstone token. [i](It's an artifact with \u201c{T}: Add {C}. This mana can't be spent to cast a nonartifact spell.\u201d)[/i]\n{2}, {T}: Add {C} for each artifact you control.",
@@ -593,7 +593,7 @@
             "alias": "",
             "position": "27",
             "rotated": false,
-            "notes": "martin-vos-sacredfoundryaltersleeve2.jpg\n4, T, Sacrifice this land: Put an indestructible counter on target artifact."
+            "notes": "martin-vos-sacredfoundryaltersleeve2.jpg\n!tokens Powerstone<1>"
         },
         {
             "card_name": "Walter White",
@@ -614,7 +614,7 @@
             "alias": "",
             "position": "28",
             "rotated": false,
-            "notes": "When Walter White enters, create a colorless artifact token named Crystal Meth with \u201c1, T, Sacrifice this artifact: Add 1 mana of any color\u201d and \u201cWhen this artifact is put into a graveyard from the battlefield, draw a card.\u201d"
+            "notes": "When Walter White enters, create a colorless artifact token named Crystal Meth with \u201c1, T, Sacrifice this artifact: Add 1 mana of any color\u201d and \u201cWhen this artifact is put into a graveyard from the battlefield, draw a card.\u201d\n!tokens Crystal Meth<1>"
         },
         {
             "card_name": "Chaos Emerald",
@@ -656,7 +656,7 @@
             "alias": "",
             "position": "30",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Powerstone<1>"
         },
         {
             "card_name": "Ramuthra",
@@ -684,7 +684,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Legendary Land",
-            "number": 351,
+            "number": 350,
             "color_identity": "RG",
             "cost": "",
             "rules_text": "{T}: Add {C}.\n{T}, Pay 1 life: Add {R} or {G}.\n{2}{R}{G}, Discard Heddleham Hall: Add six mana in any combination of colors. Spend this mana only to cast creature spells.",
@@ -705,7 +705,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Legendary Land",
-            "number": 352,
+            "number": 351,
             "color_identity": "U",
             "cost": "",
             "rules_text": "The Isle of Berk enters tapped unless you control a basic land.\n{T}: Add {U}\n{T}: Add {U}{U}. Spend this mana only to cast creature spells with power 4 or greater.",
@@ -792,7 +792,7 @@
             "number": 175,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Ward\u2014Pay 3 life\nWhenever you attack, The Number Devil deals damage to each opponent equal to the greatest number of consecutive powers among attacking creatures.",
+            "rules_text": "Ward\u2014Pay 3 life.\nWhenever you attack, The Number Devil deals damage to each opponent equal to the greatest number of consecutive powers among attacking creatures.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -939,7 +939,7 @@
             "number": 114,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
-            "rules_text": "When Dr. Radley Madish enters, create a 2/2 colorless Food Minion artifact creature token with \u201c{2}, {T}, Sacrifice this artifact: You gain 3 life.\u201d When you do, exile up to one other target creature until you control no Foods.",
+            "rules_text": "When Dr. Radley Madish enters, create a 2/2 colorless Food Minion artifact creature token with \u201c{2}, {T}, Sacrifice this token: You gain 3 life.\u201d When you do, exile up to one other target creature until you control no Foods.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -950,7 +950,7 @@
             "alias": "",
             "position": "44",
             "rotated": false,
-            "notes": "When Dr. Radley Madish enters, create a battle token with 4 defense and \u201cWhen this battle enters, exile target creature until it leaves the battlefield.\u201d You're defending it."
+            "notes": "When Dr. Radley Madish enters, create a battle token with 4 defense and \u201cWhen this battle enters, exile target creature until it leaves the battlefield.\u201d You're defending it.\n!tokens Food Minion<1>"
         },
         {
             "card_name": "\u00c6sah\u00e6ttr, the Subtle Knife",
@@ -960,7 +960,7 @@
             "number": 295,
             "color_identity": "C",
             "cost": "{2}",
-            "rules_text": "When \u00c6sah\u00e6ttr enters, sacrifice a land. If you do, search your library for a land card, put it onto the battlefield tapped, then shuffle.\nEquipped creature can't be blocked as long as a land entered under your control this turn.\nEquip {1}",
+            "rules_text": "When \u00c6sah\u00e6ttr enters, sacrifice a land. If you do, search your library for a land card, put it onto the battlefield, then shuffle.\nEquipped creature can't be blocked as long as a land entered under your control this turn.\nEquip {1}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1076,7 +1076,7 @@
             "alias": "",
             "position": "50",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Bird <1>"
         },
         {
             "card_name": "Wandering Voice Keens Delirium",
@@ -1149,7 +1149,7 @@
             "number": 85,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "When Terrible Eye enters, draw a card, then create a colorless Equipment token with \u201cAs long as this Equipment is attached to a creature, you may cast spells from your hand without paying their mana costs\u201d and equip {7}.",
+            "rules_text": "When Terrible Eye enters, draw a card, then create a colorless Equipment token with \u201cAs long as this Equipment is attached to a creature, you may cast spells from your hand without paying their mana costs\u201d and equip {9}.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -1160,7 +1160,7 @@
             "alias": "",
             "position": "54",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Terrible Eye Token<1>"
         },
         {
             "card_name": "GlaDOS",
@@ -1181,7 +1181,7 @@
             "alias": "",
             "position": "55",
             "rotated": false,
-            "notes": "tumblr_mb3iwi4gaZ1qdqlkxo1_1280.jpg"
+            "notes": "tumblr_mb3iwi4gaZ1qdqlkxo1_1280.jpg\n!tokens Testing Module<1>"
         },
         {
             "card_name": "Simon Lovelace",
@@ -1272,10 +1272,10 @@
             "color": "",
             "rarity": "cube",
             "type": "Legendary Land \u2014 Swamp Forest",
-            "number": 344,
+            "number": 343,
             "color_identity": "BG",
             "cost": "",
-            "rules_text": "This land enters tapped. When it does, contest the top card of your library. [i](Exile it, then create a Conflict battle an opponent protects with defense 2 and \u201cWhen this is defeated, put the contested card into your hand.\u201d)[/i]\n{T}: Add {B} or {G}.",
+            "rules_text": "This land enters tapped. When it does, contest the top card of your library. [i](Exile it, then create a Conflict battle an opponent protects with defense 2 and \u201cWhen this is defeated, put the contested card into its owner's hand.\u201d)[/i]\n{T}: Add {B} or {G}.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1433,7 +1433,7 @@
             "alias": "",
             "position": "67",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Powerstone<1>"
         },
         {
             "card_name": "The Silent",
@@ -1475,7 +1475,7 @@
             "alias": "",
             "position": "69",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Skeleton Army<1>"
         },
         {
             "card_name": "The Regent",
@@ -1496,7 +1496,7 @@
             "alias": "",
             "position": "70",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Minion<1>"
         },
         {
             "card_name": "Streex, Street Shark",
@@ -1559,28 +1559,7 @@
             "alias": "",
             "position": "73",
             "rotated": false,
-            "notes": "the_ender_dragon_by_pizzaember_dftyy0g-fullview.jpg\nWhen The Ender Dragon dies, create Dragon's Egg, a black artifact token with \u201cWhen this artifact leaves the battlefield, return target card named The Ender Dragon from your graveyard to the battlefield.\u201d"
-        },
-        {
-            "card_name": "Zeppelin of Mighty Gargantuaness",
-            "color": "",
-            "rarity": "cube",
-            "type": "Legendary Artifact Creature \u2014 Balloon",
-            "number": 325,
-            "color_identity": "C",
-            "cost": "{9}",
-            "rules_text": "Flying\nWhen Zeppelin of Mighty Gargantuaness dies, create three 3/3 red Balloon artifact creature tokens with flying and \u201cWhen this creature dies, create three 1/1 blue Balloon artifact creature tokens with flying.\u201d",
-            "flavor_text": "[i][/i]",
-            "pt": "9/9",
-            "special_text": "",
-            "shape": "normal",
-            "set": "TOAST",
-            "loyalty": "",
-            "artist": "NotYourSagittarius",
-            "alias": "",
-            "position": "74",
-            "rotated": false,
-            "notes": "d6nai9o-7844c020-da99-4f9d-b5dc-e1d9813ab8d3.png"
+            "notes": "the_ender_dragon_by_pizzaember_dftyy0g-fullview.jpg\nWhen The Ender Dragon dies, create Dragon's Egg, a black artifact token with \u201cWhen this artifact leaves the battlefield, return target card named The Ender Dragon from your graveyard to the battlefield.\u201d\n!tokens Dragon's Egg<1>"
         },
         {
             "card_name": "Boomer",
@@ -1599,7 +1578,7 @@
             "loyalty": "",
             "artist": "Flipline Studios",
             "alias": "",
-            "position": "75",
+            "position": "74",
             "rotated": false,
             "notes": "044_a copy.jpg"
         },
@@ -1620,7 +1599,7 @@
             "loyalty": "",
             "artist": "Lucas Werneck",
             "alias": "",
-            "position": "76",
+            "position": "75",
             "rotated": false,
             "notes": ""
         },
@@ -1641,7 +1620,7 @@
             "loyalty": "",
             "artist": "Hatsurai Kun",
             "alias": "",
-            "position": "77",
+            "position": "76",
             "rotated": false,
             "notes": "hatsurai-kun-fa-lwa-diana"
         },
@@ -1662,7 +1641,7 @@
             "loyalty": "",
             "artist": "Christopher Clar",
             "alias": "",
-            "position": "78",
+            "position": "77",
             "rotated": false,
             "notes": "DarthMaul18x24oilonwood copy.jpg\n or sacrifice an equipment attached to him?\nWhenever Darth Maul or another card leaves your graveyard, each opponent loses 1 life and you gain 1 life\nWhen Darth Maul dies, return him to the battlefield with a finality counter on him. He becomes an artifact creature in addition to his other types."
         },
@@ -1683,9 +1662,9 @@
             "loyalty": "",
             "artist": "Loic Belliau",
             "alias": "",
-            "position": "79",
+            "position": "78",
             "rotated": false,
-            "notes": "IMG_4170.jpg"
+            "notes": "IMG_4170.jpg\n!tokens Soldier<2>"
         },
         {
             "card_name": "Keeper of the Forbidden Wilds",
@@ -1704,7 +1683,7 @@
             "loyalty": "",
             "artist": "Joshua Wright",
             "alias": "",
-            "position": "80",
+            "position": "79",
             "rotated": false,
             "notes": "joshua-wright-keeperofthewilds01.jpg"
         },
@@ -1725,7 +1704,7 @@
             "loyalty": "",
             "artist": "Joshua Wright",
             "alias": "",
-            "position": "81",
+            "position": "80",
             "rotated": false,
             "notes": "joshua-wright-oceans-hungry-grasp-sml.jpg"
         },
@@ -1746,7 +1725,7 @@
             "loyalty": "",
             "artist": "Nolan Nasser",
             "alias": "",
-            "position": "82",
+            "position": "81",
             "rotated": false,
             "notes": "5621192644269850928_2048 copy.jpg"
         },
@@ -1767,7 +1746,7 @@
             "loyalty": "",
             "artist": "Emily Hancock",
             "alias": "",
-            "position": "83",
+            "position": "82",
             "rotated": false,
             "notes": ""
         },
@@ -1788,9 +1767,9 @@
             "loyalty": "",
             "artist": "China Mieville",
             "alias": "",
-            "position": "84",
+            "position": "83",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Junk<1>"
         },
         {
             "card_name": "Jacksmith",
@@ -1809,9 +1788,9 @@
             "loyalty": "",
             "artist": "Flipline Studios",
             "alias": "",
-            "position": "85",
+            "position": "84",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Weapon<1>"
         },
         {
             "card_name": "Finder of Paths Unseen",
@@ -1821,7 +1800,7 @@
             "number": 209,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "Flying\n{T}: Untap target land. Until end of turn, it becomes a copy of another target land.",
+            "rules_text": "Flying\n{T}: Untap target land. Until end of turn, it becomes a copy of another target land, except it's not legendary.",
             "flavor_text": "[i][/i]",
             "pt": "0/1",
             "special_text": "",
@@ -1830,7 +1809,7 @@
             "loyalty": "",
             "artist": "Moro Rogers",
             "alias": "",
-            "position": "86",
+            "position": "85",
             "rotated": false,
             "notes": ""
         },
@@ -1851,7 +1830,7 @@
             "loyalty": "",
             "artist": "David Markiwsky",
             "alias": "",
-            "position": "87",
+            "position": "86",
             "rotated": false,
             "notes": ""
         },
@@ -1872,7 +1851,7 @@
             "loyalty": "",
             "artist": "Joshua Wright",
             "alias": "",
-            "position": "88",
+            "position": "87",
             "rotated": false,
             "notes": "Shifting_Memory_of_Ages"
         },
@@ -1893,7 +1872,7 @@
             "loyalty": "",
             "artist": "Pawmicomix",
             "alias": "",
-            "position": "89",
+            "position": "88",
             "rotated": false,
             "notes": "dfhstjh-57a59819-71c8-4bb3-804c-e0607adad562.png"
         },
@@ -1914,9 +1893,9 @@
             "loyalty": "",
             "artist": "Flipline Studios",
             "alias": "",
-            "position": "90",
+            "position": "89",
             "rotated": false,
-            "notes": "Site-community-image copy.jpg"
+            "notes": "Site-community-image copy.jpg\n!tokens Weapon<1>; The Thorned Emerald<1>"
         },
         {
             "card_name": "Seadragonus Giganticus Maximus",
@@ -1935,7 +1914,7 @@
             "loyalty": "",
             "artist": "Cressida Cowell",
             "alias": "",
-            "position": "91",
+            "position": "90",
             "rotated": false,
             "notes": ""
         },
@@ -1956,9 +1935,9 @@
             "loyalty": "",
             "artist": "Christian Jegou",
             "alias": "",
-            "position": "92",
+            "position": "91",
             "rotated": false,
-            "notes": "wreck-of-the-titanic-illustration-christian-jegou"
+            "notes": "wreck-of-the-titanic-illustration-christian-jegou\n!tokens Heart of the Ocean<1>"
         },
         {
             "card_name": "Pearl",
@@ -1977,7 +1956,7 @@
             "loyalty": "",
             "artist": "ShinePaw",
             "alias": "",
-            "position": "93",
+            "position": "92",
             "rotated": false,
             "notes": "emily-hancock-pearlx.jpg"
         },
@@ -1998,7 +1977,7 @@
             "loyalty": "",
             "artist": "Nintendo",
             "alias": "",
-            "position": "94",
+            "position": "93",
             "rotated": false,
             "notes": "il_fullxfull.3166735568_in3m copy.jpg"
         },
@@ -2019,7 +1998,7 @@
             "loyalty": "",
             "artist": "KakalotZarts",
             "alias": "",
-            "position": "95",
+            "position": "94",
             "rotated": false,
             "notes": ""
         },
@@ -2040,7 +2019,7 @@
             "loyalty": "",
             "artist": "Nolan Nasser",
             "alias": "",
-            "position": "96",
+            "position": "95",
             "rotated": false,
             "notes": "Whenever you discard a card, tap up to one target creature."
         },
@@ -2061,9 +2040,9 @@
             "loyalty": "",
             "artist": "Moro Rogers",
             "alias": "",
-            "position": "97",
+            "position": "96",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Beast<1>"
         },
         {
             "card_name": "Sun-Bright Whirlwind",
@@ -2082,7 +2061,7 @@
             "loyalty": "",
             "artist": "Lucas Durham",
             "alias": "",
-            "position": "98",
+            "position": "97",
             "rotated": false,
             "notes": ""
         },
@@ -2103,7 +2082,7 @@
             "loyalty": "",
             "artist": "Moro Rogers",
             "alias": "",
-            "position": "99",
+            "position": "98",
             "rotated": false,
             "notes": ""
         },
@@ -2124,9 +2103,9 @@
             "loyalty": "",
             "artist": "Moro Rogers",
             "alias": "",
-            "position": "100",
+            "position": "99",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Bird<1>"
         },
         {
             "card_name": "Winds of Rust and Atrophy",
@@ -2145,7 +2124,7 @@
             "loyalty": "",
             "artist": "Joshua Wright",
             "alias": "",
-            "position": "101",
+            "position": "100",
             "rotated": false,
             "notes": ""
         },
@@ -2166,9 +2145,9 @@
             "loyalty": "",
             "artist": "Nolan Nasser",
             "alias": "",
-            "position": "102",
+            "position": "101",
             "rotated": false,
-            "notes": "When Powerstorm enters, create a Treasure token.\nWhenever you cast an instant or sorcery spell, you may pay its mana cost. If you do, copy it. You may choose new targets for the copy. Do this only once each turn."
+            "notes": ""
         },
         {
             "card_name": "Madelyne Pryor, Goblin Queen",
@@ -2187,7 +2166,7 @@
             "loyalty": "",
             "artist": "Greg Land",
             "alias": "",
-            "position": "103",
+            "position": "102",
             "rotated": false,
             "notes": "7Rgr9w0.jpeg \u2014 nolan nasser\nDark_X-Men_Vol_2_4_Land_Variant_Textless copy.jpg \u2014 Greg Land\n\nNew_Mutants_Vol_4_25_Unknown_Comic_Books_Exclusive_Chew_Virgin_Variant copy.jpg \u2014 chew virgin"
         },
@@ -2208,7 +2187,7 @@
             "loyalty": "",
             "artist": "Nolan Nasser",
             "alias": "",
-            "position": "104",
+            "position": "103",
             "rotated": false,
             "notes": ""
         },
@@ -2229,9 +2208,9 @@
             "loyalty": "",
             "artist": "Kat Guevara",
             "alias": "",
-            "position": "105",
+            "position": "104",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Elemental<1>"
         },
         {
             "card_name": "Hearth-Vigil",
@@ -2250,7 +2229,7 @@
             "loyalty": "",
             "artist": "Aalaa Yassin",
             "alias": "",
-            "position": "106",
+            "position": "105",
             "rotated": false,
             "notes": ""
         },
@@ -2271,7 +2250,7 @@
             "loyalty": "",
             "artist": "Kate\u0159ina \u010cupov\u00e1",
             "alias": "",
-            "position": "107",
+            "position": "106",
             "rotated": false,
             "notes": ""
         },
@@ -2292,7 +2271,7 @@
             "loyalty": "",
             "artist": "Cressida Cowell",
             "alias": "",
-            "position": "108",
+            "position": "107",
             "rotated": false,
             "notes": ""
         },
@@ -2313,7 +2292,7 @@
             "loyalty": "",
             "artist": "Moro Rogers",
             "alias": "",
-            "position": "109",
+            "position": "108",
             "rotated": false,
             "notes": ""
         },
@@ -2334,9 +2313,9 @@
             "loyalty": "",
             "artist": "Vincenzo Riccardi",
             "alias": "",
-            "position": "110",
+            "position": "109",
             "rotated": false,
-            "notes": "Juggernaut_17 copy.jpg\nJuggernaut copy.jpg"
+            "notes": "Juggernaut_17 copy.jpg\nJuggernaut copy.jpg\n!tokens The Crimson Gem of Cyttorak<1>"
         },
         {
             "card_name": "Devouring Teeth Lurk Underfoot",
@@ -2355,7 +2334,7 @@
             "loyalty": "",
             "artist": "Moro Rogers",
             "alias": "",
-            "position": "111",
+            "position": "110",
             "rotated": false,
             "notes": ""
         },
@@ -2376,7 +2355,7 @@
             "loyalty": "",
             "artist": "Aalaa Yassin",
             "alias": "",
-            "position": "112",
+            "position": "111",
             "rotated": false,
             "notes": ""
         },
@@ -2397,7 +2376,7 @@
             "loyalty": "",
             "artist": "Garret DeChellis",
             "alias": "",
-            "position": "113",
+            "position": "112",
             "rotated": false,
             "notes": ""
         },
@@ -2418,7 +2397,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "114",
+            "position": "113",
             "rotated": false,
             "notes": ""
         },
@@ -2439,7 +2418,7 @@
             "loyalty": "",
             "artist": "Caldwell Tanner",
             "alias": "",
-            "position": "115",
+            "position": "114",
             "rotated": false,
             "notes": "Mushroom_Sol copy.jpg"
         },
@@ -2460,9 +2439,9 @@
             "loyalty": "",
             "artist": "Alan Cooper / Phylodox",
             "alias": "",
-            "position": "116",
+            "position": "115",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Berry<1>"
         },
         {
             "card_name": "Counterspell",
@@ -2481,7 +2460,7 @@
             "loyalty": "",
             "artist": "Nyarasho",
             "alias": "",
-            "position": "117",
+            "position": "116",
             "rotated": false,
             "notes": "EW3p8SjVAAEyGyr.jpg"
         },
@@ -2502,7 +2481,7 @@
             "loyalty": "",
             "artist": "Halvva",
             "alias": "",
-            "position": "118",
+            "position": "117",
             "rotated": false,
             "notes": "SPOILER_IMG_2970.jpg"
         },
@@ -2523,7 +2502,7 @@
             "loyalty": "",
             "artist": "Loic Belliau",
             "alias": "",
-            "position": "119",
+            "position": "118",
             "rotated": false,
             "notes": ""
         },
@@ -2544,9 +2523,9 @@
             "loyalty": "",
             "artist": "Elisa Cella",
             "alias": "",
-            "position": "120",
+            "position": "119",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Treasure<1>"
         },
         {
             "card_name": "Diggy",
@@ -2565,9 +2544,9 @@
             "loyalty": "",
             "artist": "Vogd, Assaulter",
             "alias": "",
-            "position": "121",
+            "position": "120",
             "rotated": false,
-            "notes": "Screenshot 2026-06-23 at 8.30.30\u202fPM.jpg"
+            "notes": "Screenshot 2026-06-23 at 8.30.30\u202fPM.jpg\n!tokens Treasure<1>; Junk<1>"
         },
         {
             "card_name": "Steal the Moon",
@@ -2586,7 +2565,7 @@
             "loyalty": "",
             "artist": "Illumination",
             "alias": "",
-            "position": "122",
+            "position": "121",
             "rotated": false,
             "notes": ""
         },
@@ -2607,7 +2586,7 @@
             "loyalty": "",
             "artist": "Amazon Prime",
             "alias": "",
-            "position": "123",
+            "position": "122",
             "rotated": false,
             "notes": ""
         },
@@ -2628,7 +2607,7 @@
             "loyalty": "",
             "artist": "Anay Estupinan",
             "alias": "",
-            "position": "124",
+            "position": "123",
             "rotated": false,
             "notes": "images.jpg\nf3413e06ec0754a9e8aae26b30909e08.jpg"
         },
@@ -2649,9 +2628,9 @@
             "loyalty": "",
             "artist": "Ibrahem Swaid",
             "alias": "",
-            "position": "125",
+            "position": "124",
             "rotated": false,
-            "notes": "ibrahem-swaid-pi41-04s copy.jpg\nmateus-manhanini-poison-ivy-cover2.jpg"
+            "notes": "ibrahem-swaid-pi41-04s copy.jpg\nmateus-manhanini-poison-ivy-cover2.jpg\n!tokens Plant<1>"
         },
         {
             "card_name": "Rot",
@@ -2670,7 +2649,7 @@
             "loyalty": "",
             "artist": "Mateus Manhanini",
             "alias": "",
-            "position": "126",
+            "position": "125",
             "rotated": false,
             "notes": ""
         },
@@ -2691,7 +2670,7 @@
             "loyalty": "",
             "artist": "Lilyannifer",
             "alias": "",
-            "position": "127",
+            "position": "126",
             "rotated": false,
             "notes": "SPOILER_Screenshot_20230928_201808_Instagram\ncolor:black type:creature -color:blue -color:red -color:green -color:white\ntumblr_e69a1d448131cc4f2b28ef2b2d3579cb_c05d9083_2048.jpg \u2014 ambassadorquark"
         },
@@ -2712,19 +2691,40 @@
             "loyalty": "",
             "artist": "Flaviano",
             "alias": "",
-            "position": "128",
+            "position": "127",
             "rotated": false,
-            "notes": "Hawkeye-Kate-Bishop-Marvel-Snap-Variant-Art copy.jpg\n"
+            "notes": "Hawkeye-Kate-Bishop-Marvel-Snap-Variant-Art copy.jpg"
         },
         {
             "card_name": "Mount Monterey",
             "color": "",
             "rarity": "cube",
             "type": "Legendary Land \u2014 Forest Plains",
-            "number": 359,
+            "number": 358,
             "color_identity": "WG",
             "cost": "",
-            "rules_text": "This land enters tapped. When it does, contest the top card of your library. [i](Exile it, then create a Conflict battle an opponent protects with defense 2 and \u201cWhen this is defeated, put the contested card into your hand.\u201d)[/i]\n{T}: Add {G} or {W}.",
+            "rules_text": "This land enters tapped. When it does, contest the top card of your library. [i](Exile it, then create a Conflict battle an opponent protects with defense 2 and \u201cWhen this is defeated, put the contested card into its owner's hand.\u201d)[/i]\n{T}: Add {G} or {W}.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "TOAST",
+            "loyalty": "",
+            "artist": "Flipline Studios",
+            "alias": "",
+            "position": "128",
+            "rotated": false,
+            "notes": "newfort.jpg"
+        },
+        {
+            "card_name": "The Saucelands",
+            "color": "",
+            "rarity": "cube",
+            "type": "Legendary Land \u2014 Swamp Mountain",
+            "number": 363,
+            "color_identity": "BR",
+            "cost": "",
+            "rules_text": "This land enters tapped. When it does, contest the top card of your library. [i](Exile it, then create a Conflict battle an opponent protects with defense 2 and \u201cWhen this is defeated, put the contested card into its owner's hand.\u201d)[/i]\n{T}: Add {B} or {R}.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2735,17 +2735,17 @@
             "alias": "",
             "position": "129",
             "rotated": false,
-            "notes": "newfort.jpg"
+            "notes": "The_Saucelands copy.jpg\nWintergreenway1 copy.jpg"
         },
         {
-            "card_name": "The Saucelands",
+            "card_name": "Wintergreen Way",
             "color": "",
             "rarity": "cube",
-            "type": "Legendary Land \u2014 Swamp Mountain",
-            "number": 364,
-            "color_identity": "BR",
+            "type": "Legendary Land \u2014 Mountain Forest",
+            "number": 378,
+            "color_identity": "RG",
             "cost": "",
-            "rules_text": "This land enters tapped. When it does, contest the top card of your library. [i](Exile it, then create a Conflict battle an opponent protects with defense 2 and \u201cWhen this is defeated, put the contested card into your hand.\u201d)[/i]\n{T}: Add {B} or {R}.",
+            "rules_text": "This land enters tapped. When it does, contest the top card of your library. [i](Exile it, then create a Conflict battle an opponent protects with defense 2 and \u201cWhen this is defeated, put the contested card into its owner's hand.\u201d)[/i]\n{T}: Add {R} or {G}.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2759,14 +2759,14 @@
             "notes": "The_Saucelands copy.jpg\nWintergreenway1 copy.jpg"
         },
         {
-            "card_name": "Wintergreen Way",
+            "card_name": "Neapolitown",
             "color": "",
             "rarity": "cube",
-            "type": "Legendary Land \u2014 Mountain Forest",
-            "number": 379,
-            "color_identity": "RG",
+            "type": "Legendary Land \u2014 Mountain Plains",
+            "number": 359,
+            "color_identity": "WR",
             "cost": "",
-            "rules_text": "This land enters tapped. When it does, contest the top card of your library. [i](Exile it, then create a Conflict battle an opponent protects with defense 2 and \u201cWhen this is defeated, put the contested card into your hand.\u201d)[/i]\n{T}: Add {R} or {G}.",
+            "rules_text": "This land enters tapped. When it does, contest the top card of your library. [i](Exile it, then create a Conflict battle an opponent protects with defense 2 and \u201cWhen this is defeated, put the contested card into its owner's hand.\u201d)[/i]\n{T}: Add {R} or {W}.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2777,17 +2777,17 @@
             "alias": "",
             "position": "131",
             "rotated": false,
-            "notes": "The_Saucelands copy.jpg\nWintergreenway1 copy.jpg"
+            "notes": "x1080.jpg\nGummyGrotto copy.jpg"
         },
         {
-            "card_name": "Neapolitown",
+            "card_name": "Gummy Grotto",
             "color": "",
             "rarity": "cube",
-            "type": "Legendary Land \u2014 Mountain Plains",
-            "number": 360,
-            "color_identity": "WR",
+            "type": "Legendary Land \u2014 Island Mountain",
+            "number": 349,
+            "color_identity": "UR",
             "cost": "",
-            "rules_text": "This land enters tapped. When it does, contest the top card of your library. [i](Exile it, then create a Conflict battle an opponent protects with defense 2 and \u201cWhen this is defeated, put the contested card into your hand.\u201d)[/i]\n{T}: Add {R} or {W}.",
+            "rules_text": "This land enters tapped. When it does, contest the top card of your library. [i](Exile it, then create a Conflict battle an opponent protects with defense 2 and \u201cWhen this is defeated, put the contested card into its owner's hand.\u201d)[/i]\n{T}: Add {U} or {R}.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2798,17 +2798,17 @@
             "alias": "",
             "position": "132",
             "rotated": false,
-            "notes": "x1080.jpg\nGummyGrotto copy.jpg"
+            "notes": "x1080.jpg\nGummyGrotto copy.jpg\nBluebybay copy.jpg"
         },
         {
-            "card_name": "Gummy Grotto",
+            "card_name": "Blue Moon Bay",
             "color": "",
             "rarity": "cube",
-            "type": "Legendary Land \u2014 Island Mountain",
-            "number": 350,
-            "color_identity": "UR",
+            "type": "Legendary Land \u2014 Plains Island",
+            "number": 331,
+            "color_identity": "WU",
             "cost": "",
-            "rules_text": "This land enters tapped. When it does, contest the top card of your library. [i](Exile it, then create a Conflict battle an opponent protects with defense 2 and \u201cWhen this is defeated, put the contested card into your hand.\u201d)[/i]\n{T}: Add {U} or {R}.",
+            "rules_text": "This land enters tapped. When it does, contest the top card of your library. [i](Exile it, then create a Conflict battle an opponent protects with defense 2 and \u201cWhen this is defeated, put the contested card into its owner's hand.\u201d)[/i]\n{T}: Add {W} or {U}.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2819,17 +2819,17 @@
             "alias": "",
             "position": "133",
             "rotated": false,
-            "notes": "x1080.jpg\nGummyGrotto copy.jpg\nBluebybay copy.jpg"
+            "notes": "x1080.jpg\nGummyGrotto copy.jpg\nBluebybay copy.jpg\nCookie_caverns copy.jpg"
         },
         {
-            "card_name": "Blue Moon Bay",
+            "card_name": "Lake Chocodunk",
             "color": "",
             "rarity": "cube",
-            "type": "Legendary Land \u2014 Plains Island",
-            "number": 332,
-            "color_identity": "WU",
+            "type": "Legendary Land \u2014 Island Swamp",
+            "number": 353,
+            "color_identity": "UB",
             "cost": "",
-            "rules_text": "This land enters tapped. When it does, contest the top card of your library. [i](Exile it, then create a Conflict battle an opponent protects with defense 2 and \u201cWhen this is defeated, put the contested card into your hand.\u201d)[/i]\n{T}: Add {W} or {U}.",
+            "rules_text": "This land enters tapped. When it does, contest the top card of your library. [i](Exile it, then create a Conflict battle an opponent protects with defense 2 and \u201cWhen this is defeated, put the contested card into its owner's hand.\u201d)[/i]\n{T}: Add {U} or {B}.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2840,17 +2840,17 @@
             "alias": "",
             "position": "134",
             "rotated": false,
-            "notes": "x1080.jpg\nGummyGrotto copy.jpg\nBluebybay copy.jpg\nCookie_caverns copy.jpg"
+            "notes": "Lcd copy.jpg\nPl2 copy.jpg"
         },
         {
-            "card_name": "Lake Chocodunk",
+            "card_name": "Leaf Landing",
             "color": "",
             "rarity": "cube",
-            "type": "Legendary Land \u2014 Island Swamp",
+            "type": "Legendary Land \u2014 Forest Island",
             "number": 354,
-            "color_identity": "UB",
+            "color_identity": "UG",
             "cost": "",
-            "rules_text": "This land enters tapped. When it does, contest the top card of your library. [i](Exile it, then create a Conflict battle an opponent protects with defense 2 and \u201cWhen this is defeated, put the contested card into your hand.\u201d)[/i]\n{T}: Add {U} or {B}.",
+            "rules_text": "This land enters tapped. When it does, contest the top card of your library. [i](Exile it, then create a Conflict battle an opponent protects with defense 2 and \u201cWhen this is defeated, put the contested card into its owner's hand.\u201d)[/i]\n{T}: Add {G} or {U}.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2864,14 +2864,14 @@
             "notes": "Lcd copy.jpg\nPl2 copy.jpg"
         },
         {
-            "card_name": "Leaf Landing",
+            "card_name": "Cookie Caverns",
             "color": "",
             "rarity": "cube",
-            "type": "Legendary Land \u2014 Forest Island",
-            "number": 355,
-            "color_identity": "UG",
+            "type": "Legendary Land \u2014 Plains Swamp",
+            "number": 334,
+            "color_identity": "WB",
             "cost": "",
-            "rules_text": "This land enters tapped. When it does, contest the top card of your library. [i](Exile it, then create a Conflict battle an opponent protects with defense 2 and \u201cWhen this is defeated, put the contested card into your hand.\u201d)[/i]\n{T}: Add {G} or {U}.",
+            "rules_text": "This land enters tapped. When it does, contest the top card of your library. [i](Exile it, then create a Conflict battle an opponent protects with defense 2 and \u201cWhen this is defeated, put the contested card into its owner's hand.\u201d)[/i]\n{T}: Add {W} or {B}.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2882,17 +2882,17 @@
             "alias": "",
             "position": "136",
             "rotated": false,
-            "notes": "Lcd copy.jpg\nPl2 copy.jpg"
+            "notes": "x1080.jpg\nGummyGrotto copy.jpg\nBluebybay copy.jpg\nCookie_caverns copy.jpg"
         },
         {
-            "card_name": "Cookie Caverns",
+            "card_name": "The X Zone",
             "color": "",
             "rarity": "cube",
-            "type": "Legendary Land \u2014 Plains Swamp",
-            "number": 335,
-            "color_identity": "WB",
+            "type": "Legendary Land",
+            "number": 380,
+            "color_identity": "C",
             "cost": "",
-            "rules_text": "This land enters tapped. When it does, contest the top card of your library. [i](Exile it, then create a Conflict battle an opponent protects with defense 2 and \u201cWhen this is defeated, put the contested card into your hand.\u201d)[/i]\n{T}: Add {W} or {B}.",
+            "rules_text": "{T}: Add {C}\n{X}, {T}: Add X mana of any one color.\n{X}{X}, {T}, Sacrifice The X Zone: Contest the top X cards of your library. [i](To contest a card, X-ile it, then create a Conflict battle an opponent protects with defense 2 and \u201cWhen this is defeated, put the contested card into its owner's hand.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2902,27 +2902,6 @@
             "artist": "Flipline Studios",
             "alias": "",
             "position": "137",
-            "rotated": false,
-            "notes": "x1080.jpg\nGummyGrotto copy.jpg\nBluebybay copy.jpg\nCookie_caverns copy.jpg"
-        },
-        {
-            "card_name": "The X Zone",
-            "color": "",
-            "rarity": "cube",
-            "type": "Legendary Land",
-            "number": 381,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "{T}: Add {C}\n{X}, {T}: Add X mana of any one color.\n{X}{X}, {T}, Sacrifice The X Zone: Contest the top X cards of your library. [i](To contest a card, X-ile it, then create a Conflict battle an opponent protects with defense 2 and \u201cWhen this is defeated, put the contested card into your hand.\u201d)[/i]",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "TOAST",
-            "loyalty": "",
-            "artist": "Flipline Studios",
-            "alias": "",
-            "position": "138",
             "rotated": false,
             "notes": "Untitled.jpg"
         },
@@ -2943,7 +2922,7 @@
             "loyalty": "",
             "artist": "Dan Mora",
             "alias": "",
-            "position": "139",
+            "position": "138",
             "rotated": false,
             "notes": "Batman_Superman_World's_Finest_Vol_1_6_Textless copy.jpg"
         },
@@ -2964,9 +2943,9 @@
             "loyalty": "",
             "artist": "Chris Riddell",
             "alias": "",
-            "position": "140",
+            "position": "139",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Powerstone<1>"
         },
         {
             "card_name": "Slay the Spire",
@@ -2985,9 +2964,9 @@
             "loyalty": "",
             "artist": "Bruce Brenneise",
             "alias": "",
-            "position": "141",
+            "position": "140",
             "rotated": false,
-            "notes": "0_AR3PwazlBVAQcMsJ.jpg"
+            "notes": "0_AR3PwazlBVAQcMsJ.jpg\n!tokens Treasure<1>"
         },
         {
             "card_name": "Sherlock Holmes",
@@ -3006,9 +2985,9 @@
             "loyalty": "",
             "artist": "Scott Gustafson",
             "alias": "",
-            "position": "142",
+            "position": "141",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Clue<1>"
         },
         {
             "card_name": "Chewbacca",
@@ -3027,7 +3006,7 @@
             "loyalty": "",
             "artist": "Ryan Barger",
             "alias": "",
-            "position": "143",
+            "position": "142",
             "rotated": false,
             "notes": "chewbacca--star-wars-the-card-game-ryan-barger.jpg"
         },
@@ -3048,7 +3027,7 @@
             "loyalty": "",
             "artist": "Gabriel Cardozo",
             "alias": "",
-            "position": "144",
+            "position": "143",
             "rotated": false,
             "notes": "gabriel-cardozo-renfield-calido2.jpg"
         },
@@ -3069,9 +3048,9 @@
             "loyalty": "",
             "artist": "Kat Guevara",
             "alias": "",
-            "position": "145",
+            "position": "144",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Beast<2>"
         },
         {
             "card_name": "Sap the Strength of Multitudes",
@@ -3090,7 +3069,7 @@
             "loyalty": "",
             "artist": "Loic Belliau",
             "alias": "",
-            "position": "146",
+            "position": "145",
             "rotated": false,
             "notes": "Screenshot 2026-06-26 at 11.05.21\u202fAM.png"
         },
@@ -3111,7 +3090,7 @@
             "loyalty": "",
             "artist": "Joshua Wright",
             "alias": "",
-            "position": "147",
+            "position": "146",
             "rotated": false,
             "notes": ""
         },
@@ -3132,7 +3111,7 @@
             "loyalty": "",
             "artist": "Olga Tysko",
             "alias": "",
-            "position": "148",
+            "position": "147",
             "rotated": false,
             "notes": "olga-tysko-jlow-wat-1000-72.jpg"
         },
@@ -3153,7 +3132,7 @@
             "loyalty": "",
             "artist": "Jen Bartel",
             "alias": "",
-            "position": "149",
+            "position": "148",
             "rotated": false,
             "notes": "R8 copy.jpg\nwhenever you cast a spell, draw a card and put a doom counter on <CARDNAME>. then you lose 1 life for each doom counter on <CARDNAME>."
         },
@@ -3174,7 +3153,7 @@
             "loyalty": "",
             "artist": "Cressida Cowell",
             "alias": "",
-            "position": "150",
+            "position": "149",
             "rotated": false,
             "notes": ""
         },
@@ -3195,9 +3174,9 @@
             "loyalty": "",
             "artist": "Liri",
             "alias": "",
-            "position": "151",
+            "position": "150",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Vial<1>"
         },
         {
             "card_name": "Vampire Spydragon",
@@ -3216,7 +3195,7 @@
             "loyalty": "",
             "artist": "Cressida Cowell",
             "alias": "",
-            "position": "152",
+            "position": "151",
             "rotated": false,
             "notes": ""
         },
@@ -3237,7 +3216,7 @@
             "loyalty": "",
             "artist": "Flipline Studios",
             "alias": "",
-            "position": "153",
+            "position": "152",
             "rotated": false,
             "notes": "images.jpg"
         },
@@ -3249,7 +3228,7 @@
             "number": 291,
             "color_identity": "UG",
             "cost": "{2}{G}{U}",
-            "rules_text": "When Wildheart Guff enters, you gain 5 life, draw a card, and create a tapped colorless land token named Everywhere that is every basic land type.\n{2}: Choose one. Activate only once each turn \u2014\n\u2022 Draw a card.\n\u2022 Create a tapped colorless land token named Everywhere that is every basic land type.",
+            "rules_text": "When Wildheart Guff enters, you gain 5 life, draw a card, and create a tapped colorless land token named Everywhere that is every basic land type.\n{2}: Choose one. Activate only once each turn.\n\u2022 Draw a card.\n\u2022 Create a tapped colorless land token named Everywhere that is every basic land type.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3258,9 +3237,9 @@
             "loyalty": "",
             "artist": "Paul Mafayon",
             "alias": "",
-            "position": "154",
+            "position": "153",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Everywhere<1>"
         },
         {
             "card_name": "HORUS Gorgon",
@@ -3279,7 +3258,7 @@
             "loyalty": "",
             "artist": "Brilliant_Try3636",
             "alias": "",
-            "position": "155",
+            "position": "154",
             "rotated": false,
             "notes": "pqmcccedjifg1.jpeg"
         },
@@ -3300,7 +3279,7 @@
             "loyalty": "",
             "artist": "Daniel Warren Johnson",
             "alias": "",
-            "position": "156",
+            "position": "155",
             "rotated": false,
             "notes": "Beta_Ray_Bill_(Earth-616)_from_Beta_Ray_Bill_Vol_1_5_001 copy.jpg"
         },
@@ -3321,7 +3300,7 @@
             "loyalty": "",
             "artist": "Michael Del Mundo",
             "alias": "",
-            "position": "157",
+            "position": "156",
             "rotated": false,
             "notes": "Beta_Ray_Bill_Vol_1_3_Del_Mundo_Variant copy.jpg\n\na0e985836f37c80aaa5a3056e38162ad.jpg"
         },
@@ -3342,7 +3321,7 @@
             "loyalty": "",
             "artist": "Carlos Pacheco, Jes\u00fas Merino",
             "alias": "",
-            "position": "158",
+            "position": "157",
             "rotated": false,
             "notes": "Roma_2.jpg"
         },
@@ -3363,7 +3342,7 @@
             "loyalty": "",
             "artist": "Dan Green, Glynis Oliver",
             "alias": "",
-            "position": "159",
+            "position": "158",
             "rotated": false,
             "notes": "Siege-Perilous copy.jpg \u2014 Bob Quinn, Erick Arciniega\n\nSiege_Perilous_from_Uncanny_X-Men_Vol_1_229_001 copy"
         },
@@ -3384,7 +3363,7 @@
             "loyalty": "",
             "artist": "Ario Anindito, Ryan Kinnaird",
             "alias": "",
-            "position": "160",
+            "position": "159",
             "rotated": false,
             "notes": "Wolfsbane copy.jpg \u2014 Ario Anindito, Ryan Kinnaird\nmx-boogie-creations-mb-wolfsbane-final-parts.jpg \u2014 Mad Boogie"
         },
@@ -3405,7 +3384,7 @@
             "loyalty": "",
             "artist": "Joey Fantana",
             "alias": "",
-            "position": "161",
+            "position": "160",
             "rotated": false,
             "notes": "HD-wallpaper-cannonball-comics-superheroes-marvel-xmen.jpg\n\njoey-fantana-cannonball.jpg"
         },
@@ -3426,7 +3405,7 @@
             "loyalty": "",
             "artist": "Greg Horn",
             "alias": "",
-            "position": "162",
+            "position": "161",
             "rotated": false,
             "notes": "Deathnote_1024x1024 copy.jpg"
         },
@@ -3447,7 +3426,7 @@
             "loyalty": "",
             "artist": "Rod Reis",
             "alias": "",
-            "position": "163",
+            "position": "162",
             "rotated": false,
             "notes": "9698581-newmutants8cover.jpg"
         },
@@ -3468,7 +3447,7 @@
             "loyalty": "",
             "artist": "Mike Deodato, Jr., Rain Beredo",
             "alias": "",
-            "position": "164",
+            "position": "163",
             "rotated": false,
             "notes": "525105602_18520014376026104_9063815956262297783_n.png"
         },
@@ -3480,7 +3459,7 @@
             "number": 309,
             "color_identity": "C",
             "cost": "{5}",
-            "rules_text": "When Hulkbuster Armor Model 52 enters and whenever equipped creature attacks, it fights up to one target creature an opponent controls.\nEquipped creature gets +5/+5.\nEquip {6}",
+            "rules_text": "When Hulkbuster Armor Model 52 enters and whenever equipped creature attacks, it fights up to one target creature an opponent controls.\nEquipped creature gets +5/+5.\nReconfigure {6} [i]({6}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -3489,7 +3468,7 @@
             "loyalty": "",
             "artist": "Pepe Larraz, David Curiel",
             "alias": "",
-            "position": "165",
+            "position": "164",
             "rotated": false,
             "notes": "w9oa1hrz3nve1.jpeg"
         },
@@ -3510,7 +3489,7 @@
             "loyalty": "",
             "artist": "Cartoon Network",
             "alias": "",
-            "position": "166",
+            "position": "165",
             "rotated": false,
             "notes": "static-assets-upload17199739836495858166 copy.jpg"
         },
@@ -3531,7 +3510,7 @@
             "loyalty": "",
             "artist": "Fabian Schlaga",
             "alias": "",
-            "position": "167",
+            "position": "166",
             "rotated": false,
             "notes": "darth-sidious-unlimited-power_star-wars_feature copy.jpg\nSomehow, Palpatine Returned \u2014"
         },
@@ -3552,7 +3531,7 @@
             "loyalty": "",
             "artist": "Ralph McQuarrie",
             "alias": "",
-            "position": "168",
+            "position": "167",
             "rotated": false,
             "notes": "Adventures_of_Luke_-_Force_Lightning copy.jpg"
         },
@@ -3573,7 +3552,7 @@
             "loyalty": "",
             "artist": "Shamfoo",
             "alias": "",
-            "position": "169",
+            "position": "168",
             "rotated": false,
             "notes": "Whenever Shadow the Hedgehog deals combat damage to a player, you may cast a copy of a spell with mana value less than or equal to his power from your graveyard by exiling it and paying life equal to its mana value rather than paying its mana cost."
         },
@@ -3594,9 +3573,9 @@
             "loyalty": "",
             "artist": "Bocku",
             "alias": "",
-            "position": "170",
+            "position": "169",
             "rotated": false,
-            "notes": "6937167_2301375_bocku_chaos-control.082a3e89778c61372c8b4e5075fb48f3 copy.jpg\n\nReturn target creature card from your graveyard to the battlefield. Take an extra turn after this one. During that turn, only that creature can attack. At the beginning of that turn's end step, you lose the game."
+            "notes": "6937167_2301375_bocku_chaos-control.082a3e89778c61372c8b4e5075fb48f3 copy.jpg\n!tokens Treasure<1>"
         },
         {
             "card_name": "Doctor Ivo Robotnik",
@@ -3615,9 +3594,9 @@
             "loyalty": "",
             "artist": "Michael Lee",
             "alias": "",
-            "position": "171",
+            "position": "170",
             "rotated": false,
-            "notes": "231b0a9a980a3deb6a86fb92093b1d24.jpg"
+            "notes": "231b0a9a980a3deb6a86fb92093b1d24.jpg\n!tokens Construct<1>"
         },
         {
             "card_name": "General Kai, the Collector",
@@ -3636,7 +3615,7 @@
             "loyalty": "",
             "artist": "FuShark",
             "alias": "",
-            "position": "172",
+            "position": "171",
             "rotated": false,
             "notes": "437525_fushark_kai.png"
         },
@@ -3657,9 +3636,9 @@
             "loyalty": "",
             "artist": "Drew Shannon",
             "alias": "",
-            "position": "173",
+            "position": "172",
             "rotated": false,
-            "notes": "D-fcwtzX4AEHjvU.jpg"
+            "notes": "D-fcwtzX4AEHjvU.jpg\n!tokens Weapon<1>"
         },
         {
             "card_name": "Roberto Da Costa, Sunspot",
@@ -3678,9 +3657,9 @@
             "loyalty": "",
             "artist": "Luca Claretti",
             "alias": "",
-            "position": "174",
+            "position": "173",
             "rotated": false,
-            "notes": "Sunspot_04 copy.jpg\n\nRoberto_da_Costa_(Earth-616)_from_Avengers_World_Vol_1_19_001 copy.jpg"
+            "notes": "Sunspot_04 copy.jpg\nRoberto_da_Costa_(Earth-616)_from_Avengers_World_Vol_1_19_001 copy.jpg\n!tokens Treasure<1>"
         },
         {
             "card_name": "Puss in Boots",
@@ -3699,7 +3678,7 @@
             "loyalty": "",
             "artist": "Shuploc",
             "alias": "",
-            "position": "175",
+            "position": "174",
             "rotated": false,
             "notes": "flat,750x,075,f-pad,750x1000,f8f8f8.jpg"
         },
@@ -3720,9 +3699,9 @@
             "loyalty": "",
             "artist": "Image & Form",
             "alias": "",
-            "position": "176",
+            "position": "175",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Junk<1>"
         },
         {
             "card_name": "Pillar of Living Flame",
@@ -3741,7 +3720,7 @@
             "loyalty": "",
             "artist": "Jorge Ramos",
             "alias": "",
-            "position": "177",
+            "position": "176",
             "rotated": false,
             "notes": ""
         },
@@ -3762,7 +3741,7 @@
             "loyalty": "",
             "artist": "ShiningPhantom",
             "alias": "",
-            "position": "178",
+            "position": "177",
             "rotated": false,
             "notes": "dhszgtk-f6144d1c-7d1b-4284-ac3b-756ee97f8305.jpg"
         },
@@ -3774,7 +3753,7 @@
             "number": 168,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
-            "rules_text": "Double strike, trample, haste\nWard\u2014Pay 4 life [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 4 life.)[/i]",
+            "rules_text": "Double strike, trample, haste\nWard\u2014Pay 4 life. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 4 life.)[/i]",
             "flavor_text": "[i]\u201cThese are the quads you wish you had! This is the core you can't contain!\u201d[/i]",
             "pt": "2/4",
             "special_text": "",
@@ -3783,7 +3762,7 @@
             "loyalty": "",
             "artist": "Allen Morris",
             "alias": "",
-            "position": "179",
+            "position": "178",
             "rotated": false,
             "notes": "638196288_10162936585205292_1803877906540640839_n.jpg\nDouble strike, trample, haste\nWard\u2014Pay 4 life"
         },
@@ -3804,16 +3783,16 @@
             "loyalty": "",
             "artist": "Mark Zug",
             "alias": "",
-            "position": "180",
+            "position": "179",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Soldier<1>; Glorious Anthem<1>"
         },
         {
             "card_name": "Tartarus",
             "color": "",
             "rarity": "cube",
             "type": "Legendary Land",
-            "number": 371,
+            "number": 370,
             "color_identity": "B",
             "cost": "",
             "rules_text": "Tartarus enters tapped unless you control a basic land.\n{T}: Add {B}.\nWhenever you tap Tartarus for mana, mill a card.",
@@ -3825,7 +3804,7 @@
             "loyalty": "",
             "artist": "Supergiant Games",
             "alias": "",
-            "position": "181",
+            "position": "180",
             "rotated": false,
             "notes": ""
         },
@@ -3846,7 +3825,7 @@
             "loyalty": "",
             "artist": "ElfiebeanArts",
             "alias": "",
-            "position": "182",
+            "position": "181",
             "rotated": false,
             "notes": ""
         },
@@ -3867,7 +3846,7 @@
             "loyalty": "",
             "artist": "Dymitr3",
             "alias": "",
-            "position": "183",
+            "position": "182",
             "rotated": false,
             "notes": "Screenshot 2026-07-01 at 14-09-54 Instagram.png"
         },
@@ -3888,7 +3867,7 @@
             "loyalty": "",
             "artist": "Eduardo Mello",
             "alias": "",
-            "position": "184",
+            "position": "183",
             "rotated": false,
             "notes": "Isca copy"
         },
@@ -3897,7 +3876,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Mine",
-            "number": 333,
+            "number": 332,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}: Add {C}.\n{T}, Sacrifice this land: Destroy target land. If it was a basic land, its controller creates a Treasure token.",
@@ -3909,9 +3888,9 @@
             "loyalty": "",
             "artist": "Teriyakistyle",
             "alias": "",
-            "position": "185",
+            "position": "184",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Treasure<1>"
         },
         {
             "card_name": "Galad Rosell, White Rose of Galaderon",
@@ -3925,14 +3904,14 @@
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "TOAST",
             "loyalty": "",
             "artist": "Alan Cooper / Phylodox",
             "alias": "",
-            "position": "186",
+            "position": "185",
             "rotated": false,
-            "notes": "color:white type:creature -color:blue -color:black -color:green -color:red"
+            "notes": "!token Weapon<1>"
         },
         {
             "card_name": "Backbiter",
@@ -3951,7 +3930,7 @@
             "loyalty": "",
             "artist": "Nicothespy",
             "alias": "",
-            "position": "187",
+            "position": "186",
             "rotated": false,
             "notes": ""
         },
@@ -3972,7 +3951,7 @@
             "loyalty": "",
             "artist": "SAKURAIsakurai",
             "alias": "",
-            "position": "188",
+            "position": "187",
             "rotated": false,
             "notes": "bd1f49ed555ccad89c2f0a5c24203c16.jpg\n\nGYOOOOOOOOOOOOOOOOON"
         },
@@ -3993,7 +3972,7 @@
             "loyalty": "",
             "artist": "Jason Behnke",
             "alias": "",
-            "position": "189",
+            "position": "188",
             "rotated": false,
             "notes": ""
         },
@@ -4014,9 +3993,9 @@
             "loyalty": "",
             "artist": "Frank Frazetta",
             "alias": "",
-            "position": "190",
+            "position": "189",
             "rotated": false,
-            "notes": "count-dracula-vintage-print copy.jpg"
+            "notes": "count-dracula-vintage-print copy.jpg\n!tokens Blood<1>"
         },
         {
             "card_name": "Vengeful Spirit",
@@ -4035,7 +4014,7 @@
             "loyalty": "",
             "artist": "QuingPiper",
             "alias": "",
-            "position": "191",
+            "position": "190",
             "rotated": false,
             "notes": "deipdfw-b89e6301-e459-4c9b-aca0-225eeff4a1b3.jpg"
         },
@@ -4056,9 +4035,9 @@
             "loyalty": "",
             "artist": "Prsy0220",
             "alias": "",
-            "position": "192",
+            "position": "191",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Blood<1>"
         },
         {
             "card_name": "Substitution Jutsu",
@@ -4077,7 +4056,7 @@
             "loyalty": "",
             "artist": "Studio Pierrot",
             "alias": "",
-            "position": "193",
+            "position": "192",
             "rotated": false,
             "notes": "Body_Replacement.PNG copy.jpg"
         },
@@ -4098,9 +4077,9 @@
             "loyalty": "",
             "artist": "Cressida Cowell",
             "alias": "",
-            "position": "194",
+            "position": "193",
             "rotated": false,
-            "notes": "Endeavor_Image_1 copy.jpg"
+            "notes": "Endeavor_Image_1 copy.jpg\n!tokens Map<1>"
         },
         {
             "card_name": "Driller Dragon",
@@ -4119,7 +4098,7 @@
             "loyalty": "",
             "artist": "Nina Levy, Cressida Cowell",
             "alias": "",
-            "position": "195",
+            "position": "194",
             "rotated": false,
             "notes": "photo-771639.jpg"
         },
@@ -4140,9 +4119,9 @@
             "loyalty": "",
             "artist": "Larry Keys",
             "alias": "",
-            "position": "196",
+            "position": "195",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Clue<1>"
         },
         {
             "card_name": "Avohkii, the Mask of Light",
@@ -4152,7 +4131,7 @@
             "number": 6,
             "color_identity": "W",
             "cost": "{1}{W}{W}",
-            "rules_text": "Living weapon [i](When this Equipment enters, create a 0/0 black Germ creature token, then attach this to it.)[/i]\nEquipped creature gets +2/+2 and has vigilance and \u201cOnce during each of your turns, you may cast a permanent spell with mana value 2 or less from your graveyard.\u201d\nEquip {3}",
+            "rules_text": "Job Select [i](When this Equipment enters, create a 1/1 colorless Hero creature token, then attach this to it.)[/i]\nEquipped creature gets +1/+1 and has vigilance and \u201cOnce during each of your turns, you may cast a permanent spell with mana value 2 or less from your graveyard.\u201d\nEquip {3}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4161,9 +4140,9 @@
             "loyalty": "",
             "artist": "Emospecter",
             "alias": "",
-            "position": "197",
+            "position": "196",
             "rotated": false,
-            "notes": "takanuva-08-fanart-comic-battle-for-power-n-14-v0-xlgwjetyy0471 copy.jpg"
+            "notes": "takanuva-08-fanart-comic-battle-for-power-n-14-v0-xlgwjetyy0471 copy.jpg\n!tokens Hero"
         },
         {
             "card_name": "Chronoskimming",
@@ -4182,7 +4161,7 @@
             "loyalty": "",
             "artist": "David Balde\u00f3n",
             "alias": "",
-            "position": "198",
+            "position": "197",
             "rotated": false,
             "notes": ""
         },
@@ -4203,7 +4182,7 @@
             "loyalty": "",
             "artist": "nagohul",
             "alias": "",
-            "position": "199",
+            "position": "198",
             "rotated": false,
             "notes": "escape_from_tarkov_fanart_by_nagohul_dfk6it5-pre.jpg"
         },
@@ -4212,7 +4191,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Legendary Artifact Land \u2014 Powerstone",
-            "number": 369,
+            "number": 368,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}: Add {C}.\n{T}: Add {C}{C}. You can't spend this mana to cast nonartifact spells.",
@@ -4224,7 +4203,7 @@
             "loyalty": "",
             "artist": "Chris Riddell",
             "alias": "",
-            "position": "200",
+            "position": "199",
             "rotated": false,
             "notes": "Stonegardens copy.png"
         },
@@ -4245,7 +4224,7 @@
             "loyalty": "",
             "artist": "Tom Bloom",
             "alias": "",
-            "position": "201",
+            "position": "200",
             "rotated": false,
             "notes": ""
         },
@@ -4261,14 +4240,14 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "TOAST",
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "202",
+            "position": "201",
             "rotated": false,
-            "notes": ""
+            "notes": "needs art\n!token Weapon<1>"
         },
         {
             "card_name": "Groundhog Day",
@@ -4287,7 +4266,7 @@
             "loyalty": "",
             "artist": "Mattheus Berant",
             "alias": "",
-            "position": "203",
+            "position": "202",
             "rotated": false,
             "notes": "groundhog.jpg"
         },
@@ -4308,9 +4287,9 @@
             "loyalty": "",
             "artist": "Victorin Ripert",
             "alias": "",
-            "position": "204",
+            "position": "203",
             "rotated": false,
-            "notes": "victorin-ripert-banderbear.jpg\nReprieve (As this permanent enters, you may return a creature you control without reprieve to its owner's hand.)\nTrample\nWhenever Banderbear reprieves a creature or attacks, put a +1/+1 counter on each creature you control with power less than Banderbear's."
+            "notes": "victorin-ripert-banderbear.jpg\n!tokens Food<1>"
         },
         {
             "card_name": "Godzilla",
@@ -4320,7 +4299,7 @@
             "number": 211,
             "color_identity": "G",
             "cost": "{4}{G}{G}{G}",
-            "rules_text": "Trample\nWhenever Godzilla enters or attacks, choose one \u2014\n\u2022 Godzilla fights target creature.\n\u2022 Exile target noncreature permanent.\nSacrifice a land: Return Godzilla from your graveyard to your hand.",
+            "rules_text": "Trample\nWhen Godzilla enters, choose one \u2014\n\u2022 Godzilla fights target creature.\n\u2022 Exile target noncreature permanent.\nSacrifice two lands: Return Godzilla from your graveyard to your hand.",
             "flavor_text": "[i][/i]",
             "pt": "10/10",
             "special_text": "",
@@ -4329,7 +4308,7 @@
             "loyalty": "",
             "artist": "Puppsicle",
             "alias": "",
-            "position": "205",
+            "position": "204",
             "rotated": false,
             "notes": "legendary_godzilla_fanart_by_puppsicle_de1dwlf-414w-2x.jpg"
         },
@@ -4350,7 +4329,7 @@
             "loyalty": "",
             "artist": "Emily Hancock",
             "alias": "",
-            "position": "206",
+            "position": "205",
             "rotated": false,
             "notes": "emily-hancock-shape-the-self-anew3-sml.jpg"
         },
@@ -4371,9 +4350,9 @@
             "loyalty": "",
             "artist": "Kyle Ferrin",
             "alias": "",
-            "position": "207",
+            "position": "206",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Soldier<1>"
         },
         {
             "card_name": "Godzilla vs. Kong",
@@ -4392,7 +4371,7 @@
             "loyalty": "",
             "artist": "Charlie Layton",
             "alias": "",
-            "position": "208",
+            "position": "207",
             "rotated": false,
             "notes": ""
         },
@@ -4413,7 +4392,7 @@
             "loyalty": "",
             "artist": "Disney Animation Studios",
             "alias": "",
-            "position": "209",
+            "position": "208",
             "rotated": false,
             "notes": ""
         },
@@ -4434,9 +4413,9 @@
             "loyalty": "",
             "artist": "Tom Bloom",
             "alias": "",
-            "position": "210",
+            "position": "209",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Weapon<4>"
         },
         {
             "card_name": "The Xenomorph Queen",
@@ -4455,7 +4434,7 @@
             "loyalty": "",
             "artist": "Arvalis",
             "alias": "",
-            "position": "211",
+            "position": "210",
             "rotated": false,
             "notes": "xenomorph.jpg \u2014 arvalis\nxenomorph2"
         },
@@ -4476,7 +4455,7 @@
             "loyalty": "",
             "artist": "Smorgass",
             "alias": "",
-            "position": "212",
+            "position": "211",
             "rotated": false,
             "notes": "shai-hulud.jpg\no9o8dclfjz081.jpg \u2014 smorgass\nBless the Maker and His water. Bless the coming and going of Him. May His passage cleanse the world. May He keep the world for His people."
         },
@@ -4497,7 +4476,7 @@
             "loyalty": "",
             "artist": "Tom Bloom",
             "alias": "",
-            "position": "213",
+            "position": "212",
             "rotated": false,
             "notes": "Screenshot 2026-07-05 at 11.01.50\u202fPM.png"
         },
@@ -4518,7 +4497,7 @@
             "loyalty": "",
             "artist": "NixyNebula",
             "alias": "",
-            "position": "214",
+            "position": "213",
             "rotated": false,
             "notes": "nixynebula-wild-kratts-tazzy-chris-striped-hyena-martin-collab-with-watermarks-final-black-bg copy.jpg"
         },
@@ -4539,7 +4518,7 @@
             "loyalty": "",
             "artist": "John Rocco",
             "alias": "",
-            "position": "215",
+            "position": "214",
             "rotated": false,
             "notes": "The_Dark_Prophecy copy.jpg"
         },
@@ -4560,9 +4539,9 @@
             "loyalty": "",
             "artist": "Dennis Lohausen",
             "alias": "",
-            "position": "216",
+            "position": "215",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Treasure<1>"
         },
         {
             "card_name": "Shield Bash",
@@ -4581,7 +4560,7 @@
             "loyalty": "",
             "artist": "Mike Krahulik / Gabe",
             "alias": "",
-            "position": "217",
+            "position": "216",
             "rotated": false,
             "notes": "capcolorsb.980acRKr.jpg"
         },
@@ -4602,7 +4581,7 @@
             "loyalty": "",
             "artist": "Anailis Dorta",
             "alias": "",
-            "position": "218",
+            "position": "217",
             "rotated": false,
             "notes": ""
         },
@@ -4623,7 +4602,7 @@
             "loyalty": "",
             "artist": "Anailis Dorta",
             "alias": "",
-            "position": "219",
+            "position": "218",
             "rotated": false,
             "notes": "StS2_Regent-CrashLanding-Art.png\n2 fatigues? 3?"
         },
@@ -4644,7 +4623,7 @@
             "loyalty": "",
             "artist": "Anailis Dorta",
             "alias": "",
-            "position": "220",
+            "position": "219",
             "rotated": false,
             "notes": ""
         },
@@ -4665,7 +4644,7 @@
             "loyalty": "",
             "artist": "Anailis Dorta",
             "alias": "",
-            "position": "221",
+            "position": "220",
             "rotated": false,
             "notes": ""
         },
@@ -4686,7 +4665,7 @@
             "loyalty": "",
             "artist": "Anailis Dorta",
             "alias": "",
-            "position": "222",
+            "position": "221",
             "rotated": false,
             "notes": "StS2_Ironclad-Stampede-Art.png"
         },
@@ -4707,9 +4686,9 @@
             "loyalty": "",
             "artist": "Wayne McLoughlin",
             "alias": "",
-            "position": "223",
+            "position": "222",
             "rotated": false,
-            "notes": "Kicker\u2014Discard a card"
+            "notes": "!tokens Warrior Cat<1>"
         },
         {
             "card_name": "Shoot First",
@@ -4728,7 +4707,7 @@
             "loyalty": "",
             "artist": "David R Chico",
             "alias": "",
-            "position": "224",
+            "position": "223",
             "rotated": false,
             "notes": "david-r-chico-expo-star-wars.jpg"
         },
@@ -4749,7 +4728,7 @@
             "loyalty": "",
             "artist": "Tom Bloom",
             "alias": "",
-            "position": "225",
+            "position": "224",
             "rotated": false,
             "notes": "ksbd39r.jpg"
         },
@@ -4770,7 +4749,7 @@
             "loyalty": "",
             "artist": "DevBurmak",
             "alias": "",
-            "position": "226",
+            "position": "225",
             "rotated": false,
             "notes": ""
         },
@@ -4779,7 +4758,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Legendary Land",
-            "number": 336,
+            "number": 335,
             "color_identity": "BG",
             "cost": "",
             "rules_text": "{T}: Add {C}.\n{T}, Pay 1 life: Add {G} or {B}.\n{1}{B}{G}, Discard The Crick: Mill four cards, then return a card from your graveyard to your hand.",
@@ -4791,7 +4770,7 @@
             "loyalty": "",
             "artist": "Laserlazuli",
             "alias": "",
-            "position": "227",
+            "position": "226",
             "rotated": false,
             "notes": "EW81jF_UcAITcr0.jpg"
         },
@@ -4800,7 +4779,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Legendary Land",
-            "number": 349,
+            "number": 348,
             "color_identity": "R",
             "cost": "",
             "rules_text": "Grimhawk enters tapped unless you control a basic land.\n{T}: Add {R}.\n{1}{R}, {T}: Create a Blood token. [i](It's an artifact with \u201c{1}, {T}, Discard a card, Sacrifice this token: Draw a card.\u201d)[/i]",
@@ -4812,16 +4791,16 @@
             "loyalty": "",
             "artist": "Laserlazuli",
             "alias": "",
-            "position": "228",
+            "position": "227",
             "rotated": false,
-            "notes": "EW81jGAUMAAQlQo.jpg"
+            "notes": "EW81jGAUMAAQlQo.jpg\n!tokens Blood<1>"
         },
         {
             "card_name": "Frostwind",
             "color": "",
             "rarity": "cube",
             "type": "Legendary Land",
-            "number": 345,
+            "number": 344,
             "color_identity": "WU",
             "cost": "",
             "rules_text": "{T}: Add {C}.\n{T}, Pay 1 life: Add {W} or {U}.\n{W}{U}, Discard Frostwind: Exile target nonland permanent. Return it to the battlefield under its owner's control at the beginning of the next end step.",
@@ -4833,7 +4812,7 @@
             "loyalty": "",
             "artist": "Laserlazuli",
             "alias": "",
-            "position": "229",
+            "position": "228",
             "rotated": false,
             "notes": "EW81jF_UcAITcr0.jpg\n\nEW81jGBUMAIyjNy"
         },
@@ -4842,7 +4821,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Legendary Land",
-            "number": 346,
+            "number": 345,
             "color_identity": "WG",
             "cost": "",
             "rules_text": "{T}: Add {C}.\n{T}, Pay 1 life: Add {G} or {W}.\n{2}{G}{W}, Discard Galaderon, City in the Clouds: Create three 1/1 white Soldier creature tokens.",
@@ -4854,16 +4833,16 @@
             "loyalty": "",
             "artist": "Laserlazuli",
             "alias": "",
-            "position": "230",
+            "position": "229",
             "rotated": false,
-            "notes": "EW81jF_UcAITcr0.jpg\n\nEW81jGBUMAIyjNy.jpg"
+            "notes": "EW81jF_UcAITcr0.jpg\nEW81jGBUMAIyjNy.jpg\n!tokens Soldier<3>"
         },
         {
             "card_name": "Asphodel",
             "color": "",
             "rarity": "cube",
             "type": "Legendary Land",
-            "number": 326,
+            "number": 325,
             "color_identity": "BR",
             "cost": "",
             "rules_text": "{T}: Add {C}.\n{T}, Pay 1 life: Add {B} or {R}.\n{1}{B}{R}, Discard Asphodel: Asphodel deals 3 damage to any target.",
@@ -4875,7 +4854,7 @@
             "loyalty": "",
             "artist": "Supergiant Games",
             "alias": "",
-            "position": "231",
+            "position": "230",
             "rotated": false,
             "notes": "\nother Elysium_Overlook copy.jpg"
         },
@@ -4884,10 +4863,10 @@
             "color": "",
             "rarity": "cube",
             "type": "Legendary Land",
-            "number": 341,
+            "number": 340,
             "color_identity": "UG",
             "cost": "",
-            "rules_text": "{T}: Add {C}.\n{T}, Pay 1 life: Add {G} or {U}.\n{2}{G}{U}, Discard Elysium: Create a token that's a copy of target creature, except it's a 1/1 Shade with flying. Activate only as a sorcery.",
+            "rules_text": "{T}: Add {C}.\n{T}, Pay 1 life: Add {G} or {U}.\n{2}{G}{U}, Discard Elysium: Create a token that's a copy of target creature, except it's a 1/1 Shade with flying and it's not legendary. Activate only as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4896,19 +4875,40 @@
             "loyalty": "",
             "artist": "Supergiant Games",
             "alias": "",
-            "position": "232",
+            "position": "231",
             "rotated": false,
-            "notes": "\nother Elysium_Overlook copy.jpg"
+            "notes": "other Elysium_Overlook copy.jpg"
         },
         {
             "card_name": "Undertown",
             "color": "",
             "rarity": "cube",
             "type": "Legendary Land",
-            "number": 376,
+            "number": 375,
             "color_identity": "UB",
             "cost": "",
             "rules_text": "{T}: Add {C}.\n{T}, Pay 1 life: Add {U} or {B}.\n{X}{U}{B}, Discard Undertown: Look at the top X cards of your library. Put up to two into your hand and the rest into your graveyard.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "TOAST",
+            "loyalty": "",
+            "artist": "Chris Riddell",
+            "alias": "",
+            "position": "232",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "The Mire",
+            "color": "",
+            "rarity": "cube",
+            "type": "Legendary Land",
+            "number": 355,
+            "color_identity": "WB",
+            "cost": "",
+            "rules_text": "{T}: Add {C}.\n{T}, Pay 1 life: Add {W} or {B}.\n{W}{B}, Discard The Mire: Exile target creature with mana value 1 or less.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4922,32 +4922,11 @@
             "notes": ""
         },
         {
-            "card_name": "The Mire",
-            "color": "",
-            "rarity": "cube",
-            "type": "Legendary Land",
-            "number": 356,
-            "color_identity": "WB",
-            "cost": "",
-            "rules_text": "{T}: Add {C}.\n{T}, Pay 1 life: Add {W} or {B}.\n{W}{B}, Discard The Mire: Exile target creature with mana value 1 or less.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "TOAST",
-            "loyalty": "",
-            "artist": "Chris Riddell",
-            "alias": "",
-            "position": "234",
-            "rotated": false,
-            "notes": ""
-        },
-        {
             "card_name": "The Autumn Court",
             "color": "",
             "rarity": "cube",
             "type": "Legendary Land",
-            "number": 327,
+            "number": 326,
             "color_identity": "WR",
             "cost": "",
             "rules_text": "{T}: Add {C}.\n{T}, Pay 1 life: Add {R} or {W}.\n{1}{R}{W}, Discard The Autumn Court: Create a 3/3 colorless Vehicle artifact token with flying and crew 1. Activate only as a sorcery.",
@@ -4959,16 +4938,16 @@
             "loyalty": "",
             "artist": "Laserlazuli",
             "alias": "",
-            "position": "235",
+            "position": "234",
             "rotated": false,
-            "notes": "EW81jF_UcAITcr0.jpg"
+            "notes": "EW81jF_UcAITcr0.jpg\n!tokens Vehicle<1>"
         },
         {
             "card_name": "Throne, the Red City",
             "color": "",
             "rarity": "cube",
             "type": "Legendary Land",
-            "number": 372,
+            "number": 371,
             "color_identity": "UR",
             "cost": "",
             "rules_text": "{T}: Add {C}.\n{T}, Pay 1 life: Add {U} or {R}.\n{2}{U}{R}, Discard Throne, the Red City: You become the monarch.",
@@ -4980,7 +4959,7 @@
             "loyalty": "",
             "artist": "Tom Bloom",
             "alias": "",
-            "position": "236",
+            "position": "235",
             "rotated": false,
             "notes": ""
         },
@@ -5001,7 +4980,7 @@
             "loyalty": "",
             "artist": "Shido",
             "alias": "",
-            "position": "237",
+            "position": "236",
             "rotated": false,
             "notes": "optional?"
         },
@@ -5022,7 +5001,7 @@
             "loyalty": "",
             "artist": "Gray_Sweatpants_",
             "alias": "",
-            "position": "238",
+            "position": "237",
             "rotated": false,
             "notes": ""
         },
@@ -5043,7 +5022,7 @@
             "loyalty": "",
             "artist": "NeoNuwu",
             "alias": "",
-            "position": "239",
+            "position": "238",
             "rotated": false,
             "notes": "3h7a5cvi6bj41.jpg\nnosk-the-face-stealer-art-by-me-v0-o2bmii90rqrf1.jpg"
         },
@@ -5052,10 +5031,10 @@
             "color": "",
             "rarity": "cube",
             "type": "Legendary Land",
-            "number": 347,
-            "color_identity": "C",
+            "number": 346,
+            "color_identity": "G",
             "cost": "",
-            "rules_text": "{T}, Pay 1 life, Sacrifice Greenpath: Search your library for a Forest card, put it onto the battlefield, then shuffle.",
+            "rules_text": "{T}, Pay 1 life, Sacrifice Greenpath: Search your library for a Forest card, put it onto the battlefield, then shuffle.\nCycling {G}",
             "flavor_text": "[i]\u201cThose who stray from the White King's roads shall face the law of Unn.\u201d\n\u2014Tablet Inscription[/i]",
             "pt": "",
             "special_text": "",
@@ -5064,7 +5043,7 @@
             "loyalty": "",
             "artist": "Wiseduck12",
             "alias": "",
-            "position": "240",
+            "position": "239",
             "rotated": false,
             "notes": "jlm9451bc6591.jpg\nT, Pay 1 life: Add G."
         },
@@ -5085,7 +5064,7 @@
             "loyalty": "",
             "artist": "Themoonatmingitaw",
             "alias": "",
-            "position": "241",
+            "position": "240",
             "rotated": false,
             "notes": "tumblr_0f94a2059e617007e8f133cddcf3f825_22ab53e0_2048.png"
         },
@@ -5106,9 +5085,9 @@
             "loyalty": "",
             "artist": "Andrea Broccardo, Andrea Broccardo",
             "alias": "",
-            "position": "242",
+            "position": "241",
             "rotated": false,
-            "notes": "Hounds_(Earth-811)_from_Civil_War_II_X-Men_Vol_1_3_001.JPG copy.jpg"
+            "notes": "Hounds_(Earth-811)_from_Civil_War_II_X-Men_Vol_1_3_001.JPG copy.jpg\n"
         },
         {
             "card_name": "The Hairy Scary Librarian",
@@ -5127,7 +5106,7 @@
             "loyalty": "",
             "artist": "Nina Levy, Cressida Cowell",
             "alias": "",
-            "position": "243",
+            "position": "242",
             "rotated": false,
             "notes": "photo-771639.jpg"
         },
@@ -5148,7 +5127,7 @@
             "loyalty": "",
             "artist": "John Pierard",
             "alias": "",
-            "position": "244",
+            "position": "243",
             "rotated": false,
             "notes": ""
         },
@@ -5160,7 +5139,7 @@
             "number": 226,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Whenever a land you control enters, put a +1/+1 counter on Paul Muad'Dib Atreides.\nWhenever Paul Muad'Dib Atreides attacks, if his power is 3 or greater, create a colorless Desert land token with \u201c{T}: Add {C}.\u201d If his power is 6 or greater, create a 6/6 green Wurm creature token.",
+            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, put a +1/+1 counter on Paul Muad'Dib Atreides.\nWhenever Paul Muad'Dib Atreides attacks, if his power is 3 or greater, create a colorless Desert land token with \u201c{T}: Add {C}.\u201d If his power is 6 or greater, create a 6/6 green Wurm creature token.",
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
@@ -5169,9 +5148,9 @@
             "loyalty": "",
             "artist": "ArtofChamil",
             "alias": "",
-            "position": "245",
+            "position": "244",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Desert<1>; Wurm<1>"
         },
         {
             "card_name": "Path of Pain",
@@ -5190,7 +5169,7 @@
             "loyalty": "",
             "artist": "CometShine",
             "alias": "",
-            "position": "246",
+            "position": "245",
             "rotated": false,
             "notes": ""
         },
@@ -5211,16 +5190,16 @@
             "loyalty": "",
             "artist": "Tim Hildebrant",
             "alias": "",
-            "position": "247",
+            "position": "246",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Everywhere<1>"
         },
         {
             "card_name": "The White Palace",
             "color": "",
             "rarity": "cube",
             "type": "Legendary Land",
-            "number": 378,
+            "number": 377,
             "color_identity": "W",
             "cost": "",
             "rules_text": "The White Palace enters tapped unless you control a basic land.\n{T}: Add {W}.\n{2}{W}, {T}: Return target creature you control to its owner's hand.",
@@ -5232,7 +5211,7 @@
             "loyalty": "",
             "artist": "Stijn Bergen",
             "alias": "",
-            "position": "248",
+            "position": "247",
             "rotated": false,
             "notes": "8da82db44767a007dd4bd39b3d378988.jpg"
         },
@@ -5241,10 +5220,10 @@
             "color": "",
             "rarity": "cube",
             "type": "Legendary Land",
-            "number": 334,
-            "color_identity": "C",
+            "number": 333,
+            "color_identity": "U",
             "cost": "",
-            "rules_text": "{T}, Pay 1 life, Sacrifice City of Tears: Search your library for an Island card, put it onto the battlefield, then shuffle.",
+            "rules_text": "{T}, Pay 1 life, Sacrifice City of Tears: Search your library for an Island card, put it onto the battlefield, then shuffle.\nCycling {U}",
             "flavor_text": "[i]\u201cBefore I leave this Kingdom, I'd like to see where all that water comes from. What a sight it must be!\u201d\n\u2014Quirrel[/i]",
             "pt": "",
             "special_text": "",
@@ -5253,7 +5232,7 @@
             "loyalty": "",
             "artist": "Istrandar",
             "alias": "",
-            "position": "249",
+            "position": "248",
             "rotated": false,
             "notes": "dcx5nyf-b904847d-cdf8-4138-9c83-a9a62900d2cf.png\nT, Pay 1 life: Add U."
         },
@@ -5262,10 +5241,10 @@
             "color": "",
             "rarity": "cube",
             "type": "Legendary Land",
-            "number": 337,
-            "color_identity": "C",
+            "number": 336,
+            "color_identity": "R",
             "cost": "",
-            "rules_text": "{T}, Pay 1 life, Sacrifice Crystal Peak: Search your library for a Mountain card, put it onto the battlefield, then shuffle.",
+            "rules_text": "{T}, Pay 1 life, Sacrifice Crystal Peak: Search your library for a Mountain card, put it onto the battlefield, then shuffle.\nCycling {R}",
             "flavor_text": "[i]\u201cThose crystals out there are worth a fair bit, but I have a feeling that there's something even more valuable hidden just a bit deeper in!\u201d\n\u2014Myla[/i]",
             "pt": "",
             "special_text": "",
@@ -5274,7 +5253,7 @@
             "loyalty": "",
             "artist": "Nsane99",
             "alias": "",
-            "position": "250",
+            "position": "249",
             "rotated": false,
             "notes": "T, Pay 1 life: Add R."
         },
@@ -5295,7 +5274,7 @@
             "loyalty": "",
             "artist": "JohnathanChimney",
             "alias": "",
-            "position": "251",
+            "position": "250",
             "rotated": false,
             "notes": "As long as Agent P is modified, noncreature, non-Equipment spells cost 1 more to cast."
         },
@@ -5304,10 +5283,10 @@
             "color": "",
             "rarity": "cube",
             "type": "Legendary Land",
-            "number": 339,
-            "color_identity": "C",
+            "number": 338,
+            "color_identity": "B",
             "cost": "",
-            "rules_text": "{T}, Pay 1 life, Sacrifice Deepnest: Search your library for a Swamp card, put it onto the battlefield, then shuffle",
+            "rules_text": "{T}, Pay 1 life, Sacrifice Deepnest: Search your library for a Swamp card, put it onto the battlefield, then shuffle.\nCycling {B}",
             "flavor_text": "[i]\u201cThis whole area swarms with deadly critters, biting, burning, scratching types.\u201d\n\u2014Cloth[/i]",
             "pt": "",
             "special_text": "",
@@ -5316,7 +5295,7 @@
             "loyalty": "",
             "artist": "Sol-Lar-Bink",
             "alias": "",
-            "position": "252",
+            "position": "251",
             "rotated": false,
             "notes": "dfvt6qy-358be471-1078-4bdb-b4ad-e87a067e2832.png"
         },
@@ -5325,10 +5304,10 @@
             "color": "",
             "rarity": "cube",
             "type": "Legendary Land",
-            "number": 353,
-            "color_identity": "C",
+            "number": 352,
+            "color_identity": "W",
             "cost": "",
-            "rules_text": "{T}, Pay 1 life, Sacrifice Kingdom's Edge: Search your library for a Plains card, put it onto the battlefield, then shuffle.",
+            "rules_text": "{T}, Pay 1 life, Sacrifice Kingdom's Edge: Search your library for a Plains card, put it onto the battlefield, then shuffle.\nCycling {W}",
             "flavor_text": "[i]\u201cSo you'd pursue the deeper truth? It isn't one the weak could bear.\u201d\n\u2014Hornet[/i]",
             "pt": "",
             "special_text": "",
@@ -5337,7 +5316,7 @@
             "loyalty": "",
             "artist": "Saphire - Oc\u00e9ane Roh",
             "alias": "",
-            "position": "253",
+            "position": "252",
             "rotated": false,
             "notes": "8da82db44767a007dd4bd39b3d378988.jpg"
         },
@@ -5358,9 +5337,9 @@
             "loyalty": "",
             "artist": "The Lego Group, Warner Bros. Pictures",
             "alias": "",
-            "position": "254",
+            "position": "253",
             "rotated": false,
-            "notes": "ideate.jpg"
+            "notes": "ideate.jpg\n!tokens Junk<1>"
         },
         {
             "card_name": "Cornifer the Mapmaker",
@@ -5379,9 +5358,9 @@
             "loyalty": "",
             "artist": "Thibaud Pourplanche",
             "alias": "",
-            "position": "255",
+            "position": "254",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Map<1>"
         },
         {
             "card_name": "Laura Kinney, Wolverine",
@@ -5400,7 +5379,7 @@
             "loyalty": "",
             "artist": "Emanuela Lupacchino, Rachelle Rosenberg",
             "alias": "",
-            "position": "256",
+            "position": "255",
             "rotated": false,
             "notes": "laura.jpg\n\nWhenever you cast a spell with mana value greater than Laura Kinney's power, put a +1/+1 counter on her."
         },
@@ -5421,7 +5400,7 @@
             "loyalty": "",
             "artist": "the_mothman269",
             "alias": "",
-            "position": "257",
+            "position": "256",
             "rotated": false,
             "notes": ""
         },
@@ -5442,7 +5421,7 @@
             "loyalty": "",
             "artist": "Merinid / Sabine",
             "alias": "",
-            "position": "258",
+            "position": "257",
             "rotated": false,
             "notes": ""
         },
@@ -5463,9 +5442,9 @@
             "loyalty": "",
             "artist": "Russell Dauterman",
             "alias": "",
-            "position": "259",
+            "position": "258",
             "rotated": false,
-            "notes": "X-Men_Vol_6_6_Trading_Card_Variant_Textless copy.jpg\nartifacts?"
+            "notes": "X-Men_Vol_6_6_Trading_Card_Variant_Textless copy.jpg\n!tokens Treasure<1>"
         },
         {
             "card_name": "Silk Spear",
@@ -5484,9 +5463,9 @@
             "loyalty": "",
             "artist": "Leonardo Mader",
             "alias": "",
-            "position": "260",
+            "position": "259",
             "rotated": false,
-            "notes": "leonardo-mader-silksong-8-flatado.jpg"
+            "notes": "leonardo-mader-silksong-8-flatado.jpg\n!tokens Weapon<1>"
         },
         {
             "card_name": "Zaladane, Empress of the Savage Land",
@@ -5496,7 +5475,7 @@
             "number": 294,
             "color_identity": "BG",
             "cost": "{1}{B}{G}",
-            "rules_text": "Deathtouch\n[i]Landfall[/i] \u2014 Whenever a land you control enters, create a 1/1 black Minion creature token.\n{5}: Another target creature you control becomes Garokk, the Petrified Man, a 5/5 legendary God artifact creature with menace.",
+            "rules_text": "Deathtouch\n[i]Landfall[/i] \u2014 Whenever a land you control enters, create a 1/1 black Minion creature token.\n{5}: Another target creature you control becomes Garokk, the Petrified Man, a legendary 5/5 black God artifact creature with menace.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -5505,9 +5484,9 @@
             "loyalty": "",
             "artist": "Joelyface",
             "alias": "",
-            "position": "261",
+            "position": "260",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Minion<1>; Garokk, the Petrified Man<1>"
         },
         {
             "card_name": "Lex Luthor",
@@ -5526,7 +5505,7 @@
             "loyalty": "",
             "artist": "David Finch",
             "alias": "",
-            "position": "262",
+            "position": "261",
             "rotated": false,
             "notes": "lexluthor.jpg\nlexluthor2.jpg \u2014 david finch"
         },
@@ -5547,7 +5526,7 @@
             "loyalty": "",
             "artist": "Spiderziege",
             "alias": "",
-            "position": "263",
+            "position": "262",
             "rotated": false,
             "notes": "Tumblr_l_7166831612384761.jpg"
         },
@@ -5568,9 +5547,9 @@
             "loyalty": "",
             "artist": "Eleonor Piteira",
             "alias": "",
-            "position": "264",
+            "position": "263",
             "rotated": false,
-            "notes": "King Thorin Oakenshield\nScreenshot 2026-07-12 at 14-32-02 Instagram.png\n\nThorin_Oakenshield,_Tolman_Cotton copy.jpg"
+            "notes": "Screenshot 2026-07-12 at 14-32-02 Instagram.png\nThorin_Oakenshield,_Tolman_Cotton copy.jpg\n!tokens Dwarf Soldier<1>; The Arkenstone<1>"
         },
         {
             "card_name": "Decapitate",
@@ -5589,7 +5568,7 @@
             "loyalty": "",
             "artist": "Sractheninja",
             "alias": "",
-            "position": "265",
+            "position": "264",
             "rotated": false,
             "notes": "tumblr_pe5ha2P6NS1r8tgeeo1_1280.jpg\n2 life?"
         },
@@ -5605,14 +5584,14 @@
             "flavor_text": "[i]\u201cCome, child... Witness our waking...\u201d[/i]",
             "pt": "6/6",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "TOAST",
             "loyalty": "",
             "artist": "Theweevilguy",
             "alias": "",
-            "position": "266",
+            "position": "265",
             "rotated": false,
-            "notes": "557632721_1424334462383376_8914354811754453790_n.jpg\n\u201c...Come, child... Witness our waking...\u201d"
+            "notes": "557632721_1424334462383376_8914354811754453790_n.jpg\n!token Silkwrap<1>"
         },
         {
             "card_name": "Emma Frost, White Queen",
@@ -5631,7 +5610,7 @@
             "loyalty": "",
             "artist": "Ryan Benjamin, Ryan Kinnaird",
             "alias": "",
-            "position": "267",
+            "position": "266",
             "rotated": false,
             "notes": ""
         },
@@ -5652,7 +5631,7 @@
             "loyalty": "",
             "artist": "AlBuff",
             "alias": "",
-            "position": "268",
+            "position": "267",
             "rotated": false,
             "notes": "ok8q1nal3rj41.png"
         },
@@ -5673,7 +5652,7 @@
             "loyalty": "",
             "artist": "okey376",
             "alias": "",
-            "position": "269",
+            "position": "268",
             "rotated": false,
             "notes": "MargraveMeteorKnight"
         },
@@ -5694,7 +5673,7 @@
             "loyalty": "",
             "artist": "Rhenel Serencio",
             "alias": "",
-            "position": "270",
+            "position": "269",
             "rotated": false,
             "notes": ""
         },
@@ -5715,7 +5694,7 @@
             "loyalty": "",
             "artist": "Lurex",
             "alias": "",
-            "position": "271",
+            "position": "270",
             "rotated": false,
             "notes": "nailmasteroro.jpg"
         },
@@ -5736,7 +5715,7 @@
             "loyalty": "",
             "artist": "Chris Ortiz",
             "alias": "",
-            "position": "272",
+            "position": "271",
             "rotated": false,
             "notes": "chris-ortiz-silksongday copy.jpg\ncolor:white type:creature\ncreature spells you cast have web-slinging 1W. (You may cast that spell for 1W if you also return a tapped creature you control to its owner's hand.)"
         },
@@ -5757,7 +5736,7 @@
             "loyalty": "",
             "artist": "Vincenzo Riccardi",
             "alias": "",
-            "position": "273",
+            "position": "272",
             "rotated": false,
             "notes": "vincenzo-riccardi-cyclops-instagramjpg.jpg"
         },
@@ -5778,16 +5757,16 @@
             "loyalty": "",
             "artist": "Marc Silvestri, Dan Green",
             "alias": "",
-            "position": "274",
+            "position": "273",
             "rotated": false,
-            "notes": "1-307ce72e9f220db744902dbdd6ed421f.jpg"
+            "notes": "1-307ce72e9f220db744902dbdd6ed421f.jpg\n!tokens Devil<1>"
         },
         {
             "card_name": "The Stagways",
             "color": "",
             "rarity": "cube",
             "type": "Legendary Artifact Land \u2014 Vehicle",
-            "number": 368,
+            "number": 367,
             "color_identity": "C",
             "cost": "",
             "rules_text": "Vigilance\n{T}: Add {C}.\n{T}, Tap an untapped creature you control: Add one mana of any color.\nCrew 3",
@@ -5799,7 +5778,7 @@
             "loyalty": "",
             "artist": "Nsane99",
             "alias": "",
-            "position": "275",
+            "position": "274",
             "rotated": false,
             "notes": "2451507_nsane99_hollow-knight-the-stagways.jpg"
         },
@@ -5820,7 +5799,7 @@
             "loyalty": "",
             "artist": "Duck-Speak",
             "alias": "",
-            "position": "276",
+            "position": "275",
             "rotated": false,
             "notes": "tumblr_6ac9e7f9d93df9ff64adc5187d9965c7_adc4a7b2_2048.jpg"
         },
@@ -5841,7 +5820,7 @@
             "loyalty": "",
             "artist": "Paolo Fodra",
             "alias": "",
-            "position": "277",
+            "position": "276",
             "rotated": false,
             "notes": "paulo-fodra-asset.jpg\n\u201cYou must learn the ways of the Force, if you're to come with me to Alderaan.\u201d"
         },
@@ -5862,9 +5841,9 @@
             "loyalty": "",
             "artist": "Ladynazgul",
             "alias": "",
-            "position": "278",
+            "position": "277",
             "rotated": false,
-            "notes": "Edge_blood_red_rogue_glister_by_ladynazgul_1912-d46vcc4-1- copy.jpg"
+            "notes": "Edge_blood_red_rogue_glister_by_ladynazgul_1912-d46vcc4-1- copy.jpg\n!tokens Blood<1>"
         },
         {
             "card_name": "Pikachu",
@@ -5883,9 +5862,9 @@
             "loyalty": "",
             "artist": "You Iribi",
             "alias": "",
-            "position": "279",
+            "position": "278",
             "rotated": false,
-            "notes": "Your deck contains four or more instant or sorcery cards with mana value 1\nWhenever a player casts their second spell each turn, Pikachu deals 2 damage to each opponent.\nWhenever an opponent loses life for the second time each turn"
+            "notes": ""
         },
         {
             "card_name": "Po, the Dragon Warrior",
@@ -5904,7 +5883,7 @@
             "loyalty": "",
             "artist": "ShiraCartoonz",
             "alias": "",
-            "position": "280",
+            "position": "279",
             "rotated": false,
             "notes": "2878963_shiracartoonz_kung-fu-panda-po-s-chi.jpg"
         },
@@ -5916,7 +5895,7 @@
             "number": 137,
             "color_identity": "B",
             "cost": "{B}",
-            "rules_text": "Return target creature card with mana value 3 or less from your graveyard to the battlefield. It's an Illusion in addition to its other types and gains \u201cwhen this creature becomes the target of a spell, sacrifice it.\u201d\nSwampcycling {1} [i]({1}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)[/i]",
+            "rules_text": "Return target creature card with mana value 3 or less from your graveyard to the battlefield. It's an Illusion in addition to its other types and gains \u201cWhen this creature becomes the target of a spell, sacrifice it.\u201d\nSwampcycling {1} [i]({1}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5925,7 +5904,7 @@
             "loyalty": "",
             "artist": "Chris Riddell",
             "alias": "",
-            "position": "281",
+            "position": "280",
             "rotated": false,
             "notes": ""
         },
@@ -5946,7 +5925,7 @@
             "loyalty": "",
             "artist": "Giovanni Lorusso",
             "alias": "",
-            "position": "282",
+            "position": "281",
             "rotated": false,
             "notes": "Cerebro_05 copy.jpg \u2014 Giovanni Lorusso\nCerebro_09 copy.jpg \u2014 james ryman\nCerebro copy.jpg\nWhenever you cast a creature spell with mana value 4 or greater, you may return Cerebro to its owner's hand."
         },
@@ -5967,7 +5946,7 @@
             "loyalty": "",
             "artist": "Quentin Blake",
             "alias": "",
-            "position": "283",
+            "position": "282",
             "rotated": false,
             "notes": ""
         },
@@ -5988,7 +5967,7 @@
             "loyalty": "",
             "artist": "Chris Riddell",
             "alias": "",
-            "position": "284",
+            "position": "283",
             "rotated": false,
             "notes": "tumblr_44840d86e5bc7be14aa83256c8a2d947_64fbf89f_640 copy.jpg\nA15FgJ+EPHL._AC_UF1000,1000_QL80_.jpg"
         },
@@ -6009,9 +5988,9 @@
             "loyalty": "",
             "artist": "Primsheep",
             "alias": "",
-            "position": "285",
+            "position": "284",
             "rotated": false,
-            "notes": "tumblr_80c2824f26ba4d7d79cf872d96b168a9_1b2b288e_1280.jpg"
+            "notes": "tumblr_80c2824f26ba4d7d79cf872d96b168a9_1b2b288e_1280.jpg\n!tokens Map<1>"
         },
         {
             "card_name": "Marabelle the Terrible",
@@ -6030,9 +6009,9 @@
             "loyalty": "",
             "artist": "Bookinbear_",
             "alias": "",
-            "position": "286",
+            "position": "285",
             "rotated": false,
-            "notes": "Whenever a permanent you control dies, put a +1/+1 counter on Marabelle the Terrible."
+            "notes": "Whenever a permanent you control dies, put a +1/+1 counter on Marabelle the Terrible.\n!tokens Fungus<1>"
         },
         {
             "card_name": "Titano the Super-Ape",
@@ -6051,7 +6030,7 @@
             "loyalty": "",
             "artist": "Curt Swan, George Klein",
             "alias": "",
-            "position": "287",
+            "position": "286",
             "rotated": false,
             "notes": "Titanoplanet.jpg"
         },
@@ -6072,9 +6051,9 @@
             "loyalty": "",
             "artist": "Clever Santos",
             "alias": "",
-            "position": "288",
+            "position": "287",
             "rotated": false,
-            "notes": "472313047_423475460845829_6037642164445800152_n.jpg \u2014 clever santos"
+            "notes": "472313047_423475460845829_6037642164445800152_n.jpg \u2014 clever santos\n!tokens Mutant<1>"
         },
         {
             "card_name": "Kingshammer",
@@ -6093,9 +6072,9 @@
             "loyalty": "",
             "artist": "Aginestra",
             "alias": "",
-            "position": "289",
+            "position": "288",
             "rotated": false,
-            "notes": "o4fx64c41p751 \u2014 Aginestra\n\nttzst34owrl31.jpg \u2014 Wallyscag"
+            "notes": "o4fx64c41p751 \u2014 Aginestra\nttzst34owrl31.jpg \u2014 Wallyscag\n!tokens Dwarf Spirit<3>"
         },
         {
             "card_name": "The Predator",
@@ -6114,7 +6093,7 @@
             "loyalty": "",
             "artist": "Ryan Brown",
             "alias": "",
-            "position": "290",
+            "position": "289",
             "rotated": false,
             "notes": "dcabff0fc5194c543f84b6e549fbd2c1.jpg"
         },
@@ -6135,7 +6114,7 @@
             "loyalty": "",
             "artist": "Dan Mumford",
             "alias": "",
-            "position": "291",
+            "position": "290",
             "rotated": false,
             "notes": "s-l400.png\nGame over, man"
         },
@@ -6156,16 +6135,16 @@
             "loyalty": "",
             "artist": "Yuffinik",
             "alias": "",
-            "position": "292",
+            "position": "291",
             "rotated": false,
-            "notes": "229abd4149c62607db62b5a2381b46d3.jpg"
+            "notes": "229abd4149c62607db62b5a2381b46d3.jpg\n!tokens Forest<1>"
         },
         {
             "card_name": "The Sands of Karak",
             "color": "",
             "rarity": "cube",
             "type": "Legendary Land",
-            "number": 363,
+            "number": 362,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Pay 1 life, Sacrifice this land: Search your library for an Island or Mountain card, put it onto the battlefield, then shuffle.",
@@ -6177,7 +6156,7 @@
             "loyalty": "",
             "artist": "D33rBO1",
             "alias": "",
-            "position": "293",
+            "position": "292",
             "rotated": false,
             "notes": "7869462_3419757_d33rb01_untitled-7869462.f1f4938b6f7ed4ee7c866b7990293358 copy.jpg"
         },
@@ -6186,7 +6165,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Legendary Land",
-            "number": 331,
+            "number": 330,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle.",
@@ -6198,7 +6177,7 @@
             "loyalty": "",
             "artist": "BlueMoth698",
             "alias": "",
-            "position": "294",
+            "position": "293",
             "rotated": false,
             "notes": "7869462_3419757_d33rb01_untitled-7869462.f1f4938b6f7ed4ee7c866b7990293358 copy.jpg\n. \n\u201cHate for their light. Hate for their pins. For their waste poured thick and endless.\u201d\n\u2014Tablet Inscription"
         },
@@ -6207,7 +6186,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Legendary Land",
-            "number": 348,
+            "number": 347,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle.",
@@ -6219,7 +6198,7 @@
             "loyalty": "",
             "artist": "ShirtAncient3183",
             "alias": "",
-            "position": "295",
+            "position": "294",
             "rotated": false,
             "notes": "0oyi9tqck6l51 copy \u2014 TheButtMan_69\n\nhornet-in-greymoor-v0-bbrvbz8lsul81 copy.jpg \u2014 ShirtAncient3183"
         },
@@ -6228,7 +6207,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Legendary Land",
-            "number": 338,
+            "number": 337,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle.",
@@ -6240,7 +6219,7 @@
             "loyalty": "",
             "artist": "Thefabledpots",
             "alias": "",
-            "position": "296",
+            "position": "295",
             "rotated": false,
             "notes": "n5qv3j83dsg61"
         },
@@ -6249,7 +6228,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Legendary Land",
-            "number": 367,
+            "number": 366,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle.",
@@ -6261,7 +6240,7 @@
             "loyalty": "",
             "artist": "Kohi.chi",
             "alias": "",
-            "position": "297",
+            "position": "296",
             "rotated": false,
             "notes": "n5qv3j83dsg61"
         },
@@ -6270,7 +6249,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Legendary Land",
-            "number": 357,
+            "number": 356,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Forest or Island card, put it onto the battlefield, then shuffle.",
@@ -6282,7 +6261,7 @@
             "loyalty": "",
             "artist": "Kloir",
             "alias": "",
-            "position": "298",
+            "position": "297",
             "rotated": false,
             "notes": "grotto.png \u2014 kloir"
         },
@@ -6291,7 +6270,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Legendary Land",
-            "number": 358,
+            "number": 357,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle.",
@@ -6303,7 +6282,7 @@
             "loyalty": "",
             "artist": "Nick Lanza",
             "alias": "",
-            "position": "299",
+            "position": "298",
             "rotated": false,
             "notes": "mountfay.png"
         },
@@ -6312,7 +6291,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Legendary Land",
-            "number": 330,
+            "number": 329,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle.",
@@ -6324,7 +6303,7 @@
             "loyalty": "",
             "artist": "free dlc artwork",
             "alias": "",
-            "position": "300",
+            "position": "299",
             "rotated": false,
             "notes": "bellhart.png"
         },
@@ -6333,7 +6312,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Legendary Land",
-            "number": 342,
+            "number": 341,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle.",
@@ -6345,7 +6324,7 @@
             "loyalty": "",
             "artist": "Dogdykez",
             "alias": "",
-            "position": "301",
+            "position": "300",
             "rotated": false,
             "notes": "n5qv3j83dsg61"
         },
@@ -6366,7 +6345,7 @@
             "loyalty": "",
             "artist": "Nori31291404",
             "alias": "",
-            "position": "302",
+            "position": "301",
             "rotated": false,
             "notes": "34a5d1612ca68f455ad42cf7fdddca8a.jpg"
         },
@@ -6387,9 +6366,9 @@
             "loyalty": "",
             "artist": "The Lego Group, Warner Bros. Pictures",
             "alias": "",
-            "position": "303",
+            "position": "302",
             "rotated": false,
-            "notes": "51ef9d8c-6e34-42e7-a0de-1277d66df015 copy.jpg"
+            "notes": "51ef9d8c-6e34-42e7-a0de-1277d66df015 copy.jpg\n!tokens Weapon<2>"
         },
         {
             "card_name": "Mine",
@@ -6408,9 +6387,9 @@
             "loyalty": "",
             "artist": "Poisonouspastels",
             "alias": "",
-            "position": "304",
+            "position": "303",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Treasure<1>"
         },
         {
             "card_name": "One For All",
@@ -6429,9 +6408,9 @@
             "loyalty": "",
             "artist": "Everyman's Library",
             "alias": "",
-            "position": "305",
+            "position": "304",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Soldier<1>"
         },
         {
             "card_name": "Phantom Zone Projector",
@@ -6450,7 +6429,7 @@
             "loyalty": "",
             "artist": "Sebastian Fiumara",
             "alias": "",
-            "position": "306",
+            "position": "305",
             "rotated": false,
             "notes": "202211-0000402703.jpg"
         },
@@ -6471,7 +6450,7 @@
             "loyalty": "",
             "artist": "Cressida Cowell",
             "alias": "",
-            "position": "307",
+            "position": "306",
             "rotated": false,
             "notes": "Ticking_Thing_on_map copy.jpg"
         },
@@ -6492,7 +6471,7 @@
             "loyalty": "",
             "artist": "Damon Westenhofer",
             "alias": "",
-            "position": "308",
+            "position": "307",
             "rotated": false,
             "notes": "Whenever an opponent casts a spell, you may exile a card from your graveyard. If you do, Vengeance as a Burning Plague deals 1 damage to that player."
         },
@@ -6501,7 +6480,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Legendary Land",
-            "number": 343,
+            "number": 342,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}: Add {C}.\n{T}, Sacrifice Forgotten Crossroads: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
@@ -6513,7 +6492,7 @@
             "loyalty": "",
             "artist": "Sol-Lar-Bink",
             "alias": "",
-            "position": "309",
+            "position": "308",
             "rotated": false,
             "notes": "ddpmvwb-3860b8b0-5f9a-4dba-8d66-12d822ef7e79"
         },
@@ -6534,7 +6513,7 @@
             "loyalty": "",
             "artist": "Attila Futaki",
             "alias": "",
-            "position": "310",
+            "position": "309",
             "rotated": false,
             "notes": "Princess_Andromedea_GN copy.jpg"
         },
@@ -6555,7 +6534,7 @@
             "loyalty": "",
             "artist": "John Rocco",
             "alias": "",
-            "position": "311",
+            "position": "310",
             "rotated": false,
             "notes": "General-some-percy-jackson-wallpapers-v0-teob64e43pjg1"
         },
@@ -6576,7 +6555,7 @@
             "loyalty": "",
             "artist": "Michael Grinberg",
             "alias": "",
-            "position": "312",
+            "position": "311",
             "rotated": false,
             "notes": "michael-grinberg-anakintwosabers"
         },
@@ -6597,7 +6576,7 @@
             "loyalty": "",
             "artist": "Caldwell Tanner",
             "alias": "",
-            "position": "313",
+            "position": "312",
             "rotated": false,
             "notes": "DbDGWXeVAAArZx_ copy.jpg"
         },
@@ -6618,7 +6597,7 @@
             "loyalty": "",
             "artist": "Lucie Renaudeau",
             "alias": "",
-            "position": "314",
+            "position": "313",
             "card_name2": "Meteor Plate",
             "color2": "",
             "type2": "Artifact \u2014 Equipment",
@@ -6651,28 +6630,28 @@
             "loyalty": "",
             "artist": "KitsuneZakuro",
             "alias": "",
-            "position": "315",
+            "position": "314",
             "rotated": false,
             "notes": "flat,750x,075,f-pad,750x1000,f8f8f8.jpg"
         },
         {
-            "card_name": "Minion",
-            "color": "",
+            "card_name": "Heart of the Ocean",
+            "color": "U",
             "rarity": "cube",
-            "type": "Token Artifact Creature \u2014 Minion",
-            "number": 5,
-            "color_identity": "C",
+            "type": "Token Legendary Artifact",
+            "number": 7,
+            "color_identity": "U",
             "cost": "",
-            "rules_text": "",
+            "rules_text": "{T}: Add {U}{U}{U}",
             "flavor_text": "[i][/i]",
-            "pt": "1/1",
+            "pt": "",
             "special_text": "",
             "shape": "token",
             "set": "TOAST",
             "loyalty": "",
-            "artist": "Anailis Dorta",
+            "artist": "abcheeseburger",
             "alias": "",
-            "position": "316",
+            "position": "315",
             "rotated": false,
             "notes": ""
         },
@@ -6693,7 +6672,7 @@
             "loyalty": "",
             "artist": "Erica D'Urso",
             "alias": "",
-            "position": "317",
+            "position": "316",
             "rotated": false,
             "notes": "chris-doray-day-2-etsy-braddock-captain-britain-small.jpg\n\n return that card to the battlefield tapped"
         },
@@ -6714,7 +6693,7 @@
             "loyalty": "",
             "artist": "John Timms, Chad Hardin",
             "alias": "",
-            "position": "318",
+            "position": "317",
             "card_name2": "Fall of the Hammer",
             "color2": "R",
             "type2": "Instant",
@@ -6747,7 +6726,7 @@
             "loyalty": "4",
             "artist": "Russell Dauterman, Matthew Wilson",
             "alias": "",
-            "position": "319",
+            "position": "318",
             "rotated": false,
             "notes": "Opal_Luna_Saturnyne_(Earth-9)_from_Marauders_Vol_1_15_Textless_Cover copy.jpg\n\nMarauders_Vol_1_15 copy.jpg"
         },
@@ -6763,14 +6742,14 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "The first Aura or Equipment spell you cast each turn costs {W}{W}{W} less to cast.\n[+1]: Up to one target creature gets +2/+2 and gains vigilance until end of turn.\n[-2]: Search your library for an artifact or enchantment card, reveal it, put it into your hand, then shuffle.\n[-7]: Create four 4/4 colorless Serpent artifact creature tokens.",
-            "shape": "planeswalker",
+            "shape": "token",
             "set": "TOAST",
             "loyalty": "3",
             "artist": "Perp3tual",
             "alias": "",
-            "position": "320",
+            "position": "319",
             "rotated": false,
-            "notes": "congrats-to-perpetual-for-winning-the-artakha-art-contest-v0-8yih5sin43061 copy.jpg"
+            "notes": "congrats-to-perpetual-for-winning-the-artakha-art-contest-v0-8yih5sin43061 copy.jpg\n!token Serpent<4>"
         },
         {
             "card_name": "Metal City Mayhem",
@@ -6780,16 +6759,16 @@
             "number": 74,
             "color_identity": "U",
             "cost": "{U}",
-            "rules_text": "[i](Choose only one page as a sorcery to add its effects.)[/i]\nWhen this Manuscript enters, return target artifact or creature to its owner's hand.\n{4}{U}{U} Page 45\nAt the beginning of your upkeep, create a token that's a copy of target creature you control, except it's an artifact in addition to its other types.\n{2}{U} Page 212\nWhenever you draw a card, put a +1/+1 counter on target creature you control.\n",
+            "rules_text": "[i](Choose only one page as a sorcery to add its effects.)[/i]\nWhen this Manuscript enters, return target artifact or creature to its owner's hand.\n{4}{U}{U} Page 45\nAt the beginning of your upkeep, create a token that's a copy of target creature you control, except it's an artifact in addition to its other types and it's not legendary.\n{2}{U} Page 212\nWhenever you draw a card, put a +1/+1 counter on target creature you control.\n",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](Choose only one page as a sorcery to add its effects.)[/i]\nWhen this Manuscript enters, return target artifact or creature to its owner's hand.\n{4}{U}{U} Page 45\nAt the beginning of your upkeep, create a token that's a copy of target creature you control, except it's an artifact in addition to its other types.\n{2}{U} Page 212\nWhenever you draw a card, put a +1/+1 counter on target creature you control.\n",
+            "special_text": "[i](Choose only one page as a sorcery to add its effects.)[/i]\nWhen this Manuscript enters, return target artifact or creature to its owner's hand.\n{4}{U}{U} Page 45\nAt the beginning of your upkeep, create a token that's a copy of target creature you control, except it's an artifact in addition to its other types and it's not legendary.\n{2}{U} Page 212\nWhenever you draw a card, put a +1/+1 counter on target creature you control.\n",
             "shape": "class",
             "set": "TOAST",
             "loyalty": "",
             "artist": "Chris Russell",
             "alias": "",
-            "position": "321",
+            "position": "320",
             "rotated": false,
             "notes": ""
         },
@@ -6810,9 +6789,9 @@
             "loyalty": "4",
             "artist": "Konstantin Porubov",
             "alias": "",
-            "position": "322",
+            "position": "321",
             "rotated": false,
-            "notes": "1024px-Yogg-Saron,_Unleashed_HS.jpg"
+            "notes": "1024px-Yogg-Saron,_Unleashed_HS.jpg\n!tokens Tentacle<1>"
         },
         {
             "card_name": "Virginia Pepper Potts",
@@ -6831,7 +6810,7 @@
             "loyalty": "",
             "artist": "Paco Medina",
             "alias": "",
-            "position": "323",
+            "position": "322",
             "card_name2": "Rescue",
             "color2": "U",
             "type2": "Instant",
@@ -6852,7 +6831,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Token Artifact \u2014 Map",
-            "number": 4,
+            "number": 17,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery. [i](To have this creature explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]",
@@ -6864,7 +6843,7 @@
             "loyalty": "",
             "artist": "Cressida Cowell",
             "alias": "",
-            "position": "324",
+            "position": "323",
             "rotated": false,
             "notes": "Screenshot 2026-07-02 at 11-15-29 Cressida Cowell my tour through 15 years of How to Train Your Dragon \u2013 in pictures Children's books The Guardian.png"
         },
@@ -6885,7 +6864,7 @@
             "loyalty": "",
             "artist": "Francisco K",
             "alias": "",
-            "position": "325",
+            "position": "324",
             "card_name2": "Chromatic Star",
             "color2": "",
             "type2": "Artifact",
@@ -6918,7 +6897,7 @@
             "loyalty": "3",
             "artist": "Okli",
             "alias": "",
-            "position": "326",
+            "position": "325",
             "rotated": false,
             "notes": "Untitled_Artwork 7.jpg\nGaCcQOtXYAA5mw6.jpg"
         },
@@ -6939,9 +6918,9 @@
             "loyalty": "3",
             "artist": "Phylodox",
             "alias": "",
-            "position": "327",
+            "position": "326",
             "rotated": false,
-            "notes": "tumblr_dac35f005c96b4821a9ca6020b23b9e9_519045ea_1280.jpg"
+            "notes": "tumblr_dac35f005c96b4821a9ca6020b23b9e9_519045ea_1280.jpg\n!tokens Possum<1>; Food<1>; Treefolk<2>"
         },
         {
             "card_name": "Thiala, Hero of Bahumia",
@@ -6960,9 +6939,9 @@
             "loyalty": "4",
             "artist": "Allen Morris",
             "alias": "",
-            "position": "328",
+            "position": "327",
             "rotated": false,
-            "notes": "thiala.jpg\nns-bahumia-naddpod-dm-screen-panoramic-painting-v0-oasz0ey7lu4g1.jpg"
+            "notes": "thiala.jpg\nns-bahumia-naddpod-dm-screen-panoramic-painting-v0-oasz0ey7lu4g1.jpg\n!tokens Knight<X>; Angel<1>"
         },
         {
             "card_name": "General Jack Ripper",
@@ -6972,7 +6951,7 @@
             "number": 122,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Ward\u2014Discard a card\nWhen General Jack Ripper enters, choose one \u2014\n\u2022 You draw a card and you lose 1 life.\n\u2022 General Jack Ripper becomes prepared.",
+            "rules_text": "Ward\u2014Discard a card.\nWhen General Jack Ripper enters, choose one \u2014\n\u2022 You draw a card and you lose 1 life.\n\u2022 General Jack Ripper becomes prepared.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -6981,7 +6960,7 @@
             "loyalty": "",
             "artist": "Trevor Lallen",
             "alias": "",
-            "position": "329",
+            "position": "328",
             "card_name2": "Damnation",
             "color2": "B",
             "type2": "Sorcery",
@@ -7014,7 +6993,7 @@
             "loyalty": "5",
             "artist": "Allen Morris",
             "alias": "",
-            "position": "330",
+            "position": "329",
             "rotated": false,
             "notes": "ns-bahumia-naddpod-dm-screen-panoramic-painting-v0-oasz0ey7lu4g1.jpg"
         },
@@ -7035,9 +7014,9 @@
             "loyalty": "3",
             "artist": "Solidago_J",
             "alias": "",
-            "position": "331",
+            "position": "330",
             "rotated": false,
-            "notes": "surge boombucket copy.jpg"
+            "notes": "surge boombucket copy.jpg\n!tokens Soldier<1>; Surge Emblem<1>"
         },
         {
             "card_name": "The Soul Master",
@@ -7056,9 +7035,9 @@
             "loyalty": "3",
             "artist": "TheBaroness",
             "alias": "",
-            "position": "332",
+            "position": "331",
             "rotated": false,
-            "notes": "do-you-guys-prefer-using-nail-or-spells-v0-k5cc586sq8sb1.jpg"
+            "notes": "do-you-guys-prefer-using-nail-or-spells-v0-k5cc586sq8sb1.jpg\n!tokens Vial<1>"
         },
         {
             "card_name": "Professor X",
@@ -7077,7 +7056,7 @@
             "loyalty": "2",
             "artist": "Jim Lee",
             "alias": "",
-            "position": "333",
+            "position": "332",
             "rotated": false,
             "notes": ""
         },
@@ -7098,7 +7077,7 @@
             "loyalty": "4",
             "artist": "Christian Amiel Miranda",
             "alias": "",
-            "position": "334",
+            "position": "333",
             "rotated": false,
             "notes": "christian-amiel-miranda-050-ash-pokemon-fanart.jpg\nDraw cards equal to the greatest toughness among creatures you control.\nReturn a creature you control to its owner's hand. If you do, add three mana of any one color. Spend this mana only to cast creature spells."
         },
@@ -7119,7 +7098,7 @@
             "loyalty": "4",
             "artist": "Toastiferous",
             "alias": "",
-            "position": "335",
+            "position": "334",
             "rotated": false,
             "notes": "vaneira.jpg"
         },
@@ -7140,9 +7119,9 @@
             "loyalty": "",
             "artist": "Sofhtie",
             "alias": "",
-            "position": "336",
+            "position": "335",
             "rotated": false,
-            "notes": "tumblr_a5ce80e7fcd44ae2f6033a5852db002e_429f8ba4_1280.jpg"
+            "notes": "tumblr_a5ce80e7fcd44ae2f6033a5852db002e_429f8ba4_1280.jpg\n!tokens Green Knight<1>"
         },
         {
             "card_name": "Sorrow and Remembrance",
@@ -7161,9 +7140,9 @@
             "loyalty": "",
             "artist": "JJ Ariosa",
             "alias": "",
-            "position": "337",
+            "position": "336",
             "rotated": false,
-            "notes": "tapped?"
+            "notes": "!tokens Weapon<1>; Sol Ring<1>"
         },
         {
             "card_name": "UnLondon City Bus",
@@ -7182,7 +7161,7 @@
             "loyalty": "",
             "artist": "Les Edwards",
             "alias": "",
-            "position": "338",
+            "position": "337",
             "card_name2": "Conduct",
             "color2": "R",
             "type2": "Instant \u2014 Adventure",
@@ -7215,7 +7194,7 @@
             "loyalty": "",
             "artist": "Apple Films, King Features Syndicate",
             "alias": "",
-            "position": "339",
+            "position": "338",
             "card_name2": "Portable Hole",
             "color2": "W",
             "type2": "Artifact",
@@ -7229,7 +7208,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "Apple Films\nYellowSubmarine copy.jpg"
+            "notes": "Apple Films\nYellowSubmarine copy.jpg\n!tokens Performer<1>"
         },
         {
             "card_name": "Jacky Magus",
@@ -7248,9 +7227,9 @@
             "loyalty": "",
             "artist": "Abigail Jill Harding",
             "alias": "",
-            "position": "340",
+            "position": "339",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Warlock<1>"
         },
         {
             "card_name": "Galaderon Drill-Car",
@@ -7269,7 +7248,7 @@
             "loyalty": "",
             "artist": "Caldwell Tanner",
             "alias": "",
-            "position": "341",
+            "position": "340",
             "card_name2": "Skitch or Die",
             "color2": "B",
             "type2": "Sorcery \u2014 Adventure",
@@ -7283,7 +7262,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Treasure<1>"
         },
         {
             "card_name": "Starlight Bolt",
@@ -7302,7 +7281,7 @@
             "loyalty": "",
             "artist": "okey376",
             "alias": "",
-            "position": "342",
+            "position": "341",
             "rotated": false,
             "notes": "Friedrych_Star.png"
         },
@@ -7323,9 +7302,9 @@
             "loyalty": "",
             "artist": "FelixOesinghaus",
             "alias": "",
-            "position": "343",
+            "position": "342",
             "rotated": false,
-            "notes": "i-painted-laputa-v0-c85kcihlgxcb1 copy.jpg\n"
+            "notes": "i-painted-laputa-v0-c85kcihlgxcb1 copy.jpg"
         },
         {
             "card_name": "Spirited Away",
@@ -7344,7 +7323,7 @@
             "loyalty": "",
             "artist": "Ugak",
             "alias": "",
-            "position": "344",
+            "position": "343",
             "rotated": false,
             "notes": "original-747a07506cb8b60b05e2c4a7236a045a copy.jpg"
         },
@@ -7365,7 +7344,7 @@
             "loyalty": "",
             "artist": "Alessandro Miracolo",
             "alias": "",
-            "position": "345",
+            "position": "344",
             "rotated": false,
             "notes": ""
         },
@@ -7386,7 +7365,7 @@
             "loyalty": "",
             "artist": "Studio Ghibli",
             "alias": "",
-            "position": "346",
+            "position": "345",
             "rotated": false,
             "notes": "Yubaba.JPG copy.jpg"
         },
@@ -7407,7 +7386,7 @@
             "loyalty": "",
             "artist": "Studio Ghibli",
             "alias": "",
-            "position": "347",
+            "position": "346",
             "card_name2": "Seek Laputa",
             "color2": "G",
             "type2": "Sorcery \u2014 Adventure",
@@ -7440,7 +7419,7 @@
             "loyalty": "",
             "artist": "Varsam Kurnia",
             "alias": "",
-            "position": "348",
+            "position": "347",
             "rotated": false,
             "notes": "4c3fa464067859.5ac5dc4cb812e.jpg"
         },
@@ -7452,7 +7431,7 @@
             "number": 238,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
-            "rules_text": "While you're searching your library, you may cast this card from your library.\nWhen Tanuki enters, you may sacrifice another creature. If you so, search your library for a creature card with mana value less than or equal to 1 plus the sacrificed creature's mana value, put that card onto the battlefield, then shuffle.",
+            "rules_text": "While you're searching your library, you may cast this card from your library.\nWhen Tanuki enters, you may sacrifice another creature. If you so, search your library for a creature card with mana value equal to 1 plus the sacrificed creature's mana value, put that card onto the battlefield, then shuffle.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -7461,7 +7440,7 @@
             "loyalty": "",
             "artist": "Hans Krill",
             "alias": "",
-            "position": "349",
+            "position": "348",
             "rotated": false,
             "notes": "354px-TanukiArt.jpg"
         },
@@ -7482,9 +7461,9 @@
             "loyalty": "",
             "artist": "doodledrawings_",
             "alias": "",
-            "position": "350",
+            "position": "349",
             "rotated": false,
-            "notes": "luigi.png\nluigi2.jpg\nluigis-mansion-3-was-amazing-had-to-do-something-to-vent-v0-rd4ihi3k8fy31 copy.jpg"
+            "notes": "!tokens Spirit<1>"
         },
         {
             "card_name": "Lightning's Boon",
@@ -7503,7 +7482,7 @@
             "loyalty": "",
             "artist": "Rocky Hammer",
             "alias": "",
-            "position": "351",
+            "position": "350",
             "rotated": false,
             "notes": "f694da29788809.5603b310671d2 copy.jpg"
         },
@@ -7512,10 +7491,31 @@
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Swamp Forest",
-            "number": 329,
+            "number": 328,
             "color_identity": "BG",
             "cost": "",
             "rules_text": "[i]({T}: Add {B} or {G}.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "TOAST",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "351",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Scrubland",
+            "color": "",
+            "rarity": "cube",
+            "type": "Land \u2014 Plains Swamp",
+            "number": 365,
+            "color_identity": "WB",
+            "cost": "",
+            "rules_text": "[i]({T}: Add {W} or {B}.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -7529,14 +7529,14 @@
             "notes": ""
         },
         {
-            "card_name": "Scrubland",
+            "card_name": "Tundra",
             "color": "",
             "rarity": "cube",
-            "type": "Land \u2014 Plains Swamp",
-            "number": 366,
-            "color_identity": "WB",
+            "type": "Land \u2014 Plains Island",
+            "number": 373,
+            "color_identity": "WU",
             "cost": "",
-            "rules_text": "[i]({T}: Add {W} or {B}.)[/i]",
+            "rules_text": "[i]({T}: Add {W} or {U}.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -7550,14 +7550,14 @@
             "notes": ""
         },
         {
-            "card_name": "Tundra",
+            "card_name": "Tropical Island",
             "color": "",
             "rarity": "cube",
-            "type": "Land \u2014 Plains Island",
-            "number": 374,
-            "color_identity": "WU",
+            "type": "Land \u2014 Forest Island",
+            "number": 372,
+            "color_identity": "UG",
             "cost": "",
-            "rules_text": "[i]({T}: Add {W} or {U}.)[/i]",
+            "rules_text": "[i]({T}: Add {G} or {U}.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -7571,14 +7571,14 @@
             "notes": ""
         },
         {
-            "card_name": "Tropical Island",
+            "card_name": "Savannah",
             "color": "",
             "rarity": "cube",
-            "type": "Land \u2014 Forest Island",
-            "number": 373,
-            "color_identity": "UG",
+            "type": "Land \u2014 Forest Plains",
+            "number": 364,
+            "color_identity": "WG",
             "cost": "",
-            "rules_text": "[i]({T}: Add {G} or {U}.)[/i]",
+            "rules_text": "[i]({T}: Add {G} or {W}.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -7592,14 +7592,14 @@
             "notes": ""
         },
         {
-            "card_name": "Savannah",
+            "card_name": "Plateau",
             "color": "",
             "rarity": "cube",
-            "type": "Land \u2014 Forest Plains",
-            "number": 365,
-            "color_identity": "WG",
+            "type": "Land \u2014 Mountain Plains",
+            "number": 361,
+            "color_identity": "WR",
             "cost": "",
-            "rules_text": "[i]({T}: Add {G} or {W}.)[/i]",
+            "rules_text": "[i]({T}: Add {R} or {W}.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -7613,14 +7613,14 @@
             "notes": ""
         },
         {
-            "card_name": "Plateau",
+            "card_name": "Volcanic Island",
             "color": "",
             "rarity": "cube",
-            "type": "Land \u2014 Mountain Plains",
-            "number": 362,
-            "color_identity": "WR",
+            "type": "Land \u2014 Island Mountain",
+            "number": 376,
+            "color_identity": "UR",
             "cost": "",
-            "rules_text": "[i]({T}: Add {R} or {W}.)[/i]",
+            "rules_text": "[i]({T}: Add {U} or {R}.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -7634,14 +7634,14 @@
             "notes": ""
         },
         {
-            "card_name": "Volcanic Island",
+            "card_name": "Underground Sea",
             "color": "",
             "rarity": "cube",
-            "type": "Land \u2014 Island Mountain",
-            "number": 377,
-            "color_identity": "UR",
+            "type": "Land \u2014 Island Swamp",
+            "number": 374,
+            "color_identity": "UB",
             "cost": "",
-            "rules_text": "[i]({T}: Add {U} or {R}.)[/i]",
+            "rules_text": "[i]({T}: Add {U} or {B}.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -7655,14 +7655,14 @@
             "notes": ""
         },
         {
-            "card_name": "Underground Sea",
+            "card_name": "Badlands",
             "color": "",
             "rarity": "cube",
-            "type": "Land \u2014 Island Swamp",
-            "number": 375,
-            "color_identity": "UB",
+            "type": "Land \u2014 Swamp Mountain",
+            "number": 327,
+            "color_identity": "BR",
             "cost": "",
-            "rules_text": "[i]({T}: Add {U} or {B}.)[/i]",
+            "rules_text": "[i]({T}: Add {B} or {R}.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -7676,14 +7676,14 @@
             "notes": ""
         },
         {
-            "card_name": "Badlands",
+            "card_name": "Taiga",
             "color": "",
             "rarity": "cube",
-            "type": "Land \u2014 Swamp Mountain",
-            "number": 328,
-            "color_identity": "BR",
+            "type": "Land \u2014 Mountain Forest",
+            "number": 369,
+            "color_identity": "RG",
             "cost": "",
-            "rules_text": "[i]({T}: Add {B} or {R}.)[/i]",
+            "rules_text": "[i]({T}: Add {R} or {G}.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -7697,27 +7697,6 @@
             "notes": ""
         },
         {
-            "card_name": "Taiga",
-            "color": "",
-            "rarity": "cube",
-            "type": "Land \u2014 Mountain Forest",
-            "number": 370,
-            "color_identity": "RG",
-            "cost": "",
-            "rules_text": "[i]({T}: Add {R} or {G}.)[/i]",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "TOAST",
-            "loyalty": "",
-            "artist": "",
-            "alias": "",
-            "position": "361",
-            "rotated": false,
-            "notes": ""
-        },
-        {
             "card_name": "Warlock",
             "color": "",
             "rarity": "cube",
@@ -7725,7 +7704,7 @@
             "number": 321,
             "color_identity": "C",
             "cost": "{5}",
-            "rules_text": "Affinity for artifacts. [i](This spell costs {1} less to cast for each artifact you control.)[/i]\nYou may have this creature enter as a copy of any permanent on the battlefield, except it's an artifact in addition to its other types and its name is Warlock.",
+            "rules_text": "Affinity for artifacts [i](This spell costs {1} less to cast for each artifact you control.)[/i]\nYou may have this creature enter as a copy of any permanent on the battlefield, except it's an artifact in addition to its other types and its name is Warlock.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -7734,7 +7713,7 @@
             "loyalty": "",
             "artist": "Daniel Maine",
             "alias": "",
-            "position": "362",
+            "position": "361",
             "rotated": false,
             "notes": "daniel-maine-danielmaine-newmutants04.jpg"
         },
@@ -7743,7 +7722,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Legendary Land",
-            "number": 380,
+            "number": 379,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Pay 1 life, Sacrifice this land: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle.",
@@ -7755,7 +7734,7 @@
             "loyalty": "",
             "artist": "Thefabledpots",
             "alias": "",
-            "position": "363",
+            "position": "362",
             "rotated": false,
             "notes": "n5qv3j83dsg61Worm-ridden caverns, shaking and unstable. There remain faint signs that pilgrims once travelled these tight paths."
         },
@@ -7776,7 +7755,7 @@
             "loyalty": "",
             "artist": "James B Barrow",
             "alias": "",
-            "position": "364",
+            "position": "363",
             "rotated": false,
             "notes": "mothwing.jpg"
         },
@@ -7797,7 +7776,7 @@
             "loyalty": "",
             "artist": "Moro Rogers",
             "alias": "",
-            "position": "365",
+            "position": "364",
             "rotated": false,
             "notes": "you don't control? 4B"
         },
@@ -7818,7 +7797,7 @@
             "loyalty": "",
             "artist": "gullible",
             "alias": "",
-            "position": "366",
+            "position": "365",
             "rotated": false,
             "notes": "promisedday.png"
         },
@@ -7839,9 +7818,9 @@
             "loyalty": "",
             "artist": "FLipline Studios",
             "alias": "",
-            "position": "367",
+            "position": "366",
             "rotated": false,
-            "notes": "Its controller creates a Food token. If its power was 4 or greater, that player creates two food tokens instead.\nwith mana value 3 or less.?"
+            "notes": "!tokens Food<1>\n"
         },
         {
             "card_name": "Firestar of Thunderclan",
@@ -7860,9 +7839,9 @@
             "loyalty": "",
             "artist": "Owen Richardson",
             "alias": "",
-            "position": "368",
+            "position": "367",
             "rotated": false,
-            "notes": "Firestar-option copy.jpg\n\n2R, Exile Firestar from your graveyard: Create a token that's a copy of Firestar, except it's an enchantment and loses all other types. Activate only as a sorcery."
+            "notes": "Firestar-option copy.jpg\n!tokens Warrior Cat<1>"
         },
         {
             "card_name": "Gathering at Fourtrees",
@@ -7881,7 +7860,7 @@
             "loyalty": "",
             "artist": "Niftysenpai",
             "alias": "",
-            "position": "369",
+            "position": "368",
             "rotated": false,
             "notes": "tumblr_c9dd8da41c698d378a4825e607417e91_31f1dd34_2048.jpg\nSearch your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle."
         },
@@ -7902,7 +7881,7 @@
             "loyalty": "",
             "artist": "Tran Nguyen",
             "alias": "",
-            "position": "370",
+            "position": "369",
             "rotated": false,
             "notes": "while storms are pliable things... at heart, they are indomitable\nstorm_marvel_silo copy.jpg \u2014 Taurin Clarke\n482215629_1236288121195835_6836254399725039155_n.jpg \u2014 Tran Nguyen"
         },
@@ -7923,7 +7902,7 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "position": "371",
+            "position": "370",
             "rotated": false,
             "notes": "The spice must flow.\nmill a card?"
         },
@@ -7944,7 +7923,7 @@
             "loyalty": "",
             "artist": "Flaviano A",
             "alias": "",
-            "position": "372",
+            "position": "371",
             "rotated": false,
             "notes": "flaviano-a-vivvision-cyber-color-final copy.jpg"
         },
@@ -7965,7 +7944,7 @@
             "loyalty": "",
             "artist": "Mauhmoud Sallam",
             "alias": "",
-            "position": "373",
+            "position": "372",
             "rotated": false,
             "notes": "mahmoud-sallam-power-of-mim"
         },
@@ -7986,9 +7965,9 @@
             "loyalty": "",
             "artist": "Jericho Rus",
             "alias": "",
-            "position": "374",
+            "position": "373",
             "rotated": false,
-            "notes": "ultrakill_beginners_guide_master_v1_from_your_first_run_hero_dc45faea59 copy.kpg"
+            "notes": "ultrakill_beginners_guide_master_v1_from_your_first_run_hero_dc45faea59 copy.jpg\n!tokens Blood<1>"
         },
         {
             "card_name": "The Bat Signal",
@@ -8007,7 +7986,7 @@
             "loyalty": "",
             "artist": "Greg Capullo, FCO Plascencia",
             "alias": "",
-            "position": "375",
+            "position": "374",
             "rotated": false,
             "notes": "2_DTC_Cv27_5f615883a681d3.34206020 copy.jpg"
         },
@@ -8028,7 +8007,7 @@
             "loyalty": "",
             "artist": "Joel Chaim Holtzman",
             "alias": "",
-            "position": "376",
+            "position": "375",
             "rotated": false,
             "notes": ""
         },
@@ -8049,7 +8028,7 @@
             "loyalty": "",
             "artist": "Dainius Obcarskas",
             "alias": "",
-            "position": "377",
+            "position": "376",
             "rotated": false,
             "notes": "dainius-obcarskas-artstation-lab.jpg\nhttps://www.artstation.com/artwork/39PwwA"
         },
@@ -8070,7 +8049,7 @@
             "loyalty": "",
             "artist": "Nathalie Fourdraine",
             "alias": "",
-            "position": "378",
+            "position": "377",
             "rotated": false,
             "notes": "IDW21CoverRI copy.jpg"
         },
@@ -8091,7 +8070,7 @@
             "loyalty": "",
             "artist": "Andrew Willman",
             "alias": "",
-            "position": "379",
+            "position": "378",
             "rotated": false,
             "notes": "Whenever Woke Quintar attacks, it gets +1/+1 until end of turn for each permanent you control that entered this turn."
         },
@@ -8112,7 +8091,7 @@
             "loyalty": "",
             "artist": "Nina Levy, Cressida Cowell",
             "alias": "",
-            "position": "380",
+            "position": "379",
             "rotated": false,
             "notes": ""
         },
@@ -8133,9 +8112,9 @@
             "loyalty": "",
             "artist": "Danitheshark",
             "alias": "",
-            "position": "381",
+            "position": "380",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Treasure<1>"
         },
         {
             "card_name": "Charmspeak",
@@ -8154,7 +8133,7 @@
             "loyalty": "",
             "artist": "Alex Copeman",
             "alias": "",
-            "position": "382",
+            "position": "381",
             "rotated": false,
             "notes": "2381611923db5b6d72276ec57ca2c97b.jpg"
         },
@@ -8163,7 +8142,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Token Artifact Creature \u2014 Serpent",
-            "number": 6,
+            "number": 19,
             "color_identity": "C",
             "cost": "",
             "rules_text": "",
@@ -8175,7 +8154,7 @@
             "loyalty": "",
             "artist": "Scmd1999",
             "alias": "",
-            "position": "383",
+            "position": "382",
             "rotated": false,
             "notes": "crystalserpent.jpeg"
         },
@@ -8184,7 +8163,7 @@
             "color": "U",
             "rarity": "cube",
             "type": "Token Creature \u2014 Warrior Cat",
-            "number": 2,
+            "number": 8,
             "color_identity": "U",
             "cost": "",
             "rules_text": "",
@@ -8196,7 +8175,7 @@
             "loyalty": "",
             "artist": "Moonstoner1096",
             "alias": "",
-            "position": "384",
+            "position": "383",
             "rotated": false,
             "notes": ""
         },
@@ -8205,7 +8184,7 @@
             "color": "R",
             "rarity": "cube",
             "type": "Token Creature \u2014 Beast",
-            "number": 3,
+            "number": 11,
             "color_identity": "R",
             "cost": "",
             "rules_text": "",
@@ -8217,7 +8196,7 @@
             "loyalty": "",
             "artist": "Cari Corene",
             "alias": "",
-            "position": "385",
+            "position": "384",
             "rotated": false,
             "notes": "mawbeasts.png"
         },
@@ -8226,7 +8205,7 @@
             "color": "W",
             "rarity": "cube",
             "type": "Token Creature \u2014 Beast",
-            "number": 1,
+            "number": 3,
             "color_identity": "W",
             "cost": "",
             "rules_text": "Flying",
@@ -8238,10 +8217,346 @@
             "loyalty": "",
             "artist": "Kat Guevara",
             "alias": "",
-            "position": "386",
+            "position": "385",
             "rotated": false,
             "notes": "redtalons.png"
+        },
+        {
+            "card_name": "Minion",
+            "color": "",
+            "rarity": "cube",
+            "type": "Token Artifact Creature \u2014 Minion",
+            "number": 18,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "TOAST",
+            "loyalty": "",
+            "artist": "Anailis Dorta",
+            "alias": "",
+            "position": "386",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Terrible Eye Token",
+            "color": "",
+            "rarity": "cube",
+            "type": "Artifact \u2014 Equipment",
+            "number": 20,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "As long as this Equipment is attached to a creature, you may cast spells from your hand without paying their mana costs\nEquip {9}",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "TOAST",
+            "loyalty": "",
+            "artist": "Gurihiru",
+            "alias": "",
+            "position": "387",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Silkwrap",
+            "color": "W",
+            "rarity": "cube",
+            "type": "Token Enchantment",
+            "number": 6,
+            "color_identity": "W",
+            "cost": "",
+            "rules_text": "[i](This token's mana cost is {1}{W}.)[/i]\nWhen this token enters, exile target creature with mana value 3 or less an opponent controls until this enchantment leaves the battlefield.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "TOAST",
+            "loyalty": "",
+            "artist": "Happy-Chart9242",
+            "alias": "",
+            "position": "388",
+            "rotated": false,
+            "notes": "silkwrap.png"
+        },
+        {
+            "card_name": "Garokk, The Petrified Man",
+            "color": "B",
+            "rarity": "cube",
+            "type": "Legendary Creature \u2014 God",
+            "number": 10,
+            "color_identity": "B",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "5/5",
+            "special_text": "",
+            "shape": "token",
+            "set": "TOAST",
+            "loyalty": "",
+            "artist": "John Byrne",
+            "alias": "",
+            "position": "389",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Dwarf Soldier",
+            "color": "W",
+            "rarity": "cube",
+            "type": "Token Creature \u2014 Dwarf Soldier",
+            "number": 4,
+            "color_identity": "W",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "TOAST",
+            "loyalty": "",
+            "artist": "Sergio Artigas",
+            "alias": "",
+            "position": "390",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Dragon's Egg",
+            "color": "B",
+            "rarity": "cube",
+            "type": "Token Legendary Artifact",
+            "number": 9,
+            "color_identity": "B",
+            "cost": "",
+            "rules_text": "{T}: Add {B}{B}{B}.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "TOAST",
+            "loyalty": "",
+            "artist": "Miyudeesper",
+            "alias": "",
+            "position": "391",
+            "rotated": false,
+            "notes": "egg.jpg"
+        },
+        {
+            "card_name": "The Arkenstone",
+            "color": "W",
+            "rarity": "cube",
+            "type": "Token Legendary Artifact",
+            "number": 2,
+            "color_identity": "W",
+            "cost": "",
+            "rules_text": "{T}: Add {W}{W}{W}.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "TOAST",
+            "loyalty": "",
+            "artist": "Ted Nasmith",
+            "alias": "",
+            "position": "392",
+            "rotated": false,
+            "notes": "ArkenstoneTedNasmith.jpg"
+        },
+        {
+            "card_name": "The Crimson Gem of Cyttorak",
+            "color": "R",
+            "rarity": "cube",
+            "type": "Token Legendary Artifact",
+            "number": 12,
+            "color_identity": "R",
+            "cost": "",
+            "rules_text": "{T}: Add {R}{R}{R}.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "TOAST",
+            "loyalty": "",
+            "artist": "Jim Calafiore, Mark McKenna, Andrew Crossley",
+            "alias": "",
+            "position": "393",
+            "rotated": false,
+            "notes": "397px-NewExcaliburV1_15Textless.jpg"
+        },
+        {
+            "card_name": "The Thorned Emerald",
+            "color": "G",
+            "rarity": "cube",
+            "type": "Token Legendary Artifact",
+            "number": 13,
+            "color_identity": "G",
+            "cost": "",
+            "rules_text": "{T}: Add {G}{G}{G}.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "TOAST",
+            "loyalty": "",
+            "artist": "Flipline Studios",
+            "alias": "",
+            "position": "394",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Knight",
+            "color": "W",
+            "rarity": "cube",
+            "type": "Token Creature \u2014 Knight",
+            "number": 5,
+            "color_identity": "W",
+            "cost": "",
+            "rules_text": "Vigilance",
+            "flavor_text": "[i][/i]",
+            "pt": "2/2",
+            "special_text": "",
+            "shape": "token",
+            "set": "TOAST",
+            "loyalty": "",
+            "artist": "bookinbear_",
+            "alias": "",
+            "position": "395",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Forest",
+            "color": "",
+            "rarity": "cube",
+            "type": "Token Land \u2014 Forest",
+            "number": 22,
+            "color_identity": "G",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "TOAST",
+            "loyalty": "",
+            "artist": "TomTC",
+            "alias": "",
+            "position": "396",
+            "rotated": false,
+            "notes": "over_the_garden_wall_by_tomtc_demf2vm-fullview.jpg"
+        },
+        {
+            "card_name": "Hero",
+            "color": "",
+            "rarity": "cube",
+            "type": "Token Creature \u2014 Hero",
+            "number": 1,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "TOAST",
+            "loyalty": "",
+            "artist": "The Lego Group",
+            "alias": "",
+            "position": "397",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Weapon",
+            "color": "",
+            "rarity": "cube",
+            "type": "Token Artifact \u2014 Equipment",
+            "number": 21,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "Equipped creature gets +1/+1.\nEquip {2}",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "TOAST",
+            "loyalty": "",
+            "artist": "Tom Bloom",
+            "alias": "",
+            "position": "398",
+            "rotated": false,
+            "notes": "KOS54.jpg"
+        },
+        {
+            "card_name": "Food Minion",
+            "color": "",
+            "rarity": "cube",
+            "type": "Token Artifact Creature \u2014 Food Minion",
+            "number": 16,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "{2}, {T}, Sacrifice this token: You gain 3 life.",
+            "flavor_text": "[i][/i]",
+            "pt": "2/2",
+            "special_text": "",
+            "shape": "token",
+            "set": "TOAST",
+            "loyalty": "",
+            "artist": "FLipline Studios",
+            "alias": "",
+            "position": "399",
+            "rotated": false,
+            "notes": "089_a copy.png"
+        },
+        {
+            "card_name": "Alethiometer",
+            "color": "",
+            "rarity": "cube",
+            "type": "Token Artifact",
+            "number": 14,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "{T}: Draw a card, then discard a card.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "TOAST",
+            "loyalty": "",
+            "artist": "Marco Giorgianni",
+            "alias": "",
+            "position": "400",
+            "rotated": false,
+            "notes": "marco-giorgianni-lyra-impag-4-prova.jpg"
+        },
+        {
+            "card_name": "Construct",
+            "color": "",
+            "rarity": "cube",
+            "type": "Token Artifact Creature \u2014 Construct",
+            "number": 15,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "This creature gets +1/+1 for each artifact you control.",
+            "flavor_text": "[i][/i]",
+            "pt": "0/0",
+            "special_text": "",
+            "shape": "token",
+            "set": "TOAST",
+            "loyalty": "",
+            "artist": "DoubleD_92",
+            "alias": "",
+            "position": "401",
+            "rotated": false,
+            "notes": "deathegg.jpg\ndeath_egg_robot_by_tntvale_dkk04jw-pre.png"
         }
     ],
-    "version": 9
+    "version": 10
 }

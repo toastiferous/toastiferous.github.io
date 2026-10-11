@@ -1,4 +1,857 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+Heart of the Ocean added.
+Terrible Eye Token added.
+Silkwrap added.
+Garokk, The Petrified Man added.
+Dwarf Soldier added.
+Dragon's Egg added.
+The Arkenstone added.
+The Crimson Gem of Cyttorak added.
+The Thorned Emerald added.
+Knight added.
+Forest added.
+Hero added.
+Weapon added.
+Food Minion added.
+Alethiometer added.
+Construct added.
+
+Zeppelin of Mighty Gargantuaness removed.
+
+Bartimaeus of Uruk
+rules_text: Flying
+{U}: Scry 1. Activate only once each turn.
+{1}{U}: Bartimaeus gains hexproof until end of turn.
+{2}{U}: Bartimaeus becomes a copy of target creature until end of turn. => Flying
+{U}: Scry 1. Activate only once each turn.
+{1}{U}: Bartimaeus gains hexproof until end of turn.
+{2}{U}: Bartimaeus becomes a copy of target creature until end of turn, except his name is Bartimaeus of Uruk.
+
+The Bear Prince
+rules_text: Kicker {U}
+Ward {2}
+When The Bear Prince enters, if he was kicked, target creature becomes a 1/1 red Goblin with no abilities for as long as you control The Bear Prince. => Kicker {U}
+Ward {2}
+When The Bear Prince enters, if he was kicked, up to one target creature becomes a 1/1 red Goblin with no abilities for as long as you control The Bear Prince.
+
+The Sepia Knight
+
+Jenny Cavanaugh
+
+Moment of Twilight
+
+The First Age of Flight
+
+Tears That Fill The River
+
+Lyra Silvertongue
+
+The Elf, Steward of Seasons
+
+Quintinius Cloud Wolf Verginix
+
+Princess Leia
+
+Luke Skywalker
+
+Netin Foundry
+
+Walter White
+
+The Infinity Gauntlet
+
+The Number Devil
+rules_text: Ward—Pay 3 life
+Whenever you attack, The Number Devil deals damage to each opponent equal to the greatest number of consecutive powers among attacking creatures. => Ward—Pay 3 life.
+Whenever you attack, The Number Devil deals damage to each opponent equal to the greatest number of consecutive powers among attacking creatures.
+
+Dr. Radley Madish
+rules_text: When Dr. Radley Madish enters, create a 2/2 colorless Food Minion artifact creature token with “{2}, {T}, Sacrifice this artifact: You gain 3 life.” When you do, exile up to one other target creature until you control no Foods. => When Dr. Radley Madish enters, create a 2/2 colorless Food Minion artifact creature token with “{2}, {T}, Sacrifice this token: You gain 3 life.” When you do, exile up to one other target creature until you control no Foods.
+
+Æsahættr, the Subtle Knife
+rules_text: When Æsahættr enters, sacrifice a land. If you do, search your library for a land card, put it onto the battlefield tapped, then shuffle.
+Equipped creature can't be blocked as long as a land entered under your control this turn.
+Equip {1} => When Æsahættr enters, sacrifice a land. If you do, search your library for a land card, put it onto the battlefield, then shuffle.
+Equipped creature can't be blocked as long as a land entered under your control this turn.
+Equip {1}
+
+Exaltation of Echoed Steps
+
+Sarah, Terrible Eye
+rules_text: When Terrible Eye enters, draw a card, then create a colorless Equipment token with “As long as this Equipment is attached to a creature, you may cast spells from your hand without paying their mana costs” and equip {7}. => When Terrible Eye enters, draw a card, then create a colorless Equipment token with “As long as this Equipment is attached to a creature, you may cast spells from your hand without paying their mana costs” and equip {9}.
+
+GlaDOS
+
+Fort Onion
+rules_text: This land enters tapped. When it does, contest the top card of your library. [i](Exile it, then create a Conflict battle an opponent protects with defense 2 and “When this is defeated, put the contested card into your hand.”)[/i]
+{T}: Add {B} or {G}. => This land enters tapped. When it does, contest the top card of your library. [i](Exile it, then create a Conflict battle an opponent protects with defense 2 and “When this is defeated, put the contested card into its owner's hand.”)[/i]
+{T}: Add {B} or {G}.
+
+The Defect
+
+The Necrobinder
+
+The Regent
+
+The Ender Dragon
+
+Boomer
+
+Jean Grey
+
+Diana Cavendish
+
+Darth Maul
+
+Vigor of the Breaking Dawn
+
+Keeper of the Forbidden Wilds
+
+Ocean's Hungry Grasp
+
+River Surges in Sunlight
+
+Dissolving Mists
+
+Binja
+
+Jacksmith
+
+Finder of Paths Unseen
+rules_text: Flying
+{T}: Untap target land. Until end of turn, it becomes a copy of another target land. => Flying
+{T}: Untap target land. Until end of turn, it becomes a copy of another target land, except it's not legendary.
+
+Ember-Eyed Behemoth
+
+Shifting Memory of Ages
+
+Akira Slide
+
+Cactus McCoy
+
+Seadragonus Giganticus Maximus
+
+Wreck of the Titanic
+
+Pearl
+
+The Blade of Evil's Bane
+
+Link, Hero of Hyrule
+
+Wounded Waters Bleeding
+
+Sharp Fangs Behind the Leaves
+
+Sun-Bright Whirlwind
+
+Eyes Watch From the Trees
+
+Many Minds Move as One
+
+Winds of Rust and Atrophy
+
+Powerstorm
+
+Madelyne Pryor, Goblin Queen
+
+Blazing Renewal
+
+Exaltation of the Incandescent Sky
+
+Hearth-Vigil
+
+Alvin the Treacherous
+
+Exterminator Dragon
+
+Fathomless Mud of the Swamp
+
+Cain Marko, Juggernaut
+
+Devouring Teeth Lurk Underfoot
+
+Towering Roots of the Jungle
+
+Approaching Army
+
+Rosaline
+
+Solum Bufo
+
+Uku of the Unseen Eye
+
+Counterspell
+
+Telaine, the Glittering Lady
+
+Thunderspeaker
+
+Silk Merchant
+
+Diggy
+
+Steal the Moon
+
+Batman, Caped Crusader
+
+Marceline, the Vampire Queen
+
+Pamela Isley
+
+Rot
+
+Vance Deadeye Cybin
+
+Hawkeye
+
+Mount Monterey
+rules_text: This land enters tapped. When it does, contest the top card of your library. [i](Exile it, then create a Conflict battle an opponent protects with defense 2 and “When this is defeated, put the contested card into your hand.”)[/i]
+{T}: Add {G} or {W}. => This land enters tapped. When it does, contest the top card of your library. [i](Exile it, then create a Conflict battle an opponent protects with defense 2 and “When this is defeated, put the contested card into its owner's hand.”)[/i]
+{T}: Add {G} or {W}.
+
+The Saucelands
+rules_text: This land enters tapped. When it does, contest the top card of your library. [i](Exile it, then create a Conflict battle an opponent protects with defense 2 and “When this is defeated, put the contested card into your hand.”)[/i]
+{T}: Add {B} or {R}. => This land enters tapped. When it does, contest the top card of your library. [i](Exile it, then create a Conflict battle an opponent protects with defense 2 and “When this is defeated, put the contested card into its owner's hand.”)[/i]
+{T}: Add {B} or {R}.
+
+Wintergreen Way
+rules_text: This land enters tapped. When it does, contest the top card of your library. [i](Exile it, then create a Conflict battle an opponent protects with defense 2 and “When this is defeated, put the contested card into your hand.”)[/i]
+{T}: Add {R} or {G}. => This land enters tapped. When it does, contest the top card of your library. [i](Exile it, then create a Conflict battle an opponent protects with defense 2 and “When this is defeated, put the contested card into its owner's hand.”)[/i]
+{T}: Add {R} or {G}.
+
+Neapolitown
+rules_text: This land enters tapped. When it does, contest the top card of your library. [i](Exile it, then create a Conflict battle an opponent protects with defense 2 and “When this is defeated, put the contested card into your hand.”)[/i]
+{T}: Add {R} or {W}. => This land enters tapped. When it does, contest the top card of your library. [i](Exile it, then create a Conflict battle an opponent protects with defense 2 and “When this is defeated, put the contested card into its owner's hand.”)[/i]
+{T}: Add {R} or {W}.
+
+Gummy Grotto
+rules_text: This land enters tapped. When it does, contest the top card of your library. [i](Exile it, then create a Conflict battle an opponent protects with defense 2 and “When this is defeated, put the contested card into your hand.”)[/i]
+{T}: Add {U} or {R}. => This land enters tapped. When it does, contest the top card of your library. [i](Exile it, then create a Conflict battle an opponent protects with defense 2 and “When this is defeated, put the contested card into its owner's hand.”)[/i]
+{T}: Add {U} or {R}.
+
+Blue Moon Bay
+rules_text: This land enters tapped. When it does, contest the top card of your library. [i](Exile it, then create a Conflict battle an opponent protects with defense 2 and “When this is defeated, put the contested card into your hand.”)[/i]
+{T}: Add {W} or {U}. => This land enters tapped. When it does, contest the top card of your library. [i](Exile it, then create a Conflict battle an opponent protects with defense 2 and “When this is defeated, put the contested card into its owner's hand.”)[/i]
+{T}: Add {W} or {U}.
+
+Lake Chocodunk
+rules_text: This land enters tapped. When it does, contest the top card of your library. [i](Exile it, then create a Conflict battle an opponent protects with defense 2 and “When this is defeated, put the contested card into your hand.”)[/i]
+{T}: Add {U} or {B}. => This land enters tapped. When it does, contest the top card of your library. [i](Exile it, then create a Conflict battle an opponent protects with defense 2 and “When this is defeated, put the contested card into its owner's hand.”)[/i]
+{T}: Add {U} or {B}.
+
+Leaf Landing
+rules_text: This land enters tapped. When it does, contest the top card of your library. [i](Exile it, then create a Conflict battle an opponent protects with defense 2 and “When this is defeated, put the contested card into your hand.”)[/i]
+{T}: Add {G} or {U}. => This land enters tapped. When it does, contest the top card of your library. [i](Exile it, then create a Conflict battle an opponent protects with defense 2 and “When this is defeated, put the contested card into its owner's hand.”)[/i]
+{T}: Add {G} or {U}.
+
+Cookie Caverns
+rules_text: This land enters tapped. When it does, contest the top card of your library. [i](Exile it, then create a Conflict battle an opponent protects with defense 2 and “When this is defeated, put the contested card into your hand.”)[/i]
+{T}: Add {W} or {B}. => This land enters tapped. When it does, contest the top card of your library. [i](Exile it, then create a Conflict battle an opponent protects with defense 2 and “When this is defeated, put the contested card into its owner's hand.”)[/i]
+{T}: Add {W} or {B}.
+
+The X Zone
+rules_text: {T}: Add {C}
+{X}, {T}: Add X mana of any one color.
+{X}{X}, {T}, Sacrifice The X Zone: Contest the top X cards of your library. [i](To contest a card, X-ile it, then create a Conflict battle an opponent protects with defense 2 and “When this is defeated, put the contested card into your hand.”)[/i] => {T}: Add {C}
+{X}, {T}: Add X mana of any one color.
+{X}{X}, {T}, Sacrifice The X Zone: Contest the top X cards of your library. [i](To contest a card, X-ile it, then create a Conflict battle an opponent protects with defense 2 and “When this is defeated, put the contested card into its owner's hand.”)[/i]
+
+Robin, Boy Wonder
+
+Skyship Stormchaser
+
+Slay the Spire
+
+Sherlock Holmes
+
+Chewbacca
+
+Renfield the Madman
+
+Blood Draws Predators
+
+Sap the Strength of Multitudes
+
+Draw Towards a Consuming Void
+
+Dr. John Watson
+
+Willow Rosenberg
+
+The Dragon Jewel
+
+Csilla, the Saddle Knight
+
+Vampire Spydragon
+
+Luau LePunch
+
+Wildheart Guff
+rules_text: When Wildheart Guff enters, you gain 5 life, draw a card, and create a tapped colorless land token named Everywhere that is every basic land type.
+{2}: Choose one. Activate only once each turn —
+• Draw a card.
+• Create a tapped colorless land token named Everywhere that is every basic land type. => When Wildheart Guff enters, you gain 5 life, draw a card, and create a tapped colorless land token named Everywhere that is every basic land type.
+{2}: Choose one. Activate only once each turn.
+• Draw a card.
+• Create a tapped colorless land token named Everywhere that is every basic land type.
+
+HORUS Gorgon
+
+Elderstahl, Twilight of the Gods
+
+Beta Ray Bill
+
+Roma, Omniversal Guardian
+
+The Siege Perilous
+
+Rahne Sinclair, Wolfsbane
+
+Sam Guthrie, Cannonball
+
+The Death Note
+
+Amara Juliana Olivians Aquilla
+
+Days of Future Past
+
+Hulkbuster Armor Model 52
+rules_text: When Hulkbuster Armor Model 52 enters and whenever equipped creature attacks, it fights up to one target creature an opponent controls.
+Equipped creature gets +5/+5.
+Equip {6} => When Hulkbuster Armor Model 52 enters and whenever equipped creature attacks, it fights up to one target creature an opponent controls.
+Equipped creature gets +5/+5.
+Reconfigure {6} [i]({6}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)[/i]
+
+Connie's Crystal Sword
+
+Darth Sidious
+
+Force Lightning
+
+Shadow the Hedgehog
+
+Chaos Control
+
+Doctor Ivo Robotnik
+
+General Kai, the Collector
+
+Parry
+
+Roberto Da Costa, Sunspot
+
+Puss in Boots
+
+A Fistful of Dirt
+
+Pillar of Living Flame
+
+Sunflower
+
+Hardwon Surefoot
+rules_text: Double strike, trample, haste
+Ward—Pay 4 life [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 4 life.)[/i] => Double strike, trample, haste
+Ward—Pay 4 life. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 4 life.)[/i]
+
+Proconsul H. L. Ravilla
+
+Tartarus
+
+There Is No Escape
+
+The Wild Robot
+
+Isca the Unbeaten
+
+Branch Mine
+
+Galad Rosell, White Rose of Galaderon
+
+Backbiter
+
+Atomic Breath
+
+Cast Down Into The Briny Deep
+
+Count Dracula
+
+Vengeful Spirit
+
+The Bloody Crow of Cainhurst
+
+Substitution Jutsu
+
+Endeavour, the Dragonsword
+
+Driller Dragon
+
+Geronimo Stilton
+
+Avohkii, the Mask of Light
+rules_text: Living weapon [i](When this Equipment enters, create a 0/0 black Germ creature token, then attach this to it.)[/i]
+Equipped creature gets +2/+2 and has vigilance and “Once during each of your turns, you may cast a permanent spell with mana value 2 or less from your graveyard.”
+Equip {3} => Job Select [i](When this Equipment enters, create a 1/1 colorless Hero creature token, then attach this to it.)[/i]
+Equipped creature gets +1/+1 and has vigilance and “Once during each of your turns, you may cast a permanent spell with mana value 2 or less from your graveyard.”
+Equip {3}
+
+Chronoskimming
+
+Escape From Tarkov
+
+The Stone Gardens
+
+Great Chariot Cannon
+
+Bequeath
+
+Groundhog Day
+
+Banderbear
+
+Godzilla
+rules_text: Trample
+Whenever Godzilla enters or attacks, choose one —
+• Godzilla fights target creature.
+• Exile target noncreature permanent.
+Sacrifice a land: Return Godzilla from your graveyard to your hand. => Trample
+When Godzilla enters, choose one —
+• Godzilla fights target creature.
+• Exile target noncreature permanent.
+Sacrifice two lands: Return Godzilla from your graveyard to your hand.
+
+Shape the Self Anew
+
+Marquise Recruiter
+
+Godzilla vs. Kong
+
+What We're Gonna Do Today
+
+Blood-Sated Sword Soul
+
+The Xenomorph Queen
+
+Shai-Hulud
+
+Thirty-Cubit Spear
+
+Martin and Chris Kratt
+
+The Dark Prophecy
+
+Ironmonger
+
+Shield Bash
+
+Pinpoint
+
+Crash Landing
+
+Hang
+
+All For One
+
+Stampede
+
+Bluestar's Prophecy
+
+Shoot First
+
+Banish
+
+Creeper
+
+The Crick
+
+Grimhawk
+
+Frostwind
+
+Galaderon, City in the Clouds
+
+Asphodel
+
+Elysium
+rules_text: {T}: Add {C}.
+{T}, Pay 1 life: Add {G} or {U}.
+{2}{G}{U}, Discard Elysium: Create a token that's a copy of target creature, except it's a 1/1 Shade with flying. Activate only as a sorcery. => {T}: Add {C}.
+{T}, Pay 1 life: Add {G} or {U}.
+{2}{G}{U}, Discard Elysium: Create a token that's a copy of target creature, except it's a 1/1 Shade with flying and it's not legendary. Activate only as a sorcery.
+
+Undertown
+
+The Mire
+
+The Autumn Court
+
+Throne, the Red City
+
+Dream No More
+
+Bench
+
+Grim Reflection
+
+Greenpath
+rules_text: {T}, Pay 1 life, Sacrifice Greenpath: Search your library for a Forest card, put it onto the battlefield, then shuffle. => {T}, Pay 1 life, Sacrifice Greenpath: Search your library for a Forest card, put it onto the battlefield, then shuffle.
+Cycling {G}
+
+No Cost Too Great
+
+Hound Suit
+
+The Hairy Scary Librarian
+
+Litany Against Fear
+
+Paul Muad'Dib Atreides
+rules_text: Whenever a land you control enters, put a +1/+1 counter on Paul Muad'Dib Atreides.
+Whenever Paul Muad'Dib Atreides attacks, if his power is 3 or greater, create a colorless Desert land token with “{T}: Add {C}.” If his power is 6 or greater, create a 6/6 green Wurm creature token. => [i]Landfall[/i] — Whenever a land you control enters, put a +1/+1 counter on Paul Muad'Dib Atreides.
+Whenever Paul Muad'Dib Atreides attacks, if his power is 3 or greater, create a colorless Desert land token with “{T}: Add {C}.” If his power is 6 or greater, create a 6/6 green Wurm creature token.
+
+Path of Pain
+
+Somewhere Over The Rainbow
+
+The White Palace
+
+City of Tears
+rules_text: {T}, Pay 1 life, Sacrifice City of Tears: Search your library for an Island card, put it onto the battlefield, then shuffle. => {T}, Pay 1 life, Sacrifice City of Tears: Search your library for an Island card, put it onto the battlefield, then shuffle.
+Cycling {U}
+
+Crystal Peak
+rules_text: {T}, Pay 1 life, Sacrifice Crystal Peak: Search your library for a Mountain card, put it onto the battlefield, then shuffle. => {T}, Pay 1 life, Sacrifice Crystal Peak: Search your library for a Mountain card, put it onto the battlefield, then shuffle.
+Cycling {R}
+
+Agent P
+
+Deepnest
+rules_text: {T}, Pay 1 life, Sacrifice Deepnest: Search your library for a Swamp card, put it onto the battlefield, then shuffle => {T}, Pay 1 life, Sacrifice Deepnest: Search your library for a Swamp card, put it onto the battlefield, then shuffle.
+Cycling {B}
+
+Kingdom's Edge
+rules_text: {T}, Pay 1 life, Sacrifice Kingdom's Edge: Search your library for a Plains card, put it onto the battlefield, then shuffle. => {T}, Pay 1 life, Sacrifice Kingdom's Edge: Search your library for a Plains card, put it onto the battlefield, then shuffle.
+Cycling {W}
+
+Ideate
+
+Cornifer the Mapmaker
+
+Laura Kinney, Wolverine
+
+Undyne, Spear of Justice
+
+Second Wave
+
+Lorna Dane, Polaris
+
+Silk Spear
+
+Zaladane, Empress of the Savage Land
+rules_text: Deathtouch
+[i]Landfall[/i] — Whenever a land you control enters, create a 1/1 black Minion creature token.
+{5}: Another target creature you control becomes Garokk, the Petrified Man, a 5/5 legendary God artifact creature with menace. => Deathtouch
+[i]Landfall[/i] — Whenever a land you control enters, create a 1/1 black Minion creature token.
+{5}: Another target creature you control becomes Garokk, the Petrified Man, a legendary 5/5 black God artifact creature with menace.
+
+Lex Luthor
+
+Bukvar
+
+King Thorin Oakenshield
+
+Decapitate
+
+Grand Mother Silk
+
+Emma Frost, White Queen
+
+Great Slash
+
+Fraiden French, Margrave
+
+Enweb
+
+Nailmaster Oro
+
+Hornet, Daughter of Hallownest
+
+Optic Blast
+
+Strike the Match
+
+The Stagways
+
+Egwene, The Lady Snake
+
+Obi-Wan Kenobi
+
+The Blood-Red Glister
+
+Pikachu
+
+Po, the Dragon Warrior
+
+The Return of Turbot Smeal
+rules_text: Return target creature card with mana value 3 or less from your graveyard to the battlefield. It's an Illusion in addition to its other types and gains “when this creature becomes the target of a spell, sacrifice it.”
+Swampcycling {1} [i]({1}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)[/i] => Return target creature card with mana value 3 or less from your graveyard to the battlefield. It's an Illusion in addition to its other types and gains “When this creature becomes the target of a spell, sacrifice it.”
+Swampcycling {1} [i]({1}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Cerebro
+
+The Big Friendly Giant
+
+Prowlgrin
+
+Shakra
+
+Marabelle the Terrible
+
+Titano the Super-Ape
+
+To Me, My X-Men!
+
+Kingshammer
+
+The Predator
+
+Alien vs. Predator
+
+The Woodsman's Lantern
+
+The Sands of Karak
+
+Bilewater
+
+Greymoor
+
+The Deep Docks
+
+Shellwood
+
+Moss Grotto
+
+Mount Fay
+
+Bellhart
+
+Far Fields
+
+Three Sword Style
+
+LEGO Batman
+
+Mine
+
+One For All
+
+Phantom Zone Projector
+
+The Ticking-Thing
+
+Vengeance as a Burning Plague
+
+Forgotten Crossroads
+
+Board the Princess Andromeda
+
+Percy Jackson
+
+Anakin Skywalker
+
+Beverly Toegold V
+
+Iorek Byrnison
+
+Adora, Princess of Power
+
+Betsy Braddock, Captain Britain
+
+Harleen Quinzel
+
+Opal Luna Saturnyne
+
+Artakha, the Great Designer
+
+Metal City Mayhem
+rules_text: [i](Choose only one page as a sorcery to add its effects.)[/i]
+When this Manuscript enters, return target artifact or creature to its owner's hand.
+{4}{U}{U} Page 45
+At the beginning of your upkeep, create a token that's a copy of target creature you control, except it's an artifact in addition to its other types.
+{2}{U} Page 212
+Whenever you draw a card, put a +1/+1 counter on target creature you control.
+ => [i](Choose only one page as a sorcery to add its effects.)[/i]
+When this Manuscript enters, return target artifact or creature to its owner's hand.
+{4}{U}{U} Page 45
+At the beginning of your upkeep, create a token that's a copy of target creature you control, except it's an artifact in addition to its other types and it's not legendary.
+{2}{U} Page 212
+Whenever you draw a card, put a +1/+1 counter on target creature you control.
+
+special_text: [i](Choose only one page as a sorcery to add its effects.)[/i]
+When this Manuscript enters, return target artifact or creature to its owner's hand.
+{4}{U}{U} Page 45
+At the beginning of your upkeep, create a token that's a copy of target creature you control, except it's an artifact in addition to its other types.
+{2}{U} Page 212
+Whenever you draw a card, put a +1/+1 counter on target creature you control.
+ => [i](Choose only one page as a sorcery to add its effects.)[/i]
+When this Manuscript enters, return target artifact or creature to its owner's hand.
+{4}{U}{U} Page 45
+At the beginning of your upkeep, create a token that's a copy of target creature you control, except it's an artifact in addition to its other types and it's not legendary.
+{2}{U} Page 212
+Whenever you draw a card, put a +1/+1 counter on target creature you control.
+
+
+Yogg-Saron, Hope's End
+
+Virginia Pepper Potts
+
+Map Token
+
+Super Mario
+
+Karzanhi, the Tormentor
+
+Jolene the Green
+
+Thiala, Hero of Bahumia
+
+General Jack Ripper
+rules_text: Ward—Discard a card
+When General Jack Ripper enters, choose one —
+• You draw a card and you lose 1 life.
+• General Jack Ripper becomes prepared. => Ward—Discard a card.
+When General Jack Ripper enters, choose one —
+• You draw a card and you lose 1 life.
+• General Jack Ripper becomes prepared.
+
+Pendeghast the Betrayer
+
+Horde Captain Surge Boombucket
+
+The Soul Master
+
+Professor X
+
+Ash Ketchum, Creature Collector
+
+Vaneira the Flower Queen
+
+Oath of the Green Knight
+
+Sorrow and Remembrance
+
+UnLondon City Bus
+
+The Yellow Submarine
+
+Jacky Magus
+
+Galaderon Drill-Car
+
+Starlight Bolt
+
+Guardian of Laputa
+
+Spirited Away
+
+Gift of the Phoenix
+
+The Sorceress Yubaba
+
+Air Destroyer Goliath
+
+The Amulet of Samarkand
+
+Tanuki
+rules_text: While you're searching your library, you may cast this card from your library.
+When Tanuki enters, you may sacrifice another creature. If you so, search your library for a creature card with mana value less than or equal to 1 plus the sacrificed creature's mana value, put that card onto the battlefield, then shuffle. => While you're searching your library, you may cast this card from your library.
+When Tanuki enters, you may sacrifice another creature. If you so, search your library for a creature card with mana value equal to 1 plus the sacrificed creature's mana value, put that card onto the battlefield, then shuffle.
+
+Luigi Mario
+
+Lightning's Boon
+
+Bayou
+
+Scrubland
+
+Tundra
+
+Tropical Island
+
+Savannah
+
+Plateau
+
+Volcanic Island
+
+Underground Sea
+
+Badlands
+
+Taiga
+
+Warlock
+rules_text: Affinity for artifacts. [i](This spell costs {1} less to cast for each artifact you control.)[/i]
+You may have this creature enter as a copy of any permanent on the battlefield, except it's an artifact in addition to its other types and its name is Warlock. => Affinity for artifacts [i](This spell costs {1} less to cast for each artifact you control.)[/i]
+You may have this creature enter as a copy of any permanent on the battlefield, except it's an artifact in addition to its other types and its name is Warlock.
+
+The Wormways
+
+Mothwing Cloak
+
+Manifest Incarnation
+
+The Crown, Armored and Protecting
+
+A Vacation to Munchmore
+
+Firestar of Thunderclan
+
+Gathering at Fourtrees
+
+Cast to the Winds
+
+Spice Melange
+
+Viv Vision
+
+The Millennium Puzzle
+
+V1, Death Machine
+
+The Bat Signal
+
+Feyd-Rautha Harkonnen
+
+It's Alive!
+
+Miles Prower
+
+Woke Quintar
+
+Raptortongue
+
+Atom Rom, Kill Screen
+
+Charmspeak
+
+Serpent
+
+Warrior Cat
+
+Beast
+
+Bird
+
+Minion
+
+
+VERSION 9 CHANGELOG
 ====================
 
 The Millennium Puzzle added.
