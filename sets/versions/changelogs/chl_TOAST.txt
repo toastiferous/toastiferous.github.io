@@ -1,4 +1,208 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+
+
+The Sepia Knight
+
+Jenny Cavanaugh
+
+Moment of Twilight
+
+The First Age of Flight
+
+Tears That Fill The River
+
+Lyra Silvertongue
+
+The Elf, Steward of Seasons
+
+Quintinius Cloud Wolf Verginix
+
+Princess Leia
+
+Luke Skywalker
+
+Netin Foundry
+
+Walter White
+
+The Infinity Gauntlet
+
+Dr. Radley Madish
+
+Exaltation of Echoed Steps
+
+Sarah, Terrible Eye
+
+GlaDOS
+
+The Defect
+
+The Necrobinder
+
+The Regent
+
+The Ender Dragon
+
+Vigor of the Breaking Dawn
+
+Binja
+
+Jacksmith
+
+Shifting Memory of Ages
+
+Cactus McCoy
+
+Wreck of the Titanic
+
+Sharp Fangs Behind the Leaves
+
+Many Minds Move as One
+
+Exaltation of the Incandescent Sky
+
+Cain Marko, Juggernaut
+
+Uku of the Unseen Eye
+
+Silk Merchant
+
+Diggy
+
+Pamela Isley
+
+Skyship Stormchaser
+
+Slay the Spire
+
+Sherlock Holmes
+
+Blood Draws Predators
+
+Csilla, the Saddle Knight
+
+Wildheart Guff
+
+Chaos Control
+
+Doctor Ivo Robotnik
+
+Parry
+
+Roberto Da Costa, Sunspot
+
+A Fistful of Dirt
+
+Proconsul H. L. Ravilla
+
+Branch Mine
+
+Galad Rosell, White Rose of Galaderon
+
+Count Dracula
+
+The Bloody Crow of Cainhurst
+
+Endeavour, the Dragonsword
+
+Geronimo Stilton
+
+Avohkii, the Mask of Light
+
+Bequeath
+
+Banderbear
+
+Marquise Recruiter
+
+Blood-Sated Sword Soul
+
+Ironmonger
+
+Bluestar's Prophecy
+
+Grimhawk
+
+Galaderon, City in the Clouds
+
+The Autumn Court
+
+Hound Suit
+
+Paul Muad'Dib Atreides
+
+Somewhere Over The Rainbow
+
+Ideate
+
+Cornifer the Mapmaker
+
+Lorna Dane, Polaris
+
+Silk Spear
+
+Zaladane, Empress of the Savage Land
+
+King Thorin Oakenshield
+
+Grand Mother Silk
+
+Strike the Match
+
+The Blood-Red Glister
+
+Shakra
+
+Marabelle the Terrible
+
+To Me, My X-Men!
+
+Kingshammer
+
+The Woodsman's Lantern
+
+LEGO Batman
+
+Mine
+
+One For All
+
+Artakha, the Great Designer
+
+Yogg-Saron, Hope's End
+
+Jolene the Green
+
+Thiala, Hero of Bahumia
+
+Horde Captain Surge Boombucket
+
+The Soul Master
+
+Oath of the Green Knight
+
+Sorrow and Remembrance
+
+The Yellow Submarine
+
+Jacky Magus
+
+Galaderon Drill-Car
+
+Luigi Mario
+
+A Vacation to Munchmore
+
+Firestar of Thunderclan
+
+V1, Death Machine
+
+Atom Rom, Kill Screen
+
+
+VERSION 12 CHANGELOG
 ====================
 
 

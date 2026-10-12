@@ -180,7 +180,7 @@
             "alias": "",
             "position": "7",
             "rotated": false,
-            "notes": "!tokens Powerstone<1>",
+            "notes": "!tokens Powerstone TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -249,7 +249,7 @@
             "alias": "",
             "position": "10",
             "rotated": false,
-            "notes": "!tokens Clue<1>",
+            "notes": "!tokens Clue TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -272,7 +272,7 @@
             "alias": "",
             "position": "11",
             "rotated": false,
-            "notes": "!tokens Powerstone<X>",
+            "notes": "!tokens Powerstone TOAST<X>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -318,7 +318,7 @@
             "alias": "",
             "position": "13",
             "rotated": false,
-            "notes": "!tokens Vehicle<1>",
+            "notes": "!tokens Vehicle TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -364,7 +364,7 @@
             "alias": "",
             "position": "15",
             "rotated": false,
-            "notes": "!tokens Dinosaur<1>",
+            "notes": "!tokens Dinosaur TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -410,7 +410,7 @@
             "alias": "",
             "position": "17",
             "rotated": false,
-            "notes": "59e19092335873c95905d8eaab01d70b.jpg \u2014 Rory Phillips\n!tokens Alethiometer<1>",
+            "notes": "59e19092335873c95905d8eaab01d70b.jpg \u2014 Rory Phillips\n!tokens Alethiometer TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -433,7 +433,7 @@
             "alias": "",
             "position": "18",
             "rotated": false,
-            "notes": "!tokens Faerie<1>",
+            "notes": "!tokens Faerie TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -502,7 +502,7 @@
             "alias": "",
             "position": "21",
             "rotated": false,
-            "notes": "!tokens Powerstone<2>",
+            "notes": "!tokens Powerstone TOAST<2>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -525,7 +525,7 @@
             "alias": "",
             "position": "22",
             "rotated": false,
-            "notes": "!tokens Rebel<1>",
+            "notes": "!tokens Rebel TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -548,7 +548,7 @@
             "alias": "",
             "position": "23",
             "rotated": false,
-            "notes": "tony-foti-star-wars-tcg-endor-luke-by-anthonyfoti-d7v5ojb\n!tokens Weapon<1>",
+            "notes": "tony-foti-star-wars-tcg-endor-luke-by-anthonyfoti-d7v5ojb\n!tokens Weapon TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -640,7 +640,7 @@
             "alias": "",
             "position": "27",
             "rotated": false,
-            "notes": "martin-vos-sacredfoundryaltersleeve2.jpg\n!tokens Powerstone<1>",
+            "notes": "martin-vos-sacredfoundryaltersleeve2.jpg\n!tokens Powerstone TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -663,7 +663,7 @@
             "alias": "",
             "position": "28",
             "rotated": false,
-            "notes": "When Walter White enters, create a colorless artifact token named Crystal Meth with \u201c1, T, Sacrifice this artifact: Add 1 mana of any color\u201d and \u201cWhen this artifact is put into a graveyard from the battlefield, draw a card.\u201d\n!tokens Crystal Meth<1>",
+            "notes": "When Walter White enters, create a colorless artifact token named Crystal Meth with \u201c1, T, Sacrifice this artifact: Add 1 mana of any color\u201d and \u201cWhen this artifact is put into a graveyard from the battlefield, draw a card.\u201d\n!tokens Crystal Meth TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -709,7 +709,7 @@
             "alias": "",
             "position": "30",
             "rotated": false,
-            "notes": "!tokens Powerstone<1>",
+            "notes": "!tokens Powerstone TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1031,7 +1031,7 @@
             "alias": "",
             "position": "44",
             "rotated": false,
-            "notes": "When Dr. Radley Madish enters, create a battle token with 4 defense and \u201cWhen this battle enters, exile target creature until it leaves the battlefield.\u201d You're defending it.\n!tokens Food Minion<1>",
+            "notes": "When Dr. Radley Madish enters, create a battle token with 4 defense and \u201cWhen this battle enters, exile target creature until it leaves the battlefield.\u201d You're defending it.\n!tokens Food Minion TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1146,7 +1146,7 @@
             "alias": "",
             "position": "49",
             "rotated": false,
-            "notes": "!tokens Bird <1>",
+            "notes": "!tokens Bird TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1238,7 +1238,7 @@
             "alias": "",
             "position": "53",
             "rotated": false,
-            "notes": "!tokens Terrible Eye Token<1>",
+            "notes": "!tokens Terrible Eye Token TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1261,7 +1261,7 @@
             "alias": "",
             "position": "54",
             "rotated": false,
-            "notes": "tumblr_mb3iwi4gaZ1qdqlkxo1_1280.jpg\n!tokens Testing Module<1>",
+            "notes": "tumblr_mb3iwi4gaZ1qdqlkxo1_1280.jpg\n!tokens Testing Module TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1537,7 +1537,7 @@
             "alias": "",
             "position": "66",
             "rotated": false,
-            "notes": "!tokens Powerstone<1>",
+            "notes": "!tokens Powerstone TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1583,7 +1583,7 @@
             "alias": "",
             "position": "68",
             "rotated": false,
-            "notes": "!tokens Skeleton Army<1>",
+            "notes": "!tokens Skeleton Army TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1606,7 +1606,7 @@
             "alias": "",
             "position": "69",
             "rotated": false,
-            "notes": "!tokens Minion<1>",
+            "notes": "!tokens Minion TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1675,7 +1675,7 @@
             "alias": "",
             "position": "72",
             "rotated": false,
-            "notes": "the_ender_dragon_by_pizzaember_dftyy0g-fullview.jpg\nWhen The Ender Dragon dies, create Dragon's Egg, a black artifact token with \u201cWhen this artifact leaves the battlefield, return target card named The Ender Dragon from your graveyard to the battlefield.\u201d\n!tokens Dragon's Egg<1>",
+            "notes": "the_ender_dragon_by_pizzaember_dftyy0g-fullview.jpg\nWhen The Ender Dragon dies, create Dragon's Egg, a black artifact token with \u201cWhen this artifact leaves the battlefield, return target card named The Ender Dragon from your graveyard to the battlefield.\u201d\n!tokens Dragon's Egg TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1790,7 +1790,7 @@
             "alias": "",
             "position": "77",
             "rotated": false,
-            "notes": "IMG_4170.jpg\n!tokens Soldier<2>",
+            "notes": "IMG_4170.jpg\n!tokens Soldier TOAST<2>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1905,7 +1905,7 @@
             "alias": "",
             "position": "82",
             "rotated": false,
-            "notes": "!tokens Junk<1>",
+            "notes": "!tokens Junk TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1928,7 +1928,7 @@
             "alias": "",
             "position": "83",
             "rotated": false,
-            "notes": "!tokens Weapon<1>",
+            "notes": "!tokens Weapon TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1997,7 +1997,7 @@
             "alias": "",
             "position": "86",
             "rotated": false,
-            "notes": "Shifting_Memory_of_Ages\n!tokens Treasure<1>",
+            "notes": "Shifting_Memory_of_Ages\n!tokens Treasure TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2043,7 +2043,7 @@
             "alias": "",
             "position": "88",
             "rotated": false,
-            "notes": "Site-community-image copy.jpg\n!tokens Weapon<1>; The Thorned Emerald<1>",
+            "notes": "Site-community-image copy.jpg\n!tokens Weapon TOAST<1>; The Thorned Emerald TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2089,7 +2089,7 @@
             "alias": "",
             "position": "90",
             "rotated": false,
-            "notes": "wreck-of-the-titanic-illustration-christian-jegou\n!tokens Heart of the Ocean<1>",
+            "notes": "wreck-of-the-titanic-illustration-christian-jegou\n!tokens Heart of the Ocean TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2204,7 +2204,7 @@
             "alias": "",
             "position": "95",
             "rotated": false,
-            "notes": "!tokens Beast<1>",
+            "notes": "!tokens Beast TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2273,7 +2273,7 @@
             "alias": "",
             "position": "98",
             "rotated": false,
-            "notes": "!tokens Bird<1>",
+            "notes": "!tokens Bird TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2388,7 +2388,7 @@
             "alias": "",
             "position": "103",
             "rotated": false,
-            "notes": "!tokens Elemental<1>",
+            "notes": "!tokens Elemental TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2503,7 +2503,7 @@
             "alias": "",
             "position": "108",
             "rotated": false,
-            "notes": "Juggernaut_17 copy.jpg\nJuggernaut copy.jpg\n!tokens The Crimson Gem of Cyttorak<1>",
+            "notes": "Juggernaut_17 copy.jpg\nJuggernaut copy.jpg\n!tokens The Crimson Gem of Cyttorak TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2641,7 +2641,7 @@
             "alias": "",
             "position": "114",
             "rotated": false,
-            "notes": "!tokens Berry<1>",
+            "notes": "!tokens Berry TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2733,7 +2733,7 @@
             "alias": "",
             "position": "118",
             "rotated": false,
-            "notes": "!tokens Treasure<1>",
+            "notes": "!tokens Treasure TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2756,7 +2756,7 @@
             "alias": "",
             "position": "119",
             "rotated": false,
-            "notes": "Screenshot 2026-06-23 at 8.30.30\u202fPM.jpg\n!tokens Treasure<1>; Junk<1>",
+            "notes": "Screenshot 2026-06-23 at 8.30.30\u202fPM.jpg\n!tokens Treasure TOAST<1>; Junk TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2848,7 +2848,7 @@
             "alias": "",
             "position": "123",
             "rotated": false,
-            "notes": "ibrahem-swaid-pi41-04s copy.jpg\nmateus-manhanini-poison-ivy-cover2.jpg\n!tokens Plant<1>",
+            "notes": "ibrahem-swaid-pi41-04s copy.jpg\nmateus-manhanini-poison-ivy-cover2.jpg\n!tokens Plant TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3193,7 +3193,7 @@
             "alias": "",
             "position": "138",
             "rotated": false,
-            "notes": "!tokens Powerstone<1>",
+            "notes": "!tokens Powerstone TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3216,7 +3216,7 @@
             "alias": "",
             "position": "139",
             "rotated": false,
-            "notes": "0_AR3PwazlBVAQcMsJ.jpg\n!tokens Treasure<1>",
+            "notes": "0_AR3PwazlBVAQcMsJ.jpg\n!tokens Treasure TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3239,7 +3239,7 @@
             "alias": "",
             "position": "140",
             "rotated": false,
-            "notes": "!tokens Clue<1>",
+            "notes": "!tokens Clue TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3308,7 +3308,7 @@
             "alias": "",
             "position": "143",
             "rotated": false,
-            "notes": "!tokens Beast<2>",
+            "notes": "!tokens Beast TOAST<2>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3446,7 +3446,7 @@
             "alias": "",
             "position": "149",
             "rotated": false,
-            "notes": "!tokens Vial<1>",
+            "notes": "!tokens Vial TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3515,7 +3515,7 @@
             "alias": "",
             "position": "152",
             "rotated": false,
-            "notes": "!tokens Everywhere<1>",
+            "notes": "!tokens Everywhere TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3883,7 +3883,7 @@
             "alias": "",
             "position": "168",
             "rotated": false,
-            "notes": "6937167_2301375_bocku_chaos-control.082a3e89778c61372c8b4e5075fb48f3 copy.jpg\n!tokens Treasure<1>",
+            "notes": "6937167_2301375_bocku_chaos-control.082a3e89778c61372c8b4e5075fb48f3 copy.jpg\n!tokens Treasure TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3906,7 +3906,7 @@
             "alias": "",
             "position": "169",
             "rotated": false,
-            "notes": "231b0a9a980a3deb6a86fb92093b1d24.jpg\n!tokens Construct<1>",
+            "notes": "231b0a9a980a3deb6a86fb92093b1d24.jpg\n!tokens Construct TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3952,7 +3952,7 @@
             "alias": "",
             "position": "171",
             "rotated": false,
-            "notes": "D-fcwtzX4AEHjvU.jpg\n!tokens Weapon<1>",
+            "notes": "D-fcwtzX4AEHjvU.jpg\n!tokens Weapon TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3975,7 +3975,7 @@
             "alias": "",
             "position": "172",
             "rotated": false,
-            "notes": "Sunspot_04 copy.jpg\nRoberto_da_Costa_(Earth-616)_from_Avengers_World_Vol_1_19_001 copy.jpg\n!tokens Treasure<1>",
+            "notes": "Sunspot_04 copy.jpg\nRoberto_da_Costa_(Earth-616)_from_Avengers_World_Vol_1_19_001 copy.jpg\n!tokens Treasure TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4021,7 +4021,7 @@
             "alias": "",
             "position": "174",
             "rotated": false,
-            "notes": "!tokens Junk<1>",
+            "notes": "!tokens Junk TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4113,7 +4113,7 @@
             "alias": "",
             "position": "178",
             "rotated": false,
-            "notes": "!tokens Soldier<1>; Glorious Anthem<1>",
+            "notes": "!tokens Soldier TOAST<1>; Glorious Anthem TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4228,7 +4228,7 @@
             "alias": "",
             "position": "183",
             "rotated": false,
-            "notes": "!tokens Treasure<1>",
+            "notes": "!tokens Treasure TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4251,7 +4251,7 @@
             "alias": "",
             "position": "184",
             "rotated": false,
-            "notes": "!tokens Weapon<1>",
+            "notes": "!tokens Weapon TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4343,7 +4343,7 @@
             "alias": "",
             "position": "188",
             "rotated": false,
-            "notes": "count-dracula-vintage-print copy.jpg\n!tokens Blood<1>",
+            "notes": "count-dracula-vintage-print copy.jpg\n!tokens Blood TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4389,7 +4389,7 @@
             "alias": "",
             "position": "190",
             "rotated": false,
-            "notes": "!tokens Blood<1>",
+            "notes": "!tokens Blood TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4435,7 +4435,7 @@
             "alias": "",
             "position": "192",
             "rotated": false,
-            "notes": "Endeavor_Image_1 copy.jpg\n!tokens Map<1>",
+            "notes": "Endeavor_Image_1 copy.jpg\n!tokens Map TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4481,7 +4481,7 @@
             "alias": "",
             "position": "194",
             "rotated": false,
-            "notes": "!tokens Clue<1>",
+            "notes": "!tokens Clue TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4504,7 +4504,7 @@
             "alias": "",
             "position": "195",
             "rotated": false,
-            "notes": "takanuva-08-fanart-comic-battle-for-power-n-14-v0-xlgwjetyy0471 copy.jpg\n!tokens Hero",
+            "notes": "takanuva-08-fanart-comic-battle-for-power-n-14-v0-xlgwjetyy0471 copy.jpg\n!tokens Hero TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4619,7 +4619,7 @@
             "alias": "",
             "position": "200",
             "rotated": false,
-            "notes": "needs art\n!tokens Weapon<1>",
+            "notes": "needs art\n!tokens Weapon TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4665,7 +4665,7 @@
             "alias": "",
             "position": "202",
             "rotated": false,
-            "notes": "victorin-ripert-banderbear.jpg\n!tokens Food<1>",
+            "notes": "victorin-ripert-banderbear.jpg\n!tokens Food TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4734,7 +4734,7 @@
             "alias": "",
             "position": "205",
             "rotated": false,
-            "notes": "!tokens Soldier<1>",
+            "notes": "!tokens Soldier TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4803,7 +4803,7 @@
             "alias": "",
             "position": "208",
             "rotated": false,
-            "notes": "!tokens Weapon<4>",
+            "notes": "!tokens Weapon TOAST<4>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4941,7 +4941,7 @@
             "alias": "",
             "position": "214",
             "rotated": false,
-            "notes": "!tokens Treasure<1>",
+            "notes": "!tokens Treasure TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5102,7 +5102,7 @@
             "alias": "",
             "position": "221",
             "rotated": false,
-            "notes": "!tokens Warrior Cat<1>",
+            "notes": "!tokens Warrior Cat TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5217,7 +5217,7 @@
             "alias": "",
             "position": "226",
             "rotated": false,
-            "notes": "EW81jGAUMAAQlQo.jpg\n!tokens Blood<1>",
+            "notes": "EW81jGAUMAAQlQo.jpg\n!tokens Blood TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5263,7 +5263,7 @@
             "alias": "",
             "position": "228",
             "rotated": false,
-            "notes": "EW81jF_UcAITcr0.jpg\nEW81jGBUMAIyjNy.jpg\n!tokens Soldier<3>",
+            "notes": "EW81jF_UcAITcr0.jpg\nEW81jGBUMAIyjNy.jpg\n!tokens Soldier TOAST<3>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5378,7 +5378,7 @@
             "alias": "",
             "position": "233",
             "rotated": false,
-            "notes": "EW81jF_UcAITcr0.jpg\n!tokens Vehicle<1>",
+            "notes": "EW81jF_UcAITcr0.jpg\n!tokens Vehicle TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5539,7 +5539,7 @@
             "alias": "",
             "position": "240",
             "rotated": false,
-            "notes": "Hounds_(Earth-811)_from_Civil_War_II_X-Men_Vol_1_3_001.JPG copy.jpg\n!tokens Mutant<1>\n\u201cMove, you hounds! Move! Run them down!\u201d\n\u2014Ahab",
+            "notes": "Hounds_(Earth-811)_from_Civil_War_II_X-Men_Vol_1_3_001.JPG copy.jpg\n!tokens Mutant TOAST<1>\n\u201cMove, you hounds! Move! Run them down!\u201d\n\u2014Ahab",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5608,7 +5608,7 @@
             "alias": "",
             "position": "243",
             "rotated": false,
-            "notes": "!tokens Desert<1>; Wurm<1>",
+            "notes": "!tokens Desert TOAST<1>; Wurm TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5654,7 +5654,7 @@
             "alias": "",
             "position": "245",
             "rotated": false,
-            "notes": "!tokens Everywhere<1>",
+            "notes": "!tokens Everywhere TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5815,7 +5815,7 @@
             "alias": "",
             "position": "252",
             "rotated": false,
-            "notes": "ideate.jpg\n!tokens Junk<1>",
+            "notes": "ideate.jpg\n!tokens Junk TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5838,7 +5838,7 @@
             "alias": "",
             "position": "253",
             "rotated": false,
-            "notes": "!tokens Map<1>",
+            "notes": "!tokens Map TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5930,7 +5930,7 @@
             "alias": "",
             "position": "257",
             "rotated": false,
-            "notes": "X-Men_Vol_6_6_Trading_Card_Variant_Textless copy.jpg\n!tokens Treasure<1>",
+            "notes": "X-Men_Vol_6_6_Trading_Card_Variant_Textless copy.jpg\n!tokens Treasure TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5953,7 +5953,7 @@
             "alias": "",
             "position": "258",
             "rotated": false,
-            "notes": "leonardo-mader-silksong-8-flatado.jpg\n!tokens Weapon<1>",
+            "notes": "leonardo-mader-silksong-8-flatado.jpg\n!tokens Weapon TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5976,7 +5976,7 @@
             "alias": "",
             "position": "259",
             "rotated": false,
-            "notes": "!tokens Minion<1>; Garokk, the Petrified Man<1>",
+            "notes": "!tokens Minion TOAST<1>; Garokk, the Petrified Man TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6045,7 +6045,7 @@
             "alias": "",
             "position": "262",
             "rotated": false,
-            "notes": "Screenshot 2026-07-12 at 14-32-02 Instagram.png\nThorin_Oakenshield,_Tolman_Cotton copy.jpg\n!tokens Dwarf Soldier<1>; The Arkenstone<1>",
+            "notes": "Screenshot 2026-07-12 at 14-32-02 Instagram.png\nThorin_Oakenshield,_Tolman_Cotton copy.jpg\n!tokens Dwarf Soldie TOASTr<1>; The Arkenstone TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6091,7 +6091,7 @@
             "alias": "",
             "position": "264",
             "rotated": false,
-            "notes": "557632721_1424334462383376_8914354811754453790_n.jpg\n!tokens Silkwrap<1>",
+            "notes": "557632721_1424334462383376_8914354811754453790_n.jpg\n!tokens Silkwrap TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6275,7 +6275,7 @@
             "alias": "",
             "position": "272",
             "rotated": false,
-            "notes": "1-307ce72e9f220db744902dbdd6ed421f.jpg\n!tokens Devil<1>",
+            "notes": "1-307ce72e9f220db744902dbdd6ed421f.jpg\n!tokens Devil TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6367,7 +6367,7 @@
             "alias": "",
             "position": "276",
             "rotated": false,
-            "notes": "Edge_blood_red_rogue_glister_by_ladynazgul_1912-d46vcc4-1- copy.jpg\n!tokens Blood<1>",
+            "notes": "Edge_blood_red_rogue_glister_by_ladynazgul_1912-d46vcc4-1- copy.jpg\n!tokens Blood TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6528,7 +6528,7 @@
             "alias": "",
             "position": "283",
             "rotated": false,
-            "notes": "tumblr_80c2824f26ba4d7d79cf872d96b168a9_1b2b288e_1280.jpg\n!tokens Map<1>",
+            "notes": "tumblr_80c2824f26ba4d7d79cf872d96b168a9_1b2b288e_1280.jpg\n!tokens Map TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6551,7 +6551,7 @@
             "alias": "",
             "position": "284",
             "rotated": false,
-            "notes": "Whenever a permanent you control dies, put a +1/+1 counter on Marabelle the Terrible.\n!tokens Fungus<1>",
+            "notes": "Whenever a permanent you control dies, put a +1/+1 counter on Marabelle the Terrible.\n!tokens Fungus TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6597,7 +6597,7 @@
             "alias": "",
             "position": "286",
             "rotated": false,
-            "notes": "472313047_423475460845829_6037642164445800152_n.jpg \u2014 clever santos\n!tokens Mutant Hero<1>",
+            "notes": "472313047_423475460845829_6037642164445800152_n.jpg \u2014 clever santos\n!tokens Mutant Hero TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6620,7 +6620,7 @@
             "alias": "",
             "position": "287",
             "rotated": false,
-            "notes": "o4fx64c41p751 \u2014 Aginestra\nttzst34owrl31.jpg \u2014 Wallyscag\n!tokens Dwarf Spirit<3>",
+            "notes": "o4fx64c41p751 \u2014 Aginestra\nttzst34owrl31.jpg \u2014 Wallyscag\n!tokens Dwarf Spirit TOAST<3>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6689,7 +6689,7 @@
             "alias": "",
             "position": "290",
             "rotated": false,
-            "notes": "229abd4149c62607db62b5a2381b46d3.jpg\n!tokens Forest<1>",
+            "notes": "229abd4149c62607db62b5a2381b46d3.jpg\n!tokens Forest TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6942,7 +6942,7 @@
             "alias": "",
             "position": "301",
             "rotated": false,
-            "notes": "51ef9d8c-6e34-42e7-a0de-1277d66df015 copy.jpg\n!tokens Weapon<2>",
+            "notes": "51ef9d8c-6e34-42e7-a0de-1277d66df015 copy.jpg\n!tokens Weapon TOAST<2>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6965,7 +6965,7 @@
             "alias": "",
             "position": "302",
             "rotated": false,
-            "notes": "!tokens Treasure<1>",
+            "notes": "!tokens Treasure TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6988,7 +6988,7 @@
             "alias": "",
             "position": "303",
             "rotated": false,
-            "notes": "!tokens Soldier<1>",
+            "notes": "!tokens Soldier TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7357,7 +7357,7 @@
             "alias": "",
             "position": "318",
             "rotated": false,
-            "notes": "congrats-to-perpetual-for-winning-the-artakha-art-contest-v0-8yih5sin43061 copy.jpg\n!tokens Serpent<4>",
+            "notes": "congrats-to-perpetual-for-winning-the-artakha-art-contest-v0-8yih5sin43061 copy.jpg\n!tokens Serpent TOAST<4>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7403,7 +7403,7 @@
             "alias": "",
             "position": "320",
             "rotated": false,
-            "notes": "1024px-Yogg-Saron,_Unleashed_HS.jpg\n!tokens Tentacle<1>",
+            "notes": "1024px-Yogg-Saron,_Unleashed_HS.jpg\n!tokens Tentacle TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7542,7 +7542,7 @@
             "alias": "",
             "position": "325",
             "rotated": false,
-            "notes": "tumblr_dac35f005c96b4821a9ca6020b23b9e9_519045ea_1280.jpg\n!tokens Possum<1>; Food<1>; Treefolk<2>",
+            "notes": "tumblr_dac35f005c96b4821a9ca6020b23b9e9_519045ea_1280.jpg\n!tokens Possum TOAST<1>; Food TOAST<1>; Treefolk TOAST<2>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7565,7 +7565,7 @@
             "alias": "",
             "position": "326",
             "rotated": false,
-            "notes": "thiala.jpg\nns-bahumia-naddpod-dm-screen-panoramic-painting-v0-oasz0ey7lu4g1.jpg\n!tokens Knight<X>; Angel<1>",
+            "notes": "thiala.jpg\nns-bahumia-naddpod-dm-screen-panoramic-painting-v0-oasz0ey7lu4g1.jpg\n!tokens Knight TOAST<X>; Angel TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7646,7 +7646,7 @@
             "alias": "",
             "position": "329",
             "rotated": false,
-            "notes": "surge boombucket copy.jpg\n!tokens Soldier<1>; Surge Emblem<1>",
+            "notes": "surge boombucket copy.jpg\n!tokens Soldier TOAST<1>; Surge Emblem TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7669,7 +7669,7 @@
             "alias": "",
             "position": "330",
             "rotated": false,
-            "notes": "do-you-guys-prefer-using-nail-or-spells-v0-k5cc586sq8sb1.jpg\n!tokens Vial<1>",
+            "notes": "do-you-guys-prefer-using-nail-or-spells-v0-k5cc586sq8sb1.jpg\n!tokens Vial TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7761,7 +7761,7 @@
             "alias": "",
             "position": "334",
             "rotated": false,
-            "notes": "tumblr_a5ce80e7fcd44ae2f6033a5852db002e_429f8ba4_1280.jpg\n!tokens Green Knight<1>",
+            "notes": "tumblr_a5ce80e7fcd44ae2f6033a5852db002e_429f8ba4_1280.jpg\n!tokens Green Knight TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7784,7 +7784,7 @@
             "alias": "",
             "position": "335",
             "rotated": false,
-            "notes": "!tokens Weapon<1>; Sol Ring<1>",
+            "notes": "!tokens Weapon TOAST<1>; Sol Ring TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7854,7 +7854,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "Apple Films\nYellowSubmarine copy.jpg\n!tokens Performer<1>",
+            "notes": "Apple Films\nYellowSubmarine copy.jpg\n!tokens Performer TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7877,7 +7877,7 @@
             "alias": "",
             "position": "338",
             "rotated": false,
-            "notes": "!tokens Warlock<1>",
+            "notes": "!tokens Warlock TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -7912,7 +7912,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "!tokens Treasure<1>",
+            "notes": "!tokens Treasure TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -8131,7 +8131,7 @@
             "alias": "",
             "position": "348",
             "rotated": false,
-            "notes": "!tokens Spirit<1>",
+            "notes": "!tokens Spirit TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -8522,7 +8522,7 @@
             "alias": "",
             "position": "365",
             "rotated": false,
-            "notes": "!tokens Food<1>",
+            "notes": "!tokens Food TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -8545,7 +8545,7 @@
             "alias": "",
             "position": "366",
             "rotated": false,
-            "notes": "Firestar-option copy.jpg\n!tokens Warrior Cat<1>",
+            "notes": "Firestar-option copy.jpg\n!tokens Warrior Cat TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -8683,7 +8683,7 @@
             "alias": "",
             "position": "372",
             "rotated": false,
-            "notes": "ultrakill_beginners_guide_master_v1_from_your_first_run_hero_dc45faea59 copy.jpg\n!tokens Blood<1>",
+            "notes": "ultrakill_beginners_guide_master_v1_from_your_first_run_hero_dc45faea59 copy.jpg\n!tokens Blood TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },
@@ -8844,7 +8844,7 @@
             "alias": "",
             "position": "379",
             "rotated": false,
-            "notes": "!tokens Treasure<1>",
+            "notes": "!tokens Treasure TOAST<1>",
             "image_type": "png",
             "v_mana": ""
         },

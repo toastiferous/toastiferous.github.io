@@ -156,7 +156,7 @@ When The Sepia Knight dies, create a tapped Powerstone token.
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Powerstone</related>
+			<related count="1">Powerstone TOAST</related>
 		</card>
 		<card>
 			<name>Caterbird</name>
@@ -213,7 +213,7 @@ When Jenny Cavanaugh enters, investigate. (Create a Clue token. It&apos;s an art
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Clue</related>
+			<related count="1">Clue TOAST</related>
 		</card>
 		<card>
 			<name>Moment of Twilight</name>
@@ -230,7 +230,7 @@ When Jenny Cavanaugh enters, investigate. (Create a Clue token. It&apos;s an art
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="X">Powerstone</related>
+			<related count="X">Powerstone TOAST</related>
 		</card>
 		<card>
 			<name>Arborinus Twig Verginix</name>
@@ -266,7 +266,7 @@ Whenever a creature you control with flying deals combat damage to a player, dra
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="1">Vehicle</related>
+			<related count="1">Vehicle TOAST</related>
 		</card>
 		<card>
 			<name>The Gloamglozer</name>
@@ -306,7 +306,7 @@ Whenever you attack with creatures with five or more creature types among them, 
 				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Dinosaur</related>
+			<related count="1">Dinosaur TOAST</related>
 		</card>
 		<card>
 			<name>Scourge of BloodClan</name>
@@ -344,7 +344,7 @@ Whenever Lyra deals combat damage to a player, untap target permanent.</text>
 				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Alethiometer</related>
+			<related count="1">Alethiometer TOAST</related>
 		</card>
 		<card>
 			<name>The Elf, Steward of Seasons</name>
@@ -363,7 +363,7 @@ Landfall — Whenever a land you control enters, create a 1/1 green Faerie creat
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Faerie</related>
+			<related count="1">Faerie TOAST</related>
 		</card>
 		<card>
 			<name>The Deepwoods</name>
@@ -419,7 +419,7 @@ Whenever Cloud Wolf becomes tapped, create two Powerstone tokens. (They&apos;re 
 				<pt>4/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="2">Powerstone</related>
+			<related count="2">Powerstone TOAST</related>
 		</card>
 		<card>
 			<name>Princess Leia</name>
@@ -437,7 +437,7 @@ Whenever Cloud Wolf becomes tapped, create two Powerstone tokens. (They&apos;re 
 				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Rebel</related>
+			<related count="1">Rebel TOAST</related>
 		</card>
 		<card>
 			<name>Luke Skywalker</name>
@@ -456,7 +456,7 @@ Whenever Luke Skywalker attacks, add an amount of {G} equal to his power. Until 
 				<pt>1/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Weapon</related>
+			<related count="1">Weapon TOAST</related>
 		</card>
 		<card>
 			<name>Han Solo</name>
@@ -528,7 +528,7 @@ Whenever Harrietta Gris enters or attacks, you may sacrifice an artifact or crea
 				<cmc>0</cmc>
 			</prop>
 			<tablerow>0</tablerow>
-			<related count="1">Powerstone</related>
+			<related count="1">Powerstone TOAST</related>
 		</card>
 		<card>
 			<name>Walter White</name>
@@ -547,7 +547,7 @@ Whenever you tap an artifact for mana, add {U}.</text>
 				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Crystal Meth</related>
+			<related count="1">Crystal Meth TOAST</related>
 		</card>
 		<card>
 			<name>Chaos Emerald</name>
@@ -580,7 +580,7 @@ Whenever you tap an artifact for mana, add {U}.</text>
 				<cmc>2</cmc>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="1">Powerstone</related>
+			<related count="1">Powerstone TOAST</related>
 		</card>
 		<card>
 			<name>Ramuthra</name>
@@ -835,7 +835,7 @@ Whenever Lloyd or another creature you control enters, if you didn&apos;t cast i
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Food Minion</related>
+			<related count="1">Food Minion TOAST</related>
 		</card>
 		<card>
 			<name>Relentless Gaze of the Sun</name>
@@ -925,7 +925,7 @@ Exile up to one target creature you control, then return it to the battlefield u
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="1">Bird </related>
+			<related count="1">Bird TOAST</related>
 		</card>
 		<card>
 			<name>Wandering Voice Keens Delirium</name>
@@ -997,7 +997,7 @@ Target opponent reveals their hand. You choose a nonland card from it. That play
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Terrible Eye Token</related>
+			<related count="1">Terrible Eye Token TOAST</related>
 		</card>
 		<card>
 			<name>GlaDOS</name>
@@ -1016,7 +1016,7 @@ Whenever GlaDOS enters or attacks, create a black artifact token named Testing M
 				<pt>3/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Testing Module</related>
+			<related count="1">Testing Module TOAST</related>
 		</card>
 		<card>
 			<name>Simon Lovelace</name>
@@ -1233,7 +1233,7 @@ Whenever The Defect attacks, target artifact you control gains &quot;{T}: Draw a
 				<pt>2/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Powerstone</related>
+			<related count="1">Powerstone TOAST</related>
 		</card>
 		<card>
 			<name>The Silent</name>
@@ -1270,7 +1270,7 @@ Whenever you draw a card, amass Skeletons 1. (Put a +1/+1 counter on an Army you
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Skeleton Army</related>
+			<related count="1">Skeleton Army TOAST</related>
 		</card>
 		<card>
 			<name>The Regent</name>
@@ -1290,7 +1290,7 @@ Discard a card: Create a 1/1 colorless Minion artifact creature token. It can&ap
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Minion</related>
+			<related count="1">Minion TOAST</related>
 		</card>
 		<card>
 			<name>Streex, Street Shark</name>
@@ -1343,7 +1343,7 @@ Sacrifice four artifacts: Return The Ender Dragon from your graveyard to the bat
 				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Dragon&apos;s Egg</related>
+			<related count="1">Dragon&apos;s Egg TOAST</related>
 		</card>
 		<card>
 			<name>Boomer</name>
@@ -1440,7 +1440,7 @@ Choose one —
 				<coloridentity>WR</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="2">Soldier</related>
+			<related count="2">Soldier TOAST</related>
 		</card>
 		<card>
 			<name>Keeper of the Forbidden Wilds</name>
@@ -1529,7 +1529,7 @@ Whenever Binja deals combat damage to a player, create a Junk token. (It&apos;s 
 				<pt>3/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Junk</related>
+			<related count="1">Junk TOAST</related>
 		</card>
 		<card>
 			<name>Jacksmith</name>
@@ -1548,7 +1548,7 @@ Whenever a modified creature you control deals combat damage to a player, you dr
 				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Weapon</related>
+			<related count="1">Weapon TOAST</related>
 		</card>
 		<card>
 			<name>Finder of Paths Unseen</name>
@@ -1604,7 +1604,7 @@ Whenever Ember-Eyed Behemoth enters or attacks, choose one —
 				<pt>1/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Treasure</related>
+			<related count="1">Treasure TOAST</related>
 		</card>
 		<card>
 			<name>Akira Slide</name>
@@ -1639,8 +1639,8 @@ Whenever a creature you control deals five or more damage, create The Thorned Em
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Weapon</related>
-			<related count="1"> The Thorned Emerald</related>
+			<related count="1">Weapon TOAST</related>
+			<related count="1"> The Thorned Emerald TOAST</related>
 		</card>
 		<card>
 			<name>Seadragonus Giganticus Maximus</name>
@@ -1677,7 +1677,7 @@ At the beginning of your end step, if there are twenty or fewer cards in your li
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="1">Heart of the Ocean</related>
+			<related count="1">Heart of the Ocean TOAST</related>
 		</card>
 		<card>
 			<name>Pearl</name>
@@ -1769,7 +1769,7 @@ Pack Tactics — Whenever Sharp Fangs Behind the Leaves attacks, if you attacked
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Beast</related>
+			<related count="1">Beast TOAST</related>
 		</card>
 		<card>
 			<name>Sun-Bright Whirlwind</name>
@@ -1826,7 +1826,7 @@ When Many Minds Move as One enters, create a 1/1 blue Bird creature token with f
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Bird</related>
+			<related count="1">Bird TOAST</related>
 		</card>
 		<card>
 			<name>Winds of Rust and Atrophy</name>
@@ -1914,7 +1914,7 @@ Exaltation of the Incandescent Sky deals 3 damage to target creature. Target pla
 				<coloridentity>WUBRG</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="1">Elemental</related>
+			<related count="1">Elemental TOAST</related>
 		</card>
 		<card>
 			<name>Hearth-Vigil</name>
@@ -2008,7 +2008,7 @@ When Juggernaut enters, create The Crimson Gem of Cyttorak, a legendary red arti
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">The Crimson Gem of Cyttorak</related>
+			<related count="1">The Crimson Gem of Cyttorak TOAST</related>
 		</card>
 		<card>
 			<name>Devouring Teeth Lurk Underfoot</name>
@@ -2118,7 +2118,7 @@ Whenever an equipped creature you control attacks, tap up to one target creature
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Berry</related>
+			<related count="1">Berry TOAST</related>
 		</card>
 		<card>
 			<name>Counterspell</name>
@@ -2190,7 +2190,7 @@ When you discard Silk Merchant, create a Treasure token.</text>
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Treasure</related>
+			<related count="1">Treasure TOAST</related>
 		</card>
 		<card>
 			<name>Diggy</name>
@@ -2208,8 +2208,8 @@ When you discard Silk Merchant, create a Treasure token.</text>
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Treasure</related>
-			<related count="1"> Junk</related>
+			<related count="1">Treasure TOAST</related>
+			<related count="1"> Junk TOAST</related>
 		</card>
 		<card>
 			<name>Steal the Moon</name>
@@ -2286,7 +2286,7 @@ Whenever Pamela Isley enters or attacks, you may sacrifice a land. If you do, cr
 				<pt>3/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Plant</related>
+			<related count="1">Plant TOAST</related>
 		</card>
 		<card>
 			<name>Rot</name>
@@ -2537,7 +2537,7 @@ Crew 2</text>
 				<pt>5/4</pt>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="1">Powerstone</related>
+			<related count="1">Powerstone TOAST</related>
 		</card>
 		<card>
 			<name>Slay the Spire</name>
@@ -2555,7 +2555,7 @@ Whenever a creature an opponent controls dies, create a Treasure token.</text>
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="1">Treasure</related>
+			<related count="1">Treasure TOAST</related>
 		</card>
 		<card>
 			<name>Sherlock Holmes</name>
@@ -2574,7 +2574,7 @@ Whenever Sherlock Holmes enters or you cast a noncreature spell, create a Clue t
 				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Clue</related>
+			<related count="1">Clue TOAST</related>
 		</card>
 		<card>
 			<name>Chewbacca</name>
@@ -2629,7 +2629,7 @@ Whenever you discard a card, you may exile that card from your graveyard. If you
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="2">Beast</related>
+			<related count="2">Beast TOAST</related>
 		</card>
 		<card>
 			<name>Sap the Strength of Multitudes</name>
@@ -2734,7 +2734,7 @@ Whenever Csilla deals combat damage to a player, create a Vial token. (It&apos;s
 				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Vial</related>
+			<related count="1">Vial TOAST</related>
 		</card>
 		<card>
 			<name>Vampire Spydragon</name>
@@ -2792,7 +2792,7 @@ When Luau LePunch dies, you gain 3 life.</text>
 				<coloridentity>UG</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="1">Everywhere</related>
+			<related count="1">Everywhere TOAST</related>
 		</card>
 		<card>
 			<name>HORUS Gorgon</name>
@@ -3080,7 +3080,7 @@ Whenever one or more creatures you control deal combat damage to a player, creat
 				<coloridentity>BR</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="1">Treasure</related>
+			<related count="1">Treasure TOAST</related>
 		</card>
 		<card>
 			<name>Doctor Ivo Robotnik</name>
@@ -3099,7 +3099,7 @@ Whenever one or more creatures you control deal combat damage to a player, creat
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Construct</related>
+			<related count="1">Construct TOAST</related>
 		</card>
 		<card>
 			<name>General Kai, the Collector</name>
@@ -3136,7 +3136,7 @@ Create a Weapon token. You may attach it to a creature you control. (It&apos;s a
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="1">Weapon</related>
+			<related count="1">Weapon TOAST</related>
 		</card>
 		<card>
 			<name>Roberto Da Costa, Sunspot</name>
@@ -3156,7 +3156,7 @@ Whenever you cast a spell, you may have Sunspot become X/X until until end of tu
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Treasure</related>
+			<related count="1">Treasure TOAST</related>
 		</card>
 		<card>
 			<name>Puss in Boots</name>
@@ -3191,7 +3191,7 @@ Whenever you cast a noncreature spell, Puss in Boots gains first strike and hast
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="1">Junk</related>
+			<related count="1">Junk TOAST</related>
 		</card>
 		<card>
 			<name>Pillar of Living Flame</name>
@@ -3262,8 +3262,8 @@ Ward—Pay 4 life. (Whenever this creature becomes the target of a spell or abil
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Soldier</related>
-			<related count="1"> Glorious Anthem</related>
+			<related count="1">Soldier TOAST</related>
+			<related count="1"> Glorious Anthem TOAST</related>
 		</card>
 		<card>
 			<name>Tartarus</name>
@@ -3351,7 +3351,7 @@ Whenever Isca the Unbeaten enters or attacks, she deals 3 damage to you and you 
 				<cmc>0</cmc>
 			</prop>
 			<tablerow>0</tablerow>
-			<related count="1">Treasure</related>
+			<related count="1">Treasure TOAST</related>
 		</card>
 		<card>
 			<name>Galad Rosell, White Rose of Galaderon</name>
@@ -3371,7 +3371,7 @@ Escape—{2}{W}{W}, Exile three cards from your graveyard.</text>
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Weapon</related>
+			<related count="1">Weapon TOAST</related>
 		</card>
 		<card>
 			<name>Backbiter</name>
@@ -3442,7 +3442,7 @@ Whenever you gain life, put a +1/+1 counter on Count Dracula and create a Blood 
 				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Blood</related>
+			<related count="1">Blood TOAST</related>
 		</card>
 		<card>
 			<name>Vengeful Spirit</name>
@@ -3478,7 +3478,7 @@ Whenever you discard a card, add {R}. Until end of turn, you don&apos;t lose thi
 				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Blood</related>
+			<related count="1">Blood TOAST</related>
 		</card>
 		<card>
 			<name>Substitution Jutsu</name>
@@ -3512,7 +3512,7 @@ Equip {1}</text>
 				<cmc>1</cmc>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="1">Map</related>
+			<related count="1">Map TOAST</related>
 		</card>
 		<card>
 			<name>Driller Dragon</name>
@@ -3550,7 +3550,7 @@ Activated abilities of artifacts you control cost {1} less to activate. This eff
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Clue</related>
+			<related count="1">Clue TOAST</related>
 		</card>
 		<card>
 			<name>Avohkii, the Mask of Light</name>
@@ -3569,7 +3569,7 @@ Equip {3}</text>
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related>Hero</related>
+			<related count="1">Hero TOAST</related>
 		</card>
 		<card>
 			<name>Chronoskimming</name>
@@ -3650,7 +3650,7 @@ Escape—{2}{R}, Exile two other cards from your graveyard. (You may cast this c
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="1">Weapon</related>
+			<related count="1">Weapon TOAST</related>
 		</card>
 		<card>
 			<name>Groundhog Day</name>
@@ -3687,7 +3687,7 @@ At the beginning of your upkeep, return a permanent you control to its owner&apo
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Food</related>
+			<related count="1">Food TOAST</related>
 		</card>
 		<card>
 			<name>Godzilla</name>
@@ -3743,7 +3743,7 @@ At the beginning of your end step, create a 1/1 white Soldier creature token.</t
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Soldier</related>
+			<related count="1">Soldier TOAST</related>
 		</card>
 		<card>
 			<name>Godzilla vs. Kong</name>
@@ -3793,7 +3793,7 @@ Search your library for an artifact card, put it into your hand, then shuffle. I
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="4">Weapon</related>
+			<related count="4">Weapon TOAST</related>
 		</card>
 		<card>
 			<name>The Xenomorph Queen</name>
@@ -3900,7 +3900,7 @@ Landfall — Whenever a land you control enters, reveal the top card of your lib
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Treasure</related>
+			<related count="1">Treasure TOAST</related>
 		</card>
 		<card>
 			<name>Shield Bash</name>
@@ -4017,7 +4017,7 @@ Surveil 1, then draw a card. If this spell was kicked, create a 1/1 blue Warrior
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="1">Warrior Cat</related>
+			<related count="1">Warrior Cat TOAST</related>
 		</card>
 		<card>
 			<name>Shoot First</name>
@@ -4103,7 +4103,7 @@ Target creature you control gets +1/+0 until end of turn. It deals damage equal 
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
-			<related count="1">Blood</related>
+			<related count="1">Blood TOAST</related>
 		</card>
 		<card>
 			<name>Frostwind</name>
@@ -4138,7 +4138,7 @@ Target creature you control gets +1/+0 until end of turn. It deals damage equal 
 				<coloridentity>WG</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
-			<related count="3">Soldier</related>
+			<related count="3">Soldier TOAST</related>
 		</card>
 		<card>
 			<name>Asphodel</name>
@@ -4224,7 +4224,7 @@ Target creature you control gets +1/+0 until end of turn. It deals damage equal 
 				<coloridentity>WR</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
-			<related count="1">Vehicle</related>
+			<related count="1">Vehicle TOAST</related>
 		</card>
 		<card>
 			<name>Throne, the Red City</name>
@@ -4343,7 +4343,7 @@ Equip—{1}, Pay 1 life.</text>
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="1">Mutant</related>
+			<related count="1">Mutant TOAST</related>
 		</card>
 		<card>
 			<name>The Hairy Scary Librarian</name>
@@ -4396,8 +4396,8 @@ Whenever Paul Muad&apos;Dib Atreides attacks, if his power is 3 or greater, crea
 				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Desert</related>
-			<related count="1"> Wurm</related>
+			<related count="1">Desert TOAST</related>
+			<related count="1"> Wurm TOAST</related>
 		</card>
 		<card>
 			<name>Path of Pain</name>
@@ -4431,7 +4431,7 @@ Draw a card.</text>
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="1">Everywhere</related>
+			<related count="1">Everywhere TOAST</related>
 		</card>
 		<card>
 			<name>The White Palace</name>
@@ -4548,7 +4548,7 @@ Flashback {U} (You may cast this card from your graveyard for its flashback cost
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="1">Junk</related>
+			<related count="1">Junk TOAST</related>
 		</card>
 		<card>
 			<name>Cornifer the Mapmaker</name>
@@ -4567,7 +4567,7 @@ At the beginning of your end step, create a Map token if you descended this turn
 				<pt>1/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Map</related>
+			<related count="1">Map TOAST</related>
 		</card>
 		<card>
 			<name>Laura Kinney, Wolverine</name>
@@ -4639,7 +4639,7 @@ Whenever Lorna Dane, Polaris attacks, exile target card from a graveyard. If it 
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Treasure</related>
+			<related count="1">Treasure TOAST</related>
 		</card>
 		<card>
 			<name>Silk Spear</name>
@@ -4656,7 +4656,7 @@ Whenever Lorna Dane, Polaris attacks, exile target card from a graveyard. If it 
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="1">Weapon</related>
+			<related count="1">Weapon TOAST</related>
 		</card>
 		<card>
 			<name>Zaladane, Empress of the Savage Land</name>
@@ -4676,8 +4676,8 @@ Landfall — Whenever a land you control enters, create a 1/1 black Minion creat
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Minion</related>
-			<related count="1"> Garokk, the Petrified Man</related>
+			<related count="1">Minion TOAST</related>
+			<related count="1"> Garokk, the Petrified Man TOAST</related>
 		</card>
 		<card>
 			<name>Lex Luthor</name>
@@ -4731,8 +4731,8 @@ When three or more creatures you control deal combat damage to a player, create 
 				<pt>3/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Dwarf Soldier</related>
-			<related count="1"> The Arkenstone</related>
+			<related count="1">Dwarf Soldie TOASTr</related>
+			<related count="1"> The Arkenstone TOAST</related>
 		</card>
 		<card>
 			<name>Decapitate</name>
@@ -4767,7 +4767,7 @@ Whenever Grand Mother Silk enters or attacks, create a Silkwrap token. (It&apos;
 				<pt>6/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Silkwrap</related>
+			<related count="1">Silkwrap TOAST</related>
 		</card>
 		<card>
 			<name>Emma Frost, White Queen</name>
@@ -4910,7 +4910,7 @@ Whenever you cast a noncreature spell, you may exile two cards from your graveya
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="1">Devil</related>
+			<related count="1">Devil TOAST</related>
 		</card>
 		<card>
 			<name>The Stagways</name>
@@ -4983,7 +4983,7 @@ Whenever a player sacrifices a permanent, put a +1/+1 counter on The Blood-Red G
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Blood</related>
+			<related count="1">Blood TOAST</related>
 		</card>
 		<card>
 			<name>Pikachu</name>
@@ -5111,7 +5111,7 @@ Whenever a creature you control becomes the target of a spell or ability, draw a
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Map</related>
+			<related count="1">Map TOAST</related>
 		</card>
 		<card>
 			<name>Marabelle the Terrible</name>
@@ -5131,7 +5131,7 @@ Whenever a land you control enters, create a 1/1 green Fungus creature token.
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Fungus</related>
+			<related count="1">Fungus TOAST</related>
 		</card>
 		<card>
 			<name>Titano the Super-Ape</name>
@@ -5168,7 +5168,7 @@ Whenever you attack with two or more creatures, draw a card.</text>
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="1">Mutant Hero</related>
+			<related count="1">Mutant Hero TOAST</related>
 		</card>
 		<card>
 			<name>Kingshammer</name>
@@ -5185,7 +5185,7 @@ Equip {2}</text>
 				<cmc>3</cmc>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="3">Dwarf Spirit</related>
+			<related count="3">Dwarf Spirit TOAST</related>
 		</card>
 		<card>
 			<name>The Predator</name>
@@ -5237,7 +5237,7 @@ Abilities you activate that target The Predator cost {2} less to activate.</text
 				<cmc>1</cmc>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="1">Forest</related>
+			<related count="1">Forest TOAST</related>
 		</card>
 		<card>
 			<name>The Sands of Karak</name>
@@ -5400,7 +5400,7 @@ Whenever LEGO Batman deals combat damage to a player, you may sacrifice an Equip
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="2">Weapon</related>
+			<related count="2">Weapon TOAST</related>
 		</card>
 		<card>
 			<name>Mine</name>
@@ -5418,7 +5418,7 @@ Create a tapped Treasure token.</text>
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="1">Treasure</related>
+			<related count="1">Treasure TOAST</related>
 		</card>
 		<card>
 			<name>One For All</name>
@@ -5437,7 +5437,7 @@ You may cast this spell from exile for {W}. If you do, shuffle it into your libr
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="1">Soldier</related>
+			<related count="1">Soldier TOAST</related>
 		</card>
 		<card>
 			<name>Phantom Zone Projector</name>
@@ -5719,7 +5719,7 @@ Target creature you control deals damage equal to its power to another target cr
 				<loyalty>3</loyalty>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="4">Serpent</related>
+			<related count="4">Serpent TOAST</related>
 		</card>
 		<card>
 			<name>Metal City Mayhem</name>
@@ -5760,7 +5760,7 @@ Whenever you draw a card, put a +1/+1 counter on target creature you control.</t
 				<loyalty>4</loyalty>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="1">Tentacle</related>
+			<related count="1">Tentacle TOAST</related>
 		</card>
 		<card>
 			<name>Virginia Pepper Potts // Rescue</name>
@@ -5862,9 +5862,9 @@ When this artifact is put into a graveyard from the battlefield, draw a card.</t
 				<loyalty>3</loyalty>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="1">Possum</related>
-			<related count="1"> Food</related>
-			<related count="2"> Treefolk</related>
+			<related count="1">Possum TOAST</related>
+			<related count="1"> Food TOAST</related>
+			<related count="2"> Treefolk TOAST</related>
 		</card>
 		<card>
 			<name>Thiala, Hero of Bahumia</name>
@@ -5885,8 +5885,8 @@ When this artifact is put into a graveyard from the battlefield, draw a card.</t
 				<loyalty>4</loyalty>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="X">Knight</related>
-			<related count="1"> Angel</related>
+			<related count="X">Knight TOAST</related>
+			<related count="1"> Angel TOAST</related>
 		</card>
 		<card>
 			<name>General Jack Ripper // Damnation</name>
@@ -5950,8 +5950,8 @@ Destroy all creatures. They can&apos;t be regenerated.</text>
 				<loyalty>3</loyalty>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="1">Soldier</related>
-			<related count="1"> Surge Emblem</related>
+			<related count="1">Soldier TOAST</related>
+			<related count="1"> Surge Emblem TOAST</related>
 		</card>
 		<card>
 			<name>The Soul Master</name>
@@ -5971,7 +5971,7 @@ Destroy all creatures. They can&apos;t be regenerated.</text>
 				<loyalty>3</loyalty>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="1">Vial</related>
+			<related count="1">Vial TOAST</related>
 		</card>
 		<card>
 			<name>Professor X</name>
@@ -6050,7 +6050,7 @@ Sacrifice this Class and a creature: Creatures you control gain indestructible u
 				<coloridentity>WG</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="1">Green Knight</related>
+			<related count="1">Green Knight TOAST</related>
 		</card>
 		<card>
 			<name>Sorrow and Remembrance</name>
@@ -6070,8 +6070,8 @@ III — Create a Sol Ring token. (It&apos;s a {1} artifact token with &quot;{T}:
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="1">Weapon</related>
-			<related count="1"> Sol Ring</related>
+			<related count="1">Weapon TOAST</related>
+			<related count="1"> Sol Ring TOAST</related>
 		</card>
 		<card>
 			<name>UnLondon City Bus // Conduct</name>
@@ -6116,7 +6116,7 @@ When this artifact enters, exile target nonland permanent an opponent controls w
 				<pt>5/5</pt>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="1">Performer</related>
+			<related count="1">Performer TOAST</related>
 		</card>
 		<card>
 			<name>Jacky Magus</name>
@@ -6136,7 +6136,7 @@ Whenever you cast a noncreature spell, recruit Warlock. (To recruit, draw a card
 				<pt>2/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Warlock</related>
+			<related count="1">Warlock TOAST</related>
 		</card>
 		<card>
 			<name>Galaderon Drill-Car // Skitch or Die</name>
@@ -6159,7 +6159,7 @@ Return target artifact or creature card from your graveyard to your hand.</text>
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="1">Treasure</related>
+			<related count="1">Treasure TOAST</related>
 		</card>
 		<card>
 			<name>Starlight Bolt</name>
@@ -6320,7 +6320,7 @@ When Luigi Mario dies, create a 1/1 white Spirit creature token with flying.</te
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Spirit</related>
+			<related count="1">Spirit TOAST</related>
 		</card>
 		<card>
 			<name>Lightning&apos;s Boon</name>
@@ -6581,7 +6581,7 @@ Augmented — If you&apos;ve spent {W}{U}{B}{R}{G} to cast spells this turn, you
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="1">Food</related>
+			<related count="1">Food TOAST</related>
 		</card>
 		<card>
 			<name>Firestar of Thunderclan</name>
@@ -6600,7 +6600,7 @@ Augmented — If you&apos;ve spent {W}{U}{B}{R}{G} to cast spells this turn, you
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Warrior Cat</related>
+			<related count="1">Warrior Cat TOAST</related>
 		</card>
 		<card>
 			<name>Gathering at Fourtrees</name>
@@ -6698,7 +6698,7 @@ Sacrifice an artifact: Put a +1/+1 counter on V1.</text>
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Blood</related>
+			<related count="1">Blood TOAST</related>
 		</card>
 		<card>
 			<name>The Bat Signal</name>
@@ -6822,7 +6822,7 @@ Exhaust — {5}: Atom Rom deals 7 damage to target creature. (Activate each exha
 				<pt>1/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">Treasure</related>
+			<related count="1">Treasure TOAST</related>
 		</card>
 		<card>
 			<name>Charmspeak</name>
