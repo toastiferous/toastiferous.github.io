@@ -1,4 +1,37 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+Everywhere added.
+Desert added.
+Wurm added.
+Mutant Hero added.
+Mutant added.
+Skeleton Army added.
+Spirit added.
+Possum added.
+
+
+Shifting Memory of Ages
+
+Hound Suit
+rules_text: When this Equipment enters, create a 2/2 red Mutant creature token. Attach this Equipment to that token. 
+Equipped creature gets +1/-1.
+When equipped creature dies, draw a card.
+Equip—{1}, Pay 1 life. => When this Equipment enters, create a 2/2 black Mutant creature token. Attach this Equipment to that token. 
+Equipped creature gets +1/-1.
+When equipped creature dies, draw a card.
+Equip—{1}, Pay 1 life.
+
+To Me, My X-Men!
+rules_text: When this enchantment enters, create a 2/2 white Mutant creature token with battle cry. [i](Whenever that creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i]
+Whenever you attack with two or more creatures, draw a card. => When this enchantment enters, create a 2/2 white Mutant Hero creature token with battle cry. [i](Whenever that creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i]
+Whenever you attack with two or more creatures, draw a card.
+
+Serpent
+pt:  => 4/4
+
+
+VERSION 10 CHANGELOG
 ====================
 
 Heart of the Ocean added.

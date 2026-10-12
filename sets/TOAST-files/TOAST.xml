@@ -1620,6 +1620,7 @@ Whenever Ember-Eyed Behemoth enters or attacks, choose one —
 				<pt>1/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Treasure</related>
 		</card>
 		<card>
 			<name>Akira Slide</name>
@@ -4342,7 +4343,7 @@ When this Aura enters, exile target nonland permanent an opponent controls until
 		</card>
 		<card>
 			<name>Hound Suit</name>
-			<text>When this Equipment enters, create a 2/2 red Mutant creature token. Attach this Equipment to that token. 
+			<text>When this Equipment enters, create a 2/2 black Mutant creature token. Attach this Equipment to that token. 
 Equipped creature gets +1/-1.
 When equipped creature dies, draw a card.
 Equip—{1}, Pay 1 life.</text>
@@ -4358,6 +4359,7 @@ Equip—{1}, Pay 1 life.</text>
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<related count="1">Mutant</related>
 		</card>
 		<card>
 			<name>The Hairy Scary Librarian</name>
@@ -5168,7 +5170,7 @@ Kryptonite Vision — When Titano enters, target creature an opponent controls l
 		</card>
 		<card>
 			<name>To Me, My X-Men!</name>
-			<text>When this enchantment enters, create a 2/2 white Mutant creature token with battle cry. (Whenever that creature attacks, each other attacking creature gets +1/+0 until end of turn.)
+			<text>When this enchantment enters, create a 2/2 white Mutant Hero creature token with battle cry. (Whenever that creature attacks, each other attacking creature gets +1/+0 until end of turn.)
 Whenever you attack with two or more creatures, draw a card.</text>
 			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/287.png" num="45">TOAST</set>
 			<prop>
@@ -5182,7 +5184,7 @@ Whenever you attack with two or more creatures, draw a card.</text>
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="1">Mutant</related>
+			<related count="1">Mutant Hero</related>
 		</card>
 		<card>
 			<name>Kingshammer</name>
@@ -5639,7 +5641,7 @@ As long as Adora is equipped, she gets +2/+2 and has lifelink.</text>
 		<card>
 			<name>Heart of the Ocean TOAST</name>
 			<text>{T}: Add {U}{U}{U}</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/315.png" num="7">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/315.png" num="9">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5803,7 +5805,7 @@ Return target permanent you control to its owner&apos;s hand.</text>
 		<card>
 			<name>Map Token TOAST</name>
 			<text>{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery. (To have this creature explore, reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/323.png" num="17">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/323.png" num="23">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6861,7 +6863,7 @@ Exhaust — {5}: Atom Rom deals 7 damage to target creature. (Activate each exha
 		<card>
 			<name>Serpent TOAST</name>
 			<text></text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/382.png" num="19">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/382.png" num="25">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6869,6 +6871,7 @@ Exhaust — {5}: Atom Rom deals 7 damage to target creature. (Activate each exha
 				<maintype>Creature</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
+				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
@@ -6876,7 +6879,7 @@ Exhaust — {5}: Atom Rom deals 7 damage to target creature. (Activate each exha
 		<card>
 			<name>Warrior Cat TOAST</name>
 			<text></text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/383.png" num="8">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/383.png" num="10">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6894,7 +6897,7 @@ Exhaust — {5}: Atom Rom deals 7 damage to target creature. (Activate each exha
 		<card>
 			<name>Beast TOAST</name>
 			<text></text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/384.png" num="11">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/384.png" num="15">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6930,7 +6933,7 @@ Exhaust — {5}: Atom Rom deals 7 damage to target creature. (Activate each exha
 		<card>
 			<name>Minion TOAST</name>
 			<text></text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/386.png" num="18">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/386.png" num="24">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6947,7 +6950,7 @@ Exhaust — {5}: Atom Rom deals 7 damage to target creature. (Activate each exha
 			<name>Terrible Eye Token TOAST</name>
 			<text>As long as this Equipment is attached to a creature, you may cast spells from your hand without paying their mana costs
 Equip {9}</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/387.png" num="20">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/387.png" num="26">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6963,7 +6966,7 @@ Equip {9}</text>
 			<name>Silkwrap TOAST</name>
 			<text>(This token&apos;s mana cost is {1}{W}.)
 When this token enters, exile target creature with mana value 3 or less an opponent controls until this enchantment leaves the battlefield.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/388.png" num="6">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/388.png" num="7">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6980,7 +6983,7 @@ When this token enters, exile target creature with mana value 3 or less an oppon
 		<card>
 			<name>Garokk, The Petrified Man TOAST</name>
 			<text></text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/389.png" num="10">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/389.png" num="12">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7016,7 +7019,7 @@ When this token enters, exile target creature with mana value 3 or less an oppon
 		<card>
 			<name>Dragon&apos;s Egg TOAST</name>
 			<text>{T}: Add {B}{B}{B}.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/391.png" num="9">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/391.png" num="11">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7050,7 +7053,7 @@ When this token enters, exile target creature with mana value 3 or less an oppon
 		<card>
 			<name>The Crimson Gem of Cyttorak TOAST</name>
 			<text>{T}: Add {R}{R}{R}.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/393.png" num="12">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/393.png" num="16">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7067,7 +7070,7 @@ When this token enters, exile target creature with mana value 3 or less an oppon
 		<card>
 			<name>The Thorned Emerald TOAST</name>
 			<text>{T}: Add {G}{G}{G}.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/394.png" num="13">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/394.png" num="18">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7102,7 +7105,7 @@ When this token enters, exile target creature with mana value 3 or less an oppon
 		<card>
 			<name>Forest TOAST</name>
 			<text></text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/396.png" num="22">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/396.png" num="30">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7135,7 +7138,7 @@ When this token enters, exile target creature with mana value 3 or less an oppon
 			<name>Weapon TOAST</name>
 			<text>Equipped creature gets +1/+1.
 Equip {2}</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/398.png" num="21">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/398.png" num="27">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7150,7 +7153,7 @@ Equip {2}</text>
 		<card>
 			<name>Food Minion TOAST</name>
 			<text>{2}, {T}, Sacrifice this token: You gain 3 life.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/399.png" num="16">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/399.png" num="22">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7166,7 +7169,7 @@ Equip {2}</text>
 		<card>
 			<name>Alethiometer TOAST</name>
 			<text>{T}: Draw a card, then discard a card.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/400.png" num="14">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/400.png" num="20">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7181,7 +7184,7 @@ Equip {2}</text>
 		<card>
 			<name>Construct TOAST</name>
 			<text>This creature gets +1/+1 for each artifact you control.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/401.png" num="15">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/401.png" num="21">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7190,6 +7193,144 @@ Equip {2}</text>
 				<manacost></manacost>
 				<cmc>0</cmc>
 				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Everywhere TOAST</name>
+			<text>This land is a Plains, Island, Swamp, Mountain, and Forest. ({T}: Add {W}, {U}, {B}, {R}, or {G}.)</text>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/402.png" num="29">TOAST</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Desert TOAST</name>
+			<text>{T}: Add {C}.</text>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/403.png" num="28">TOAST</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Land — Desert</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Wurm TOAST</name>
+			<text></text>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/404.png" num="19">TOAST</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Wurm</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Mutant Hero TOAST</name>
+			<text>Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)</text>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/405.png" num="6">TOAST</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Mutant Hero</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Mutant TOAST</name>
+			<text></text>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/406.png" num="13">TOAST</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Skeleton Army TOAST</name>
+			<text></text>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/407.png" num="14">TOAST</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Skeleton Army</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Spirit TOAST</name>
+			<text>Flying</text>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/408.png" num="8">TOAST</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Possum TOAST</name>
+			<text></text>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/409.png" num="17">TOAST</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Possum</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>

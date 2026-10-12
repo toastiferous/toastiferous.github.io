@@ -3155,7 +3155,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Legendary Artifact",
-			"collector_number": "7",
+			"collector_number": "9",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/315.png"
 			}
@@ -3235,7 +3235,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Map",
-			"collector_number": "17",
+			"collector_number": "23",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/323.png"
 			}
@@ -3825,7 +3825,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Serpent",
-			"collector_number": "19",
+			"collector_number": "25",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/382.png"
 			}
@@ -3835,7 +3835,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Warrior Cat",
-			"collector_number": "8",
+			"collector_number": "10",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/383.png"
 			}
@@ -3845,7 +3845,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Beast",
-			"collector_number": "11",
+			"collector_number": "15",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/384.png"
 			}
@@ -3865,7 +3865,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Minion",
-			"collector_number": "18",
+			"collector_number": "24",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/386.png"
 			}
@@ -3875,7 +3875,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Artifact — Equipment",
-			"collector_number": "20",
+			"collector_number": "26",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/387.png"
 			}
@@ -3885,7 +3885,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Enchantment",
-			"collector_number": "6",
+			"collector_number": "7",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/388.png"
 			}
@@ -3895,7 +3895,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Creature — God",
-			"collector_number": "10",
+			"collector_number": "12",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/389.png"
 			}
@@ -3915,7 +3915,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Legendary Artifact",
-			"collector_number": "9",
+			"collector_number": "11",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/391.png"
 			}
@@ -3935,7 +3935,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Legendary Artifact",
-			"collector_number": "12",
+			"collector_number": "16",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/393.png"
 			}
@@ -3945,7 +3945,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Legendary Artifact",
-			"collector_number": "13",
+			"collector_number": "18",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/394.png"
 			}
@@ -3965,7 +3965,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Land — Forest",
-			"collector_number": "22",
+			"collector_number": "30",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/396.png"
 			}
@@ -3985,7 +3985,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Equipment",
-			"collector_number": "21",
+			"collector_number": "27",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/398.png"
 			}
@@ -3995,7 +3995,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Food Minion",
-			"collector_number": "16",
+			"collector_number": "22",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/399.png"
 			}
@@ -4005,7 +4005,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact",
-			"collector_number": "14",
+			"collector_number": "20",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/400.png"
 			}
@@ -4015,9 +4015,89 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Construct",
-			"collector_number": "15",
+			"collector_number": "21",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/401.png"
+			}
+		},
+		{
+			"name": "Everywhere",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Land",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/402.png"
+			}
+		},
+		{
+			"name": "Desert",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Land — Desert",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/403.png"
+			}
+		},
+		{
+			"name": "Wurm",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Wurm",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/404.png"
+			}
+		},
+		{
+			"name": "Mutant Hero",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Mutant Hero",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/405.png"
+			}
+		},
+		{
+			"name": "Mutant",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Mutant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/406.png"
+			}
+		},
+		{
+			"name": "Skeleton Army",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Skeleton Army",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/407.png"
+			}
+		},
+		{
+			"name": "Spirit",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/408.png"
+			}
+		},
+		{
+			"name": "Possum",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Possum",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://toastiferous.github.io/sets/TOAST-files/img/409.png"
 			}
 		}
 	]
