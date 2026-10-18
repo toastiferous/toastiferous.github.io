@@ -5833,4 +5833,370 @@ Finder of Paths Unseen
 Ember-Eyed Behemoth
 rules_text: Trample
 Whenever Ember-Eyed Behemoth enters or attacks, choose one. 
-• Target creature can't block this t
+• Target creature can't block this turn.
+• Target creature blocks this turn if able. => Trample
+Whenever Ember-Eyed Behemoth enters or attacks, choose one —
+• Target creature can't block this turn.
+• Target creature blocks this turn if able.
+
+Shifting Memory of Ages
+
+Cactus McCoy
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, create a weapon token attached to target creature you control. [i](It's a colorless Equipment artifact token with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+Whenever a creature you control deals five or more damage, create The Thorned Emerald, a legendary green artifact token with “{T}: Add {G}{G}{G}.” This ability triggers only once. => [i]Landfall[/i] — Whenever a land you control enters, create a Weapon token attached to target creature you control. [i](It's a colorless Equipment artifact token with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+Whenever a creature you control deals five or more damage, create The Thorned Emerald, a legendary green artifact token with “{T}: Add {G}{G}{G}.” This ability triggers only once.
+
+Seadragonus Giganticus Maximus
+
+Wreck of the Titanic
+
+Pearl
+
+The Blade of Evil's Bane
+
+Link, Hero of Hyrule
+
+Wounded Waters Bleeding
+
+Sharp Fangs Behind the Leaves
+
+Sun-Bright Whirlwind
+
+Eyes Watch From the Trees
+
+Serpent Slumbering Beneath the Island
+
+Many Minds Move as One
+
+Winds of Rust and Atrophy
+rules_text: Choose one—
+• Destroy target artifact.
+• Destroy target enchantment.
+• Prevent all combat damage that would be dealt this turn. => Choose one —
+• Destroy target artifact.
+• Destroy target enchantment.
+• Prevent all combat damage that would be dealt this turn.
+
+Powerstorm
+
+Shadows Flicker Like Flame
+pt: 4/3 => 3/3
+
+Blazing Renewal
+
+Exaltation of the Incandescent Sky
+cost:  => {1}{U}{R}
+rules_text: Exaltation of the Incandescent Sky deals 3 damage to any target. Until end of turn, cards in your hand have Cycling {1}. [i]({1}, Discard this card: Draw a card.)[/i] => Kicker {W}{B}{G} [i](You may pay an additional {W}{B}{G} as you cast this spell.)[/i]
+Exaltation of the Incandescent Sky deals 3 damage to target creature. Target player surveils 2, then draws a card. If it was kicked, target player creates a 4/4 red Elemental creature token, then gains 5 life.
+
+Hearth-Vigil
+
+Alvin the Treacherous
+rules_text: Menace
+Whenever Alvin the Treacherous enters or deals combat damage to a player, he connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)[/i]
+Escape—{1}{B}, Exile five other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i] => Menace
+Whenever Alvin the Treacherous enters or deals combat damage to a player, he connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)[/i]
+Escape—{1}{B}, Exile four other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]
+
+Exterminator Dragon
+
+Fathomless Mud of the Swamp
+
+Cain Marko, Juggernaut
+
+Devouring Teeth Lurk Underfoot
+
+Towering Roots of the Jungle
+
+Prophecied Panic
+
+Approaching Army
+
+Paw Paw, Brilliant Legal Mind
+
+Rosaline
+
+Morin Vineral
+
+Solum Bufo
+type: Legendary Creature — Frog Monk => Legendary Creature — Frog Mutant Monk
+
+Counterspell
+
+Telaine, the Glittering Lady
+
+Thunderspeaker
+
+Silk Merchant
+
+Diggy
+
+Steal the Moon
+
+Batman, Caped Crusader
+
+Harleen Quinzel
+
+Marceline, the Vampire Queen
+
+Pamela Isley
+
+Rot
+
+Hawkeye
+
+Mount Monterey
+type: Legendary Land => Legendary Land — Forest Plains
+
+The Saucelands
+type: Legendary Land => Legendary Land — Swamp Mountain
+
+Wintergreen Way
+type: Legendary Land => Legendary Land — Mountain Forest
+
+Neapolitown
+type: Legendary Land => Legendary Land — Mountain Plains
+
+Gummy Grotto
+type: Legendary Land => Legendary Land — Island Mountain
+
+Blue Moon Bay
+type: Legendary Land => Legendary Land — Plains Island
+
+Lake Chocodunk
+type: Legendary Land => Legendary Land — Island Swamp
+
+Leaf Landing
+type: Legendary Land => Legendary Land — Forest Island
+
+Cookie Caverns
+type: Legendary Land => Legendary Land — Plains Swamp
+
+The X Zone
+
+Robin, Boy Wonder
+
+Skyship Stormchaser
+
+Slay the Spire
+
+Sherlock Holmes
+
+Chewbacca
+rules_text: Companion — Your starting deck has ten or more nonbasic land cards. [i](If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)[/i]
+Trample
+Whenever Chewbacca enters or becomes a target of a spell you don't control, he fights up to one target creature. => Companion — Your starting deck has ten or more nonbasic land cards. [i](If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)[/i]
+Trample
+Whenever Chewbacca becomes the target of a spell or ability you don't control, he fights up to one target creature.
+
+Renfield the Madman
+
+Arrogance, Innocence, and Patience
+
+Blood Draws Predators
+
+Sap the Strength of Multitudes
+
+Draw Towards a Consuming Void
+
+Dr. John Watson
+
+Willow Rosenberg
+rules_text: Companion — Each nonland card in your starting deck is black. [i](If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)[/i]
+If you would lose life during your turn, instead you lose that much life plus 1 and draw a card. => Companion — Each nonland card in your starting deck is black. [i](If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)[/i]
+At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.
+
+The Dragon Jewel
+rules_text: When The Dragon Jewel enters, if you cast it, choose one—
+• Destroy all creatures with power 4 or greater.
+• Destroy all creatures with power 3 or less.
+{T}: Add three mana of any one color. => When The Dragon Jewel enters, if you cast it, choose one —
+• Destroy all creatures with power 4 or greater.
+• Destroy all creatures with power 3 or less.
+{T}: Add three mana of any one color.
+
+Csilla, the Saddle Knight
+
+Vampire Spydragon
+
+Luau LePunch
+
+Wildheart Guff
+rules_text: When Wildheart Guff enters, you gain 5 life, draw a card, and create a tapped colorless land token named Everywhere that is every basic land type.
+{2}: Choose one. Activate only once each turn—
+• Draw a card.
+• Create a tapped colorless land token named Everywhere that is every basic land type. => When Wildheart Guff enters, you gain 5 life, draw a card, and create a tapped colorless land token named Everywhere that is every basic land type.
+{2}: Choose one. Activate only once each turn —
+• Draw a card.
+• Create a tapped colorless land token named Everywhere that is every basic land type.
+
+HORUS Gorgon
+
+Elderstahl, Twilight of the Gods
+
+Beta Ray Bill
+
+Opal Luna Saturnyne
+
+Roma, Omniversal Guardian
+
+Artakha, the Great Designer
+
+The Siege Perilous
+
+Rahne Sinclair, Wolfsbane
+
+Sam Guthrie, Cannonball
+
+The Death Note
+
+Kobold Librarian
+
+Amara Juliana Olivians Aquilla
+
+Selene Gallio
+
+Days of Future Past
+
+Hulkbuster Armor Model 52
+
+Connie's Crystal Sword
+
+Darth Sidious
+rules_text: Whenever Darth Sidious enters or you cast a noncreature spell, choose one that hasn't been chosen this turn—
+• You draw a card and lose 3 life.
+• Darth Sidious deals 3 damage to any target.
+• Add {B}{B}{B}.
+Persist [i](When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)[/i] => Whenever Darth Sidious enters or you cast a noncreature spell, choose one that hasn't been chosen this turn —
+• You draw a card and lose 3 life.
+• Darth Sidious deals 3 damage to any target.
+• Add {B}{B}{B}.
+Persist [i](When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)[/i]
+
+Force Lightning
+
+Shadow the Hedgehog
+rules_text: Menace, haste
+Whenever Shadow the Hedgehog deals combat damage to a player, you may cast a spell with mana value less than or equal to his power from your graveyard by paying life equal to its mana value rather than paying its mana cost. => Menace, haste
+Whenever Shadow the Hedgehog deals combat damage to a player, you may cast a spell with mana value less than his power from your graveyard by paying life equal to its mana value rather than paying its mana cost.
+
+Chaos Control
+
+Doctor Ivo Robotnik
+
+Metal City Mayhem
+
+General Kai, the Collector
+
+Parry
+
+Roberto Da Costa, Sunspot
+
+Puss in Boots
+
+Pillar of Living Flame
+
+Sunflower
+
+Hardwon Surefoot
+type:  => Legendary Creature — Human Elf Warrior
+cost:  => {2}{R}{R}
+rules_text:  => Double strike, trample, haste
+Ward—Pay 4 life [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 4 life.)[/i]
+pt:  => 2/4
+
+Proconsul H. L. Ravilla
+
+Tartarus
+rules_text: {T}: Add {C}
+{T}, Pay 1 life: Add {B}.
+Whenever Tartarus becomes tapped, mill a card. => Tartarus enters tapped unless you control a basic land.
+{T}: Add {B}.
+Whenever you tap Tartarus for mana, mill a card.
+
+There Is No Escape
+
+It's Alive!
+
+Frankenstein's Monster
+
+The Wild Robot
+
+Isca the Unbeaten
+
+Branch Mine
+
+Yogg-Saron, Hope's End
+type: Legendary Creature — Yogg-Saron => Legendary Planeswalker — Yogg-Saron
+
+Virginia Pepper Potts
+
+Galad Rosell, White Rose of Galaderon
+
+Backbiter
+
+Atomic Breath
+
+Cast Down Into The Briny Deep
+
+Count Dracula
+
+Vengeful Spirit
+
+The Bloody Crow of Cainhurst
+
+Substitution Jutsu
+
+The Prophecy of the Wilderwest
+
+Endeavour, the Dragonsword
+
+Map Token
+
+Super Mario
+
+Geronimo Stilton
+
+Avohkii, the Mask of Light
+
+Karzanhi, the Tormentor
+
+Ulfgar Trueaxe
+
+Jolene the Green
+
+Thiala, Hero of Bahumia
+
+Chronoskimming
+type:  => Instant
+cost:  => {U}
+rules_text:  => Return target instant or sorcery card with mana value 3 or less from your graveyard to your hand.
+
+General Jack Ripper
+pt: 1/1 => 2/1
+
+Escape From Tarkov
+
+The Stone Gardens
+
+Trap in Crystal???
+
+Groundhog Day
+
+Godzilla
+
+Marquise Recruiter
+cost: {W} => {3}{W}
+rules_text: tutor toughness 2 or less? should this be an artifact engine somehow? make 1/1s and draw? like a staff of the storyteller? => When this creature enters, you may search your library for a creature card with mana value 2 or less, reveal it, put it into your hand, then shuffle.
+At the beginning of your end step, create a 1/1 white Soldier creature token.
+pt:  => 1/1
+
+Godzilla vs. Kong
+
+The Hairy Scary Librarian
+
+
+VERSION 1 CHANGELOG
+====================
+
+First version published.
