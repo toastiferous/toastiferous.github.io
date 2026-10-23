@@ -1,4 +1,37 @@
-﻿VERSION 14 CHANGELOG
+﻿VERSION 15 CHANGELOG
+====================
+
+
+
+Harrietta Gris, Chief Anatomist
+rules_text: Flash
+Whenever Harrietta Gris enters or attacks, you may sacrifice an artifact or creature or exile an artifact or creature card from your graveyard. If you do, scry 1, then draw a card. => Flash
+Whenever Harrietta Gris enters or attacks, you may sacrifice an artifact or creature or exile an artifact or creature card from your graveyard. If you do, draw a card.
+
+Exaltation of the Incandescent Sky
+type: Instant => Sorcery
+
+Thiala, Hero of Bahumia
+loyalty: 4 => 3
+
+Horde Captain Surge Boombucket
+rules_text: Surge {1}{R}{R} [i](You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)[/i]
+[+1]: Create a 1/1 white Soldier creature token. Creatures you control get +1/+0 and gain haste until end of turn.
+[-2]: Destroy target artifact or nonbasic land.
+[-6]: You get an emblem with “{R}, Sacrifice a land: This emblem deals 3 damage to any target.” => Surge {2}{R} [i](You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)[/i]
+[+1]: Create a 1/1 white Soldier creature token. Creatures you control get +1/+0 and gain haste until end of turn.
+[-2]: Destroy target artifact or nonbasic land.
+[-6]: You get an emblem with “{R}, Sacrifice a land: This emblem deals 3 damage to any target.”
+special_text: Surge {1}{R}{R} [i](You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)[/i]
+[+1]: Create a 1/1 white Soldier creature token. Creatures you control get +1/+0 and gain haste until end of turn.
+[-2]: Destroy target artifact or nonbasic land.
+[-6]: You get an emblem with “{R}, Sacrifice a land: This emblem deals 3 damage to any target.” => Surge {2}{R} [i](You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)[/i]
+[+1]: Create a 1/1 white Soldier creature token. Creatures you control get +1/+0 and gain haste until end of turn.
+[-2]: Destroy target artifact or nonbasic land.
+[-6]: You get an emblem with “{R}, Sacrifice a land: This emblem deals 3 damage to any target.”
+
+
+VERSION 14 CHANGELOG
 ====================
 
 Soldier added.

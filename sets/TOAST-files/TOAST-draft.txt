@@ -1024,7 +1024,7 @@
 			"name": "Exaltation of the Incandescent Sky",
 			"rarity": "special",
 			"mana_cost": "{1}{U}{R}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "258",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/102.png"

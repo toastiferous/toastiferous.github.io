@@ -5,7 +5,7 @@
 			<name>TOAST</name>
 			<longname>Toast Crossover Cube</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-10-18</releasedate>
+			<releasedate>2026-10-23</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -498,7 +498,7 @@ Whenever Vin deals combat damage to a player, draw a card. Then discard a card u
 		<card>
 			<name>Harrietta Gris, Chief Anatomist</name>
 			<text>Flash
-Whenever Harrietta Gris enters or attacks, you may sacrifice an artifact or creature or exile an artifact or creature card from your graveyard. If you do, scry 1, then draw a card.</text>
+Whenever Harrietta Gris enters or attacks, you may sacrifice an artifact or creature or exile an artifact or creature card from your graveyard. If you do, draw a card.</text>
 			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/26.png" num="263">TOAST</set>
 			<prop>
 				<layout>normal</layout>
@@ -1886,8 +1886,8 @@ Exaltation of the Incandescent Sky deals 3 damage to target creature. Target pla
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
 				<manacost>1UR</manacost>
 				<cmc>3</cmc>
 				<colors>UR</colors>
@@ -5862,7 +5862,7 @@ When this artifact is put into a graveyard from the battlefield, draw a card.</t
 				<cmc>5</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<loyalty>4</loyalty>
+				<loyalty>3</loyalty>
 			</prop>
 			<tablerow>1</tablerow>
 			<related count="X">Knight TOAST</related>
@@ -5913,7 +5913,7 @@ Destroy all creatures. They can&apos;t be regenerated.</text>
 		</card>
 		<card>
 			<name>Horde Captain Surge Boombucket</name>
-			<text>Surge {1}{R}{R} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
+			<text>Surge {2}{R} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
 [+1]: Create a 1/1 white Soldier creature token. Creatures you control get +1/+0 and gain haste until end of turn.
 [-2]: Destroy target artifact or nonbasic land.
 [-6]: You get an emblem with &quot;{R}, Sacrifice a land: This emblem deals 3 damage to any target.&quot;</text>
