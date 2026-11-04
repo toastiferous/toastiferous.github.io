@@ -1,4 +1,822 @@
-﻿VERSION 15 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+The Spear Cuts Through Water added.
+Unlock the Veil added.
+Iscend Comprine added.
+Dream of the Untouched Land added.
+
+Shifting Memory of Ages removed.
+Substitution Jutsu removed.
+Stampede removed.
+
+Zagreus
+rules_text: First strike, haste
+Whenever Zagreus deals combat damage to a player, mill two cards, then return an instant or sorcery card at random from your graveyard to your hand. 
+Escape {2}{B}{R}, Exile three other cards from your graveyard [i](You may cast this card from your graveyard for its escape cost.)[/i] => First strike, haste
+Whenever Zagreus deals combat damage to a player, mill two cards, then return an instant or sorcery card at random from your graveyard to your hand. 
+Escape {2}{B}{R}, Exile four other cards from your graveyard [i](You may cast this card from your graveyard for its escape cost.)[/i]
+
+The Gloamglozer
+rules_text: Flying
+You may have the Gloamglozer enter the battlefield as a copy of any creature on the battlefield, except it has flying.
+Escape—{3}{U}{U}, Exile four other cards from your graveyard.
+When you cast The Gloamglozer for its escape cost, copy it. => Flying
+You may have The Gloamglozer enter the battlefield as a copy of any creature on the battlefield, except it has flying and it's not legendary.
+Escape—{3}{U}{U}, Exile five other cards from your graveyard.
+When you cast The Gloamglozer for its escape cost, copy it.
+
+Lyra Silvertongue
+rules_text: Lyra Silvertongue can't be blocked by creatures with greater power. 
+When Lyra enters, create Alethiometer, a colorless artifact token with “{T}: Draw a card, then discard a card.”
+Whenever Lyra deals combat damage to a player, untap target permanent. => When Lyra enters, create Alethiometer, a colorless artifact token with “{T}: Draw a card, then discard a card.”
+Whenever Lyra deals combat damage to a player, untap target permanent.
+
+Relentless Gaze of the Sun
+rules_text: Flying, haste
+Whenever you cast a noncreature spell that targets, sacrifice a land. If you do, copy that spell. You may choose new targets for the copy. => Flying, haste
+Whenever you cast a noncreature spell that targets, you may sacrifice a land. If you do, copy that spell. You may choose new targets for the copy.
+
+The Pain Box
+
+Master Yoda
+
+Fort Onion
+
+Gonzo the Great
+
+Bart Simpson
+
+The Hell Cycle
+
+Nathaniel, John Mandrake
+
+Rachel Summers
+
+The Ironclad
+
+The Defect
+
+The Silent
+
+The Necrobinder
+
+The Regent
+
+Streex, Street Shark
+rules_text: [i]Jawsome[/i] — Whenever Streex, Street Shark enters or attacks, each player gets three rad counters.
+[i]Shark Dive[/i] — Exile three cards from your graveyard: Streex becomes a land with “{T}: Add {C}” until end of turn. => Whenever Streex, Street Shark enters or attacks, each player gets three rad counters.
+Exile three cards from your graveyard: Streex becomes a land with “{T}: Add {C}” until end of turn. Activate only once each turn.
+
+Warp Coin
+
+The Ender Dragon
+
+Boomer
+
+Jean Grey
+
+Diana Cavendish
+
+Darth Maul
+
+Vigor of the Breaking Dawn
+
+Keeper of the Forbidden Wilds
+
+Ocean's Hungry Grasp
+
+River Surges in Sunlight
+
+Dissolving Mists
+
+Binja
+
+Jacksmith
+
+Finder of Paths Unseen
+
+Ember-Eyed Behemoth
+
+Akira Slide
+
+Cactus McCoy
+
+Seadragonus Giganticus Maximus
+
+Wreck of the Titanic
+rules_text: {T}: Draw a card if you descended this turn. [i](You descended if a permanent card was put into your graveyard from anywhere this turn.)[/i]
+At the beginning of your end step, if there are twenty or fewer cards in your library, sacrifice Wreck of the [i]Titanic[/i] and create Heart of the Ocean, a legendary blue artifact token with “{T}: Add {U}{U}{U}.” => {T}: Draw a card if you descended this turn. Activate only during your turn. [i](You descended if a permanent card was put into your graveyard from anywhere this turn.)[/i]
+At the beginning of your end step, if there are twenty or fewer cards in your library, sacrifice Wreck of the [i]Titanic[/i] and create Heart of the Ocean, a legendary blue artifact token with “{T}: Add {U}{U}{U}.”
+
+Pearl
+
+The Blade of Evil's Bane
+
+Link, Hero of Hyrule
+
+Wounded Waters Bleeding
+
+Sharp Fangs Behind the Leaves
+
+Sun-Bright Whirlwind
+
+Eyes Watch From the Trees
+
+Many Minds Move as One
+
+Winds of Rust and Atrophy
+
+Powerstorm
+
+Madelyne Pryor, Goblin Queen
+
+Blazing Renewal
+
+Exaltation of the Incandescent Sky
+
+Hearth-Vigil
+
+Alvin the Treacherous
+
+Exterminator Dragon
+
+Fathomless Mud of the Swamp
+
+Cain Marko, Juggernaut
+
+Devouring Teeth Lurk Underfoot
+
+Towering Roots of the Jungle
+
+Approaching Army
+
+Rosaline
+
+Solum Bufo
+
+Uku of the Unseen Eye
+
+Counterspell
+
+Telaine, the Glittering Lady
+
+Thunderspeaker
+
+Silk Merchant
+
+Diggy
+pt: 2/2 => 2/1
+
+Steal the Moon
+
+Batman, Caped Crusader
+
+Marceline, the Vampire Queen
+
+Pamela Isley
+
+Rot
+
+Vance Deadeye Cybin
+
+Hawkeye
+
+Mount Monterey
+
+The Saucelands
+
+Wintergreen Way
+
+Neapolitown
+
+Gummy Grotto
+
+Blue Moon Bay
+
+Lake Chocodunk
+
+Leaf Landing
+
+Cookie Caverns
+
+The X Zone
+
+Robin, Boy Wonder
+
+Skyship Stormchaser
+
+Slay the Spire
+
+Sherlock Holmes
+
+Chewbacca
+
+Renfield the Madman
+
+Blood Draws Predators
+
+Sap the Strength of Multitudes
+
+Draw Towards a Consuming Void
+
+Dr. John Watson
+
+Willow Rosenberg
+
+The Dragon Jewel
+
+Csilla, the Saddle Knight
+
+Vampire Spydragon
+
+Luau LePunch
+
+Wildheart Guff
+
+HORUS Gorgon
+
+Elderstahl, Twilight of the Gods
+
+Beta Ray Bill
+
+Roma, Omniversal Guardian
+
+The Siege Perilous
+
+Rahne Sinclair, Wolfsbane
+
+Sam Guthrie, Cannonball
+
+The Death Note
+
+Amara Juliana Olivians Aquilla
+
+Days of Future Past
+cost: {2}{U}{R} => {1}{U}{R}
+
+Hulkbuster Armor Model 52
+
+Connie's Crystal Sword
+
+Darth Sidious
+
+Force Lightning
+
+Shadow the Hedgehog
+
+Chaos Control
+
+Doctor Ivo Robotnik
+
+General Kai, the Collector
+
+Parry
+
+Roberto Da Costa, Sunspot
+
+Puss in Boots
+
+A Fistful of Dirt
+
+Pillar of Living Flame
+
+Sunflower
+
+Hardwon Surefoot
+
+Proconsul H. L. Ravilla
+
+Tartarus
+
+There Is No Escape
+rules_text: Destroy target creature with mana value 3 or less.
+{2}{B}{B}, Exile There Is No Escape and two other cards from your graveyard: Return target creature card with mana value 3 or less from a graveyard to the battlefield. Activate only as a sorcery. => Destroy target creature with mana value 3 or less.
+{2}{B}{B}, Exile There Is No Escape and two other cards from your graveyard: Return target creature card with mana value 3 or less from your graveyard to the battlefield. Activate only as a sorcery.
+
+The Wild Robot
+
+Isca the Unbeaten
+
+Branch Mine
+
+Galad Rosell, White Rose of Galaderon
+
+Backbiter
+
+Atomic Breath
+
+Cast Down Into The Briny Deep
+
+Count Dracula
+
+Vengeful Spirit
+
+The Bloody Crow of Cainhurst
+
+Endeavour, the Dragonsword
+
+Driller Dragon
+
+Geronimo Stilton
+
+Avohkii, the Mask of Light
+
+Chronoskimming
+
+Escape From Tarkov
+
+The Stone Gardens
+
+Great Chariot Cannon
+
+Bequeath
+
+Groundhog Day
+
+Banderbear
+
+Godzilla
+pt: 10/10 => 9/9
+
+Shape the Self Anew
+
+Marquise Recruiter
+
+Godzilla vs. Kong
+
+What We're Gonna Do Today
+
+Blood-Sated Sword Soul
+
+The Xenomorph Queen
+
+Shai-Hulud
+
+Thirty-Cubit Spear
+
+Martin and Chris Kratt
+
+The Dark Prophecy
+
+Ironmonger
+
+Shield Bash
+
+Pinpoint
+
+Crash Landing
+
+Hang
+
+All For One
+type: Sorcery => Instant
+
+Bluestar's Prophecy
+
+Shoot First
+
+Banish
+
+Creeper
+
+The Crick
+
+Grimhawk
+
+Frostwind
+
+Galaderon, City in the Clouds
+
+Asphodel
+
+Elysium
+
+Undertown
+
+The Mire
+
+The Autumn Court
+
+Throne, the Red City
+
+Dream No More
+
+Bench
+
+Grim Reflection
+
+Greenpath
+
+No Cost Too Great
+
+Hound Suit
+
+The Hairy Scary Librarian
+
+Litany Against Fear
+
+Paul Muad'Dib Atreides
+pt: 1/2 => 1/1
+
+Path of Pain
+
+Somewhere Over The Rainbow
+
+The White Palace
+
+City of Tears
+
+Crystal Peak
+
+Agent P
+
+Deepnest
+
+Kingdom's Edge
+
+Ideate
+
+Cornifer the Mapmaker
+
+Laura Kinney, Wolverine
+
+Undyne, Spear of Justice
+
+Second Wave
+
+Lorna Dane, Polaris
+
+Silk Spear
+
+Zaladane, Empress of the Savage Land
+
+Lex Luthor
+
+Bukvar
+
+King Thorin Oakenshield
+
+Decapitate
+
+Grand Mother Silk
+
+Emma Frost, White Queen
+
+Great Slash
+
+Fraiden French, Margrave
+
+Enweb
+
+Nailmaster Oro
+
+Hornet, Daughter of Hallownest
+
+Optic Blast
+
+Strike the Match
+
+The Stagways
+
+Egwene, The Lady Snake
+
+Obi-Wan Kenobi
+
+The Blood-Red Glister
+
+Pikachu
+rules_text: Companion — Each nonland card in your starting deck has “damage” in its printed rules text. [i](If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)[/i]
+Prowess
+When Pikachu enters, exile the top card of your library. You may play that card until the end of your next turn. => Companion — ??????? [i](If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)[/i]
+Prowess
+When Pikachu enters, exile the top card of your library. You may play that card until the end of your next turn.
+
+Po, the Dragon Warrior
+
+The Return of Turbot Smeal
+
+Cerebro
+
+The Big Friendly Giant
+
+Prowlgrin
+
+Shakra
+
+Marabelle the Terrible
+rules_text: Deathtouch
+Whenever a land you control enters, create a 1/1 green Fungus creature token.
+{2}, Sacrifice two creatures: Draw a card. Activate only during your turn. => Deathtouch
+[i]Landfall[/i] — Whenever a land you control enters, create a 1/1 green Fungus creature token.
+{2}, Sacrifice two creatures: Draw a card. Activate only during your turn.
+
+Titano the Super-Ape
+
+To Me, My X-Men!
+
+Kingshammer
+
+The Predator
+
+Alien vs. Predator
+
+The Woodsman's Lantern
+
+The Sands of Karak
+
+Bilewater
+
+Greymoor
+
+The Deep Docks
+
+Shellwood
+
+Moss Grotto
+
+Mount Fay
+
+Bellhart
+
+Far Fields
+
+Three Sword Style
+
+LEGO Batman
+
+Mine
+
+One For All
+
+Phantom Zone Projector
+
+The Ticking-Thing
+
+Vengeance as a Burning Plague
+rules_text: Menace
+Whenever an opponent casts a spell that targets, Vengeance as a Burning Plague deals 2 damage to that player.
+Whenever an opponent loses life for the second time each turn, put a +1/+1 counter on Vengeance as a Burning Plague. => Menace
+Whenever an opponent casts a spell that targets, Vengeance as a Burning Plague deals 2 damage to that player.
+{3}{R}, Exile Vengeance as a Burning Plague from your graveyard: Vengeance as a Burning Plague deals 2 damage to any target.
+
+Forgotten Crossroads
+
+Board the Princess Andromeda
+
+Percy Jackson
+
+Anakin Skywalker
+
+Beverly Toegold V
+
+Iorek Byrnison
+
+Adora, Princess of Power
+
+Heart of the Ocean
+
+Betsy Braddock, Captain Britain
+
+Harleen Quinzel
+
+Opal Luna Saturnyne
+
+Artakha, the Great Designer
+
+Metal City Mayhem
+
+Yogg-Saron, Hope's End
+rules_text: [+2]: Each player discards two cards.
+[0]: Create a 1/1 black Tentacle creature token with deathtouch. Mill four cards.
+[-3]: Until end of turn, you may play lands and cast spells from your graveyard. If a card would be put into your graveyard from anywhere this turn, exile that card instead. => [+2]: Each opponent discards two cards.
+[0]: Create a 1/1 black Tentacle creature token with deathtouch. Mill four cards.
+[-3]: Until end of turn, you may play lands and cast spells from your graveyard. If a card would be put into your graveyard from anywhere this turn, exile that card instead.
+special_text: [+2]: Each player discards two cards.
+[0]: Create a 1/1 black Tentacle creature token with deathtouch. Mill four cards.
+[-3]: Until end of turn, you may play lands and cast spells from your graveyard. If a card would be put into your graveyard from anywhere this turn, exile that card instead. => [+2]: Each opponent discards two cards.
+[0]: Create a 1/1 black Tentacle creature token with deathtouch. Mill four cards.
+[-3]: Until end of turn, you may play lands and cast spells from your graveyard. If a card would be put into your graveyard from anywhere this turn, exile that card instead.
+
+Virginia Pepper Potts
+
+Map Token
+
+Super Mario
+
+Karzanhi, the Tormentor
+
+Jolene the Green
+
+Thiala, Hero of Bahumia
+
+General Jack Ripper
+
+Pendeghast the Betrayer
+
+Horde Captain Surge Boombucket
+
+The Soul Master
+
+Professor X
+
+Ash Ketchum, Creature Collector
+
+Vaneira the Flower Queen
+
+Oath of the Green Knight
+
+Sorrow and Remembrance
+
+UnLondon City Bus
+
+The Yellow Submarine
+
+Jacky Magus
+
+Galaderon Drill-Car
+
+Starlight Bolt
+
+Guardian of Laputa
+
+Spirited Away
+
+Gift of the Phoenix
+
+The Sorceress Yubaba
+
+Air Destroyer Goliath
+
+The Amulet of Samarkand
+
+Tanuki
+
+Luigi Mario
+
+Lightning's Boon
+
+Bayou
+
+Scrubland
+
+Tundra
+
+Tropical Island
+
+Savannah
+
+Plateau
+
+Volcanic Island
+
+Underground Sea
+
+Badlands
+
+Taiga
+
+Warlock
+
+The Wormways
+
+Mothwing Cloak
+
+Manifest Incarnation
+
+The Crown, Armored and Protecting
+
+A Vacation to Munchmore
+
+Firestar of Thunderclan
+
+Gathering at Fourtrees
+
+Cast to the Winds
+
+Spice Melange
+
+Viv Vision
+
+The Millennium Puzzle
+
+V1, Death Machine
+
+The Bat Signal
+rules_text: {T}: Add {U} or {B}. You lose 1 life.
+You may cast legendary creature spells as though they have flash. => {T}: Add {U} or {B}. You lose 1 life.
+You may cast creature spells as though they have flash.
+
+Feyd-Rautha Harkonnen
+
+It's Alive!
+
+Miles Prower
+
+Woke Quintar
+
+Raptortongue
+cost: {2}{U} => {1}{U}
+rules_text: Flash
+Flying
+Whenever you cast a spell during an opponent's turn, draw a card. => Flash
+Flying
+Whenever you cast a spell during an opponent's turn, draw a card, then discard a card.
+pt: 2/2 => 2/1
+
+Atom Rom, Kill Screen
+
+Charmspeak
+
+Serpent
+
+Warrior Cat
+
+Beast
+
+Bird
+
+Minion
+
+Terrible Eye Token
+
+Silkwrap
+
+Garokk, The Petrified Man
+
+Soldier
+
+The Dragon's Egg
+
+The Arkenstone
+
+The Crimson Gem of Cyttorak
+
+The Thorned Emerald
+
+Knight
+
+Forest
+
+Hero
+
+Weapon
+
+Food Minion
+
+Alethiometer
+
+Construct
+
+Everywhere
+
+Desert
+
+Wurm
+
+Mutant Hero
+
+Mutant
+
+Skeleton Army
+
+Spirit
+
+Possum
+
+Powerstone
+
+Clue
+
+Rebel
+
+Human Warlock
+pt:  => 1/1
+
+Crystal Meth
+
+Angel
+
+Vehicle
+
+Testing Module
+
+Tentacle
+
+Elemental
+
+Dwarf Soldier
+
+Myra Goldskimmer
+
+A Spread of Rampant Green
+cost: {2}{G}{U} => {1}{G}{U}
+rules_text: You may play lands from your graveyard.
+Sacrifice a land: Tap target permanent. => You may play lands from your graveyard.
+{1}, Sacrifice a land: Tap target permanent.
+
+
+VERSION 15 CHANGELOG
 ====================
 
 
