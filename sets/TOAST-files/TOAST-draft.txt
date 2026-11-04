@@ -194,7 +194,7 @@
 			"name": "The Deepwoods",
 			"rarity": "special",
 			"mana_cost": "",
-			"type": "Legendary Land",
+			"type": "Legendary Land — Forest",
 			"collector_number": "339",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/19.png"

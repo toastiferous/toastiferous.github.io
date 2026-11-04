@@ -5,7 +5,7 @@
 			<name>TOAST</name>
 			<longname>Toast Crossover Cube</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-11-03</releasedate>
+			<releasedate>2026-11-04</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -373,7 +373,7 @@ Landfall — Whenever a land you control enters, create a 1/1 green Faerie creat
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Land</type>
+				<type>Legendary Land — Forest</type>
 				<maintype>Land</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
@@ -460,7 +460,7 @@ Whenever Luke Skywalker attacks, add an amount of {G} equal to his power. Until 
 		<card>
 			<name>Han Solo</name>
 			<text>Haste
-Whenever Han Solo becomes tapped, discard a card at random, then draw two cards.</text>
+Whenever Han Solo becomes tapped, you may discard a card at random. If you do, exile the top two cards of your library. You may play them this turn.</text>
 			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/24.png" num="168">TOAST</set>
 			<prop>
 				<layout>normal</layout>
@@ -620,7 +620,7 @@ When Ramuthra enters, exile the top seven cards of your library. You may play th
 			<name>The Isle of Berk</name>
 			<text>The Isle of Berk enters tapped unless you control a basic land.
 {T}: Add {U}
-{T}: Add {U}{U}. Spend this mana only to cast creature spells with power 4 or greater.</text>
+{4}{U}: Until end of turn, The Isle of Berk becomes a 4/3 blue Dragon creature with flying and ward {2}. It&apos;s still a land.</text>
 			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/33.png" num="351">TOAST</set>
 			<prop>
 				<layout>normal</layout>
@@ -1312,7 +1312,7 @@ Sacrifice four artifacts: Return The Ender Dragon from your graveyard to the bat
 			<name>Boomer</name>
 			<text>Haste
 When Boomer enters, she deals 1 damage to any target. If a creature is dealt damage this way, it can&apos;t block this turn. If she was cast for her blitz cost, she deals X damage instead.
-Blitz {X}{R}{R} (If you cast this spell for its blitz cost, it gains haste and &quot;When this creature dies, draw a card.&quot; Sacrifice it at the beginning of the next end step.)</text>
+Blitz {X}{R} (If you cast this spell for its blitz cost, it gains haste and &quot;When this creature dies, draw a card.&quot; Sacrifice it at the beginning of the next end step.)</text>
 			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/71.png" num="154">TOAST</set>
 			<prop>
 				<layout>normal</layout>
@@ -3812,8 +3812,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Ironmonger</name>
-			<text>Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
-Landfall — Whenever a land you control enters, reveal the top card of your library. You may put it into your graveyard. If it&apos;s a land card, draw a card. Otherwise, create a Treasure token.</text>
+			<text>Landfall — Whenever a land you control enters, reveal the top card of your library. You may put it into your graveyard. If it&apos;s a land card, draw a card. Otherwise, create a Treasure token.</text>
 			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/210.png" num="217">TOAST</set>
 			<prop>
 				<layout>normal</layout>
@@ -4911,7 +4910,7 @@ When Pikachu enters, exile the top card of your library. You may play that card 
 				<cmc>2</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>2/2</pt>
+				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>

@@ -410,7 +410,7 @@
             "card_name": "The Deepwoods",
             "color": "",
             "rarity": "cube",
-            "type": "Legendary Land",
+            "type": "Legendary Land \u2014 Forest",
             "number": 339,
             "color_identity": "G",
             "cost": "",
@@ -519,7 +519,7 @@
             "number": 168,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Haste\nWhenever Han Solo becomes tapped, discard a card at random, then draw two cards.",
+            "rules_text": "Haste\nWhenever Han Solo becomes tapped, you may discard a card at random. If you do, exile the top two cards of your library. You may play them this turn.",
             "flavor_text": "[i]\u201cNever tell me the odds!\u201d[/i]",
             "pt": "3/3",
             "special_text": "",
@@ -677,7 +677,7 @@
             "alias": "",
             "position": "31",
             "rotated": false,
-            "notes": "When Ramuthra enters, exile all nonland permanents you control with mana value 3 or less. For each permanent exiled this way, reveal cards from the top of your library until you reveal a nonland card with mana value 3 or less and exile that card. You may cast any number of spells from among cards exiled this way without paying their mana costs.\nWhenever Ramuthra enters or attacks, exile up to two target nonland permanents. For each permanent exiled this way, its controller reveals cards from the top of their library until they exile a card with greater mana value"
+            "notes": ""
         },
         {
             "card_name": "Heddleham Hall",
@@ -708,8 +708,8 @@
             "number": 351,
             "color_identity": "U",
             "cost": "",
-            "rules_text": "The Isle of Berk enters tapped unless you control a basic land.\n{T}: Add {U}\n{T}: Add {U}{U}. Spend this mana only to cast creature spells with power 4 or greater.",
-            "flavor_text": "[i]\u201cIt's twelve days north of hopeless, and a few degrees south of freezing to death.\u201d\n\u2014Hiccup Horrendous Haddock III[/i]",
+            "rules_text": "The Isle of Berk enters tapped unless you control a basic land.\n{T}: Add {U}\n{4}{U}: Until end of turn, The Isle of Berk becomes a 4/3 blue Dragon creature with flying and ward {2}. It's still a land.",
+            "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -719,7 +719,7 @@
             "alias": "",
             "position": "33",
             "rotated": false,
-            "notes": "ive-just-about-finished-my-terraforming-for-berk-v0-50qrlw6xwjr71\nmana value 5 or greater?"
+            "notes": "ive-just-about-finished-my-terraforming-for-berk-v0-50qrlw6xwjr71\n\u201cIt's twelve days north of hopeless, and a few degrees south of freezing to death.\u201d\n\u2014Hiccup Horrendous Haddock III"
         },
         {
             "card_name": "Breath of Darkness Down Your Spine",
@@ -1506,7 +1506,7 @@
             "number": 154,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "Haste\nWhen Boomer enters, she deals 1 damage to any target. If a creature is dealt damage this way, it can't block this turn. If she was cast for her blitz cost, she deals X damage instead.\nBlitz {X}{R}{R} [i](If you cast this spell for its blitz cost, it gains haste and \u201cWhen this creature dies, draw a card.\u201d Sacrifice it at the beginning of the next end step.)[/i]",
+            "rules_text": "Haste\nWhen Boomer enters, she deals 1 damage to any target. If a creature is dealt damage this way, it can't block this turn. If she was cast for her blitz cost, she deals X damage instead.\nBlitz {X}{R} [i](If you cast this spell for its blitz cost, it gains haste and \u201cWhen this creature dies, draw a card.\u201d Sacrifice it at the beginning of the next end step.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -4174,7 +4174,7 @@
             "color_identity": "G",
             "cost": "{1}{G}{G}",
             "rules_text": "Trample\nWhen Banderbear enters, create a Food token.\nAt the beginning of your upkeep, return a permanent you control to its owner's hand.",
-            "flavor_text": "[i]\u201cWuh-wurruh-wuh\u201d[/i]",
+            "flavor_text": "[i]\u201cWuh-wurruh-wuh.\u201d[/i]",
             "pt": "4/4",
             "special_text": "",
             "shape": "normal",
@@ -4425,7 +4425,7 @@
             "number": 217,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Ward {1} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]\n[i]Landfall[/i] \u2014 Whenever a land you control enters, reveal the top card of your library. You may put it into your graveyard. If it's a land card, draw a card. Otherwise, create a Treasure token.",
+            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, reveal the top card of your library. You may put it into your graveyard. If it's a land card, draw a card. Otherwise, create a Treasure token.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -5612,7 +5612,7 @@
             "alias": "",
             "position": "266",
             "rotated": false,
-            "notes": "vincenzo-riccardi-cyclops-instagramjpg.jpg"
+            "notes": "vincenzo-riccardi-cyclops-instagramjpg.jpg\n"
         },
         {
             "card_name": "Strike the Match",
@@ -5729,7 +5729,7 @@
             "cost": "{1}{R}",
             "rules_text": "Companion \u2014 ??????? [i](If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)[/i]\nProwess\nWhen Pikachu enters, exile the top card of your library. You may play that card until the end of your next turn.",
             "flavor_text": "[i][/i]",
-            "pt": "2/2",
+            "pt": "2/1",
             "special_text": "",
             "shape": "normal",
             "set": "TOAST",
@@ -6112,4 +6112,4 @@
             "shape": "normal",
             "set": "TOAST",
             "loyalty": "",
-            "arti
+            "a

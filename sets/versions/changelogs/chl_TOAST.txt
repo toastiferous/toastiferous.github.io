@@ -1,4 +1,45 @@
-﻿VERSION 16 CHANGELOG
+﻿VERSION 17 CHANGELOG
+====================
+
+
+
+The Deepwoods
+type: Legendary Land => Legendary Land — Forest
+
+Han Solo
+rules_text: Haste
+Whenever Han Solo becomes tapped, discard a card at random, then draw two cards. => Haste
+Whenever Han Solo becomes tapped, you may discard a card at random. If you do, exile the top two cards of your library. You may play them this turn.
+
+Ramuthra
+
+The Isle of Berk
+rules_text: The Isle of Berk enters tapped unless you control a basic land.
+{T}: Add {U}
+{T}: Add {U}{U}. Spend this mana only to cast creature spells with power 4 or greater. => The Isle of Berk enters tapped unless you control a basic land.
+{T}: Add {U}
+{4}{U}: Until end of turn, The Isle of Berk becomes a 4/3 blue Dragon creature with flying and ward {2}. It's still a land.
+
+Boomer
+rules_text: Haste
+When Boomer enters, she deals 1 damage to any target. If a creature is dealt damage this way, it can't block this turn. If she was cast for her blitz cost, she deals X damage instead.
+Blitz {X}{R}{R} [i](If you cast this spell for its blitz cost, it gains haste and “When this creature dies, draw a card.” Sacrifice it at the beginning of the next end step.)[/i] => Haste
+When Boomer enters, she deals 1 damage to any target. If a creature is dealt damage this way, it can't block this turn. If she was cast for her blitz cost, she deals X damage instead.
+Blitz {X}{R} [i](If you cast this spell for its blitz cost, it gains haste and “When this creature dies, draw a card.” Sacrifice it at the beginning of the next end step.)[/i]
+
+Banderbear
+
+Ironmonger
+rules_text: Ward {1} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+[i]Landfall[/i] — Whenever a land you control enters, reveal the top card of your library. You may put it into your graveyard. If it's a land card, draw a card. Otherwise, create a Treasure token. => [i]Landfall[/i] — Whenever a land you control enters, reveal the top card of your library. You may put it into your graveyard. If it's a land card, draw a card. Otherwise, create a Treasure token.
+
+Optic Blast
+
+Pikachu
+pt: 2/2 => 2/1
+
+
+VERSION 16 CHANGELOG
 ====================
 
 The Spear Cuts Through Water added.
@@ -6929,125 +6970,4 @@ Force Lightning
 Shadow the Hedgehog
 rules_text: Menace, haste
 Whenever Shadow the Hedgehog deals combat damage to a player, you may cast a spell with mana value less than or equal to his power from your graveyard by paying life equal to its mana value rather than paying its mana cost. => Menace, haste
-Whenever Shadow the Hedgehog deals combat damage to a player, you may cast a spell with mana value less than his power from your graveyard by paying life equal to its mana value rather than paying its mana cost.
-
-Chaos Control
-
-Doctor Ivo Robotnik
-
-Metal City Mayhem
-
-General Kai, the Collector
-
-Parry
-
-Roberto Da Costa, Sunspot
-
-Puss in Boots
-
-Pillar of Living Flame
-
-Sunflower
-
-Hardwon Surefoot
-type:  => Legendary Creature — Human Elf Warrior
-cost:  => {2}{R}{R}
-rules_text:  => Double strike, trample, haste
-Ward—Pay 4 life [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 4 life.)[/i]
-pt:  => 2/4
-
-Proconsul H. L. Ravilla
-
-Tartarus
-rules_text: {T}: Add {C}
-{T}, Pay 1 life: Add {B}.
-Whenever Tartarus becomes tapped, mill a card. => Tartarus enters tapped unless you control a basic land.
-{T}: Add {B}.
-Whenever you tap Tartarus for mana, mill a card.
-
-There Is No Escape
-
-It's Alive!
-
-Frankenstein's Monster
-
-The Wild Robot
-
-Isca the Unbeaten
-
-Branch Mine
-
-Yogg-Saron, Hope's End
-type: Legendary Creature — Yogg-Saron => Legendary Planeswalker — Yogg-Saron
-
-Virginia Pepper Potts
-
-Galad Rosell, White Rose of Galaderon
-
-Backbiter
-
-Atomic Breath
-
-Cast Down Into The Briny Deep
-
-Count Dracula
-
-Vengeful Spirit
-
-The Bloody Crow of Cainhurst
-
-Substitution Jutsu
-
-The Prophecy of the Wilderwest
-
-Endeavour, the Dragonsword
-
-Map Token
-
-Super Mario
-
-Geronimo Stilton
-
-Avohkii, the Mask of Light
-
-Karzanhi, the Tormentor
-
-Ulfgar Trueaxe
-
-Jolene the Green
-
-Thiala, Hero of Bahumia
-
-Chronoskimming
-type:  => Instant
-cost:  => {U}
-rules_text:  => Return target instant or sorcery card with mana value 3 or less from your graveyard to your hand.
-
-General Jack Ripper
-pt: 1/1 => 2/1
-
-Escape From Tarkov
-
-The Stone Gardens
-
-Trap in Crystal???
-
-Groundhog Day
-
-Godzilla
-
-Marquise Recruiter
-cost: {W} => {3}{W}
-rules_text: tutor toughness 2 or less? should this be an artifact engine somehow? make 1/1s and draw? like a staff of the storyteller? => When this creature enters, you may search your library for a creature card with mana value 2 or less, reveal it, put it into your hand, then shuffle.
-At the beginning of your end step, create a 1/1 white Soldier creature token.
-pt:  => 1/1
-
-Godzilla vs. Kong
-
-The Hairy Scary Librarian
-
-
-VERSION 1 CHANGELOG
-====================
-
-First version published.
+Whenever Shadow the Hedgehog deals combat damage to a player, you may cast a spell with mana value less than his power from your graveyard by paying life equal to its mana value rather than paying its mana 
