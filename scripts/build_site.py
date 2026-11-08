@@ -91,6 +91,12 @@ def generateFormats():
 def prettifyJSON(filepath):
 	with open(filepath, encoding='utf-8-sig') as f:
 		js_data = json.load(f)
+	if isinstance(js_data, dict) and 'cards' in js_data:
+		for card in js_data['cards']:
+			if 'card_name' in card:
+				card['card_name'] = card['card_name'].replace('\n', '').replace('\r', '').strip()
+			if 'card_name2' in card:
+				card['card_name2'] = card['card_name2'].replace('\n', '').replace('\r', '').strip()
 	with open(filepath, 'w', encoding='utf-8-sig') as f:
 		json.dump(js_data, f, indent=4)
 
@@ -244,16 +250,18 @@ for code in set_codes:
 					prev_card = previous_data['cards'][prev_card_names.index(card['card_name'])]
 					prev_card_names[prev_card_names.index(card['card_name'])] = ''
 
-					# ignore card number, since that often changes for reasons unrelated to the card itself
+					# ignore fields that often change for reasons unrelated to the card itself
 					card_copy = card.copy()
 					prev_card_copy = prev_card.copy()
 					card_copy.pop("number", None)
 					prev_card_copy.pop("number", None)
+					card_copy.pop("position", None)
+					prev_card_copy.pop("position", None)
 
 					if card_copy != prev_card_copy:
 						changed = True
 						changed_string += card['card_name'] + '\n'
-						for key in [ 'type', 'cost', 'rules_text', 'pt', 'special_text', 'loyalty' ]:
+						for key in [ 'type', 'cost', 'rules_text', 'flavor_text', 'pt', 'special_text', 'loyalty', "artist" ]:
 							if card[key] != prev_card[key]:
 								changed_string += key + ': ' + prev_card[key] + ' => ' + card[key] + '\n'
 						changed_string += '\n'
