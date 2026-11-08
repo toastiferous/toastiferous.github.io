@@ -245,7 +245,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "281",
+			"collector_number": "280",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/24.png"
 			}
@@ -255,7 +255,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact",
-			"collector_number": "288",
+			"collector_number": "287",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/25.png"
 			}
@@ -725,7 +725,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Ninja",
-			"collector_number": "279",
+			"collector_number": "278",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/72.png"
 			}
@@ -995,7 +995,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "292",
+			"collector_number": "291",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/99.png"
 			}
@@ -1225,7 +1225,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "294",
+			"collector_number": "293",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/122.png"
 			}
@@ -1315,7 +1315,7 @@
 			"rarity": "special",
 			"mana_cost": "{6}",
 			"type": "Legendary Artifact",
-			"collector_number": "284",
+			"collector_number": "283",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/131.png"
 			}
@@ -1445,7 +1445,7 @@
 			"rarity": "special",
 			"mana_cost": "{5}",
 			"type": "Legendary Artifact Creature — Equipment",
-			"collector_number": "287",
+			"collector_number": "286",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/144.png"
 			}
@@ -1455,7 +1455,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "282",
+			"collector_number": "281",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/145.png"
 			}
@@ -1725,7 +1725,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "285",
+			"collector_number": "284",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/172.png"
 			}
@@ -2135,7 +2135,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "278",
+			"collector_number": "277",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/213.png"
 			}
@@ -2355,7 +2355,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Legendary Artifact Creature — Book",
-			"collector_number": "280",
+			"collector_number": "279",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/235.png"
 			}
@@ -2595,7 +2595,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "289",
+			"collector_number": "288",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/259.png"
 			}
@@ -3105,7 +3105,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "286",
+			"collector_number": "285",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/310.png"
 			}
@@ -3165,7 +3165,7 @@
 			"rarity": "special",
 			"mana_cost": "{5}",
 			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "274",
+			"collector_number": "273",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/316.png"
 			}
@@ -3175,7 +3175,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "275",
+			"collector_number": "274",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/317.png"
 			}
@@ -3335,7 +3335,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment",
-			"collector_number": "291",
+			"collector_number": "290",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/333.png"
 			}
@@ -3355,7 +3355,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}",
 			"type": "Legendary Artifact",
-			"collector_number": "283",
+			"collector_number": "282",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/335.png"
 			}
@@ -3405,7 +3405,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "295",
+			"collector_number": "294",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/340.png"
 			}
@@ -3425,7 +3425,7 @@
 			"rarity": "special",
 			"mana_cost": "{0}",
 			"type": "Legendary Artifact",
-			"collector_number": "290",
+			"collector_number": "289",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/342.png"
 			}
@@ -3445,7 +3445,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact",
-			"collector_number": "277",
+			"collector_number": "276",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/344.png"
 			}
@@ -3495,7 +3495,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact Creature — Rogue",
-			"collector_number": "276",
+			"collector_number": "275",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/349.png"
 			}
@@ -3965,7 +3965,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact Creature — Villain",
-			"collector_number": "293",
+			"collector_number": "292",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/396.png"
 			}
@@ -3991,11 +3991,11 @@
 			}
 		},
 		{
-			"name": "[TEMP]",
+			"name": "TEMP",
 			"rarity": "special",
 			"mana_cost": "{0}",
 			"type": "Artifact",
-			"collector_number": "273",
+			"collector_number": "295",
 			"image_uris": {
 				"en": "https://toastiferous.github.io/sets/TOAST-files/img/399.png"
 			}
@@ -4362,4 +4362,4 @@
 	1 Sebastion Gilberti, Bastion
 	1 Catch 'Em All
 	1 The Terminator
-	1 [TEMP]
+	1 TEMP

@@ -535,7 +535,6 @@
 				<div class="container"><img loading="lazy" alt="img/er.png" id="TOAST_er" data-flag="@E" onclick="openSidebar('TOAST_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img/er.png" id="TOAST_er" data-flag="@E" onclick="openSidebar('TOAST_er',false)"></div>
 				<div id="colorless" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="sets/TOAST-files/img/399.png" id="TOAST_399" data-flag="@X" onclick="openSidebar('TOAST_399',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets/TOAST-files/img/316.png" id="TOAST_316" data-flag="@X" onclick="openSidebar('TOAST_316',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets/TOAST-files/img/317.png" id="TOAST_317" data-flag="@X" onclick="openSidebar('TOAST_317',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets/TOAST-files/img/349.png" id="TOAST_349" data-flag="@X" onclick="openSidebar('TOAST_349',false)"></div>
@@ -558,6 +557,7 @@
 				<div class="container"><img loading="lazy" alt="sets/TOAST-files/img/396.png" id="TOAST_396" data-flag="@X" onclick="openSidebar('TOAST_396',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets/TOAST-files/img/122.png" id="TOAST_122" data-flag="@X" onclick="openSidebar('TOAST_122',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets/TOAST-files/img/340.png" id="TOAST_340" data-flag="@X" onclick="openSidebar('TOAST_340',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets/TOAST-files/img/399.png" id="TOAST_399" data-flag="@X" onclick="openSidebar('TOAST_399',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets/TOAST-files/img/398.png" id="TOAST_398" data-flag="@X" onclick="openSidebar('TOAST_398',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets/TOAST-files/img/277.png" id="TOAST_277" data-flag="@X" onclick="openSidebar('TOAST_277',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets/TOAST-files/img/307.png" id="TOAST_307" data-flag="@X" onclick="openSidebar('TOAST_307',false)"></div>
@@ -733,6 +733,12 @@
 
 				let all_tags = new Set();
 				card_list_arrayified.forEach(card => {
+					if (card.card_name) {
+						card.card_name = card.card_name.replace(/[\r\n]+/g, '').trim();
+					}
+					if (card.card_name2) {
+						card.card_name2 = card.card_name2.replace(/[\r\n]+/g, '').trim();
+					}
 					if (card.notes) {
 						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
 						for (const match of tagMatches) {

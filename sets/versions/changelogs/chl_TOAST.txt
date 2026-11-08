@@ -1,4 +1,12 @@
-﻿VERSION 19 CHANGELOG
+﻿VERSION 20 CHANGELOG
+====================
+
+TEMP added.
+
+[TEMP] removed.
+
+
+VERSION 19 CHANGELOG
 ====================
 
 No changes.
