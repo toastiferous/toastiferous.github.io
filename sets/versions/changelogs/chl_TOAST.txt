@@ -1,4 +1,853 @@
-﻿VERSION 17 CHANGELOG
+﻿VERSION 18 CHANGELOG
+====================
+
+The Traitor Baru Cormorant added.
+Sebastion Gilberti, Bastion added.
+Catch 'Em All added.
+The Terminator added.
+[TEMP] added.
+
+Megamind removed.
+Hiccup Horrendous Haddock III removed.
+Pangur Ban removed.
+Luke Skywalker removed.
+Walter White removed.
+Gonzo the Great removed.
+The Hell Cycle removed.
+Boomer removed.
+Eyes Watch From the Trees removed.
+Exterminator Dragon removed.
+Solum Bufo removed.
+Uku of the Unseen Eye removed.
+Silk Merchant removed.
+Sherlock Holmes removed.
+HORUS Gorgon removed.
+Driller Dragon removed.
+Marquise Recruiter removed.
+Cornifer the Mapmaker removed.
+Second Wave removed.
+Lex Luthor removed.
+Nailmaster Oro removed.
+The Big Friendly Giant removed.
+Percy Jackson removed.
+Raptortongue removed.
+Crystal Meth removed.
+Myra Goldskimmer removed.
+
+Bartimaeus of Uruk
+rules_text: Flying
+{U}: Scry 1. Activate only once each turn.
+{1}{U}: Bartimaeus gains hexproof until end of turn.
+{2}{U}: Bartimaeus becomes a copy of target creature until end of turn, except his name is Bartimaeus of Uruk. => Flying
+{U}: Scry 1. Activate only once each turn.
+{1}{U}: Put a +1/+1 counter on Bartimaeus.
+{2}{U}: Bartimaeus becomes a copy of target creature until end of turn, except his name is Bartimaeus of Uruk.
+
+The Sepia Knight
+
+Caterbird
+
+Zagreus
+
+Jenny Cavanaugh
+
+Moment of Twilight
+
+Arborinus Twig Verginix
+
+The First Age of Flight
+
+The Gloamglozer
+
+Tears That Fill The River
+
+Scourge of BloodClan
+
+Lyra Silvertongue
+
+The Elf, Steward of Seasons
+
+The Deepwoods
+
+Midnight over Sanctaphrax
+
+Quintinius Cloud Wolf Verginix
+
+Princess Leia
+
+Han Solo
+
+Vin, Mistborn
+
+Harrietta Gris, Chief Anatomist
+rules_text: Flash
+Whenever Harrietta Gris enters or attacks, you may sacrifice an artifact or creature or exile an artifact or creature card from your graveyard. If you do, draw a card. => Flash
+Whenever Harrietta Gris attacks, you may sacrifice an artifact or creature or exile an artifact or creature card from your graveyard. If you do, draw a card and she can't be blocked this turn.
+
+Netin Foundry
+
+Chaos Emerald
+
+The Infinity Gauntlet
+
+Ramuthra
+
+Heddleham Hall
+
+The Isle of Berk
+
+Breath of Darkness Down Your Spine
+
+Captain Kate Pryde
+
+From Hell's Heart
+
+The Number Devil
+
+Brokkenbroll, the Unbrellisimo
+
+Zane, Master of Ice
+
+Jay, Master of Lightning
+
+Cole, Master of Earth
+
+Kai, Master of Fire
+
+Lloyd, Master of Green
+rules_text: Ninjutsu {1}{G} [i]({1}{G}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)[/i]
+Whenever Lloyd or another creature you control enters, if you didn't cast it from your hand, put a +1/+1 counter on that creature. => Ninjutsu {1}{G} [i]({1}{G}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)[/i]
+Whenever Lloyd deals combat damage to a player, return target land card from your graveyard to your hand.
+
+Relentless Gaze of the Sun
+
+Travel on the River's Back
+
+Emerge from the Dread Night Wind
+
+Scott Summers, Cyclops
+
+Exaltation of Echoed Steps
+
+Wandering Voice Keens Delirium
+rules_text: Flying
+Whenever Wandering Voice Keens Delirium attacks, draw a card, then discard a card.
+Whenever you discard a card, target creature an opponent controls gets -3/-0 until end of turn. => Flash
+Flying
+When Wandering Voice Keens Delirium enters, up to one target creature gets -X/-0 until end of turn, where X is the number of card types among cards in your graveyard. If that creature's power is less than 0, put a number of stun counters on it equal to the difference.
+
+Reaper
+
+Frightful Keening
+
+Sarah, Terrible Eye
+
+GlaDOS
+
+Simon Lovelace
+rules_text: Whenever Simon Lovelace enters or attacks, you may discard a card. If you do, draw a card.
+{3}{R}{R}: You may put a creature card from your hand onto the battlefield. That creature gains haste. Sacrifice the creature at the beginning of the next end step. => Whenever Simon Lovelace enters or attacks, you may discard a card. If you do, draw a card.
+{3}{R}{R}: Create an X/X red Spirit creature token with haste, where X is the number of card types among cards in your graveyard.
+
+The Pain Box
+
+Master Yoda
+
+Fort Onion
+
+Bart Simpson
+
+Nathaniel, John Mandrake
+
+Rachel Summers
+
+The Ironclad
+
+The Defect
+
+The Silent
+
+The Necrobinder
+
+The Regent
+
+Streex, Street Shark
+
+Warp Coin
+
+The Ender Dragon
+
+Jean Grey
+
+Diana Cavendish
+
+Darth Maul
+
+Vigor of the Breaking Dawn
+
+Keeper of the Forbidden Wilds
+
+Ocean's Hungry Grasp
+
+River Surges in Sunlight
+
+Dissolving Mists
+
+Binja
+
+Jacksmith
+
+Finder of Paths Unseen
+
+Ember-Eyed Behemoth
+
+Akira Slide
+
+Cactus McCoy
+
+Seadragonus Giganticus Maximus
+
+Wreck of the Titanic
+
+Pearl
+
+The Blade of Evil's Bane
+
+Link, Hero of Hyrule
+
+Wounded Waters Bleeding
+
+Sharp Fangs Behind the Leaves
+
+Sun-Bright Whirlwind
+
+Many Minds Move as One
+
+Winds of Rust and Atrophy
+
+Powerstorm
+
+Madelyne Pryor, Goblin Queen
+
+Blazing Renewal
+
+Exaltation of the Incandescent Sky
+
+Hearth-Vigil
+
+Alvin the Treacherous
+
+Fathomless Mud of the Swamp
+
+Cain Marko, Juggernaut
+
+Devouring Teeth Lurk Underfoot
+
+Towering Roots of the Jungle
+
+Approaching Army
+
+Rosaline
+
+Counterspell
+
+Telaine, the Glittering Lady
+
+Thunderspeaker
+
+Diggy
+rules_text: Whenever Diggy attacks, create your choice of a Treasure token or a Junk token. If you've descended this turn, create one of each instead. [i](A Junk token is an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i] => Whenever Diggy attacks, create your choice of a Treasure token or a Junk token. If you've descended this turn, create one of each instead. [i](You descended if a permanent card was put into your graveyard from anywhere this turn.)[/i]
+
+Steal the Moon
+
+Batman, Caped Crusader
+
+Marceline, the Vampire Queen
+
+Pamela Isley
+
+Rot
+
+Vance Deadeye Cybin
+
+Hawkeye
+
+Mount Monterey
+
+The Saucelands
+
+Wintergreen Way
+
+Neapolitown
+
+Gummy Grotto
+
+Blue Moon Bay
+
+Lake Chocodunk
+
+Leaf Landing
+
+Cookie Caverns
+
+The X Zone
+
+Robin, Boy Wonder
+
+Skyship Stormchaser
+
+Slay the Spire
+
+Chewbacca
+
+Renfield the Madman
+
+Blood Draws Predators
+
+Sap the Strength of Multitudes
+
+Draw Towards a Consuming Void
+
+Dr. John Watson
+
+Willow Rosenberg
+
+The Dragon Jewel
+
+Csilla, the Saddle Knight
+
+Vampire Spydragon
+
+Luau LePunch
+
+Wildheart Guff
+
+Elderstahl, Twilight of the Gods
+
+Beta Ray Bill
+
+Roma, Omniversal Guardian
+
+The Siege Perilous
+
+Rahne Sinclair, Wolfsbane
+
+Sam Guthrie, Cannonball
+
+The Death Note
+
+Days of Future Past
+
+Hulkbuster Armor Model 52
+
+Connie's Crystal Sword
+
+Darth Sidious
+
+Force Lightning
+
+Shadow the Hedgehog
+
+Chaos Control
+
+Doctor Ivo Robotnik
+
+General Kai, the Collector
+
+Parry
+
+Roberto Da Costa, Sunspot
+
+Puss in Boots
+
+A Fistful of Dirt
+
+Pillar of Living Flame
+
+Sunflower
+
+Hardwon Surefoot
+
+Proconsul H. L. Ravilla
+
+Tartarus
+
+There Is No Escape
+
+The Wild Robot
+
+Isca the Unbeaten
+
+Branch Mine
+
+Galad Rosell, White Rose of Galaderon
+
+Backbiter
+
+Atomic Breath
+
+Cast Down Into The Briny Deep
+
+Count Dracula
+
+Vengeful Spirit
+
+The Bloody Crow of Cainhurst
+
+Endeavour, the Dragonsword
+
+Geronimo Stilton
+
+Avohkii, the Mask of Light
+
+Chronoskimming
+
+Escape From Tarkov
+
+The Stone Gardens
+
+Great Chariot Cannon
+
+Bequeath
+
+Groundhog Day
+
+Banderbear
+pt: 4/4 => 5/4
+
+Godzilla
+
+Shape the Self Anew
+
+Godzilla vs. Kong
+
+What We're Gonna Do Today
+
+Blood-Sated Sword Soul
+
+The Xenomorph Queen
+
+Shai-Hulud
+
+Thirty-Cubit Spear
+
+Martin and Chris Kratt
+
+The Dark Prophecy
+
+Ironmonger
+
+Shield Bash
+
+Pinpoint
+
+Crash Landing
+
+Hang
+
+All For One
+
+Bluestar's Prophecy
+
+Shoot First
+
+Banish
+
+Creeper
+
+The Crick
+
+Grimhawk
+
+Frostwind
+
+Galaderon, City in the Clouds
+
+Asphodel
+
+Elysium
+
+Undertown
+
+The Mire
+
+The Autumn Court
+
+Throne, the Red City
+
+Dream No More
+
+Bench
+
+Grim Reflection
+
+Greenpath
+
+No Cost Too Great
+
+Hound Suit
+
+The Hairy Scary Librarian
+
+Litany Against Fear
+
+Paul Muad'Dib Atreides
+
+Path of Pain
+
+Somewhere Over The Rainbow
+
+The White Palace
+
+City of Tears
+
+Crystal Peak
+
+Agent P
+
+Deepnest
+
+Kingdom's Edge
+
+Ideate
+
+Laura Kinney, Wolverine
+
+Undyne, Spear of Justice
+
+Lorna Dane, Polaris
+
+Silk Spear
+
+Zaladane, Empress of the Savage Land
+
+Bukvar
+
+King Thorin Oakenshield
+
+Decapitate
+
+Grand Mother Silk
+
+Emma Frost, White Queen
+
+Great Slash
+
+Fraiden French, Margrave
+
+Enweb
+
+Hornet, Daughter of Hallownest
+
+Optic Blast
+
+Strike the Match
+
+The Stagways
+
+Egwene, The Lady Snake
+
+Obi-Wan Kenobi
+
+The Blood-Red Glister
+
+Pikachu
+
+Po, the Dragon Warrior
+
+The Return of Turbot Smeal
+
+Cerebro
+
+Prowlgrin
+
+Shakra
+
+Marabelle the Terrible
+
+Titano the Super-Ape
+
+To Me, My X-Men!
+
+Kingshammer
+
+The Predator
+
+Alien vs. Predator
+
+The Woodsman's Lantern
+
+The Sands of Karak
+
+Bilewater
+
+Greymoor
+
+The Deep Docks
+
+Shellwood
+
+Moss Grotto
+
+Mount Fay
+
+Bellhart
+
+Far Fields
+
+Three Sword Style
+
+LEGO Batman
+
+Mine
+
+One For All
+
+Phantom Zone Projector
+
+The Ticking-Thing
+
+Vengeance as a Burning Plague
+
+Forgotten Crossroads
+
+Board the Princess Andromeda
+
+Anakin Skywalker
+
+Beverly Toegold V
+
+Iorek Byrnison
+
+Adora, Princess of Power
+
+Heart of the Ocean
+
+Betsy Braddock, Captain Britain
+
+Harleen Quinzel
+
+Opal Luna Saturnyne
+
+Artakha, the Great Designer
+
+Metal City Mayhem
+
+Yogg-Saron, Hope's End
+
+Virginia Pepper Potts
+
+Map Token
+
+Super Mario
+
+Karzanhi, the Tormentor
+
+Jolene the Green
+
+Thiala, Hero of Bahumia
+
+General Jack Ripper
+
+Pendeghast the Betrayer
+
+Horde Captain Surge Boombucket
+
+The Soul Master
+
+Professor X
+
+Ash Ketchum, Creature Collector
+
+Vaneira the Flower Queen
+
+Oath of the Green Knight
+
+Sorrow and Remembrance
+
+UnLondon City Bus
+
+The Yellow Submarine
+
+Jacky Magus
+
+Galaderon Drill-Car
+
+Starlight Bolt
+
+Guardian of Laputa
+
+Spirited Away
+
+Gift of the Phoenix
+
+The Sorceress Yubaba
+
+Air Destroyer Goliath
+
+The Amulet of Samarkand
+
+Tanuki
+
+Luigi Mario
+
+Lightning's Boon
+
+Bayou
+
+Scrubland
+
+Tundra
+
+Tropical Island
+
+Savannah
+
+Plateau
+
+Volcanic Island
+
+Underground Sea
+
+Badlands
+
+Taiga
+
+Warlock
+
+The Wormways
+
+Mothwing Cloak
+
+Manifest Incarnation
+
+The Crown, Armored and Protecting
+
+A Vacation to Munchmore
+
+Firestar of Thunderclan
+
+Gathering at Fourtrees
+
+Cast to the Winds
+
+Spice Melange
+
+Viv Vision
+
+The Millennium Puzzle
+
+V1, Death Machine
+
+The Bat Signal
+
+Feyd-Rautha Harkonnen
+
+It's Alive!
+
+Miles Prower
+
+Woke Quintar
+
+Atom Rom, Kill Screen
+
+Charmspeak
+
+Serpent
+
+Warrior Cat
+
+Beast
+
+Bird
+
+Minion
+
+Terrible Eye Token
+
+Silkwrap
+
+Garokk, The Petrified Man
+
+Soldier
+
+The Dragon's Egg
+
+The Arkenstone
+
+The Crimson Gem of Cyttorak
+
+The Thorned Emerald
+
+Knight
+
+Forest
+
+Hero
+
+Weapon
+
+Food Minion
+
+Alethiometer
+
+Construct
+
+Everywhere
+
+Desert
+
+Wurm
+
+Mutant Hero
+
+Mutant
+
+Skeleton Army
+
+Spirit
+
+Possum
+
+Powerstone
+
+Clue
+
+Rebel
+
+Human Warlock
+
+Angel
+
+Vehicle
+
+Testing Module
+
+Tentacle
+
+Elemental
+
+Dwarf Soldier
+
+The Spear Cuts Through Water
+
+Unlock the Veil
+
+Iscend Comprine
+
+Dream of the Untouched Land
+
+A Spread of Rampant Green
+
+Amara Juliana Olivians Aquilla
+rules_text: Haste
+Whenever Amara Juliana Olivians Aquilla attacks, if you cast a noncreature spell this turn, put a +1/+1 counter on her.
+At the beginning of your end step, if you cast no noncreature spells this turn, remove all counters from Amara Juliana Olivians Aquilla. => Prowess
+Whenever Amara Juliana Olivians Aquilla attacks, create a Mountain token. Sacrifice that token at end of combat.
+pt: 1/1 => 1/2
+
+
+VERSION 17 CHANGELOG
 ====================
 
 
