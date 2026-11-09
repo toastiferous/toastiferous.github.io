@@ -477,7 +477,7 @@ Whenever Harrietta Gris attacks, you may sacrifice an artifact or creature or ex
 			<name>The Infinity Gauntlet</name>
 			<text>Whenever The Infinity Gauntlet or another nontoken artifact you control enters, create a tapped Powerstone token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast a nonartifact spell.&quot;)
 {6}: You may cast a spell from your hand or graveyard without paying its mana cost. If that card would be put into a graveyard from anywhere, exile it instead.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/25.png" num="287">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/25.png" num="288">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1826,7 +1826,7 @@ When Approaching Army enters, search your library for a creature card, put it in
 			<text>When Rosaline enters, attach it to target creature you control.
 Equipped creature gets +1/+1 and has &quot;Whenever an equipped creature you control deals combat damage to a player, draw a card.&quot;
 Equip {2}</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/99.png" num="291">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/99.png" num="292">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2224,7 +2224,7 @@ Flying, first strike, lifelink, vigilance</text>
 When Skyship Stormchaser enters, create a Powerstone token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast a nonartifact spell.&quot;)
 Whenever Skyship Stormchaser attacks, you may pay {X}. If you do, look at the top X cards of your library, put one into your hand, then shuffle.
 Crew 2</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/122.png" num="293">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/122.png" num="294">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2622,7 +2622,7 @@ When there are no nonland cards in your graveyard, exile Days of Future Past.</t
 			<text>When Hulkbuster Armor Model 52 enters and whenever equipped creature attacks, it fights up to one target creature an opponent controls.
 Equipped creature gets +5/+5.
 Reconfigure {6} ({6}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn&apos;t a creature.)</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/144.png" num="286">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/144.png" num="287">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3127,7 +3127,7 @@ Whenever you discard a card, add {R}. Until end of turn, you don&apos;t lose thi
 As long as equipped creature is attacking, it has first strike.
 Whenever equipped creature deals combat damage, create a Map token.
 Equip {1}</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/172.png" num="284">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/172.png" num="285">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4655,7 +4655,7 @@ Whenever you attack with two or more creatures, draw a card.</text>
 			<text>Equipped creature gets +3/+0 and has trample and lifelink.
 When equipped creature attacks, create three 1/1 white Dwarf Spirit creature tokens that are tapped and attacking. Exile those tokens at the beginning of the next end step.
 Equip {2}</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/259.png" num="288">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/259.png" num="289">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5609,7 +5609,7 @@ Crew 1
 ---
 
 Return target artifact or creature card from your graveyard to your hand.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/310.png" num="285">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/310.png" num="286">TOAST</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -5985,7 +5985,7 @@ You may have this creature enter as a copy of any permanent on the battlefield, 
 			<text>Equipped creature gets +1/+0 and has haste.
 {2}, Sacrifice Mothwing Cloak: Exile equipped creature, then return it to the battlefield under its owner&apos;s control. It gets +1/+0 and gains haste until end of turn.
 Equip {1}</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/333.png" num="290">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/333.png" num="291">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6101,7 +6101,7 @@ Scry 1, then draw a card.</text>
 			<name>Spice Melange</name>
 			<text>You may look at the top card of your library at any time.
 {T}, Sacrifice this artifact: You may shuffle your library. Draw a card.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/340.png" num="294">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/340.png" num="295">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6133,7 +6133,7 @@ Power-up — {4}: Search your library and graveyard for a card with mana value 1
 			<name>The Millennium Puzzle</name>
 			<text>{1}, {T}: Add one mana of any color.
 Exhaust — {T}, Exile seven cards from your hand and/or graveyard with different mana values: Open a sealed TOAST booster pack, reveal the cards, and put seven of them into your hand. (Activate each exhaust ability only once.)</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/342.png" num="289">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/342.png" num="290">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7066,7 +7066,7 @@ Whenever Amara Juliana Olivians Aquilla attacks, create a Mountain token. Sacrif
 			<name>Sebastion Gilberti, Bastion</name>
 			<text>Whenever Sebastion Gilberti enters or you draw your second card each turn, create a 1/1 colorless Robot creature token with Flying.
 Exhaust — {10}: Draw four cards. This ability costs {1} less to activate for each artifact you control. (Activate each exhaust ability only once.)</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/396.png" num="292">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/396.png" num="293">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7113,14 +7113,14 @@ When The Terminator dies, put it into its owner&apos;s library third from the to
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>TEMP</name>
-			<text>TEMP enters tapped.
-{T}, Sacrifice TEMP: Draw a card.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/399.png" num="295">TOAST</set>
+			<name>The Dragon Scroll</name>
+			<text>The Dragon Scroll enters tapped.
+{T}, Sacrifice The Dragon Scroll: Draw a card.</text>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/399.png" num="284">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Artifact</type>
+				<type>Legendary Artifact</type>
 				<maintype>Artifact</maintype>
 				<manacost>0</manacost>
 				<cmc>0</cmc>

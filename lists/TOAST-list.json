@@ -2329,8 +2329,16 @@
         "position": "131"
     },
     {
-        "card_name": "Endeavour, the Dragonsword",
+        "card_name": "The Dragon Scroll",
         "number": 284,
+        "shape": "normal",
+        "set": "TOAST",
+        "rotated": false,
+        "position": "399"
+    },
+    {
+        "card_name": "Endeavour, the Dragonsword",
+        "number": 285,
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
@@ -2338,7 +2346,7 @@
     },
     {
         "card_name": "Galaderon Drill-Car",
-        "number": 285,
+        "number": 286,
         "shape": "adventure",
         "set": "TOAST",
         "rotated": false,
@@ -2346,7 +2354,7 @@
     },
     {
         "card_name": "Hulkbuster Armor Model 52",
-        "number": 286,
+        "number": 287,
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
@@ -2354,7 +2362,7 @@
     },
     {
         "card_name": "The Infinity Gauntlet",
-        "number": 287,
+        "number": 288,
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
@@ -2362,7 +2370,7 @@
     },
     {
         "card_name": "Kingshammer",
-        "number": 288,
+        "number": 289,
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
@@ -2370,7 +2378,7 @@
     },
     {
         "card_name": "The Millennium Puzzle",
-        "number": 289,
+        "number": 290,
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
@@ -2378,7 +2386,7 @@
     },
     {
         "card_name": "Mothwing Cloak",
-        "number": 290,
+        "number": 291,
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
@@ -2386,7 +2394,7 @@
     },
     {
         "card_name": "Rosaline",
-        "number": 291,
+        "number": 292,
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
@@ -2394,7 +2402,7 @@
     },
     {
         "card_name": "Sebastion Gilberti, Bastion",
-        "number": 292,
+        "number": 293,
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
@@ -2402,7 +2410,7 @@
     },
     {
         "card_name": "Skyship Stormchaser",
-        "number": 293,
+        "number": 294,
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
@@ -2410,19 +2418,11 @@
     },
     {
         "card_name": "Spice Melange",
-        "number": 294,
-        "shape": "normal",
-        "set": "TOAST",
-        "rotated": false,
-        "position": "340"
-    },
-    {
-        "card_name": "TEMP",
         "number": 295,
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "399"
+        "position": "340"
     },
     {
         "card_name": "The Terminator",

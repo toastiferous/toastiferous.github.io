@@ -1,4 +1,12 @@
-﻿VERSION 20 CHANGELOG
+﻿VERSION 21 CHANGELOG
+====================
+
+The Dragon Scroll added.
+
+TEMP removed.
+
+
+VERSION 20 CHANGELOG
 ====================
 
 TEMP added.
