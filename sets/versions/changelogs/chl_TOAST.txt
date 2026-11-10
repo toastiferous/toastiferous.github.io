@@ -7875,4 +7875,132 @@ Persist [i](When this creature dies, if it had no -1/-1 counters on it, return i
 • You draw a card and lose 3 life.
 • Darth Sidious deals 3 damage to any target.
 • Add {B}{B}{B}.
-Persist [i](When this creature dies, if it had no -1/-1 counters o
+Persist [i](When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)[/i]
+
+Force Lightning
+
+Shadow the Hedgehog
+rules_text: Menace, haste
+Whenever Shadow the Hedgehog deals combat damage to a player, you may cast a spell with mana value less than or equal to his power from your graveyard by paying life equal to its mana value rather than paying its mana cost. => Menace, haste
+Whenever Shadow the Hedgehog deals combat damage to a player, you may cast a spell with mana value less than his power from your graveyard by paying life equal to its mana value rather than paying its mana cost.
+
+Chaos Control
+
+Doctor Ivo Robotnik
+
+Metal City Mayhem
+
+General Kai, the Collector
+
+Parry
+
+Roberto Da Costa, Sunspot
+
+Puss in Boots
+
+Pillar of Living Flame
+
+Sunflower
+
+Hardwon Surefoot
+type:  => Legendary Creature — Human Elf Warrior
+cost:  => {2}{R}{R}
+rules_text:  => Double strike, trample, haste
+Ward—Pay 4 life [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 4 life.)[/i]
+pt:  => 2/4
+
+Proconsul H. L. Ravilla
+
+Tartarus
+rules_text: {T}: Add {C}
+{T}, Pay 1 life: Add {B}.
+Whenever Tartarus becomes tapped, mill a card. => Tartarus enters tapped unless you control a basic land.
+{T}: Add {B}.
+Whenever you tap Tartarus for mana, mill a card.
+
+There Is No Escape
+
+It's Alive!
+
+Frankenstein's Monster
+
+The Wild Robot
+
+Isca the Unbeaten
+
+Branch Mine
+
+Yogg-Saron, Hope's End
+type: Legendary Creature — Yogg-Saron => Legendary Planeswalker — Yogg-Saron
+
+Virginia Pepper Potts
+
+Galad Rosell, White Rose of Galaderon
+
+Backbiter
+
+Atomic Breath
+
+Cast Down Into The Briny Deep
+
+Count Dracula
+
+Vengeful Spirit
+
+The Bloody Crow of Cainhurst
+
+Substitution Jutsu
+
+The Prophecy of the Wilderwest
+
+Endeavour, the Dragonsword
+
+Map Token
+
+Super Mario
+
+Geronimo Stilton
+
+Avohkii, the Mask of Light
+
+Karzanhi, the Tormentor
+
+Ulfgar Trueaxe
+
+Jolene the Green
+
+Thiala, Hero of Bahumia
+
+Chronoskimming
+type:  => Instant
+cost:  => {U}
+rules_text:  => Return target instant or sorcery card with mana value 3 or less from your graveyard to your hand.
+
+General Jack Ripper
+pt: 1/1 => 2/1
+
+Escape From Tarkov
+
+The Stone Gardens
+
+Trap in Crystal???
+
+Groundhog Day
+
+Godzilla
+
+Marquise Recruiter
+cost: {W} => {3}{W}
+rules_text: tutor toughness 2 or less? should this be an artifact engine somehow? make 1/1s and draw? like a staff of the storyteller? => When this creature enters, you may search your library for a creature card with mana value 2 or less, reveal it, put it into your hand, then shuffle.
+At the beginning of your end step, create a 1/1 white Soldier creature token.
+pt:  => 1/1
+
+Godzilla vs. Kong
+
+The Hairy Scary Librarian
+
+
+VERSION 1 CHANGELOG
+====================
+
+First version published.
