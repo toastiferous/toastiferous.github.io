@@ -1,4 +1,46 @@
-﻿VERSION 21 CHANGELOG
+﻿VERSION 22 CHANGELOG
+====================
+
+
+
+The Isle of Berk
+rules_text: The Isle of Berk enters tapped unless you control a basic land.
+{T}: Add {U}
+{4}{U}: Until end of turn, The Isle of Berk becomes a 4/3 blue Dragon creature with flying and ward {2}. It's still a land. => The Isle of Berk enters tapped unless you control a basic land.
+{T}: Add {U}
+{3}{U}: Until end of turn, The Isle of Berk becomes a 3/3 blue Dragon creature with flying and ward {2}. It's still a land.
+
+Thiala, Hero of Bahumia
+rules_text: [+2]: Create a 2/2 white Knight creature token with vigilance for each spell you've cast this turn.
+[0]: Exile target artifact or enchantment.
+[-3]: Each player sacrifices forty creatures.
+[-7]: You get an emblem with “At the beginning of each upkeep, create a 4/4 white Angel creature token with flying and vigilance.” => [+2]: Create a 2/2 white Knight creature token with vigilance.
+[-1]: Exile target artifact or enchantment.
+[-3]: Each player sacrifices forty creatures.
+[-7]: You get an emblem with “At the beginning of each upkeep, create a 4/4 white Angel creature token with flying and vigilance.”
+special_text: [+2]: Create a 2/2 white Knight creature token with vigilance for each spell you've cast this turn.
+[0]: Exile target artifact or enchantment.
+[-3]: Each player sacrifices forty creatures.
+[-7]: You get an emblem with “At the beginning of each upkeep, create a 4/4 white Angel creature token with flying and vigilance.” => [+2]: Create a 2/2 white Knight creature token with vigilance.
+[-1]: Exile target artifact or enchantment.
+[-3]: Each player sacrifices forty creatures.
+[-7]: You get an emblem with “At the beginning of each upkeep, create a 4/4 white Angel creature token with flying and vigilance.”
+loyalty: 3 => 4
+
+Sebastion Gilberti, Bastion
+rules_text: Whenever Sebastion Gilberti enters or you draw your second card each turn, create a 1/1 colorless Robot creature token with Flying.
+Exhaust — {10}: Draw four cards. This ability costs {1} less to activate for each artifact you control. [i](Activate each exhaust ability only once.)[/i] => Whenever Sebastion Gilberti enters or you draw your second card each turn, create a 1/1 colorless Robot creature token with flying.
+Exhaust — {10}: Draw four cards. This ability costs {1} less to activate for each artifact you control. [i](Activate each exhaust ability only once.)[/i]
+
+The Terminator
+rules_text: Vigilance, menace
+The Terminator has protection from players with one or fewer cards in hand.
+When The Terminator dies, put it into its owner's library third from the top. => Vigilance, menace
+The Terminator has protection from opponents with one or fewer cards in hand.
+When The Terminator dies, put it into its owner's library third from the top.
+
+
+VERSION 21 CHANGELOG
 ====================
 
 The Dragon Scroll added.

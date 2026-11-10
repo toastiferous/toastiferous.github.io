@@ -5,7 +5,7 @@
 			<name>TOAST</name>
 			<longname>Toast Crossover Cube</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-11-08</releasedate>
+			<releasedate>2026-11-09</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -528,7 +528,7 @@ When Ramuthra enters, exile the top seven cards of your library. You may play th
 			<name>The Isle of Berk</name>
 			<text>The Isle of Berk enters tapped unless you control a basic land.
 {T}: Add {U}
-{4}{U}: Until end of turn, The Isle of Berk becomes a 4/3 blue Dragon creature with flying and ward {2}. It&apos;s still a land.</text>
+{3}{U}: Until end of turn, The Isle of Berk becomes a 3/3 blue Dragon creature with flying and ward {2}. It&apos;s still a land.</text>
 			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/28.png" num="331">TOAST</set>
 			<prop>
 				<layout>normal</layout>
@@ -5330,8 +5330,8 @@ When this artifact is put into a graveyard from the battlefield, draw a card.</t
 		</card>
 		<card>
 			<name>Thiala, Hero of Bahumia</name>
-			<text>[+2]: Create a 2/2 white Knight creature token with vigilance for each spell you&apos;ve cast this turn.
-[0]: Exile target artifact or enchantment.
+			<text>[+2]: Create a 2/2 white Knight creature token with vigilance.
+[-1]: Exile target artifact or enchantment.
 [-3]: Each player sacrifices forty creatures.
 [-7]: You get an emblem with &quot;At the beginning of each upkeep, create a 4/4 white Angel creature token with flying and vigilance.&quot;</text>
 			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/297.png" num="39">TOAST</set>
@@ -5344,7 +5344,7 @@ When this artifact is put into a graveyard from the battlefield, draw a card.</t
 				<cmc>5</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<loyalty>3</loyalty>
+				<loyalty>4</loyalty>
 			</prop>
 			<tablerow>1</tablerow>
 			<related count="X">Knight TOAST</related>
@@ -7064,7 +7064,7 @@ Whenever Amara Juliana Olivians Aquilla attacks, create a Mountain token. Sacrif
 		</card>
 		<card>
 			<name>Sebastion Gilberti, Bastion</name>
-			<text>Whenever Sebastion Gilberti enters or you draw your second card each turn, create a 1/1 colorless Robot creature token with Flying.
+			<text>Whenever Sebastion Gilberti enters or you draw your second card each turn, create a 1/1 colorless Robot creature token with flying.
 Exhaust — {10}: Draw four cards. This ability costs {1} less to activate for each artifact you control. (Activate each exhaust ability only once.)</text>
 			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/396.png" num="293">TOAST</set>
 			<prop>
@@ -7098,7 +7098,7 @@ Exhaust — {10}: Draw four cards. This ability costs {1} less to activate for e
 		<card>
 			<name>The Terminator</name>
 			<text>Vigilance, menace
-The Terminator has protection from players with one or fewer cards in hand.
+The Terminator has protection from opponents with one or fewer cards in hand.
 When The Terminator dies, put it into its owner&apos;s library third from the top.</text>
 			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/398.png" num="296">TOAST</set>
 			<prop>
