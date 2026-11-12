@@ -1,4 +1,145 @@
-﻿VERSION 22 CHANGELOG
+﻿VERSION 23 CHANGELOG
+====================
+
+Emperor Sheev Palpatine added.
+Think Double added.
+Aminata IsiSegu added.
+Allied Mastercomputer added.
+Extrapolate added.
+Hemokinesis added.
+Eric Brooks, Blade added.
+
+Robin, Boy Wonder removed.
+Dr. John Watson removed.
+Darth Sidious removed.
+Ideate removed.
+Pikachu removed.
+Yogg-Saron, Hope's End removed.
+General Jack Ripper removed.
+Tentacle removed.
+
+The Gloamglozer
+rules_text: Flying
+You may have The Gloamglozer enter the battlefield as a copy of any creature on the battlefield, except it has flying and it's not legendary.
+Escape—{3}{U}{U}, Exile five other cards from your graveyard.
+When you cast The Gloamglozer for its escape cost, copy it. => Flying
+You may have The Gloamglozer enter the battlefield as a copy of any creature on the battlefield, except it has flying and its name is The Gloamglozer.
+Escape—{2}{U}{U}, Exile four other cards from your graveyard.
+
+From Hell's Heart
+rules_text: You may cast From Hell's Heart without paying its mana cost. If you do, you can't cast spells for the rest of the game.
+From Hell's Heart deals 4 damage to any target. => If a player has 4 or less life, you may cast From Hell's Heart without paying its mana cost.
+From Hell's Heart deals 4 damage to any target.
+
+Relentless Gaze of the Sun
+cost: {3}{R}{R} => {1}{R}{R}
+rules_text: Flying, haste
+Whenever you cast a noncreature spell that targets, you may sacrifice a land. If you do, copy that spell. You may choose new targets for the copy. => Flying, haste
+Whenever you cast a noncreature spell that targets, you may sacrifice two lands. If you do, copy that spell. You may choose new targets for the copy.
+pt: 4/4 => 2/2
+
+Telaine, the Glittering Lady
+rules_text: Flying
+Telaine, the Glittering Lady costs {1} less to cast for each artifact and enchantment you control.
+Discard a card: Telaine becomes a 1/1 Elf with hexproof until end of turn. => Flying
+Telaine, the Glittering Lady costs {1} less to cast for each artifact and enchantment you control.
+Discard a card: Telaine becomes a 1/1 Elf with hexproof until end of turn. Activate only once each turn.
+
+Wildheart Guff
+rules_text: When Wildheart Guff enters, you gain 5 life, draw a card, and create a tapped colorless land token named Everywhere that is every basic land type.
+{2}: Choose one. Activate only once each turn.
+• Draw a card.
+• Create a tapped colorless land token named Everywhere that is every basic land type. => When Wildheart Guff enters, you gain 5 life, draw a card, and create a tapped colorless land token named Everywhere that is every basic land type.
+{2}: Choose one. Activate only once on each of tour turns.
+• Draw a card.
+• Create a tapped colorless land token named Everywhere that is every basic land type.
+
+Doctor Ivo Robotnik
+rules_text: {1}, {T}, Discard a card or sacrifice an artifact: You draw a card and you lose 1 life. 
+{3}, {T}, Exile three cards from your graveyard: Create a 0/0 colorless Construct artifact creature token with “This token gets +1/+1 for each artifact you control.” Activate only as a sorcery. => Whenever you cast a noncreature spell, surveil 1.
+{3}, {T}, Exile three cards from your graveyard: Create a 0/0 colorless Construct artifact creature token with “This token gets +1/+1 for each artifact you control.” Activate only as a sorcery.
+
+Parry
+rules_text: Counter target spell unless its controller pays {2}.
+Create a Weapon token. You may attach it to a creature you control. [i](It's a colorless Equipment artifact token with “Equipped creature gets +1/+1” and equip {2}.)[/i] => Counter up to one target spell unless its controller pays {2}.
+Create a Weapon token. You may attach it to a creature you control. [i](It's a colorless Equipment artifact token with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+
+Sunflower
+rules_text: At the beginning of your first main phase, put a time counter on Sunflower. Then if Sunflower has three time counters on it, remove them all and add one mana of any color.
+{T}: Add one mana of any color. => Squad {2} [i](As an additional cost to cast this spell, you may pay {2} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+{T}: Add {W}.
+
+Atomic Breath
+rules_text: Atomic Breath deals X damage to each creature and each planeswalker. If X is 5 or more, it also deals X damage to each opponent. => Atomic Breath deals X damage to each creature. If X is 5 or more, it also deals X damage to each opponent.
+
+Avohkii, the Mask of Light
+rules_text: Job Select [i](When this Equipment enters, create a 1/1 colorless Hero creature token, then attach this to it.)[/i]
+Equipped creature gets +1/+1 and has vigilance and “Once during each of your turns, you may cast a permanent spell with mana value 2 or less from your graveyard.”
+Equip {3} => Job Select [i](When this Equipment enters, create a 1/1 colorless Hero creature token, then attach this to it.)[/i]
+Equipped creature gets +1/+1 and has vigilance and “Once during each of your turns, you may cast a permanent spell with mana value 2 or less from your graveyard. If you do, it enters with a finality counter on it.”
+Equip {3}
+
+Great Chariot Cannon
+rules_text: Destroy target artifact or creature. Its controller draws a card unless its mana value is less than or equal to your devotion to white. [i](Each {W} in the mana costs of permanents you control counts toward your devotion to white.)[/i] => Exile target nonland permanent. Its controller draws a card unless its mana value is less than or equal to your devotion to white. [i](Each {W} in the mana costs of permanents you control counts toward your devotion to white.)[/i]
+
+Shai-Hulud
+rules_text: Emerge {4}{G}{G} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Trample
+At the beginning of each end step, you gain X life and draw X cards, where X is the number of creatures that died this turn. => Emerge {4}{G}{G} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Trample
+When Shai-Hulud enters, return all land cards from your graveyard to the battlefield tapped.
+
+Crash Landing
+rules_text: Destroy all creatures. Conjure two cards named Fatigue on top of your library. [i](They're colorless sorceries that cost {2} with “Draw a card.”)[/i] => Destroy all creatures. Conjure a card named Fatigue on top of your library. [i](They're colorless sorceries that cost {2} with “Draw a card.”)[/i]
+
+No Cost Too Great
+rules_text: Enchant creature you control
+When this Aura enters, exile target nonland permanent an opponent controls until this Aura leaves the battlefield.
+{2}: Enchanted creature phases out. It can't phase in. [i](Treat it and anything attached to it as though they don't exist.)[/i] => Enchant creature you control
+When this Aura enters, exile target nonland permanent an opponent controls until this Aura leaves the battlefield.
+Discard a card: Enchanted creature phases out. It can't phase in.
+
+Emma Frost, White Queen
+type: Legendary Creature — Mutant => Legendary Creature — Mutant Advisor
+
+Metal City Mayhem
+rules_text: [i](Choose only one page as a sorcery to add its effects.)[/i]
+When this Manuscript enters, return target artifact or creature to its owner's hand.
+{4}{U}{U} Page 45
+At the beginning of your upkeep, create a token that's a copy of target creature you control, except it's an artifact in addition to its other types and it's not legendary.
+{2}{U} Page 212
+Whenever you draw a card, put a +1/+1 counter on target creature you control.
+ => [i](Choose only one page as a sorcery to add its effects.)[/i]
+When this Manuscript enters, you may return target creature to its owner's hand.
+{4}{U}{U} Page 45
+At the beginning of your upkeep, create a token that's a copy of target creature you control, except it's an artifact in addition to its other types and it's not legendary.
+{2}{U} Page 212
+Whenever you draw a card, put a +1/+1 counter on target creature you control.
+
+special_text: [i](Choose only one page as a sorcery to add its effects.)[/i]
+When this Manuscript enters, return target artifact or creature to its owner's hand.
+{4}{U}{U} Page 45
+At the beginning of your upkeep, create a token that's a copy of target creature you control, except it's an artifact in addition to its other types and it's not legendary.
+{2}{U} Page 212
+Whenever you draw a card, put a +1/+1 counter on target creature you control.
+ => [i](Choose only one page as a sorcery to add its effects.)[/i]
+When this Manuscript enters, you may return target creature to its owner's hand.
+{4}{U}{U} Page 45
+At the beginning of your upkeep, create a token that's a copy of target creature you control, except it's an artifact in addition to its other types and it's not legendary.
+{2}{U} Page 212
+Whenever you draw a card, put a +1/+1 counter on target creature you control.
+
+
+The Yellow Submarine
+cost: {4} => {3}
+
+The Sorceress Yubaba
+rules_text: Flying, ward {2}
+When The Sorceress Yubaba enters, gain control of target creature for as long as you control The Sorceress Yubaba. It has no name for as long as you control The Sorceress Yubaba. => Flying, ward {2}
+When The Sorceress Yubaba enters, gain control of target creature for as long as you control The Sorceress Yubaba. It has no name for as long as you control The Sorceress Yubaba. When The Sorceress Yubaba is no longer on the battlefield, return that creature to its owner's hand.
+
+
+VERSION 22 CHANGELOG
 ====================
 
 
