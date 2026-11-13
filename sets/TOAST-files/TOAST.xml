@@ -5,7 +5,7 @@
 			<name>TOAST</name>
 			<longname>Toast Crossover Cube</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-11-12</releasedate>
+			<releasedate>2026-11-13</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1126,7 +1126,7 @@ Discard a card: Create a 1/1 colorless Minion artifact creature token. It can&ap
 		<card>
 			<name>Streex, Street Shark</name>
 			<text>Whenever Streex, Street Shark enters or attacks, each player gets three rad counters.
-Exile three cards from your graveyard: Streex becomes a land with &quot;{T}: Add {C}&quot; until end of turn. Activate only once each turn.</text>
+{1}, Exile three cards from your graveyard: Streex becomes a land with &quot;{T}: Add {C}&quot; until end of turn. Activate only once each turn.</text>
 			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/61.png" num="263">TOAST</set>
 			<prop>
 				<layout>normal</layout>
@@ -3254,7 +3254,7 @@ Sacrifice two lands: Return Godzilla from your graveyard to your hand.</text>
 				<cmc>7</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>9/9</pt>
+				<pt>10/10</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4965,35 +4965,10 @@ Whenever Beverly Toegold V attacks, up to one target creature blocks this combat
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Iorek Byrnison // Meteor Plate</name>
-			<text>Deathtouch, lifelink
-Iorek Byrnison enters prepared.
-Iorek Byrnison has indestructible as long as he attacked alone this turn.
-
----
-
-When this Equipment enters, destroy target permanent.
-Equipped creature gets +3/+3.
-Equip {3}</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/279.png" num="242">TOAST</set>
-			<prop>
-				<layout>adventure</layout>
-				<side>front</side>
-				<type>Legendary Creature — Bear Noble // Artifact — Equipment</type>
-				<maintype>Creature</maintype>
-				<manacost>2WB // 7</manacost>
-				<cmc>4</cmc>
-				<colors>WB</colors>
-				<coloridentity>WB</coloridentity>
-				<pt>4/4</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>Adora, Princess of Power</name>
 			<text>When Adora enters, search your library for an Equipment card, reveal it, put it into your hand, then shuffle.
 As long as Adora is equipped, she gets +2/+2 and has lifelink.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/280.png" num="1">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/279.png" num="1">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5010,7 +4985,7 @@ As long as Adora is equipped, she gets +2/+2 and has lifelink.</text>
 		<card>
 			<name>Heart of the Ocean TOAST</name>
 			<text>{T}: Add {U}{U}{U}.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/281.png" num="13">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/280.png" num="13">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5029,7 +5004,7 @@ As long as Adora is equipped, she gets +2/+2 and has lifelink.</text>
 			<text>Flash
 Flying
 When Betsy Braddock enters, exile another target spell or nonland permanent. At the beginning of the next end step, put that card into its owner&apos;s hand.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/282.png" num="223">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/281.png" num="223">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5051,7 +5026,7 @@ Whenever you discard a card, put a +1/+1 counter on Harleen Quinzel.
 ---
 
 Target creature you control deals damage equal to its power to another target creature.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/283.png" num="152">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/282.png" num="152">TOAST</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -5068,17 +5043,17 @@ Target creature you control deals damage equal to its power to another target cr
 		<card>
 			<name>Opal Luna Saturnyne</name>
 			<text>As long as Saturnyne entered this turn, you may activate her loyalty abilities an additional time.
-[+2]: Up to one target creature phases out until your next turn.
-[-2]: Search your library for a card, put it into your hand, then shuffle.
-[-4]: Destroy all creatures.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/284.png" num="254">TOAST</set>
+[+1]: Up to one target creature phases out until your next turn.
+[-2]: Target player sacrifices a creature
+[-4]: Search your library for a card, put it into your hand, then shuffle.</text>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/283.png" num="254">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Legendary Planeswalker — Saturnyne</type>
 				<maintype>Planeswalker</maintype>
-				<manacost>4WB</manacost>
-				<cmc>6</cmc>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
 				<colors>WB</colors>
 				<coloridentity>WB</coloridentity>
 				<loyalty>4</loyalty>
@@ -5091,7 +5066,7 @@ Target creature you control deals damage equal to its power to another target cr
 [+1]: Up to one target creature gets +2/+2 and gains vigilance until end of turn.
 [-2]: Search your library for an artifact or enchantment card, reveal it, put it into your hand, then shuffle.
 [-7]: Create four 4/4 colorless Serpent artifact creature tokens.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/285.png" num="5">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/284.png" num="5">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5114,7 +5089,7 @@ When this Manuscript enters, you may return target creature to its owner&apos;s 
 At the beginning of your upkeep, create a token that&apos;s a copy of target creature you control, except it&apos;s an artifact in addition to its other types and it&apos;s not legendary.
 {2}{U} Page 212
 Whenever you draw a card, put a +1/+1 counter on target creature you control.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/286.png" num="65">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/285.png" num="65">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5137,7 +5112,7 @@ Pepper enters prepared. (While it&apos;s prepared, you may cast a copy of its sp
 ---
 
 Return target permanent you control to its owner&apos;s hand.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/287.png" num="86">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/286.png" num="86">TOAST</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -5154,7 +5129,7 @@ Return target permanent you control to its owner&apos;s hand.</text>
 		<card>
 			<name>Map Token TOAST</name>
 			<text>{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/288.png" num="30">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/287.png" num="30">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5175,7 +5150,7 @@ Whenever Super Mario deals combat damage to a player, he becomes prepared. (Whil
 
 {1}, {T}, Sacrifice this artifact: Add one mana of any color.
 When this artifact is put into a graveyard from the battlefield, draw a card.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/289.png" num="78">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/288.png" num="78">TOAST</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -5194,7 +5169,7 @@ When this artifact is put into a graveyard from the battlefield, draw a card.</t
 			<text>[+1]: Target player loses 3 life unless they discard a card or sacrifice a nonland permanent.
 [-2]: Return target creature card with mana value 3 or less from your graveyard to the battlefield.
 [-5]: Search your library for any number of cards, put those cards into your graveyard, then shuffle.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/290.png" num="117">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/289.png" num="117">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5214,7 +5189,7 @@ When this artifact is put into a graveyard from the battlefield, draw a card.</t
 [+1]: Create a 1/1 green Possum creature token and a Food token.
 [-2]: Return target card from your graveyard to your hand.
 [-5]: Create two 3/4 green Treefolk creature tokens with reach.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/291.png" num="196">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/290.png" num="196">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5237,7 +5212,7 @@ When this artifact is put into a graveyard from the battlefield, draw a card.</t
 [-1]: Exile target artifact or enchantment.
 [-3]: Each player sacrifices forty creatures.
 [-7]: You get an emblem with &quot;At the beginning of each upkeep, create a 4/4 white Angel creature token with flying and vigilance.&quot;</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/292.png" num="39">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/291.png" num="39">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5259,7 +5234,7 @@ When this artifact is put into a graveyard from the battlefield, draw a card.</t
 [+1]: Exile the top card of your library. You may play it until the end of your next turn.
 [-3]: Pendeghast the Betrayer deals 5 damage to any target.
 [-7]: Create three tokens that are copies of target creature. They gain haste. Exile them at the beginning of the next end step.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/293.png" num="161">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/292.png" num="161">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5274,33 +5249,11 @@ When this artifact is put into a graveyard from the battlefield, draw a card.</t
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Horde Captain Surge Boombucket</name>
-			<text>Surge {2}{R} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
-[+1]: Create a 1/1 white Soldier creature token. Creatures you control get +1/+0 and gain haste until end of turn.
-[-2]: Destroy target artifact or nonbasic land.
-[-6]: You get an emblem with &quot;{R}, Sacrifice a land: This emblem deals 3 damage to any target.&quot;</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/294.png" num="155">TOAST</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Planeswalker — Surge</type>
-				<maintype>Planeswalker</maintype>
-				<manacost>2RR</manacost>
-				<cmc>4</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-				<loyalty>3</loyalty>
-			</prop>
-			<tablerow>1</tablerow>
-			<related count="1">Soldier TOAST</related>
-			<related count="1"> Surge Emblem TOAST</related>
-		</card>
-		<card>
 			<name>The Soul Master</name>
 			<text>Whenever you cast a noncreature spell, The Soul Master connives. (Draw a card, then discard a card. If you discarded a nonland card, put a loyalty counter on this planeswalker.)
 [+1]: Create a Vial token. (It&apos;s an artifact with &quot;{1}, Sacrifice this and another permanent: Draw a card. Activate only during your turn.&quot;)
 [-3]: Return target nonland permanent to its owner&apos;s hand. That player discards a card.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/295.png" num="261">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/293.png" num="261">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5320,7 +5273,7 @@ When this artifact is put into a graveyard from the battlefield, draw a card.</t
 			<text>[+1]: Put a +1/+1 counter on up to one target creature you control. It gains vigilance until end of turn.
 [0]: Scry 2. If a creature you control dealt combat damage to a player this turn, draw a card.
 [-4]: Gain control of target creature with power 3 or less.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/296.png" num="71">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/294.png" num="71">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5339,7 +5292,7 @@ When this artifact is put into a graveyard from the battlefield, draw a card.</t
 			<text>[+2]: Put a +1/+1 counter on each creature you control.
 [-X]: Search your library for a creature card with mana value X, put it onto the battlefield, then shuffle.
 [-3]: Draw cards equal to the greatest power among creatures you control.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/297.png" num="180">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/295.png" num="180">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5358,7 +5311,7 @@ When this artifact is put into a graveyard from the battlefield, draw a card.</t
 			<text>[+2]: Mill a card. You may play that card this turn. You may play an additional land this turn.
 [0]: Vaneira deals 2 damage to any target.
 [-2]: When you next cast a spell that targets only a single permanent or player this turn, copy that spell for each other non-Vaneira permanent or player the spell could target. Each copy targets a different one of those permanents and players.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/298.png" num="266">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/296.png" num="266">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5380,7 +5333,7 @@ When this Class enters, create a 2/2 green Knight creature token with trample.
 Whenever one or more creatures you control with power 2 or less enter, draw a card. This ability triggers only once each turn.
 {2}{G}{W} Level 3
 Sacrifice this Class and a creature: Creatures you control gain indestructible until end of turn.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/299.png" num="253">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/297.png" num="253">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5400,7 +5353,7 @@ Sacrifice this Class and a creature: Creatures you control gain indestructible u
 I — Target player sacrifices a creature.
 II — Create a Weapon token. You lose 2 life. (It&apos;s a colorless Equipment artifact token with &quot;Equipped creature gets +1/+1&quot; and equip {2}.)
 III — Create a Sol Ring token. (It&apos;s a {1} artifact token with &quot;{T}: Add {C}{C}.&quot;)</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/300.png" num="128">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/298.png" num="128">TOAST</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -5424,7 +5377,7 @@ Crew 1
 ---
 
 Conduct deals 3 damage to any target.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/301.png" num="298">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/299.png" num="298">TOAST</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -5446,7 +5399,7 @@ Crew 4
 ---
 
 When this artifact enters, exile target nonland permanent an opponent controls with mana value 2 or less until this artifact leaves the battlefield.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/302.png" num="304">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/300.png" num="304">TOAST</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -5465,7 +5418,7 @@ When this artifact enters, exile target nonland permanent an opponent controls w
 			<text>Flash
 Warlocks you control have flying.
 Whenever you cast a noncreature spell, recruit Warlock. (To recruit, draw a card, then discard a card. If you discarded a nonland card, create a 1/1 white Human Warlock creature token.)</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/303.png" num="61">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/301.png" num="61">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5489,7 +5442,7 @@ Crew 1
 ---
 
 Return target artifact or creature card from your graveyard to your hand.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/304.png" num="286">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/302.png" num="286">TOAST</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -5506,7 +5459,7 @@ Return target artifact or creature card from your graveyard to your hand.</text>
 		<card>
 			<name>Starlight Bolt</name>
 			<text>Starlight Bolt deals 3 damage to target attacking or blocking creature. You gain life equal to the excess damage dealt this way.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/305.png" num="37">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/303.png" num="37">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5524,7 +5477,7 @@ Return target artifact or creature card from your graveyard to your hand.</text>
 			<text>Vigilance
 When this creature enters, return up to three target land cards from your graveyard to your hand.
 {5}{G}{G}, Exile this card from your graveyard: Create a token that&apos;s a copy of it.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/306.png" num="194">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/304.png" num="194">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5542,7 +5495,7 @@ When this creature enters, return up to three target land cards from your gravey
 			<name>Spirited Away</name>
 			<text>When this enchantment enters, exile target nonland permanent an opponent controls until it leaves the battlefield.
 Spiritcycling {2} ({2}, Discard this card: Search your library for a Spirit card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/307.png" num="36">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/305.png" num="36">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5559,7 +5512,7 @@ Spiritcycling {2} ({2}, Discard this card: Search your library for a Spirit card
 			<name>Gift of the Phoenix</name>
 			<text>As an additional cost to cast this spell, discard a card.
 Draw two cards. Gift of the Phoenix deals 2 damage to you.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/308.png" num="147">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/306.png" num="147">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5576,7 +5529,7 @@ Draw two cards. Gift of the Phoenix deals 2 damage to you.</text>
 			<name>The Sorceress Yubaba</name>
 			<text>Flying, ward {2}
 When The Sorceress Yubaba enters, gain control of target creature for as long as you control The Sorceress Yubaba. It has no name for as long as you control The Sorceress Yubaba. When The Sorceress Yubaba is no longer on the battlefield, return that creature to its owner&apos;s hand.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/309.png" num="260">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/307.png" num="260">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5599,7 +5552,7 @@ Crew 3
 ---
 
 Search your library for a basic land card, reveal it, put it into your hand, then shuffle.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/310.png" num="273">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/308.png" num="273">TOAST</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -5616,7 +5569,7 @@ Search your library for a basic land card, reveal it, put it into your hand, the
 			<name>The Amulet of Samarkand</name>
 			<text>Equipped creature has hexproof and can&apos;t be blocked by non-Human creatures.
 Equip {1}</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/311.png" num="274">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/309.png" num="274">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5631,7 +5584,7 @@ Equip {1}</text>
 			<name>Tanuki</name>
 			<text>While you&apos;re searching your library, you may cast this card from your library.
 When Tanuki enters, you may sacrifice another creature. If you so, search your library for a creature card with mana value equal to 1 plus the sacrificed creature&apos;s mana value, put that card onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/312.png" num="216">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/310.png" num="216">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5649,7 +5602,7 @@ When Tanuki enters, you may sacrifice another creature. If you so, search your l
 			<name>Luigi Mario</name>
 			<text>Whenever Luigi Mario enters or attacks, you may exile target card from a graveyard.
 When Luigi Mario dies, create a 1/1 white Spirit creature token with flying.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/313.png" num="23">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/311.png" num="23">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5667,7 +5620,7 @@ When Luigi Mario dies, create a 1/1 white Spirit creature token with flying.</te
 		<card>
 			<name>Lightning&apos;s Boon</name>
 			<text>Mill two cards. You may play those cards until the end of your next turn.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/314.png" num="158">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/312.png" num="158">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5683,7 +5636,7 @@ When Luigi Mario dies, create a 1/1 white Spirit creature token with flying.</te
 		<card>
 			<name>Bayou</name>
 			<text>({T}: Add {B} or {G}.)</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/315.png" num="308">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/313.png" num="308">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5698,7 +5651,7 @@ When Luigi Mario dies, create a 1/1 white Spirit creature token with flying.</te
 		<card>
 			<name>Scrubland</name>
 			<text>({T}: Add {W} or {B}.)</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/316.png" num="345">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/314.png" num="345">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5713,7 +5666,7 @@ When Luigi Mario dies, create a 1/1 white Spirit creature token with flying.</te
 		<card>
 			<name>Tundra</name>
 			<text>({T}: Add {W} or {U}.)</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/317.png" num="353">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/315.png" num="353">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5728,7 +5681,7 @@ When Luigi Mario dies, create a 1/1 white Spirit creature token with flying.</te
 		<card>
 			<name>Tropical Island</name>
 			<text>({T}: Add {G} or {U}.)</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/318.png" num="352">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/316.png" num="352">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5743,7 +5696,7 @@ When Luigi Mario dies, create a 1/1 white Spirit creature token with flying.</te
 		<card>
 			<name>Savannah</name>
 			<text>({T}: Add {G} or {W}.)</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/319.png" num="344">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/317.png" num="344">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5758,7 +5711,7 @@ When Luigi Mario dies, create a 1/1 white Spirit creature token with flying.</te
 		<card>
 			<name>Plateau</name>
 			<text>({T}: Add {R} or {W}.)</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/320.png" num="341">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/318.png" num="341">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5773,7 +5726,7 @@ When Luigi Mario dies, create a 1/1 white Spirit creature token with flying.</te
 		<card>
 			<name>Volcanic Island</name>
 			<text>({T}: Add {U} or {R}.)</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/321.png" num="356">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/319.png" num="356">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5788,7 +5741,7 @@ When Luigi Mario dies, create a 1/1 white Spirit creature token with flying.</te
 		<card>
 			<name>Underground Sea</name>
 			<text>({T}: Add {U} or {B}.)</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/322.png" num="354">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/320.png" num="354">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5803,7 +5756,7 @@ When Luigi Mario dies, create a 1/1 white Spirit creature token with flying.</te
 		<card>
 			<name>Badlands</name>
 			<text>({T}: Add {B} or {R}.)</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/323.png" num="307">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/321.png" num="307">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5818,7 +5771,7 @@ When Luigi Mario dies, create a 1/1 white Spirit creature token with flying.</te
 		<card>
 			<name>Taiga</name>
 			<text>({T}: Add {R} or {G}.)</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/324.png" num="349">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/322.png" num="349">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5834,7 +5787,7 @@ When Luigi Mario dies, create a 1/1 white Spirit creature token with flying.</te
 			<name>Warlock</name>
 			<text>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
 You may have this creature enter as a copy of any permanent on the battlefield, except it&apos;s an artifact in addition to its other types and its name is Warlock.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/325.png" num="301">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/323.png" num="301">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5849,7 +5802,7 @@ You may have this creature enter as a copy of any permanent on the battlefield, 
 		<card>
 			<name>The Wormways</name>
 			<text>{T}, Pay 1 life, Sacrifice this land: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/326.png" num="359">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/324.png" num="359">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5865,7 +5818,7 @@ You may have this creature enter as a copy of any permanent on the battlefield, 
 			<text>Equipped creature gets +1/+0 and has haste.
 {2}, Sacrifice Mothwing Cloak: Exile equipped creature, then return it to the battlefield under its owner&apos;s control. It gets +1/+0 and gains haste until end of turn.
 Equip {1}</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/327.png" num="291">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/325.png" num="291">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5880,7 +5833,7 @@ Equip {1}</text>
 			<name>Manifest Incarnation</name>
 			<text>Destroy all creatures. You lose life equal to the greatest power among those creatures.
 Augmented — If you&apos;ve spent {W}{U}{B}{R}{G} to cast spells this turn, you gain that much life instead.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/328.png" num="119">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/326.png" num="119">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5897,7 +5850,7 @@ Augmented — If you&apos;ve spent {W}{U}{B}{R}{G} to cast spells this turn, you
 			<name>The Crown, Armored and Protecting</name>
 			<text>At the beginning of each opponent&apos;s end step, draw a card if you didn&apos;t lose life this turn.
 {T}: Exile another target permanent you control, then return that card to the battlefield under your control. Activate only during your turn.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/329.png" num="282">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/327.png" num="282">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5911,7 +5864,7 @@ Augmented — If you&apos;ve spent {W}{U}{B}{R}{G} to cast spells this turn, you
 		<card>
 			<name>A Vacation to Munchmore</name>
 			<text>Exile target creature. Its controller creates a Food token. If its mana value was 3 or greater, its controller creates two Food tokens instead.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/330.png" num="42">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/328.png" num="42">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5929,7 +5882,7 @@ Augmented — If you&apos;ve spent {W}{U}{B}{R}{G} to cast spells this turn, you
 			<name>Firestar of Thunderclan</name>
 			<text>Whenever you attack with three or more creatures, create a 1/1 blue Warrior Cat creature token that&apos;s tapped and attacking.
 {2}{R}, Exile Firestar from your graveyard: Create a token that&apos;s a copy of Firestar, except it&apos;s an enchantment. Activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/331.png" num="144">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/329.png" num="144">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5947,7 +5900,7 @@ Augmented — If you&apos;ve spent {W}{U}{B}{R}{G} to cast spells this turn, you
 		<card>
 			<name>Gathering at Fourtrees</name>
 			<text>Search your library for a creature or Forest card with mana value X or less, put it onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/332.png" num="191">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/330.png" num="191">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5964,7 +5917,7 @@ Augmented — If you&apos;ve spent {W}{U}{B}{R}{G} to cast spells this turn, you
 			<name>Cast to the Winds</name>
 			<text>Airbend target spell. (Exile it. While it&apos;s exiled, its owner may cast it for {2} rather than its mana cost.)
 Scry 1, then draw a card.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/333.png" num="230">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/331.png" num="230">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5981,7 +5934,7 @@ Scry 1, then draw a card.</text>
 			<name>Spice Melange</name>
 			<text>You may look at the top card of your library at any time.
 {T}, Sacrifice this artifact: You may shuffle your library. Draw a card.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/334.png" num="295">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/332.png" num="295">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5997,7 +5950,7 @@ Scry 1, then draw a card.</text>
 			<text>Flying
 Whenever you cast a noncreature spell, surveil 1.
 Power-up — {4}: Search your library and graveyard for a card with mana value 1 or less, put it into your hand, then shuffle. Put a +1/+1 counter on Viv Vision. (Activate each power-up ability only once. Reduce the cost by her mana cost if she entered this turn.)</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/335.png" num="300">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/333.png" num="300">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6013,7 +5966,7 @@ Power-up — {4}: Search your library and graveyard for a card with mana value 1
 			<name>The Millennium Puzzle</name>
 			<text>{1}, {T}: Add one mana of any color.
 Exhaust — {T}, Exile seven cards from your hand and/or graveyard with different mana values: Open a sealed TOAST booster pack, reveal the cards, and put seven of them into your hand. (Activate each exhaust ability only once.)</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/336.png" num="290">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/334.png" num="290">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6029,7 +5982,7 @@ Exhaust — {T}, Exile seven cards from your hand and/or graveyard with differen
 			<name>V1, Death Machine</name>
 			<text>Whenever V1 or another nontoken artifact you control enters, create a Blood token. (It&apos;s an artifact with &quot;{1}, {T}, Discard a card, Sacrifice this token: Draw a card.&quot;)
 Sacrifice an artifact: Put a +1/+1 counter on V1.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/337.png" num="299">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/335.png" num="299">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6046,7 +5999,7 @@ Sacrifice an artifact: Put a +1/+1 counter on V1.</text>
 			<name>The Bat Signal</name>
 			<text>{T}: Add {U} or {B}. You lose 1 life.
 You may cast creature spells as though they have flash.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/338.png" num="276">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/336.png" num="276">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6062,7 +6015,7 @@ You may cast creature spells as though they have flash.</text>
 			<name>Feyd-Rautha Harkonnen</name>
 			<text>First strike, deathtouch
 Whenever one or more cards are put into an opponent&apos;s graveyard from anywhere, that player loses 1 life and you gain 1 life.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/339.png" num="110">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/337.png" num="110">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6080,7 +6033,7 @@ Whenever one or more cards are put into an opponent&apos;s graveyard from anywhe
 			<name>It&apos;s Alive!</name>
 			<text>Return target creature card with mana value 3 or less from your graveyard to the battlefield.
 Jump-Start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/340.png" num="116">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/338.png" num="116">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6098,7 +6051,7 @@ Jump-Start (You may cast this card from your graveyard by discarding a card in a
 			<text>Flying
 When Miles Prower enters, search your library for an Equipment or Vehicle card, reveal it, put it into your hand, then shuffle.
 Whenever you cast a historic spell, scry 1. (Artifacts, legendaries, and Sagas are historic.)</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/341.png" num="24">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/339.png" num="24">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6116,7 +6069,7 @@ Whenever you cast a historic spell, scry 1. (Artifacts, legendaries, and Sagas a
 			<name>Woke Quintar</name>
 			<text>Trample, ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
 Whenever another permanent you control enters, this creature gets +1/+1 until end of turn.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/342.png" num="220">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/340.png" num="220">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6134,7 +6087,7 @@ Whenever another permanent you control enters, this creature gets +1/+1 until en
 			<name>Atom Rom, Kill Screen</name>
 			<text>If you would create one or more tokens, create those tokens plus an additional Treasure token.
 Exhaust — {5}: Atom Rom deals 7 damage to target creature. (Activate each exhaust ability only once.)</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/343.png" num="275">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/341.png" num="275">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6153,7 +6106,7 @@ Exhaust — {5}: Atom Rom deals 7 damage to target creature. (Activate each exha
 • Gain control of target creature with mana value 4 or less until end of turn. Untap that creature. It gains haste until end of turn.
 • Discard a card, then draw two cards.
 • Target player sacrifices a nontoken artifact.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/344.png" num="140">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/342.png" num="140">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6169,7 +6122,7 @@ Exhaust — {5}: Atom Rom deals 7 damage to target creature. (Activate each exha
 		<card>
 			<name>Serpent TOAST</name>
 			<text></text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/345.png" num="33">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/343.png" num="33">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6185,7 +6138,7 @@ Exhaust — {5}: Atom Rom deals 7 damage to target creature. (Activate each exha
 		<card>
 			<name>Warrior Cat TOAST</name>
 			<text></text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/346.png" num="14">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/344.png" num="14">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6203,7 +6156,7 @@ Exhaust — {5}: Atom Rom deals 7 damage to target creature. (Activate each exha
 		<card>
 			<name>Beast TOAST</name>
 			<text></text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/347.png" num="20">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/345.png" num="20">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6221,7 +6174,7 @@ Exhaust — {5}: Atom Rom deals 7 damage to target creature. (Activate each exha
 		<card>
 			<name>Bird TOAST</name>
 			<text>Flying</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/348.png" num="4">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/346.png" num="4">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6239,7 +6192,7 @@ Exhaust — {5}: Atom Rom deals 7 damage to target creature. (Activate each exha
 		<card>
 			<name>Minion TOAST</name>
 			<text></text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/349.png" num="31">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/347.png" num="31">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6256,7 +6209,7 @@ Exhaust — {5}: Atom Rom deals 7 damage to target creature. (Activate each exha
 			<name>Terrible Eye Token TOAST</name>
 			<text>As long as this Equipment is attached to a creature, you may cast spells from your hand without paying their mana costs
 Equip {9}</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/350.png" num="34">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/348.png" num="34">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6272,7 +6225,7 @@ Equip {9}</text>
 			<name>Silkwrap TOAST</name>
 			<text>(This token&apos;s mana cost is {1}{W}.)
 When this token enters, exile target creature with mana value 3 or less an opponent controls until this enchantment leaves the battlefield.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/351.png" num="10">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/349.png" num="10">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6289,7 +6242,7 @@ When this token enters, exile target creature with mana value 3 or less an oppon
 		<card>
 			<name>Garokk, The Petrified Man TOAST</name>
 			<text></text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/352.png" num="16">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/350.png" num="16">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6307,7 +6260,7 @@ When this token enters, exile target creature with mana value 3 or less an oppon
 		<card>
 			<name>Soldier TOAST</name>
 			<text></text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/353.png" num="11">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/351.png" num="11">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6325,7 +6278,7 @@ When this token enters, exile target creature with mana value 3 or less an oppon
 		<card>
 			<name>The Dragon&apos;s Egg TOAST</name>
 			<text>{T}: Add {B}{B}{B}.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/354.png" num="15">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/352.png" num="15">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6342,7 +6295,7 @@ When this token enters, exile target creature with mana value 3 or less an oppon
 		<card>
 			<name>The Arkenstone TOAST</name>
 			<text>{T}: Add {W}{W}{W}.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/355.png" num="3">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/353.png" num="3">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6359,7 +6312,7 @@ When this token enters, exile target creature with mana value 3 or less an oppon
 		<card>
 			<name>The Crimson Gem of Cyttorak TOAST</name>
 			<text>{T}: Add {R}{R}{R}.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/356.png" num="21">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/354.png" num="21">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6376,7 +6329,7 @@ When this token enters, exile target creature with mana value 3 or less an oppon
 		<card>
 			<name>The Thorned Emerald TOAST</name>
 			<text>{T}: Add {G}{G}{G}.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/357.png" num="24">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/355.png" num="24">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6393,7 +6346,7 @@ When this token enters, exile target creature with mana value 3 or less an oppon
 		<card>
 			<name>Knight TOAST</name>
 			<text>Vigilance</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/358.png" num="7">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/356.png" num="7">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6411,7 +6364,7 @@ When this token enters, exile target creature with mana value 3 or less an oppon
 		<card>
 			<name>Forest TOAST</name>
 			<text></text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/359.png" num="39">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/357.png" num="39">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6427,7 +6380,7 @@ When this token enters, exile target creature with mana value 3 or less an oppon
 		<card>
 			<name>Hero TOAST</name>
 			<text></text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/360.png" num="1">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/358.png" num="1">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6444,7 +6397,7 @@ When this token enters, exile target creature with mana value 3 or less an oppon
 			<name>Weapon TOAST</name>
 			<text>Equipped creature gets +1/+1.
 Equip {2}</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/361.png" num="36">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/359.png" num="36">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6459,7 +6412,7 @@ Equip {2}</text>
 		<card>
 			<name>Food Minion TOAST</name>
 			<text>{2}, {T}, Sacrifice this token: You gain 3 life.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/362.png" num="29">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/360.png" num="29">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6475,7 +6428,7 @@ Equip {2}</text>
 		<card>
 			<name>Alethiometer TOAST</name>
 			<text>{T}: Draw a card, then discard a card.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/363.png" num="26">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/361.png" num="26">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6490,7 +6443,7 @@ Equip {2}</text>
 		<card>
 			<name>Construct TOAST</name>
 			<text>This creature gets +1/+1 for each artifact you control.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/364.png" num="28">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/362.png" num="28">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6506,7 +6459,7 @@ Equip {2}</text>
 		<card>
 			<name>Everywhere TOAST</name>
 			<text>This land is a Plains, Island, Swamp, Mountain, and Forest. ({T}: Add {W}, {U}, {B}, {R}, or {G}.)</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/365.png" num="38">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/363.png" num="38">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6521,7 +6474,7 @@ Equip {2}</text>
 		<card>
 			<name>Desert TOAST</name>
 			<text>{T}: Add {C}.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/366.png" num="37">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/364.png" num="37">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6536,7 +6489,7 @@ Equip {2}</text>
 		<card>
 			<name>Wurm TOAST</name>
 			<text></text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/367.png" num="25">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/365.png" num="25">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6554,7 +6507,7 @@ Equip {2}</text>
 		<card>
 			<name>Mutant Hero TOAST</name>
 			<text>Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/368.png" num="8">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/366.png" num="8">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6572,7 +6525,7 @@ Equip {2}</text>
 		<card>
 			<name>Mutant TOAST</name>
 			<text></text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/369.png" num="17">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/367.png" num="17">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6590,7 +6543,7 @@ Equip {2}</text>
 		<card>
 			<name>Skeleton Army TOAST</name>
 			<text></text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/370.png" num="18">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/368.png" num="18">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6608,7 +6561,7 @@ Equip {2}</text>
 		<card>
 			<name>Spirit TOAST</name>
 			<text>Flying</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/371.png" num="12">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/369.png" num="12">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6626,7 +6579,7 @@ Equip {2}</text>
 		<card>
 			<name>Possum TOAST</name>
 			<text></text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/372.png" num="23">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/370.png" num="23">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6644,7 +6597,7 @@ Equip {2}</text>
 		<card>
 			<name>Powerstone TOAST</name>
 			<text>{T}: Add {C}. This mana can&apos;t be spent to cast a nonartifact spell.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/373.png" num="32">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/371.png" num="32">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6659,7 +6612,7 @@ Equip {2}</text>
 		<card>
 			<name>Clue TOAST</name>
 			<text>{2}, Sacrifice this token: Draw a card.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/374.png" num="27">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/372.png" num="27">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6674,7 +6627,7 @@ Equip {2}</text>
 		<card>
 			<name>Rebel TOAST</name>
 			<text>Vigilance</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/375.png" num="9">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/373.png" num="9">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6692,7 +6645,7 @@ Equip {2}</text>
 		<card>
 			<name>Human Warlock TOAST</name>
 			<text></text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/376.png" num="6">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/374.png" num="6">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6710,7 +6663,7 @@ Equip {2}</text>
 		<card>
 			<name>Angel TOAST</name>
 			<text>Flying, vigilance</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/377.png" num="2">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/375.png" num="2">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6729,7 +6682,7 @@ Equip {2}</text>
 			<name>Vehicle TOAST</name>
 			<text>Flying
 Crew 1</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/378.png" num="35">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/376.png" num="35">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6745,7 +6698,7 @@ Crew 1</text>
 		<card>
 			<name>Testing Module TOAST</name>
 			<text>{T}: Target player loses 3 life unless they sacrifice a nonland permanent of their choice or discard a card.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/379.png" num="19">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/377.png" num="19">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6762,7 +6715,7 @@ Crew 1</text>
 		<card>
 			<name>Elemental TOAST</name>
 			<text></text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/380.png" num="22">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/378.png" num="22">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6780,7 +6733,7 @@ Crew 1</text>
 		<card>
 			<name>Dwarf Soldier TOAST</name>
 			<text></text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/381.png" num="5">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/379.png" num="5">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6800,7 +6753,7 @@ Crew 1</text>
 			<text>Kicker—Tap two untapped creatures you control. (You may tap two untapped creatures you control in addition to any other costs as you cast this spell.)
 This spell can&apos;t be countered.
 Counter any number of target spells and/or abilities. If this spell was kicked, draw a card.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/382.png" num="76">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/380.png" num="76">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6817,7 +6770,7 @@ Counter any number of target spells and/or abilities. If this spell was kicked, 
 			<name>Unlock the Veil</name>
 			<text>As an additional cost to cast this spell, discard a card or pay {2}.
 Target creature&apos;s controller puts it on the top or bottom of their library.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/383.png" num="84">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/381.png" num="84">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6838,7 +6791,7 @@ When Iscend Comprine enters, choose two —
 • Two target players each draw a card.
 • Target player creates a 1/1 white Soldier creature token.
 • Put a +1/+1 counter on target creature.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/384.png" num="20">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/382.png" num="20">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6857,7 +6810,7 @@ When Iscend Comprine enters, choose two —
 			<text>Choose one —
 • Return target permanent card from your graveyard to your hand.
 • Create an Island token.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/385.png" num="187">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/383.png" num="187">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6874,7 +6827,7 @@ When Iscend Comprine enters, choose two —
 			<name>A Spread of Rampant Green</name>
 			<text>You may play lands from your graveyard.
 {1}, Sacrifice a land: Tap target permanent.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/386.png" num="262">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/384.png" num="262">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6892,7 +6845,7 @@ When Iscend Comprine enters, choose two —
 			<name>The Traitor Baru Cormorant</name>
 			<text>At the beginning of your end step, Baru connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)
 Exhaust — {3}, Sacrifice an artifact, another creature, and a land: You become the monarch.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/387.png" num="82">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/385.png" num="82">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6910,7 +6863,7 @@ Exhaust — {3}, Sacrifice an artifact, another creature, and a land: You become
 			<name>Amara Juliana Olivians Aquilla</name>
 			<text>Prowess
 Whenever Amara Juliana Olivians Aquilla attacks, create a Mountain token. Sacrifice that token at end of combat.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/388.png" num="134">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/386.png" num="134">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6928,7 +6881,7 @@ Whenever Amara Juliana Olivians Aquilla attacks, create a Mountain token. Sacrif
 			<name>Sebastion Gilberti, Bastion</name>
 			<text>Whenever Sebastion Gilberti enters or you draw your second card each turn, create a 1/1 colorless Robot creature token with flying.
 Exhaust — {10}: Draw four cards. This ability costs {1} less to activate for each artifact you control. (Activate each exhaust ability only once.)</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/389.png" num="293">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/387.png" num="293">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6944,7 +6897,7 @@ Exhaust — {10}: Draw four cards. This ability costs {1} less to activate for e
 			<name>Catch &apos;Em All</name>
 			<text>When this enchantment enters, mill four cards. You may put a permanent card from among them into your hand.
 {1}{G}, Sacrifice Catch ‘Em All: Put a +1/+1 counter on each creature you control. Activate only as a sorcery and only if there are seven or more creature types among creatures you control.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/390.png" num="184">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/388.png" num="184">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6962,7 +6915,7 @@ Exhaust — {10}: Draw four cards. This ability costs {1} less to activate for e
 			<text>Vigilance, menace
 The Terminator has protection from opponents with one or fewer cards in hand.
 When The Terminator dies, put it into its owner&apos;s library third from the top.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/391.png" num="296">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/389.png" num="296">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6978,7 +6931,7 @@ When The Terminator dies, put it into its owner&apos;s library third from the to
 			<name>The Dragon Scroll</name>
 			<text>The Dragon Scroll enters tapped.
 {T}, Sacrifice The Dragon Scroll: Draw a card.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/392.png" num="284">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/390.png" num="284">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6992,8 +6945,8 @@ When The Terminator dies, put it into its owner&apos;s library third from the to
 		<card>
 			<name>Aminata IsiSegu</name>
 			<text>When Aminata IsiSegu enters, create a Weapon token. (It&apos;s a colorless Equipment artifact token with &quot;Equipped creature gets +1/+1&quot; and equip {2}.)
-Sacrifice Aminata IsiSegu: Target creature gains indestructible until end of turn.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/393.png" num="3">TOAST</set>
+Sacrifice Aminata IsiSegu: Target creature gains hexproof and indestructible until end of turn.</text>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/391.png" num="3">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7012,7 +6965,7 @@ Sacrifice Aminata IsiSegu: Target creature gains indestructible until end of tur
 			<text>{1}, {T}: Create a Blood token if you don&apos;t control one.
 {2}, {T}, Sacrifice a creature: Return target creature card with mana value 3 or less from your graveyard to the battlefield. Activate only as a sorcery.
 {3}: Untap Allied Mastercomputer.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/394.png" num="90">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/392.png" num="90">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7029,7 +6982,7 @@ Sacrifice Aminata IsiSegu: Target creature gains indestructible until end of tur
 			<name>Extrapolate</name>
 			<text>Draw a card. Scry 2.
 Mayhem {U} (You may cast this card from your graveyard for {U} if you discarded it this turn. Timing rules still apply.)</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/395.png" num="56">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/393.png" num="56">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7045,7 +6998,7 @@ Mayhem {U} (You may cast this card from your graveyard for {U} if you discarded 
 		<card>
 			<name>Hemokinesis</name>
 			<text>Hemokinesis deals 4 damage to target creature. Excess damage is dealt to you instead.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/396.png" num="154">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/394.png" num="154">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7063,7 +7016,7 @@ Mayhem {U} (You may cast this card from your graveyard for {U} if you discarded 
 			<text>Flash
 Whenever a creature enters from a graveyard or a player casts a spell from a graveyard, you draw a card and you lose 1 life.
 {2}{B}, Discard Blade: Target creature gets -5/-5 until end of turn. If it would die this turn, exile it instead.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/397.png" num="109">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/395.png" num="109">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7082,7 +7035,7 @@ Whenever a creature enters from a graveyard or a player casts a spell from a gra
 			<text>Companion — Your starting deck has ten or more nonbasic land cards. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)
 Trample
 Whenever a creature you control becomes the target of a spell you don&apos;t control, you may have Chewbacca fight target creature. (Each deals damage equal to its power to the other.)</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/398.png" num="185">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/396.png" num="185">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7095,6 +7048,45 @@ Whenever a creature you control becomes the target of a spell you don&apos;t con
 				<pt>6/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Horde Captain Surge Boombucket</name>
+			<text>Surge {2}{R} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
+[+1]: Create a 1/1 white Soldier creature token. Creatures you control get +1/+0 and gain haste until end of turn.
+[-2]: Destroy target artifact or nonbasic land.
+[-6]: You get an emblem with &quot;{R}, Sacrifice a land: This emblem deals 3 damage to any target.&quot;</text>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/397.png" num="155">TOAST</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Surge</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+			<related count="1">Soldier TOAST</related>
+			<related count="1"> Surge Emblem TOAST</related>
+		</card>
+		<card>
+			<name>Imperial March</name>
+			<text>At the beginning of your precombat main phase, you lose 1 life and create a 1/1 white Soldier token. 
+Whenever you attack with three or more creatures, create a Weapon token attached to target attacking creature. (It&apos;s a colorless Equipment artifact token with &quot;Equipped creature gets +1/+1&quot; and equip {2}.)</text>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/398.png" num="242">TOAST</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

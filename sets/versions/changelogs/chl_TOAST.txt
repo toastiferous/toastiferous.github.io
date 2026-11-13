@@ -1,4 +1,67 @@
-﻿VERSION 23 CHANGELOG
+﻿VERSION 24 CHANGELOG
+====================
+
+Imperial March added.
+
+Iorek Byrnison removed.
+
+Caterbird
+artist: Sam Reynolds => Chris Riddell
+
+The Silent
+flavor_text: [i]“...”[/i] => [i]“. . .”[/i]
+
+Streex, Street Shark
+rules_text: Whenever Streex, Street Shark enters or attacks, each player gets three rad counters.
+Exile three cards from your graveyard: Streex becomes a land with “{T}: Add {C}” until end of turn. Activate only once each turn. => Whenever Streex, Street Shark enters or attacks, each player gets three rad counters.
+{1}, Exile three cards from your graveyard: Streex becomes a land with “{T}: Add {C}” until end of turn. Activate only once each turn.
+
+Proconsul H. L. Ravilla
+flavor_text: [i]“Tell me, Legate... Are you farmer or are you wolf?”[/i] => [i]“Tell me, Legate . . . Are you farmer or are you wolf?”[/i]
+
+Branch Mine
+flavor_text: [i]“Got our pickaxe swinging from side to side...”
+—Miner's chant[/i] => [i]“We've got our pickaxe swinging from side to side . . .”
+—Miner's chant[/i]
+
+Godzilla
+pt: 9/9 => 10/10
+
+Grand Mother Silk
+flavor_text: [i]“Come, child... Witness our waking...”[/i] => [i]“Come, child . . . Witness our waking . . .”[/i]
+
+Great Slash
+flavor_text: [i]“The wielding of a nail, the wielding of a brush... these things are not so different. We cut into the world so that we can peer deeper inside.”
+—Nailmaster Sheo[/i] => [i]“The wielding of a nail, the wielding of a brush . . . these things are not so different. We cut into the world so that we can peer deeper inside.”
+—Nailmaster Sheo[/i]
+
+Opal Luna Saturnyne
+cost: {4}{W}{B} => {2}{W}{B}
+rules_text: As long as Saturnyne entered this turn, you may activate her loyalty abilities an additional time.
+[+2]: Up to one target creature phases out until your next turn.
+[-2]: Search your library for a card, put it into your hand, then shuffle.
+[-4]: Destroy all creatures. => As long as Saturnyne entered this turn, you may activate her loyalty abilities an additional time.
+[+1]: Up to one target creature phases out until your next turn.
+[-2]: Target player sacrifices a creature
+[-4]: Search your library for a card, put it into your hand, then shuffle.
+special_text: As long as Saturnyne entered this turn, you may activate her loyalty abilities an additional time.
+[+2]: Up to one target creature phases out until your next turn.
+[-2]: Search your library for a card, put it into your hand, then shuffle.
+[-4]: Destroy all creatures. => As long as Saturnyne entered this turn, you may activate her loyalty abilities an additional time.
+[+1]: Up to one target creature phases out until your next turn.
+[-2]: Target player sacrifices a creature
+[-4]: Search your library for a card, put it into your hand, then shuffle.
+
+Cast to the Winds
+flavor_text: [i]“While storms are pliable things... at heart, they are indomitable.”[/i] => [i]“While storms are pliable things . . . at heart, they are indomitable.”[/i]
+
+Aminata IsiSegu
+rules_text: When Aminata IsiSegu enters, create a Weapon token. [i](It's a colorless Equipment artifact token with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+Sacrifice Aminata IsiSegu: Target creature gains indestructible until end of turn. => When Aminata IsiSegu enters, create a Weapon token. [i](It's a colorless Equipment artifact token with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+Sacrifice Aminata IsiSegu: Target creature gains hexproof and indestructible until end of turn.
+
+
+VERSION 23 CHANGELOG
 ====================
 
 Emperor Sheev Palpatine added.

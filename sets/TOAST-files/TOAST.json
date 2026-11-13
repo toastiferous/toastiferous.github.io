@@ -127,11 +127,11 @@
             "shape": "normal",
             "set": "TOAST",
             "loyalty": "",
-            "artist": "Sam Reynolds",
+            "artist": "Chris Riddell",
             "alias": "",
             "position": "5",
             "rotated": false,
-            "notes": "Caterbird_by_Sam_Reynolds(1) copy.png"
+            "notes": "Caterbird_by_Sam_Reynolds(1) copy.png\ncaterbird2.jpg"
         },
         {
             "card_name": "Zagreus",
@@ -1234,7 +1234,7 @@
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "Deathtouch\nWhenever The Silent deals combat damage to a player, add {G}. Until end of turn, you don't lose this mana as steps and phases end.",
-            "flavor_text": "[i]\u201c...\u201d[/i]",
+            "flavor_text": "[i]\u201c. . .\u201d[/i]",
             "pt": "1/1",
             "special_text": "",
             "shape": "normal",
@@ -1296,7 +1296,7 @@
             "number": 263,
             "color_identity": "BG",
             "cost": "{1}{B}{G}",
-            "rules_text": "Whenever Streex, Street Shark enters or attacks, each player gets three rad counters.\nExile three cards from your graveyard: Streex becomes a land with \u201c{T}: Add {C}\u201d until end of turn. Activate only once each turn.",
+            "rules_text": "Whenever Streex, Street Shark enters or attacks, each player gets three rad counters.\n{1}, Exile three cards from your graveyard: Streex becomes a land with \u201c{T}: Add {C}\u201d until end of turn. Activate only once each turn.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -3292,7 +3292,7 @@
             "color_identity": "W",
             "cost": "{W}",
             "rules_text": "{2}{W}: Create a 1/1 white Soldier creature token.\n{3}{W}{W}: Create a Glorious Anthem token. [i](It's a {1}{W}{W} enchantment with \u201cCreatures you control get +1/+1.\u201d)[/i]",
-            "flavor_text": "[i]\u201cTell me, Legate... Are you farmer or are you wolf?\u201d[/i]",
+            "flavor_text": "[i]\u201cTell me, Legate . . . Are you farmer or are you wolf?\u201d[/i]",
             "pt": "2/1",
             "special_text": "",
             "shape": "normal",
@@ -3397,7 +3397,7 @@
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}: Add {C}.\n{T}, Sacrifice this land: Destroy target land. If it was a basic land, its controller creates a Treasure token.",
-            "flavor_text": "[i]\u201cGot our pickaxe swinging from side to side...\u201d\n\u2014Miner's chant[/i]",
+            "flavor_text": "[i]\u201cWe've got our pickaxe swinging from side to side . . .\u201d\n\u2014Miner's chant[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -3776,7 +3776,7 @@
             "cost": "{4}{G}{G}{G}",
             "rules_text": "Trample\nWhen Godzilla enters, choose one \u2014\n\u2022 Godzilla fights target creature.\n\u2022 Exile target noncreature permanent.\nSacrifice two lands: Return Godzilla from your graveyard to your hand.",
             "flavor_text": "[i][/i]",
-            "pt": "9/9",
+            "pt": "10/10",
             "special_text": "",
             "shape": "normal",
             "set": "TOAST",
@@ -4951,7 +4951,7 @@
             "color_identity": "W",
             "cost": "{4}{W}{W}",
             "rules_text": "Vigilance, lifelink\nWhenever Grand Mother Silk enters or attacks, create a Silkwrap token. [i](It's a {1}{W} enchantment with \u201cWhen this token enters, exile target creature with mana value 3 or less an opponent controls until this enchantment leaves the battlefield.\u201d)[/i]",
-            "flavor_text": "[i]\u201cCome, child... Witness our waking...\u201d[/i]",
+            "flavor_text": "[i]\u201cCome, child . . . Witness our waking . . .\u201d[/i]",
             "pt": "6/6",
             "special_text": "",
             "shape": "normal",
@@ -4993,7 +4993,7 @@
             "color_identity": "R",
             "cost": "{R}",
             "rules_text": "Great Slash deals 2 damage to any target. If you attacked this turn, it deals 3 damage instead.",
-            "flavor_text": "[i]\u201cThe wielding of a nail, the wielding of a brush... these things are not so different. We cut into the world so that we can peer deeper inside.\u201d\n\u2014Nailmaster Sheo[/i]",
+            "flavor_text": "[i]\u201cThe wielding of a nail, the wielding of a brush . . . these things are not so different. We cut into the world so that we can peer deeper inside.\u201d\n\u2014Nailmaster Sheo[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -5867,39 +5867,6 @@
             "notes": "DbDGWXeVAAArZx_ copy.jpg"
         },
         {
-            "card_name": "Iorek Byrnison",
-            "color": "WB",
-            "rarity": "cube",
-            "type": "Legendary Creature \u2014 Bear Noble",
-            "number": 242,
-            "color_identity": "WB",
-            "cost": "{2}{W}{B}",
-            "rules_text": "Deathtouch, lifelink\nIorek Byrnison enters prepared.\nIorek Byrnison has indestructible as long as he attacked alone this turn.",
-            "flavor_text": "[i][/i]",
-            "pt": "4/4",
-            "special_text": "",
-            "shape": "adventure",
-            "set": "TOAST",
-            "loyalty": "",
-            "artist": "Lucie Renaudeau",
-            "alias": "",
-            "position": "279",
-            "card_name2": "Meteor Plate",
-            "color2": "",
-            "type2": "Artifact \u2014 Equipment",
-            "cost2": "{7}",
-            "rules_text2": "When this Equipment enters, destroy target permanent.\nEquipped creature gets +3/+3.\nEquip {3}",
-            "flavor_text2": "[i][/i]",
-            "pt2": "",
-            "special_text2": "",
-            "loyalty2": "",
-            "artist2": "",
-            "alias2": "",
-            "rules_text3": "",
-            "rotated": false,
-            "notes": "a33d432bd53db65c9c1df19f51e18436.jpg"
-        },
-        {
             "card_name": "Adora, Princess of Power",
             "color": "W",
             "rarity": "cube",
@@ -5916,7 +5883,7 @@
             "loyalty": "",
             "artist": "KitsuneZakuro",
             "alias": "",
-            "position": "280",
+            "position": "279",
             "rotated": false,
             "notes": "flat,750x,075,f-pad,750x1000,f8f8f8.jpg"
         },
@@ -5937,7 +5904,7 @@
             "loyalty": "",
             "artist": "abcheeseburger",
             "alias": "",
-            "position": "281",
+            "position": "280",
             "rotated": false,
             "notes": ""
         },
@@ -5958,7 +5925,7 @@
             "loyalty": "",
             "artist": "Erica D'Urso",
             "alias": "",
-            "position": "282",
+            "position": "281",
             "rotated": false,
             "notes": "chris-doray-day-2-etsy-braddock-captain-britain-small.jpg\n\n return that card to the battlefield tapped"
         },
@@ -5979,7 +5946,7 @@
             "loyalty": "",
             "artist": "John Timms, Chad Hardin",
             "alias": "",
-            "position": "283",
+            "position": "282",
             "card_name2": "Fall of the Hammer",
             "color2": "R",
             "type2": "Instant",
@@ -6002,19 +5969,19 @@
             "type": "Legendary Planeswalker \u2014 Saturnyne",
             "number": 254,
             "color_identity": "WB",
-            "cost": "{4}{W}{B}",
-            "rules_text": "As long as Saturnyne entered this turn, you may activate her loyalty abilities an additional time.\n[+2]: Up to one target creature phases out until your next turn.\n[-2]: Search your library for a card, put it into your hand, then shuffle.\n[-4]: Destroy all creatures.",
+            "cost": "{2}{W}{B}",
+            "rules_text": "As long as Saturnyne entered this turn, you may activate her loyalty abilities an additional time.\n[+1]: Up to one target creature phases out until your next turn.\n[-2]: Target player sacrifices a creature\n[-4]: Search your library for a card, put it into your hand, then shuffle.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "As long as Saturnyne entered this turn, you may activate her loyalty abilities an additional time.\n[+2]: Up to one target creature phases out until your next turn.\n[-2]: Search your library for a card, put it into your hand, then shuffle.\n[-4]: Destroy all creatures.",
+            "special_text": "As long as Saturnyne entered this turn, you may activate her loyalty abilities an additional time.\n[+1]: Up to one target creature phases out until your next turn.\n[-2]: Target player sacrifices a creature\n[-4]: Search your library for a card, put it into your hand, then shuffle.",
             "shape": "planeswalker",
             "set": "TOAST",
             "loyalty": "4",
             "artist": "Russell Dauterman, Matthew Wilson",
             "alias": "",
-            "position": "284",
+            "position": "283",
             "rotated": false,
-            "notes": "Opal_Luna_Saturnyne_(Earth-9)_from_Marauders_Vol_1_15_Textless_Cover copy.jpg\n\nMarauders_Vol_1_15 copy.jpg"
+            "notes": "Opal_Luna_Saturnyne_(Earth-9)_from_Marauders_Vol_1_15_Textless_Cover copy.jpg\n\nMarauders_Vol_1_15 copy.jpg\nUp to one target creature phases out until your next turn."
         },
         {
             "card_name": "Artakha, the Great Designer",
@@ -6033,7 +6000,7 @@
             "loyalty": "3",
             "artist": "Perp3tual",
             "alias": "",
-            "position": "285",
+            "position": "284",
             "rotated": false,
             "notes": "congrats-to-perpetual-for-winning-the-artakha-art-contest-v0-8yih5sin43061 copy.jpg\n!tokens Serpent TOAST<4>"
         },
@@ -6054,7 +6021,7 @@
             "loyalty": "",
             "artist": "Chris Russell",
             "alias": "",
-            "position": "286",
+            "position": "285",
             "rotated": false,
             "notes": ""
         },
@@ -6075,7 +6042,7 @@
             "loyalty": "",
             "artist": "Paco Medina",
             "alias": "",
-            "position": "287",
+            "position": "286",
             "card_name2": "Rescue",
             "color2": "U",
             "type2": "Instant",
@@ -6108,7 +6075,7 @@
             "loyalty": "",
             "artist": "Cressida Cowell",
             "alias": "",
-            "position": "288",
+            "position": "287",
             "rotated": false,
             "notes": "Screenshot 2026-07-02 at 11-15-29 Cressida Cowell my tour through 15 years of How to Train Your Dragon \u2013 in pictures Children's books The Guardian.png"
         },
@@ -6129,7 +6096,7 @@
             "loyalty": "",
             "artist": "Francisco K",
             "alias": "",
-            "position": "289",
+            "position": "288",
             "card_name2": "Chromatic Star",
             "color2": "",
             "type2": "Artifact",
@@ -6162,7 +6129,7 @@
             "loyalty": "3",
             "artist": "Okli",
             "alias": "",
-            "position": "290",
+            "position": "289",
             "rotated": false,
             "notes": "Untitled_Artwork 7.jpg\nGaCcQOtXYAA5mw6.jpg"
         },
@@ -6183,7 +6150,7 @@
             "loyalty": "3",
             "artist": "Phylodox",
             "alias": "",
-            "position": "291",
+            "position": "290",
             "rotated": false,
             "notes": "tumblr_dac35f005c96b4821a9ca6020b23b9e9_519045ea_1280.jpg\n!tokens Possum TOAST<1>; Food TOAST<1>; Treefolk TOAST<2>"
         },
@@ -6204,7 +6171,7 @@
             "loyalty": "4",
             "artist": "Allen Morris",
             "alias": "",
-            "position": "292",
+            "position": "291",
             "rotated": false,
             "notes": "thiala.jpg\n for each spell you've cast this turn\nns-bahumia-naddpod-dm-screen-panoramic-painting-v0-oasz0ey7lu4g1.jpg\n!tokens Knight TOAST<X>; Angel TOAST<1>\n"
         },
@@ -6225,30 +6192,9 @@
             "loyalty": "5",
             "artist": "Allen Morris",
             "alias": "",
-            "position": "293",
+            "position": "292",
             "rotated": false,
             "notes": "ns-bahumia-naddpod-dm-screen-panoramic-painting-v0-oasz0ey7lu4g1.jpg"
-        },
-        {
-            "card_name": "Horde Captain Surge Boombucket",
-            "color": "R",
-            "rarity": "cube",
-            "type": "Legendary Planeswalker \u2014 Surge",
-            "number": 155,
-            "color_identity": "R",
-            "cost": "{2}{R}{R}",
-            "rules_text": "Surge {2}{R} [i](You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)[/i]\n[+1]: Create a 1/1 white Soldier creature token. Creatures you control get +1/+0 and gain haste until end of turn.\n[-2]: Destroy target artifact or nonbasic land.\n[-6]: You get an emblem with \u201c{R}, Sacrifice a land: This emblem deals 3 damage to any target.\u201d",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "Surge {2}{R} [i](You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)[/i]\n[+1]: Create a 1/1 white Soldier creature token. Creatures you control get +1/+0 and gain haste until end of turn.\n[-2]: Destroy target artifact or nonbasic land.\n[-6]: You get an emblem with \u201c{R}, Sacrifice a land: This emblem deals 3 damage to any target.\u201d",
-            "shape": "planeswalker",
-            "set": "TOAST",
-            "loyalty": "3",
-            "artist": "Solidago_J",
-            "alias": "",
-            "position": "294",
-            "rotated": false,
-            "notes": "surge boombucket copy.jpg\n!tokens Soldier TOAST<1>; Surge Emblem TOAST<1>"
         },
         {
             "card_name": "The Soul Master",
@@ -6267,7 +6213,7 @@
             "loyalty": "3",
             "artist": "TheBaroness",
             "alias": "",
-            "position": "295",
+            "position": "293",
             "rotated": false,
             "notes": "do-you-guys-prefer-using-nail-or-spells-v0-k5cc586sq8sb1.jpg\n!tokens Vial TOAST<1>"
         },
@@ -6288,7 +6234,7 @@
             "loyalty": "2",
             "artist": "Jim Lee",
             "alias": "",
-            "position": "296",
+            "position": "294",
             "rotated": false,
             "notes": ""
         },
@@ -6309,7 +6255,7 @@
             "loyalty": "4",
             "artist": "Christian Amiel Miranda",
             "alias": "",
-            "position": "297",
+            "position": "295",
             "rotated": false,
             "notes": "christian-amiel-miranda-050-ash-pokemon-fanart.jpg\nDraw cards equal to the greatest toughness among creatures you control.\nReturn a creature you control to its owner's hand. If you do, add three mana of any one color. Spend this mana only to cast creature spells."
         },
@@ -6330,7 +6276,7 @@
             "loyalty": "4",
             "artist": "Toastiferous",
             "alias": "",
-            "position": "298",
+            "position": "296",
             "rotated": false,
             "notes": "vaneira.jpg"
         },
@@ -6351,7 +6297,7 @@
             "loyalty": "",
             "artist": "Sofhtie",
             "alias": "",
-            "position": "299",
+            "position": "297",
             "rotated": false,
             "notes": "tumblr_a5ce80e7fcd44ae2f6033a5852db002e_429f8ba4_1280.jpg\n!tokens Green Knight TOAST<1>"
         },
@@ -6372,7 +6318,7 @@
             "loyalty": "",
             "artist": "JJ Ariosa",
             "alias": "",
-            "position": "300",
+            "position": "298",
             "rotated": false,
             "notes": "!tokens Weapon TOAST<1>; Sol Ring<1>"
         },
@@ -6393,7 +6339,7 @@
             "loyalty": "",
             "artist": "Les Edwards",
             "alias": "",
-            "position": "301",
+            "position": "299",
             "card_name2": "Conduct",
             "color2": "R",
             "type2": "Instant \u2014 Adventure",
@@ -6426,7 +6372,7 @@
             "loyalty": "",
             "artist": "Apple Films, King Features Syndicate",
             "alias": "",
-            "position": "302",
+            "position": "300",
             "card_name2": "Portable Hole",
             "color2": "W",
             "type2": "Artifact",
@@ -6459,7 +6405,7 @@
             "loyalty": "",
             "artist": "Abigail Jill Harding",
             "alias": "",
-            "position": "303",
+            "position": "301",
             "rotated": false,
             "notes": "!tokens Human Warlock TOAST<1>"
         },
@@ -6480,7 +6426,7 @@
             "loyalty": "",
             "artist": "Caldwell Tanner",
             "alias": "",
-            "position": "304",
+            "position": "302",
             "card_name2": "Skitch or Die",
             "color2": "B",
             "type2": "Sorcery \u2014 Adventure",
@@ -6513,7 +6459,7 @@
             "loyalty": "",
             "artist": "okey376",
             "alias": "",
-            "position": "305",
+            "position": "303",
             "rotated": false,
             "notes": "Friedrych_Star.png"
         },
@@ -6534,7 +6480,7 @@
             "loyalty": "",
             "artist": "FelixOesinghaus",
             "alias": "",
-            "position": "306",
+            "position": "304",
             "rotated": false,
             "notes": "i-painted-laputa-v0-c85kcihlgxcb1 copy.jpg"
         },
@@ -6555,7 +6501,7 @@
             "loyalty": "",
             "artist": "Ugak",
             "alias": "",
-            "position": "307",
+            "position": "305",
             "rotated": false,
             "notes": "original-747a07506cb8b60b05e2c4a7236a045a copy.jpg"
         },
@@ -6576,7 +6522,7 @@
             "loyalty": "",
             "artist": "Alessandro Miracolo",
             "alias": "",
-            "position": "308",
+            "position": "306",
             "rotated": false,
             "notes": ""
         },
@@ -6597,7 +6543,7 @@
             "loyalty": "",
             "artist": "Studio Ghibli",
             "alias": "",
-            "position": "309",
+            "position": "307",
             "rotated": false,
             "notes": "Yubaba.JPG copy.jpg"
         },
@@ -6618,7 +6564,7 @@
             "loyalty": "",
             "artist": "Studio Ghibli",
             "alias": "",
-            "position": "310",
+            "position": "308",
             "card_name2": "Seek Laputa",
             "color2": "G",
             "type2": "Sorcery \u2014 Adventure",
@@ -6651,7 +6597,7 @@
             "loyalty": "",
             "artist": "Varsam Kurnia",
             "alias": "",
-            "position": "311",
+            "position": "309",
             "rotated": false,
             "notes": "4c3fa464067859.5ac5dc4cb812e.jpg"
         },
@@ -6672,7 +6618,7 @@
             "loyalty": "",
             "artist": "Hans Krill",
             "alias": "",
-            "position": "312",
+            "position": "310",
             "rotated": false,
             "notes": "354px-TanukiArt.jpg"
         },
@@ -6693,7 +6639,7 @@
             "loyalty": "",
             "artist": "doodledrawings_",
             "alias": "",
-            "position": "313",
+            "position": "311",
             "rotated": false,
             "notes": "!tokens Spirit TOAST<1>"
         },
@@ -6714,7 +6660,7 @@
             "loyalty": "",
             "artist": "Rocky Hammer",
             "alias": "",
-            "position": "314",
+            "position": "312",
             "rotated": false,
             "notes": "f694da29788809.5603b310671d2 copy.jpg"
         },
@@ -6735,7 +6681,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "315",
+            "position": "313",
             "rotated": false,
             "notes": ""
         },
@@ -6756,7 +6702,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "316",
+            "position": "314",
             "rotated": false,
             "notes": ""
         },
@@ -6777,7 +6723,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "317",
+            "position": "315",
             "rotated": false,
             "notes": ""
         },
@@ -6798,7 +6744,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "318",
+            "position": "316",
             "rotated": false,
             "notes": ""
         },
@@ -6819,7 +6765,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "319",
+            "position": "317",
             "rotated": false,
             "notes": ""
         },
@@ -6840,7 +6786,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "320",
+            "position": "318",
             "rotated": false,
             "notes": ""
         },
@@ -6861,7 +6807,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "321",
+            "position": "319",
             "rotated": false,
             "notes": ""
         },
@@ -6882,7 +6828,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "322",
+            "position": "320",
             "rotated": false,
             "notes": ""
         },
@@ -6903,7 +6849,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "323",
+            "position": "321",
             "rotated": false,
             "notes": ""
         },
@@ -6924,7 +6870,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "324",
+            "position": "322",
             "rotated": false,
             "notes": ""
         },
@@ -6945,7 +6891,7 @@
             "loyalty": "",
             "artist": "Daniel Maine",
             "alias": "",
-            "position": "325",
+            "position": "323",
             "rotated": false,
             "notes": "daniel-maine-danielmaine-newmutants04.jpg"
         },
@@ -6966,7 +6912,7 @@
             "loyalty": "",
             "artist": "Thefabledpots",
             "alias": "",
-            "position": "326",
+            "position": "324",
             "rotated": false,
             "notes": "n5qv3j83dsg61Worm-ridden caverns, shaking and unstable. There remain faint signs that pilgrims once travelled these tight paths."
         },
@@ -6987,7 +6933,7 @@
             "loyalty": "",
             "artist": "James B Barrow",
             "alias": "",
-            "position": "327",
+            "position": "325",
             "rotated": false,
             "notes": "mothwing.jpg"
         },
@@ -7008,7 +6954,7 @@
             "loyalty": "",
             "artist": "Moro Rogers",
             "alias": "",
-            "position": "328",
+            "position": "326",
             "rotated": false,
             "notes": "you don't control? 4B"
         },
@@ -7029,7 +6975,7 @@
             "loyalty": "",
             "artist": "gullible",
             "alias": "",
-            "position": "329",
+            "position": "327",
             "rotated": false,
             "notes": "promisedday.png"
         },
@@ -7050,7 +6996,7 @@
             "loyalty": "",
             "artist": "FLipline Studios",
             "alias": "",
-            "position": "330",
+            "position": "328",
             "rotated": false,
             "notes": "!tokens Food TOAST<1>"
         },
@@ -7071,7 +7017,7 @@
             "loyalty": "",
             "artist": "Owen Richardson",
             "alias": "",
-            "position": "331",
+            "position": "329",
             "rotated": false,
             "notes": "Firestar-option copy.jpg\n!tokens Warrior Cat TOAST<1>"
         },
@@ -7092,7 +7038,7 @@
             "loyalty": "",
             "artist": "Niftysenpai",
             "alias": "",
-            "position": "332",
+            "position": "330",
             "rotated": false,
             "notes": "tumblr_c9dd8da41c698d378a4825e607417e91_31f1dd34_2048.jpg\nSearch your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle."
         },
@@ -7105,7 +7051,7 @@
             "color_identity": "WU",
             "cost": "{W}{U}",
             "rules_text": "Airbend target spell. [i](Exile it. While it's exiled, its owner may cast it for {2} rather than its mana cost.)[/i]\nScry 1, then draw a card.",
-            "flavor_text": "[i]\u201cWhile storms are pliable things... at heart, they are indomitable.\u201d[/i]",
+            "flavor_text": "[i]\u201cWhile storms are pliable things . . . at heart, they are indomitable.\u201d[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -7113,7 +7059,7 @@
             "loyalty": "",
             "artist": "Tran Nguyen",
             "alias": "",
-            "position": "333",
+            "position": "331",
             "rotated": false,
             "notes": "while storms are pliable things... at heart, they are indomitable\nstorm_marvel_silo copy.jpg \u2014 Taurin Clarke\n482215629_1236288121195835_6836254399725039155_n.jpg \u2014 Tran Nguyen"
         },
@@ -7134,7 +7080,7 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "position": "334",
+            "position": "332",
             "rotated": false,
             "notes": "The spice must flow.\nmill a card?"
         },
@@ -7155,7 +7101,7 @@
             "loyalty": "",
             "artist": "Flaviano A",
             "alias": "",
-            "position": "335",
+            "position": "333",
             "rotated": false,
             "notes": "flaviano-a-vivvision-cyber-color-final copy.jpg"
         },
@@ -7176,7 +7122,7 @@
             "loyalty": "",
             "artist": "Mauhmoud Sallam",
             "alias": "",
-            "position": "336",
+            "position": "334",
             "rotated": false,
             "notes": "mahmoud-sallam-power-of-mim"
         },
@@ -7197,7 +7143,7 @@
             "loyalty": "",
             "artist": "Jericho Rus",
             "alias": "",
-            "position": "337",
+            "position": "335",
             "rotated": false,
             "notes": "ultrakill_beginners_guide_master_v1_from_your_first_run_hero_dc45faea59 copy.jpg\n!tokens Blood TOAST<1>"
         },
@@ -7218,7 +7164,7 @@
             "loyalty": "",
             "artist": "Greg Capullo, FCO Plascencia",
             "alias": "",
-            "position": "338",
+            "position": "336",
             "rotated": false,
             "notes": "2_DTC_Cv27_5f615883a681d3.34206020 copy.jpg"
         },
@@ -7239,7 +7185,7 @@
             "loyalty": "",
             "artist": "Joel Chaim Holtzman",
             "alias": "",
-            "position": "339",
+            "position": "337",
             "rotated": false,
             "notes": ""
         },
@@ -7260,7 +7206,7 @@
             "loyalty": "",
             "artist": "Dainius Obcarskas",
             "alias": "",
-            "position": "340",
+            "position": "338",
             "rotated": false,
             "notes": "dainius-obcarskas-artstation-lab.jpg\nhttps://www.artstation.com/artwork/39PwwA"
         },
@@ -7281,7 +7227,7 @@
             "loyalty": "",
             "artist": "Nathalie Fourdraine",
             "alias": "",
-            "position": "341",
+            "position": "339",
             "rotated": false,
             "notes": "IDW21CoverRI copy.jpg"
         },
@@ -7302,7 +7248,7 @@
             "loyalty": "",
             "artist": "Andrew Willman",
             "alias": "",
-            "position": "342",
+            "position": "340",
             "rotated": false,
             "notes": "Whenever Woke Quintar attacks, it gets +1/+1 until end of turn for each permanent you control that entered this turn."
         },
@@ -7323,7 +7269,7 @@
             "loyalty": "",
             "artist": "Danitheshark",
             "alias": "",
-            "position": "343",
+            "position": "341",
             "rotated": false,
             "notes": "!tokens Treasure TOAST<1>"
         },
@@ -7344,7 +7290,7 @@
             "loyalty": "",
             "artist": "Alex Copeman",
             "alias": "",
-            "position": "344",
+            "position": "342",
             "rotated": false,
             "notes": "2381611923db5b6d72276ec57ca2c97b.jpg"
         },
@@ -7365,7 +7311,7 @@
             "loyalty": "",
             "artist": "Scmd1999",
             "alias": "",
-            "position": "345",
+            "position": "343",
             "rotated": false,
             "notes": "crystalserpent.jpeg"
         },
@@ -7386,7 +7332,7 @@
             "loyalty": "",
             "artist": "Moonstoner1096",
             "alias": "",
-            "position": "346",
+            "position": "344",
             "rotated": false,
             "notes": ""
         },
@@ -7407,7 +7353,7 @@
             "loyalty": "",
             "artist": "Cari Corene",
             "alias": "",
-            "position": "347",
+            "position": "345",
             "rotated": false,
             "notes": "mawbeasts.png"
         },
@@ -7428,7 +7374,7 @@
             "loyalty": "",
             "artist": "Kat Guevara",
             "alias": "",
-            "position": "348",
+            "position": "346",
             "rotated": false,
             "notes": "redtalons.png"
         },
@@ -7449,7 +7395,7 @@
             "loyalty": "",
             "artist": "Anailis Dorta",
             "alias": "",
-            "position": "349",
+            "position": "347",
             "rotated": false,
             "notes": ""
         },
@@ -7470,7 +7416,7 @@
             "loyalty": "",
             "artist": "Gurihiru",
             "alias": "",
-            "position": "350",
+            "position": "348",
             "rotated": false,
             "notes": ""
         },
@@ -7491,7 +7437,7 @@
             "loyalty": "",
             "artist": "Happy-Chart9242",
             "alias": "",
-            "position": "351",
+            "position": "349",
             "rotated": false,
             "notes": "silkwrap.png"
         },
@@ -7512,7 +7458,7 @@
             "loyalty": "",
             "artist": "John Byrne",
             "alias": "",
-            "position": "352",
+            "position": "350",
             "rotated": false,
             "notes": ""
         },
@@ -7533,7 +7479,7 @@
             "loyalty": "",
             "artist": "Dominik Mayer",
             "alias": "",
-            "position": "353",
+            "position": "351",
             "rotated": false,
             "notes": "dominik-mayer-gondorsoldier-04.jpg"
         },
@@ -7554,7 +7500,7 @@
             "loyalty": "",
             "artist": "Miyudeesper",
             "alias": "",
-            "position": "354",
+            "position": "352",
             "rotated": false,
             "notes": "egg.jpg"
         },
@@ -7575,7 +7521,7 @@
             "loyalty": "",
             "artist": "Ted Nasmith",
             "alias": "",
-            "position": "355",
+            "position": "353",
             "rotated": false,
             "notes": "ArkenstoneTedNasmith.jpg"
         },
@@ -7596,7 +7542,7 @@
             "loyalty": "",
             "artist": "Jim Calafiore, Mark McKenna, Andrew Crossley",
             "alias": "",
-            "position": "356",
+            "position": "354",
             "rotated": false,
             "notes": "397px-NewExcaliburV1_15Textless.jpg"
         },
@@ -7617,7 +7563,7 @@
             "loyalty": "",
             "artist": "Flipline Studios",
             "alias": "",
-            "position": "357",
+            "position": "355",
             "rotated": false,
             "notes": ""
         },
@@ -7638,7 +7584,7 @@
             "loyalty": "",
             "artist": "bookinbear_",
             "alias": "",
-            "position": "358",
+            "position": "356",
             "rotated": false,
             "notes": ""
         },
@@ -7659,7 +7605,7 @@
             "loyalty": "",
             "artist": "TomTC",
             "alias": "",
-            "position": "359",
+            "position": "357",
             "rotated": false,
             "notes": "over_the_garden_wall_by_tomtc_demf2vm-fullview.jpg"
         },
@@ -7680,7 +7626,7 @@
             "loyalty": "",
             "artist": "The Lego Group",
             "alias": "",
-            "position": "360",
+            "position": "358",
             "rotated": false,
             "notes": ""
         },
@@ -7701,7 +7647,7 @@
             "loyalty": "",
             "artist": "Tom Bloom",
             "alias": "",
-            "position": "361",
+            "position": "359",
             "rotated": false,
             "notes": "KOS54.jpg"
         },
@@ -7722,7 +7668,7 @@
             "loyalty": "",
             "artist": "FLipline Studios",
             "alias": "",
-            "position": "362",
+            "position": "360",
             "rotated": false,
             "notes": "089_a copy.png"
         },
@@ -7743,7 +7689,7 @@
             "loyalty": "",
             "artist": "Marco Giorgianni",
             "alias": "",
-            "position": "363",
+            "position": "361",
             "rotated": false,
             "notes": "marco-giorgianni-lyra-impag-4-prova.jpg"
         },
@@ -7764,7 +7710,7 @@
             "loyalty": "",
             "artist": "DoubleD_92",
             "alias": "",
-            "position": "364",
+            "position": "362",
             "rotated": false,
             "notes": "deathegg.jpg\ndeath_egg_robot_by_tntvale_dkk04jw-pre.png"
         },
@@ -7785,7 +7731,7 @@
             "loyalty": "",
             "artist": "motorgurl86",
             "alias": "",
-            "position": "365",
+            "position": "363",
             "rotated": false,
             "notes": "the-emerald-city-me-acrylic-2022-v0-7ih2g5u51jn91 copy.jpg"
         },
@@ -7806,7 +7752,7 @@
             "loyalty": "",
             "artist": "jmlan",
             "alias": "",
-            "position": "366",
+            "position": "364",
             "rotated": false,
             "notes": "h6b1nxzq4fx71.jpg"
         },
@@ -7827,7 +7773,7 @@
             "loyalty": "",
             "artist": "Rezaa Afshar",
             "alias": "",
-            "position": "367",
+            "position": "365",
             "rotated": false,
             "notes": "Screenshot 2026-10-11 at 17-39-57 Instagram.png\nsandworm2.jpg \u2014 rezaa_afsharr"
         },
@@ -7848,7 +7794,7 @@
             "loyalty": "",
             "artist": "Ramsamon001",
             "alias": "",
-            "position": "368",
+            "position": "366",
             "rotated": false,
             "notes": "cyclops_by_theartistj_dh8r950-414w-2x.jpg \u2014 TheArtistJ\nqszrvdruow5f1.jpg"
         },
@@ -7869,7 +7815,7 @@
             "loyalty": "",
             "artist": "Casey Jones, Rico Renzi",
             "alias": "",
-            "position": "369",
+            "position": "367",
             "rotated": false,
             "notes": "rachelhound3.png"
         },
@@ -7890,7 +7836,7 @@
             "loyalty": "",
             "artist": "Anailis Dorta",
             "alias": "",
-            "position": "370",
+            "position": "368",
             "rotated": false,
             "notes": "StS2_Necrobinder-Flatten-Art.png"
         },
@@ -7911,7 +7857,7 @@
             "loyalty": "",
             "artist": "Yoru Owl",
             "alias": "",
-            "position": "371",
+            "position": "369",
             "rotated": false,
             "notes": "yoru-owl-folio-boo.jpg"
         },
@@ -7932,7 +7878,7 @@
             "loyalty": "",
             "artist": "Ambassadorquark",
             "alias": "",
-            "position": "372",
+            "position": "370",
             "rotated": false,
             "notes": "tumblr_204754001fbf732afc552563bf4bef3b_3511523b_2048.png"
         },
@@ -7953,7 +7899,7 @@
             "loyalty": "",
             "artist": "Ryan Kinnaird",
             "alias": "",
-            "position": "373",
+            "position": "371",
             "rotated": false,
             "notes": "PowerStone copy.jpg"
         },
@@ -7974,7 +7920,7 @@
             "loyalty": "",
             "artist": "Charles Paul Wilson",
             "alias": "",
-            "position": "374",
+            "position": "372",
             "rotated": false,
             "notes": "71GWFJHHpvL._AC_UF1000,1000_QL80_.jpg"
         },
@@ -7995,7 +7941,7 @@
             "loyalty": "",
             "artist": "Tony Foti",
             "alias": "",
-            "position": "375",
+            "position": "373",
             "rotated": false,
             "notes": "rebel2.jpg \u2014 Ryan Barger\nrebelscout.jpg \u2014 Tony Foti"
         },
@@ -8016,7 +7962,7 @@
             "loyalty": "",
             "artist": "Caspar Wijngaard",
             "alias": "",
-            "position": "376",
+            "position": "374",
             "rotated": false,
             "notes": "10-3bcf5c687cedcf5dba1bf14a8b6584f9 copy.jpg\n11-2f1426e5756aae52ad469ea2468d898a copy.jpg"
         },
@@ -8037,7 +7983,7 @@
             "loyalty": "",
             "artist": "Strelitzen-gewachs",
             "alias": "",
-            "position": "377",
+            "position": "375",
             "rotated": false,
             "notes": ""
         },
@@ -8058,7 +8004,7 @@
             "loyalty": "",
             "artist": "Chris Riddell",
             "alias": "",
-            "position": "378",
+            "position": "376",
             "rotated": false,
             "notes": "stormchaser.jpg"
         },
@@ -8079,7 +8025,7 @@
             "loyalty": "",
             "artist": "Blue.ascendstar",
             "alias": "",
-            "position": "379",
+            "position": "377",
             "rotated": false,
             "notes": "stormchaser.jpg"
         },
@@ -8100,7 +8046,7 @@
             "loyalty": "",
             "artist": "Nolan Nasser",
             "alias": "",
-            "position": "380",
+            "position": "378",
             "rotated": false,
             "notes": "elemental.png"
         },
@@ -8121,7 +8067,7 @@
             "loyalty": "",
             "artist": "Sergio Artigas",
             "alias": "",
-            "position": "381",
+            "position": "379",
             "rotated": false,
             "notes": ""
         },
@@ -8142,7 +8088,7 @@
             "loyalty": "",
             "artist": "Simon Prades",
             "alias": "",
-            "position": "382",
+            "position": "380",
             "rotated": false,
             "notes": "the-spear-cuts-through-water copy.jpg"
         },
@@ -8163,7 +8109,7 @@
             "loyalty": "",
             "artist": "Tom Bloom",
             "alias": "",
-            "position": "383",
+            "position": "381",
             "rotated": false,
             "notes": "ksbd9rec.jpg"
         },
@@ -8184,7 +8130,7 @@
             "loyalty": "",
             "artist": "Thepantyreckless",
             "alias": "",
-            "position": "384",
+            "position": "382",
             "rotated": false,
             "notes": ""
         },
@@ -8205,7 +8151,7 @@
             "loyalty": "",
             "artist": "Joshua Wright",
             "alias": "",
-            "position": "385",
+            "position": "383",
             "rotated": false,
             "notes": ""
         },
@@ -8226,7 +8172,7 @@
             "loyalty": "",
             "artist": "Jorem",
             "alias": "",
-            "position": "386",
+            "position": "384",
             "rotated": false,
             "notes": ""
         },
@@ -8247,7 +8193,7 @@
             "loyalty": "",
             "artist": "Rosenkranz-does-things",
             "alias": "",
-            "position": "387",
+            "position": "385",
             "rotated": false,
             "notes": "tumblr_e06d0db08d664d81489b53b43b95b93b_1d3cf0f4_540.jpg"
         },
@@ -8268,7 +8214,7 @@
             "loyalty": "",
             "artist": "Rod Reis",
             "alias": "",
-            "position": "388",
+            "position": "386",
             "rotated": false,
             "notes": "9698581-newmutants8cover.jpg\nWhenever Amara Juliana Olivians Aquilla attacks, if you cast a noncreature spell this turn, put a +1/+1 counter on her.\nAt the beginning of your end step, if you cast no noncreature spells this turn, remove all counters from Amara Juliana Olivians Aquilla."
         },
@@ -8289,7 +8235,7 @@
             "loyalty": "",
             "artist": "Nahuel Grego",
             "alias": "",
-            "position": "389",
+            "position": "387",
             "rotated": false,
             "notes": "bastion.jpg \u2014 Digo_doodles\n4a334715febed107c399cbf1ac83807c.jpg \u2014 Nahuel Grego"
         },
@@ -8310,7 +8256,7 @@
             "loyalty": "",
             "artist": "UMA 0126",
             "alias": "",
-            "position": "390",
+            "position": "388",
             "rotated": false,
             "notes": "Pok\u00e9mon.(Anime).600.4669631.jpg"
         },
@@ -8331,7 +8277,7 @@
             "loyalty": "",
             "artist": "Nabakumov",
             "alias": "",
-            "position": "391",
+            "position": "389",
             "rotated": false,
             "notes": ""
         },
@@ -8352,7 +8298,7 @@
             "loyalty": "",
             "artist": "Dreamworks Animation",
             "alias": "",
-            "position": "392",
+            "position": "390",
             "rotated": false,
             "notes": "d19a0f22cf088fd46a9e791ba0e9b87a.jpg"
         },
@@ -8364,7 +8310,7 @@
             "number": 3,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "When Aminata IsiSegu enters, create a Weapon token. [i](It's a colorless Equipment artifact token with \u201cEquipped creature gets +1/+1\u201d and equip {2}.)[/i]\nSacrifice Aminata IsiSegu: Target creature gains indestructible until end of turn.",
+            "rules_text": "When Aminata IsiSegu enters, create a Weapon token. [i](It's a colorless Equipment artifact token with \u201cEquipped creature gets +1/+1\u201d and equip {2}.)[/i]\nSacrifice Aminata IsiSegu: Target creature gains hexproof and indestructible until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
@@ -8373,9 +8319,9 @@
             "loyalty": "",
             "artist": "Arian Wells",
             "alias": "",
-            "position": "393",
+            "position": "391",
             "rotated": false,
-            "notes": "tumblr_17228f7e02d456dbfaf732160e8747a0_d740f7ec_2048 \u2014 Arian Wells"
+            "notes": "tumblr_17228f7e02d456dbfaf732160e8747a0_d740f7ec_2048.jpg \u2014 Arian Wells"
         },
         {
             "card_name": "Allied Mastercomputer",
@@ -8394,7 +8340,7 @@
             "loyalty": "",
             "artist": "Ikayblythe",
             "alias": "",
-            "position": "394",
+            "position": "392",
             "rotated": false,
             "notes": ""
         },
@@ -8415,7 +8361,7 @@
             "loyalty": "",
             "artist": "Kingdaume",
             "alias": "",
-            "position": "395",
+            "position": "393",
             "rotated": false,
             "notes": "14f9e7df6ea0db527d73c2182ba3aeb9.png \u2014 Kingdaume\n\u201cI have the most powerful weapon of \nall . . . Information.\u201d"
         },
@@ -8436,7 +8382,7 @@
             "loyalty": "",
             "artist": "Anailis Dorta",
             "alias": "",
-            "position": "396",
+            "position": "394",
             "rotated": false,
             "notes": ""
         },
@@ -8457,7 +8403,7 @@
             "loyalty": "",
             "artist": "Elena Casagrande, Jordie Bellaire",
             "alias": "",
-            "position": "397",
+            "position": "395",
             "rotated": false,
             "notes": "Blade_03 copy.jpg \u2014 luca claretti\nBlade_Vol_6_1_Textless copy.jpg \u2014 Elena Casagrande, Jordie Bellaire\nMarvel_Black,_White_&_Blood_and_Guts_Vol_1_1_Chew_Virgin_Variant copy.jpg \u2014 Derrick Chew"
         },
@@ -8478,10 +8424,52 @@
             "loyalty": "",
             "artist": "Ryan Barger",
             "alias": "",
-            "position": "398",
+            "position": "396",
             "rotated": false,
             "notes": "chewbacca--star-wars-the-card-game-ryan-barger.jpg"
+        },
+        {
+            "card_name": "Horde Captain Surge Boombucket",
+            "color": "R",
+            "rarity": "cube",
+            "type": "Legendary Planeswalker \u2014 Surge",
+            "number": 155,
+            "color_identity": "R",
+            "cost": "{2}{R}{R}",
+            "rules_text": "Surge {2}{R} [i](You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)[/i]\n[+1]: Create a 1/1 white Soldier creature token. Creatures you control get +1/+0 and gain haste until end of turn.\n[-2]: Destroy target artifact or nonbasic land.\n[-6]: You get an emblem with \u201c{R}, Sacrifice a land: This emblem deals 3 damage to any target.\u201d",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "Surge {2}{R} [i](You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)[/i]\n[+1]: Create a 1/1 white Soldier creature token. Creatures you control get +1/+0 and gain haste until end of turn.\n[-2]: Destroy target artifact or nonbasic land.\n[-6]: You get an emblem with \u201c{R}, Sacrifice a land: This emblem deals 3 damage to any target.\u201d",
+            "shape": "planeswalker",
+            "set": "TOAST",
+            "loyalty": "3",
+            "artist": "Solidago_J",
+            "alias": "",
+            "position": "397",
+            "rotated": false,
+            "notes": "surge boombucket copy.jpg\n!tokens Soldier TOAST<1>; Surge Emblem TOAST<1>"
+        },
+        {
+            "card_name": "Imperial March",
+            "color": "WB",
+            "rarity": "cube",
+            "type": "Enchantment",
+            "number": 242,
+            "color_identity": "WB",
+            "cost": "{W}{B}",
+            "rules_text": "At the beginning of your precombat main phase, you lose 1 life and create a 1/1 white Soldier token. \nWhenever you attack with three or more creatures, create a Weapon token attached to target attacking creature. [i](It's a colorless Equipment artifact token with \u201cEquipped creature gets +1/+1\u201d and equip {2}.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "TOAST",
+            "loyalty": "",
+            "artist": "Mike Heath",
+            "alias": "",
+            "position": "398",
+            "rotated": false,
+            "notes": ""
         }
     ],
-    "version": 23
+    "version": 24
 }
