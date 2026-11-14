@@ -1,4 +1,103 @@
-﻿VERSION 24 CHANGELOG
+﻿VERSION 25 CHANGELOG
+====================
+
+Pendeghast Token added.
+Demon Spirit added.
+Faerie added.
+
+
+Midnight over Sanctaphrax
+rules_text: Escalate {U} [i](Pay this cost for each mode chosen beyond the first.)[/i]
+Choose one or more —
+• Return target spell to its owner's hand.
+• Return target nonland permanent to its owner's hand.
+• Draw a card. => Escalate {U}
+Choose one or more —
+• Return target spell to its owner's hand.
+• Return target nonland permanent to its owner's hand.
+• Draw a card.
+
+Simon Lovelace
+rules_text: Whenever Simon Lovelace enters or attacks, you may discard a card. If you do, draw a card.
+{3}{R}{R}: Create an X/X red Spirit creature token with haste, where X is the number of card types among cards in your graveyard. => Whenever Simon Lovelace enters or attacks, you may discard a card. If you do, draw a card.
+{3}{R}{R}: Create an X/X red Demon Spirit creature token with haste, where X is the number of card types among cards in your graveyard.
+
+The Regent
+rules_text: Flash
+When The Regent enters, he deals 20 damage to up to one target tapped creature.
+Discard a card: Create a 1/1 colorless Minion artifact creature token. It can't block this turn. => Flash
+When The Regent enters, he deals 20 damage to up to one target tapped creature.
+Whenever you cast a noncreature spell, create a 1/1 colorless Minion artifact creature token.
+
+The Blade of Evil's Bane
+rules_text: When The Blade of Evil's Bane enters, return target permanent card with mana value 3 or less from your graveyard to the battlefield. If it's a creature, attach The Blade of Evil's Bane to it.
+Equipped creature gets +1/+1 and has lifelink and trample.
+Equip {3} => When The Blade of Evil's Bane enters, return target permanent card with mana value 3 or less from your graveyard to the battlefield. If it's a creature, attach The Blade of Evil's Bane to it.
+Equipped creature gets +1/+1 and has lifelink and trample.
+Equip {4}
+
+Rot
+flavor_text: [i]ft[/i] => [i]“I think, there is no forever. I think, everything ends.”
+—Pamela Isley[/i]
+
+Sunflower
+
+Paul Muad'Dib Atreides
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, put a +1/+1 counter on Paul Muad'Dib Atreides.
+Whenever Paul Muad'Dib Atreides attacks, if his power is 3 or greater, create a colorless Desert land token with “{T}: Add {C}.” If his power is 6 or greater, create a 6/6 green Wurm creature token. => [i]Landfall[/i] — Whenever a land you control enters, put a +1/+1 counter on Paul Muad'Dib Atreides.
+Whenever Paul Muad'Dib Atreides attacks, if his power is 3 or greater, create a tapped colorless Desert land token with “{T}: Add {C}.” If his power is 6 or greater, create a 6/6 green Wurm creature token.
+
+Phantom Zone Projector
+flavor_text: [i]ft[/i] => [i]“I shall return...!”
+—General Zod[/i]
+
+Board the Princess Andromeda
+flavor_text: [i]ft[/i] => [i]“Why anybody would want a screaming princess on the front of their vacation ship, I had no idea.”
+—Percy Jackson[/i]
+
+Thiala, Hero of Bahumia
+
+Pendeghast the Betrayer
+
+Gathering at Fourtrees
+flavor_text: [i]ft[/i] => [i]Below, in the dazzling sunlight, stood four enormous oaks, their dark green crowns reaching almost to the top of the steep slope.[/i]
+
+The Bat Signal
+flavor_text: [i]ft[/i] => [i]“When that light hits the sky, it's not just a call. It's a warning.”
+—Batman[/i]
+
+Iscend Comprine
+
+Amara Juliana Olivians Aquilla
+
+The Dragon Scroll
+flavor_text: [i]ft[/i] => [i]“. . . It's blank.”
+—Po, the Dragon Warrior[/i]
+
+Aminata IsiSegu
+
+Allied Mastercomputer
+
+Horde Captain Surge Boombucket
+rules_text: Surge {2}{R} [i](You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)[/i]
+[+1]: Create a 1/1 white Soldier creature token. Creatures you control get +1/+0 and gain haste until end of turn.
+[-2]: Destroy target artifact or nonbasic land.
+[-6]: You get an emblem with “{R}, Sacrifice a land: This emblem deals 3 damage to any target.” => Surge {2}{R} [i](You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)[/i]
+[+1]: Create a 1/1 white Soldier creature token. Creatures you control get +1/+0 and gain haste until end of turn.
+[-2]: Destroy target artifact. Surge deals 3 damage to that artifact's controller.
+[-6]: You get an emblem with “{R}, Sacrifice a land: This emblem deals 3 damage to any target.”
+special_text: Surge {2}{R} [i](You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)[/i]
+[+1]: Create a 1/1 white Soldier creature token. Creatures you control get +1/+0 and gain haste until end of turn.
+[-2]: Destroy target artifact or nonbasic land.
+[-6]: You get an emblem with “{R}, Sacrifice a land: This emblem deals 3 damage to any target.” => Surge {2}{R} [i](You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)[/i]
+[+1]: Create a 1/1 white Soldier creature token. Creatures you control get +1/+0 and gain haste until end of turn.
+[-2]: Destroy target artifact. Surge deals 3 damage to that artifact's controller.
+[-6]: You get an emblem with “{R}, Sacrifice a land: This emblem deals 3 damage to any target.”
+
+Imperial March
+
+
+VERSION 24 CHANGELOG
 ====================
 
 Imperial March added.

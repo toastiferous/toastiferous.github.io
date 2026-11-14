@@ -3035,6 +3035,41 @@
     {
         "card_name": "er"
     },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Forest",
+        "number": 361,
+        "shape": "normal",
+        "set": "TOAST",
+        "rotated": false,
+        "position": "402"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
     "a->token",
     {
         "card_name": "Hero",
@@ -3046,7 +3081,7 @@
     },
     {
         "card_name": "Alethiometer",
-        "number": 26,
+        "number": 29,
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
@@ -3054,7 +3089,7 @@
     },
     {
         "card_name": "Clue",
-        "number": 27,
+        "number": 30,
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
@@ -3062,7 +3097,7 @@
     },
     {
         "card_name": "Construct",
-        "number": 28,
+        "number": 31,
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
@@ -3070,7 +3105,7 @@
     },
     {
         "card_name": "Food Minion",
-        "number": 29,
+        "number": 32,
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
@@ -3078,7 +3113,7 @@
     },
     {
         "card_name": "Map Token",
-        "number": 30,
+        "number": 33,
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
@@ -3086,7 +3121,7 @@
     },
     {
         "card_name": "Minion",
-        "number": 31,
+        "number": 34,
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
@@ -3094,7 +3129,7 @@
     },
     {
         "card_name": "Powerstone",
-        "number": 32,
+        "number": 35,
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
@@ -3102,7 +3137,7 @@
     },
     {
         "card_name": "Serpent",
-        "number": 33,
+        "number": 36,
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
@@ -3110,7 +3145,7 @@
     },
     {
         "card_name": "Terrible Eye Token",
-        "number": 34,
+        "number": 37,
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
@@ -3118,7 +3153,7 @@
     },
     {
         "card_name": "Vehicle",
-        "number": 35,
+        "number": 38,
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
@@ -3126,7 +3161,7 @@
     },
     {
         "card_name": "Weapon",
-        "number": 36,
+        "number": 39,
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
@@ -3134,7 +3169,7 @@
     },
     {
         "card_name": "Desert",
-        "number": 37,
+        "number": 40,
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
@@ -3142,7 +3177,7 @@
     },
     {
         "card_name": "Everywhere",
-        "number": 38,
+        "number": 41,
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
@@ -3150,7 +3185,7 @@
     },
     {
         "card_name": "Forest",
-        "number": 39,
+        "number": 42,
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
@@ -3317,16 +3352,40 @@
         "position": "354"
     },
     {
-        "card_name": "Elemental",
+        "card_name": "Demon Spirit",
         "number": 22,
+        "shape": "token",
+        "set": "TOAST",
+        "rotated": false,
+        "position": "400"
+    },
+    {
+        "card_name": "Pendeghast Token",
+        "number": 23,
+        "shape": "token",
+        "set": "TOAST",
+        "rotated": false,
+        "position": "399"
+    },
+    {
+        "card_name": "Elemental",
+        "number": 24,
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
         "position": "378"
     },
     {
+        "card_name": "Faerie",
+        "number": 25,
+        "shape": "token",
+        "set": "TOAST",
+        "rotated": false,
+        "position": "401"
+    },
+    {
         "card_name": "Possum",
-        "number": 23,
+        "number": 26,
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
@@ -3334,7 +3393,7 @@
     },
     {
         "card_name": "The Thorned Emerald",
-        "number": 24,
+        "number": 27,
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
@@ -3342,11 +3401,17 @@
     },
     {
         "card_name": "Wurm",
-        "number": 25,
+        "number": 28,
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
         "position": "365"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"
