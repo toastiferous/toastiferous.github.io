@@ -21,7 +21,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "392"
+        "position": "391"
     },
     {
         "card_name": "Amara Juliana Olivians Aquilla",
@@ -29,7 +29,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "386"
+        "position": "385"
     },
     {
         "card_name": "Alien vs. Predator",
@@ -85,7 +85,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "391"
+        "position": "390"
     },
     {
         "card_name": "Batman, Caped Crusader",
@@ -117,7 +117,7 @@
         "shape": "planeswalker",
         "set": "TOAST",
         "rotated": false,
-        "position": "295"
+        "position": "294"
     },
     {
         "card_name": "Approaching Army",
@@ -269,7 +269,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "342"
+        "position": "341"
     },
     {
         "card_name": "Catch 'Em All",
@@ -277,7 +277,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "388"
+        "position": "387"
     },
     {
         "card_name": "Bequeath",
@@ -317,7 +317,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "396"
+        "position": "395"
     },
     {
         "card_name": "Beta Ray Bill",
@@ -397,7 +397,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "383"
+        "position": "382"
     },
     {
         "card_name": "Caterbird",
@@ -429,7 +429,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "329"
+        "position": "328"
     },
     {
         "card_name": "Egwene, The Lady Snake",
@@ -453,7 +453,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "393"
+        "position": "392"
     },
     {
         "card_name": "Decapitate",
@@ -549,7 +549,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "306"
+        "position": "305"
     },
     {
         "card_name": "Gathering at Fourtrees",
@@ -557,7 +557,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "330"
+        "position": "329"
     },
     {
         "card_name": "Galad Rosell, White Rose of Galaderon",
@@ -568,12 +568,12 @@
         "position": "162"
     },
     {
-        "card_name": "The Gloamglozer",
+        "card_name": "Gift of Power",
         "number": 59,
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "11"
+        "position": "402"
     },
     {
         "card_name": "Draw Towards a Consuming Void",
@@ -608,12 +608,12 @@
         "position": "235"
     },
     {
-        "card_name": "Groundhog Day",
+        "card_name": "The Gloamglozer",
         "number": 60,
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "177"
+        "position": "11"
     },
     {
         "card_name": "Dream No More",
@@ -648,12 +648,12 @@
         "position": "175"
     },
     {
-        "card_name": "Jacky Magus",
+        "card_name": "Groundhog Day",
         "number": 61,
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "301"
+        "position": "177"
     },
     {
         "card_name": "Emerge from the Dread Night Wind",
@@ -677,7 +677,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "304"
+        "position": "303"
     },
     {
         "card_name": "Hearth-Vigil",
@@ -688,12 +688,12 @@
         "position": "92"
     },
     {
-        "card_name": "Jay, Master of Lightning",
+        "card_name": "Jacky Magus",
         "number": 62,
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "35"
+        "position": "300"
     },
     {
         "card_name": "Emperor Sheev Palpatine",
@@ -728,12 +728,12 @@
         "position": "240"
     },
     {
-        "card_name": "Litany Against Fear",
+        "card_name": "Jay, Master of Lightning",
         "number": 63,
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "216"
+        "position": "35"
     },
     {
         "card_name": "The Ender Dragon",
@@ -765,15 +765,15 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "382"
+        "position": "381"
     },
     {
-        "card_name": "Lyra Silvertongue",
+        "card_name": "Litany Against Fear",
         "number": 64,
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "14"
+        "position": "216"
     },
     {
         "card_name": "Eric Brooks, Blade",
@@ -781,7 +781,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "395"
+        "position": "394"
     },
     {
         "card_name": "Hawkeye",
@@ -808,12 +808,12 @@
         "position": "7"
     },
     {
-        "card_name": "Metal City Mayhem",
+        "card_name": "Lyra Silvertongue",
         "number": 65,
-        "shape": "class",
+        "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "285"
+        "position": "14"
     },
     {
         "card_name": "Feyd-Rautha Harkonnen",
@@ -821,7 +821,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "337"
+        "position": "336"
     },
     {
         "card_name": "Hemokinesis",
@@ -829,7 +829,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "394"
+        "position": "393"
     },
     {
         "card_name": "Lloyd, Master of Green",
@@ -848,12 +848,12 @@
         "position": "233"
     },
     {
-        "card_name": "Midnight over Sanctaphrax",
+        "card_name": "Metal City Mayhem",
         "number": 66,
-        "shape": "normal",
+        "shape": "class",
         "set": "TOAST",
         "rotated": false,
-        "position": "17"
+        "position": "285"
     },
     {
         "card_name": "Force Lightning",
@@ -869,7 +869,7 @@
         "shape": "planeswalker",
         "set": "TOAST",
         "rotated": false,
-        "position": "397"
+        "position": "396"
     },
     {
         "card_name": "Lorna Dane, Polaris",
@@ -885,15 +885,15 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "311"
+        "position": "310"
     },
     {
-        "card_name": "Moment of Twilight",
+        "card_name": "Midnight over Sanctaphrax",
         "number": 67,
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "8"
+        "position": "17"
     },
     {
         "card_name": "Frightful Keening",
@@ -925,15 +925,15 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "339"
+        "position": "338"
     },
     {
-        "card_name": "Nathaniel, John Mandrake",
+        "card_name": "Moment of Twilight",
         "number": 68,
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "54"
+        "position": "8"
     },
     {
         "card_name": "GlaDOS",
@@ -968,12 +968,12 @@
         "position": "213"
     },
     {
-        "card_name": "Ocean's Hungry Grasp",
+        "card_name": "Nathaniel, John Mandrake",
         "number": 69,
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "69"
+        "position": "54"
     },
     {
         "card_name": "Hang",
@@ -989,7 +989,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "312"
+        "position": "311"
     },
     {
         "card_name": "Mine",
@@ -1008,12 +1008,12 @@
         "position": "271"
     },
     {
-        "card_name": "Parry",
+        "card_name": "Ocean's Hungry Grasp",
         "number": 70,
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "149"
+        "position": "69"
     },
     {
         "card_name": "Hound Suit",
@@ -1048,12 +1048,12 @@
         "position": "80"
     },
     {
-        "card_name": "Professor X",
+        "card_name": "Parry",
         "number": 71,
-        "shape": "planeswalker",
+        "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "294"
+        "position": "149"
     },
     {
         "card_name": "It's Alive!",
@@ -1061,7 +1061,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "338"
+        "position": "337"
     },
     {
         "card_name": "Optic Blast",
@@ -1181,7 +1181,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "326"
+        "position": "325"
     },
     {
         "card_name": "Pinpoint",
@@ -1253,7 +1253,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "380"
+        "position": "379"
     },
     {
         "card_name": "The Necrobinder",
@@ -1405,7 +1405,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "305"
+        "position": "304"
     },
     {
         "card_name": "Think Double",
@@ -1445,7 +1445,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "303"
+        "position": "302"
     },
     {
         "card_name": "Thirty-Cubit Spear",
@@ -1493,7 +1493,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "385"
+        "position": "384"
     },
     {
         "card_name": "The Sepia Knight",
@@ -1541,7 +1541,7 @@
         "shape": "saga",
         "set": "TOAST",
         "rotated": false,
-        "position": "298"
+        "position": "297"
     },
     {
         "card_name": "Silk Spear",
@@ -1557,7 +1557,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "310"
+        "position": "309"
     },
     {
         "card_name": "To Me, My X-Men!",
@@ -1573,7 +1573,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "381"
+        "position": "380"
     },
     {
         "card_name": "There Is No Escape",
@@ -1645,7 +1645,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "328"
+        "position": "327"
     },
     {
         "card_name": "Virginia Pepper Potts",
@@ -1717,7 +1717,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "340"
+        "position": "339"
     },
     {
         "card_name": "Zane, Master of Ice",
@@ -1838,7 +1838,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "331"
+        "position": "330"
     },
     {
         "card_name": "Cast Down Into The Briny Deep",
@@ -1950,7 +1950,7 @@
         "shape": "class",
         "set": "TOAST",
         "rotated": false,
-        "position": "297"
+        "position": "296"
     },
     {
         "card_name": "The Sorceress Yubaba",
@@ -1958,7 +1958,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "307"
+        "position": "306"
     },
     {
         "card_name": "The Soul Master",
@@ -1982,7 +1982,7 @@
         "shape": "planeswalker",
         "set": "TOAST",
         "rotated": false,
-        "position": "296"
+        "position": "295"
     },
     {
         "card_name": "The Wild Robot",
@@ -2093,7 +2093,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "398"
+        "position": "397"
     },
     {
         "card_name": "Exaltation of the Incandescent Sky",
@@ -2165,7 +2165,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "384"
+        "position": "383"
     },
     {
         "card_name": "Opal Luna Saturnyne",
@@ -2246,7 +2246,7 @@
         "shape": "adventure",
         "set": "TOAST",
         "rotated": false,
-        "position": "308"
+        "position": "307"
     },
     {
         "card_name": "The Amulet of Samarkand",
@@ -2254,7 +2254,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "309"
+        "position": "308"
     },
     {
         "card_name": "Atom Rom, Kill Screen",
@@ -2262,7 +2262,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "341"
+        "position": "340"
     },
     {
         "card_name": "The Bat Signal",
@@ -2270,7 +2270,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "336"
+        "position": "335"
     },
     {
         "card_name": "Bench",
@@ -2318,7 +2318,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "327"
+        "position": "326"
     },
     {
         "card_name": "The Dragon Jewel",
@@ -2334,7 +2334,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "390"
+        "position": "389"
     },
     {
         "card_name": "Endeavour, the Dragonsword",
@@ -2350,7 +2350,7 @@
         "shape": "adventure",
         "set": "TOAST",
         "rotated": false,
-        "position": "302"
+        "position": "301"
     },
     {
         "card_name": "Hulkbuster Armor Model 52",
@@ -2382,7 +2382,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "334"
+        "position": "333"
     },
     {
         "card_name": "Mothwing Cloak",
@@ -2390,7 +2390,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "325"
+        "position": "324"
     },
     {
         "card_name": "Rosaline",
@@ -2406,7 +2406,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "387"
+        "position": "386"
     },
     {
         "card_name": "Skyship Stormchaser",
@@ -2422,7 +2422,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "332"
+        "position": "331"
     },
     {
         "card_name": "The Terminator",
@@ -2430,7 +2430,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "389"
+        "position": "388"
     },
     {
         "card_name": "The Ticking-Thing",
@@ -2446,7 +2446,7 @@
         "shape": "adventure",
         "set": "TOAST",
         "rotated": false,
-        "position": "299"
+        "position": "298"
     },
     {
         "card_name": "V1, Death Machine",
@@ -2454,7 +2454,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "335"
+        "position": "334"
     },
     {
         "card_name": "Viv Vision",
@@ -2462,7 +2462,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "333"
+        "position": "332"
     },
     {
         "card_name": "Warlock",
@@ -2470,7 +2470,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "323"
+        "position": "322"
     },
     {
         "card_name": "Warp Coin",
@@ -2494,7 +2494,7 @@
         "shape": "adventure",
         "set": "TOAST",
         "rotated": false,
-        "position": "300"
+        "position": "299"
     },
     {
         "card_name": "e"
@@ -2667,7 +2667,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "320"
+        "position": "319"
     },
     {
         "card_name": "Badlands",
@@ -2675,7 +2675,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "321"
+        "position": "320"
     },
     {
         "card_name": "Taiga",
@@ -2683,7 +2683,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "322"
+        "position": "321"
     },
     {
         "card_name": "Mount Monterey",
@@ -2699,7 +2699,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "315"
+        "position": "314"
     },
     {
         "card_name": "Undertown",
@@ -2731,7 +2731,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "317"
+        "position": "316"
     },
     {
         "card_name": "er"
@@ -2770,7 +2770,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "313"
+        "position": "312"
     },
     {
         "card_name": "The Autumn Court",
@@ -2834,7 +2834,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "314"
+        "position": "313"
     },
     {
         "card_name": "Volcanic Island",
@@ -2842,7 +2842,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "319"
+        "position": "318"
     },
     {
         "card_name": "Fort Onion",
@@ -2858,7 +2858,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "318"
+        "position": "317"
     },
     {
         "card_name": "Tropical Island",
@@ -2866,7 +2866,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "316"
+        "position": "315"
     },
     {
         "card_name": "er"
@@ -3001,7 +3001,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "324"
+        "position": "323"
     },
     {
         "card_name": "The X Zone",
@@ -3044,7 +3044,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "402"
+        "position": "401"
     },
     {
         "card_name": "e"
@@ -3077,7 +3077,7 @@
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
-        "position": "358"
+        "position": "357"
     },
     {
         "card_name": "Alethiometer",
@@ -3085,7 +3085,7 @@
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
-        "position": "361"
+        "position": "360"
     },
     {
         "card_name": "Clue",
@@ -3093,7 +3093,7 @@
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
-        "position": "372"
+        "position": "371"
     },
     {
         "card_name": "Construct",
@@ -3101,7 +3101,7 @@
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
-        "position": "362"
+        "position": "361"
     },
     {
         "card_name": "Food Minion",
@@ -3109,7 +3109,7 @@
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
-        "position": "360"
+        "position": "359"
     },
     {
         "card_name": "Map Token",
@@ -3125,7 +3125,7 @@
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
-        "position": "347"
+        "position": "346"
     },
     {
         "card_name": "Powerstone",
@@ -3133,7 +3133,7 @@
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
-        "position": "371"
+        "position": "370"
     },
     {
         "card_name": "Serpent",
@@ -3141,7 +3141,7 @@
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
-        "position": "343"
+        "position": "342"
     },
     {
         "card_name": "Terrible Eye Token",
@@ -3149,7 +3149,7 @@
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
-        "position": "348"
+        "position": "347"
     },
     {
         "card_name": "Vehicle",
@@ -3157,7 +3157,7 @@
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
-        "position": "376"
+        "position": "375"
     },
     {
         "card_name": "Weapon",
@@ -3165,7 +3165,7 @@
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
-        "position": "359"
+        "position": "358"
     },
     {
         "card_name": "Desert",
@@ -3173,7 +3173,7 @@
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
-        "position": "364"
+        "position": "363"
     },
     {
         "card_name": "Everywhere",
@@ -3181,7 +3181,7 @@
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
-        "position": "363"
+        "position": "362"
     },
     {
         "card_name": "Forest",
@@ -3189,7 +3189,7 @@
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
-        "position": "357"
+        "position": "356"
     },
     {
         "card_name": "Angel",
@@ -3197,7 +3197,7 @@
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
-        "position": "375"
+        "position": "374"
     },
     {
         "card_name": "The Arkenstone",
@@ -3205,7 +3205,7 @@
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
-        "position": "353"
+        "position": "352"
     },
     {
         "card_name": "Bird",
@@ -3213,7 +3213,7 @@
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
-        "position": "346"
+        "position": "345"
     },
     {
         "card_name": "Dwarf Soldier",
@@ -3221,7 +3221,7 @@
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
-        "position": "379"
+        "position": "378"
     },
     {
         "card_name": "Human Warlock",
@@ -3229,7 +3229,7 @@
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
-        "position": "374"
+        "position": "373"
     },
     {
         "card_name": "Knight",
@@ -3237,7 +3237,7 @@
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
-        "position": "356"
+        "position": "355"
     },
     {
         "card_name": "Mutant Hero",
@@ -3245,7 +3245,7 @@
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
-        "position": "366"
+        "position": "365"
     },
     {
         "card_name": "Rebel",
@@ -3253,7 +3253,7 @@
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
-        "position": "373"
+        "position": "372"
     },
     {
         "card_name": "Silkwrap",
@@ -3261,7 +3261,7 @@
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
-        "position": "349"
+        "position": "348"
     },
     {
         "card_name": "Soldier",
@@ -3269,7 +3269,7 @@
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
-        "position": "351"
+        "position": "350"
     },
     {
         "card_name": "Spirit",
@@ -3277,7 +3277,7 @@
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
-        "position": "369"
+        "position": "368"
     },
     {
         "card_name": "Heart of the Ocean",
@@ -3293,7 +3293,7 @@
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
-        "position": "344"
+        "position": "343"
     },
     {
         "card_name": "The Dragon's Egg",
@@ -3301,7 +3301,7 @@
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
-        "position": "352"
+        "position": "351"
     },
     {
         "card_name": "Garokk, The Petrified Man",
@@ -3309,7 +3309,7 @@
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
-        "position": "350"
+        "position": "349"
     },
     {
         "card_name": "Mutant",
@@ -3317,7 +3317,7 @@
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
-        "position": "367"
+        "position": "366"
     },
     {
         "card_name": "Skeleton Army",
@@ -3325,7 +3325,7 @@
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
-        "position": "368"
+        "position": "367"
     },
     {
         "card_name": "Testing Module",
@@ -3333,7 +3333,7 @@
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
-        "position": "377"
+        "position": "376"
     },
     {
         "card_name": "Beast",
@@ -3341,7 +3341,7 @@
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
-        "position": "345"
+        "position": "344"
     },
     {
         "card_name": "The Crimson Gem of Cyttorak",
@@ -3349,7 +3349,7 @@
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
-        "position": "354"
+        "position": "353"
     },
     {
         "card_name": "Demon Spirit",
@@ -3357,7 +3357,7 @@
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
-        "position": "400"
+        "position": "399"
     },
     {
         "card_name": "Pendeghast Token",
@@ -3365,7 +3365,7 @@
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
-        "position": "399"
+        "position": "398"
     },
     {
         "card_name": "Elemental",
@@ -3373,7 +3373,7 @@
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
-        "position": "378"
+        "position": "377"
     },
     {
         "card_name": "Faerie",
@@ -3381,7 +3381,7 @@
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
-        "position": "401"
+        "position": "400"
     },
     {
         "card_name": "Possum",
@@ -3389,7 +3389,7 @@
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
-        "position": "370"
+        "position": "369"
     },
     {
         "card_name": "The Thorned Emerald",
@@ -3397,7 +3397,7 @@
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
-        "position": "355"
+        "position": "354"
     },
     {
         "card_name": "Wurm",
@@ -3405,7 +3405,7 @@
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
-        "position": "365"
+        "position": "364"
     },
     {
         "card_name": "e"

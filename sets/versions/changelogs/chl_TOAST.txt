@@ -1,4 +1,33 @@
-﻿VERSION 25 CHANGELOG
+﻿VERSION 26 CHANGELOG
+====================
+
+Gift of Power added.
+
+Professor X removed.
+
+What We're Gonna Do Today
+cost: {2}{U} => {U}
+rules_text: Kicker—Tap three untapped artifacts you control. [i](You may tap three untapped artifacts you control in addition to any other costs as you cast this spell.)[/i]
+Search your library for an artifact card, put it into your hand, then shuffle. If this spell was kicked, add {C}{C}{C}. => Surveil 1, then draw a card. 
+Flashback—{2}{U}, Sacrifice an artifact. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Bluestar's Prophecy
+rules_text: Kicker {1}
+Surveil 1, then draw a card. If this spell was kicked, create a 1/1 blue Warrior Cat creature token. => Kicker {1}
+Scry 1, then draw a card. If this spell was kicked, create a 1/1 blue Warrior Cat creature token.
+
+Catch 'Em All
+rules_text: When this enchantment enters, mill four cards. You may put a permanent card from among them into your hand.
+{1}{G}, Sacrifice Catch ‘Em All: Put a +1/+1 counter on each creature you control. Activate only as a sorcery and only if there are seven or more creature types among creatures you control. => When this enchantment enters, mill four cards. You may put a permanent card from among them into your hand.
+{1}{G}, Sacrifice Catch ‘Em All: Put a +1/+1 counter on each creature you control. Activate only as a sorcery and only if there are six or more creature types among creatures you control.
+
+The Dragon Scroll
+flavor_text: [i]“. . . It's blank.”
+—Po, the Dragon Warrior[/i] => [i]“It's . . . blank.”
+—Po, the Dragon Warrior[/i]
+
+
+VERSION 25 CHANGELOG
 ====================
 
 Pendeghast Token added.
