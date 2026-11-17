@@ -232,12 +232,12 @@
         "position": "94"
     },
     {
-        "card_name": "Cactus McCoy",
+        "card_name": "Boldly Go",
         "number": 183,
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "76"
+        "position": "404"
     },
     {
         "card_name": "Banish",
@@ -272,12 +272,12 @@
         "position": "339"
     },
     {
-        "card_name": "Catch 'Em All",
+        "card_name": "Cactus McCoy",
         "number": 184,
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "385"
+        "position": "76"
     },
     {
         "card_name": "Bequeath",
@@ -312,12 +312,12 @@
         "position": "95"
     },
     {
-        "card_name": "Chewbacca",
+        "card_name": "Catch 'Em All",
         "number": 185,
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "393"
+        "position": "385"
     },
     {
         "card_name": "Beta Ray Bill",
@@ -573,7 +573,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "400"
+        "position": "399"
     },
     {
         "card_name": "Draw Towards a Consuming Void",
@@ -869,7 +869,7 @@
         "shape": "planeswalker",
         "set": "TOAST",
         "rotated": false,
-        "position": "394"
+        "position": "393"
     },
     {
         "card_name": "Lorna Dane, Polaris",
@@ -1109,7 +1109,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "402"
+        "position": "401"
     },
     {
         "card_name": "Paul Muad'Dib Atreides",
@@ -2093,7 +2093,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "395"
+        "position": "394"
     },
     {
         "card_name": "Fraiden French, Margrave",
@@ -2181,7 +2181,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "401"
+        "position": "400"
     },
     {
         "card_name": "Zaladane, Empress of the Savage Land",
@@ -3044,7 +3044,7 @@
         "shape": "normal",
         "set": "TOAST",
         "rotated": false,
-        "position": "399"
+        "position": "398"
     },
     {
         "card_name": "e"
@@ -3077,7 +3077,7 @@
         "shape": "token split",
         "set": "TOAST",
         "rotated": false,
-        "position": "403"
+        "position": "402"
     },
     {
         "card_name": "Hero",
@@ -3101,7 +3101,7 @@
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
-        "position": "404"
+        "position": "403"
     },
     {
         "card_name": "Clue",
@@ -3373,7 +3373,7 @@
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
-        "position": "397"
+        "position": "396"
     },
     {
         "card_name": "Pendeghast Token",
@@ -3381,7 +3381,7 @@
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
-        "position": "396"
+        "position": "395"
     },
     {
         "card_name": "Elemental",
@@ -3397,7 +3397,7 @@
         "shape": "token",
         "set": "TOAST",
         "rotated": false,
-        "position": "398"
+        "position": "397"
     },
     {
         "card_name": "Possum",

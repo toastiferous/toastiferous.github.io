@@ -1401,7 +1401,7 @@ Power-up — {3}{R}{G}: Put a +1/+1 counter on each creature you control. Creatu
 			<name>Cactus McCoy</name>
 			<text>Landfall — Whenever a land you control enters, create a Weapon token attached to target creature you control. (It&apos;s a colorless Equipment artifact token with &quot;Equipped creature gets +1/+1&quot; and equip {2}.)
 Whenever a creature you control deals five or more damage, create The Thorned Emerald, a legendary green artifact token with &quot;{T}: Add {G}{G}{G}.&quot; This ability triggers only once.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/76.png" num="183">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/76.png" num="184">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1933,7 +1933,7 @@ Sacrifice an artifact: Choose one. Activate only once each turn.
 		<card>
 			<name>Marceline, the Vampire Queen</name>
 			<text>Flying
-Sacrifice a red permanent or a Mountain: Marceline gains indestructible until end of turn.
+Sacrifice a red permanent or a Mountain: Marceline gains indestructible until end of turn. Tap it.
 Whenever Marceline attacks, you may pay {2}. If you do, return target creature card with mana value 3 or less from your graveyard to the battlefield tapped and attacking with a finality counter on it.</text>
 			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/105.png" num="120">TOAST</set>
 			<prop>
@@ -2007,7 +2007,7 @@ When Vance &quot;Deadeye&quot; Cybin enters, he deals 1 damage to any target.</t
 			<name>Hawkeye</name>
 			<text>Reach, haste
 When Hawkeye enters, you may discard your hand. If you do, draw two cards.
-{1}{R}, Exile an instant or sorcery card from your graveyard: Hawkeye deals 3 damage to any target. Activate only as a sorcery.</text>
+{1}{R}, Exile an instant or sorcery card from your graveyard: Hawkeye deals 2 damage to any target. Activate only as a sorcery.</text>
 			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/109.png" num="153">TOAST</set>
 			<prop>
 				<layout>normal</layout>
@@ -6853,16 +6853,16 @@ Exhaust — {10}: Draw four cards. This ability costs {1} less to activate for e
 		</card>
 		<card>
 			<name>Catch &apos;Em All</name>
-			<text>When this enchantment enters, mill four cards. You may put a permanent card from among them into your hand.
-{1}{G}, Sacrifice Catch ‘Em All: Put a +1/+1 counter on each creature you control. Activate only as a sorcery and only if there are six or more creature types among creatures you control.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/385.png" num="184">TOAST</set>
+			<text>The first creature spell you cast each turn costs {1} less to cast.
+{3}{G}{G}, Sacrifice Catch ‘Em All: Put a +1/+1 counter on each creature you control. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/385.png" num="185">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>1G</manacost>
-				<cmc>2</cmc>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 			</prop>
@@ -6991,31 +6991,12 @@ Whenever a creature enters from a graveyard or a player casts a spell from a gra
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Chewbacca</name>
-			<text>Companion — Your starting deck has ten or more nonbasic land cards. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)
-Trample
-Whenever a creature you control becomes the target of a spell you don&apos;t control, you may have Chewbacca fight target creature.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/393.png" num="185">TOAST</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Creature — Alien Rebel</type>
-				<maintype>Creature</maintype>
-				<manacost>4GG</manacost>
-				<cmc>6</cmc>
-				<colors>G</colors>
-				<coloridentity>G</coloridentity>
-				<pt>6/6</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>Horde Captain Surge Boombucket</name>
 			<text>Surge {2}{R} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
 [+1]: Create a 1/1 white Soldier creature token. Creatures you control get +1/+0 and gain haste until end of turn.
 [-2]: Destroy target artifact. Surge deals 3 damage to that artifact&apos;s controller.
 [-6]: You get an emblem with &quot;{R}, Sacrifice a land: This emblem deals 3 damage to any target.&quot;</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/394.png" num="155">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/393.png" num="155">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7035,7 +7016,7 @@ Whenever a creature you control becomes the target of a spell you don&apos;t con
 			<name>Imperial March</name>
 			<text>At the beginning of your precombat main phase, you lose 1 life and create a 1/1 white Soldier token. 
 Whenever you attack with three or more creatures, create a Weapon token attached to target attacking creature. (It&apos;s a colorless Equipment artifact token with &quot;Equipped creature gets +1/+1&quot; and equip {2}.)</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/395.png" num="241">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/394.png" num="241">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7055,7 +7036,7 @@ Whenever you attack with three or more creatures, create a Weapon token attached
 			<text>[+1]: Exile the top card of your library. You may play it until the end of your next turn.
 [-3]: Pendeghast Token deals 5 damage to any target.
 [-7]: Create three tokens that are copies of target creature. They gain haste. Exile them at the beginning of the next end step.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/396.png" num="24">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/395.png" num="24">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7072,7 +7053,7 @@ Whenever you attack with three or more creatures, create a Weapon token attached
 		<card>
 			<name>Demon Spirit TOAST</name>
 			<text>Haste</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/397.png" num="23">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/396.png" num="23">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7090,7 +7071,7 @@ Whenever you attack with three or more creatures, create a Weapon token attached
 		<card>
 			<name>Faerie TOAST</name>
 			<text></text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/398.png" num="26">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/397.png" num="26">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7108,7 +7089,7 @@ Whenever you attack with three or more creatures, create a Weapon token attached
 		<card>
 			<name>Forest</name>
 			<text></text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/399.png" num="361">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/398.png" num="361">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7123,7 +7104,7 @@ Whenever you attack with three or more creatures, create a Weapon token attached
 		<card>
 			<name>Gift of Power</name>
 			<text>Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/400.png" num="59">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/399.png" num="59">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7141,7 +7122,7 @@ Whenever you attack with three or more creatures, create a Weapon token attached
 			<text>This spell costs {1} less to cast for each noncreature, nonland card in your graveyard.
 Haste
 Whenever you cast a noncreature spell, Moby-Dick dives. (A diving creature can&apos;t be blocked until the next time it deals combat damage.)</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/401.png" num="251">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/400.png" num="251">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7157,10 +7138,10 @@ Whenever you cast a noncreature spell, Moby-Dick dives. (A diving creature can&a
 		</card>
 		<card>
 			<name>Pikachu</name>
-			<text>Companion — Your starting deck contains exactly five creature spells. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)
+			<text>Companion — Your starting deck contains exactly five creature cards. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)
 Prowess
 When Pikachu enters, exile the top card of your library. You may play that card until the end of your next turn.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/402.png" num="161">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/401.png" num="161">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7178,7 +7159,7 @@ When Pikachu enters, exile the top card of your library. You may play that card 
 			<name>Conflict TOAST</name>
 			<text>(This token enters under an opponent&apos;s control. You and others can attack it.)
 When this battle is defeated, put the contested card into its owner&apos;s hand.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/403.png" num="1">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/402.png" num="1">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7193,7 +7174,7 @@ When this battle is defeated, put the contested card into its owner&apos;s hand.
 		<card>
 			<name>Blood TOAST</name>
 			<text>{1}, {T}, Discard a card, Sacrifice this token: Draw a card.</text>
-			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/404.png" num="31">TOAST</set>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/403.png" num="31">TOAST</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7204,6 +7185,22 @@ When this battle is defeated, put the contested card into its owner&apos;s hand.
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
+		</card>
+		<card>
+			<name>Boldly Go</name>
+			<text>Mill three cards. You may return a permanent card from among them to your hand.</text>
+			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/404.png" num="183">TOAST</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>
