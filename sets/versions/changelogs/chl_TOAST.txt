@@ -1,4 +1,70 @@
-﻿VERSION 26 CHANGELOG
+﻿VERSION 27 CHANGELOG
+====================
+
+Moby-Dick; or, The Whale added.
+Pikachu added.
+Conflict added.
+Blood added.
+
+The Number Devil removed.
+Days of Future Past removed.
+
+Ramuthra
+rules_text: Protection from mana value 3 or less
+When Ramuthra enters, exile the top seven cards of your library. You may play those cards until the end of your next turn, and you may cast spells from among those cards by sacrificing a number of permanents equal to their mana value rather than paying their mana costs. => Protection from mana value 2 or less
+When Ramuthra enters, exile the top seven cards of your library. You may play those cards until the end of your next turn, and you may cast spells from among those cards by sacrificing a number of permanents equal to their mana value rather than paying their mana costs.
+
+Fort Onion
+
+Rosaline
+artist:  => bookinbear_
+
+Mount Monterey
+
+The Saucelands
+
+Wintergreen Way
+
+Neapolitown
+
+Gummy Grotto
+
+Blue Moon Bay
+
+Lake Chocodunk
+
+Leaf Landing
+
+Cookie Caverns
+
+The X Zone
+
+Virginia Pepper Potts
+rules_text: Flash
+Flying
+Virginia “Pepper” Potts can block only creatures with flying.
+Pepper enters prepared. [i](While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)[/i] => Flash
+Flying
+Virginia “Pepper” Potts can block only creatures with flying.
+Pepper enters prepared.
+
+The Sorceress Yubaba
+rules_text: Flying, ward {2}
+When The Sorceress Yubaba enters, gain control of target creature for as long as you control The Sorceress Yubaba. It has no name for as long as you control The Sorceress Yubaba. When The Sorceress Yubaba is no longer on the battlefield, return that creature to its owner's hand. => Flying, ward {2}
+When The Sorceress Yubaba enters, gain control of target creature. It has no name. When The Sorceress Yubaba is no longer on the battlefield, return that creature to its owner's hand.
+
+The Wormways
+artist: Thefabledpots => Cheesyminecart
+
+Chewbacca
+rules_text: Companion — Your starting deck has ten or more nonbasic land cards. [i](If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)[/i]
+Trample
+Whenever a creature you control becomes the target of a spell you don't control, you may have Chewbacca fight target creature. [i](Each deals damage equal to its power to the other.)[/i] => Companion — Your starting deck has ten or more nonbasic land cards. [i](If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)[/i]
+Trample
+Whenever a creature you control becomes the target of a spell you don't control, you may have Chewbacca fight target creature.
+
+
+VERSION 26 CHANGELOG
 ====================
 
 Gift of Power added.
