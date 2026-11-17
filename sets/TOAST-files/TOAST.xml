@@ -2213,7 +2213,7 @@ Crew 2</text>
 		</card>
 		<card>
 			<name>Slay the Spire</name>
-			<text>At the beginning of your end step, discard your hand, then draw five cards.
+			<text>At the beginning of your end step, discard your hand, then draw three cards.
 Whenever a creature an opponent controls dies, create a Treasure token.</text>
 			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/121.png" num="174">TOAST</set>
 			<prop>

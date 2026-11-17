@@ -1,4 +1,15 @@
-﻿VERSION 29 CHANGELOG
+﻿VERSION 30 CHANGELOG
+====================
+
+
+
+Slay the Spire
+rules_text: At the beginning of your end step, discard your hand, then draw five cards.
+Whenever a creature an opponent controls dies, create a Treasure token. => At the beginning of your end step, discard your hand, then draw three cards.
+Whenever a creature an opponent controls dies, create a Treasure token.
+
+
+VERSION 29 CHANGELOG
 ====================
 
 

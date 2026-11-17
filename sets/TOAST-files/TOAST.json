@@ -2556,7 +2556,7 @@
             "number": 174,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
-            "rules_text": "At the beginning of your end step, discard your hand, then draw five cards.\nWhenever a creature an opponent controls dies, create a Treasure token.",
+            "rules_text": "At the beginning of your end step, discard your hand, then draw three cards.\nWhenever a creature an opponent controls dies, create a Treasure token.",
             "flavor_text": "[i]The Heart awaits.[/i]",
             "pt": "",
             "special_text": "",
@@ -8597,5 +8597,5 @@
             "notes": "angelos-karderinis-enterprise-d-final.jpg"
         }
     ],
-    "version": 29
+    "version": 30
 }
