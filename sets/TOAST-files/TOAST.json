@@ -2220,7 +2220,7 @@
             "number": 120,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Flying\nSacrifice a red permanent or a Mountain: Marceline gains indestructible until end of turn. Tap it.\nWhenever Marceline attacks, you may pay {2}. If you do, return target creature card with mana value 3 or less from your graveyard to the battlefield tapped and attacking with a finality counter on it.",
+            "rules_text": "Flying\nSacrifice a red permanent or a Mountain: Marceline gains indestructible until end of turn. Tap her.\nBoast\u2014{1}{B}: Return target creature card with mana value 3 or less from your graveyard to the battlefield with a finality counter on it.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -3218,7 +3218,7 @@
             "alias": "",
             "position": "152",
             "rotated": false,
-            "notes": "dhszgtk-f6144d1c-7d1b-4284-ac3b-756ee97f8305.jpg\n"
+            "notes": "dhszgtk-f6144d1c-7d1b-4284-ac3b-756ee97f8305.jpg"
         },
         {
             "card_name": "Hardwon Surefoot",
@@ -5045,7 +5045,7 @@
             "alias": "",
             "position": "239",
             "rotated": false,
-            "notes": "vincenzo-riccardi-cyclops-instagramjpg.jpg\n"
+            "notes": "vincenzo-riccardi-cyclops-instagramjpg.jpg"
         },
         {
             "card_name": "Strike the Match",
@@ -6131,7 +6131,7 @@
             "alias": "",
             "position": "289",
             "rotated": false,
-            "notes": "thiala.jpg\n for each spell you've cast this turn\nns-bahumia-naddpod-dm-screen-panoramic-painting-v0-oasz0ey7lu4g1.jpg\n!tokens Knight TOAST<1>; Angel TOAST<1>\n"
+            "notes": "thiala.jpg\n for each spell you've cast this turn\nns-bahumia-naddpod-dm-screen-panoramic-painting-v0-oasz0ey7lu4g1.jpg\n!tokens Knight TOAST<1>; Angel TOAST<1>"
         },
         {
             "card_name": "Pendeghast the Betrayer",
@@ -6152,7 +6152,7 @@
             "alias": "",
             "position": "290",
             "rotated": false,
-            "notes": "ns-bahumia-naddpod-dm-screen-panoramic-painting-v0-oasz0ey7lu4g1.jpg\n!Tokens Pendeghast Token TOAST<1>\n"
+            "notes": "ns-bahumia-naddpod-dm-screen-panoramic-painting-v0-oasz0ey7lu4g1.jpg\n!Tokens Pendeghast Token TOAST<1>"
         },
         {
             "card_name": "The Soul Master",
@@ -8584,7 +8584,7 @@
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "Mill three cards. You may return a permanent card from among them to your hand.",
-            "flavor_text": "[i]These are the voyages of the Starship Enterprise.[/i]",
+            "flavor_text": "[i]\u201cThese are the voyages of the Starship Enterprise.\u201d\n\u2014James T. Kirk, Captain's Log[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -8597,5 +8597,5 @@
             "notes": "angelos-karderinis-enterprise-d-final.jpg"
         }
     ],
-    "version": 28
+    "version": 29
 }

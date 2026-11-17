@@ -1,4 +1,29 @@
-﻿VERSION 28 CHANGELOG
+﻿VERSION 29 CHANGELOG
+====================
+
+
+
+Marceline, the Vampire Queen
+rules_text: Flying
+Sacrifice a red permanent or a Mountain: Marceline gains indestructible until end of turn. Tap it.
+Whenever Marceline attacks, you may pay {2}. If you do, return target creature card with mana value 3 or less from your graveyard to the battlefield tapped and attacking with a finality counter on it. => Flying
+Sacrifice a red permanent or a Mountain: Marceline gains indestructible until end of turn. Tap her.
+Boast—{1}{B}: Return target creature card with mana value 3 or less from your graveyard to the battlefield with a finality counter on it.
+
+Sunflower
+
+Optic Blast
+
+Thiala, Hero of Bahumia
+
+Pendeghast the Betrayer
+
+Boldly Go
+flavor_text: [i]These are the voyages of the Starship Enterprise.[/i] => [i]“These are the voyages of the Starship Enterprise.”
+—James T. Kirk, Captain's Log[/i]
+
+
+VERSION 28 CHANGELOG
 ====================
 
 Boldly Go added.

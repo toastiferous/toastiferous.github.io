@@ -5,7 +5,7 @@
 			<name>TOAST</name>
 			<longname>Toast Crossover Cube</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-11-16</releasedate>
+			<releasedate>2026-11-17</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1933,8 +1933,8 @@ Sacrifice an artifact: Choose one. Activate only once each turn.
 		<card>
 			<name>Marceline, the Vampire Queen</name>
 			<text>Flying
-Sacrifice a red permanent or a Mountain: Marceline gains indestructible until end of turn. Tap it.
-Whenever Marceline attacks, you may pay {2}. If you do, return target creature card with mana value 3 or less from your graveyard to the battlefield tapped and attacking with a finality counter on it.</text>
+Sacrifice a red permanent or a Mountain: Marceline gains indestructible until end of turn. Tap her.
+Boast—{1}{B}: Return target creature card with mana value 3 or less from your graveyard to the battlefield with a finality counter on it.</text>
 			<set rarity="rare" picurl="https://toastiferous.github.io/sets/TOAST-files/img/105.png" num="120">TOAST</set>
 			<prop>
 				<layout>normal</layout>
